@@ -1,0 +1,6 @@
+@KolybaResume_HostAddress = http://localhost:5106
+
+GET {{KolybaResume_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
