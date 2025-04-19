@@ -4,20 +4,18 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 from langdetect import detect
-import deepl
+from deepl import DeepLClient
 import logging
 
 logger = logging.getLogger(__name__)
 
 
 class DjinniScraper(BaseScraper):
-    def __init__(self, role_query: str, file_path: str, deepl_api_key: str, max_pages: int | None = None,
+    def __init__(self, category: str, file_path: str, deepl_client: DeepLClient, max_pages: int | None = None,
                  delay: float = 2.0):
-        super().__init__(role_query, file_path, max_pages, delay)
-        self.deepl_client = deepl.DeepLClient(deepl_api_key)
+        super().__init__(category, file_path, deepl_client, max_pages, delay)
         self.base_url = "https://djinni.co"
-        self.search_url = f"{self.base_url}/developers/?keywords={role_query}&options=skip_skills"
-        self.headers = {"User-Agent": "Mozilla/5.0"}
+        self.search_url = f"{self.base_url}/developers/?keywords={category}&options=skip_skills"
 
     def _get_resumes_from_page(self, url):
         response = requests.get(url, headers=self.headers)
@@ -62,7 +60,7 @@ class DjinniScraper(BaseScraper):
 
             header = page == 1
             mode = 'w' if page == 1 else 'a'
-            current_df = pd.DataFrame({'Role': self.role_query, 'Resume': page_resumes})
+            current_df = pd.DataFrame({'Category': self.category, 'Resume': page_resumes})
             current_df.to_csv(self.file_path, index=False, mode=mode, header=header)
 
             page += 1

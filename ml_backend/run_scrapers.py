@@ -1,10 +1,13 @@
-from scrapers.djinni_scraper import DjinniScraper
+from deepl import DeepLClient
+from scrapers import DjinniScraper
+from scrapers import PostJobScraper
 from dotenv import load_dotenv
 import os
 import logging
 
 load_dotenv()
 DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
+deepl_client = DeepLClient(DEEPL_API_KEY)
 
 logger = logging.getLogger(__name__)
 
@@ -12,11 +15,18 @@ logger = logging.getLogger(__name__)
 def main():
     logger.info("Starting all scrapers...")
 
-    scraper = DjinniScraper(
-        role_query="backend",
-        file_path="ml_backend/data/raw/backend.csv",
-        deepl_api_key=DEEPL_API_KEY,
-        max_pages=2
+    # scraper = DjinniScraper(
+    #     role_query="backend",
+    #     file_path="ml_backend/data/raw/djinni_backend.csv",
+    #     deepl_client=deepl_client,
+    #     max_pages=2
+    # )
+
+    scraper = PostJobScraper(
+        category="backend",
+        file_path="ml_backend/data/raw/post_backend.csv",
+        deepl_client=deepl_client,
+        max_pages=10
     )
 
     scraper.scrape()
