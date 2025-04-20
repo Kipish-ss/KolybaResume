@@ -1,19 +1,22 @@
 import requests
-from .scraper import BaseScraper
+from .scraper import Scraper
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
 from langdetect import detect
 from deepl import DeepLClient
+from pathlib import Path
 import logging
 
 logger = logging.getLogger(__name__)
 
 
-class DjinniScraper(BaseScraper):
-    def __init__(self, category: str, file_path: str, deepl_client: DeepLClient, max_pages: int | None = None,
+class DjinniScraper(Scraper):
+    def __init__(self, category: str, path: str, deepl_client: DeepLClient, max_pages: int | None = None,
                  delay: float = 2.0):
-        super().__init__(category, file_path, deepl_client, max_pages, delay)
+        super().__init__(category, deepl_client, max_pages, delay)
+        self.file_path = path + f'djinni/{self.category}.csv'
+        Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://djinni.co"
         self.search_url = f"{self.base_url}/developers/?keywords={category}&options=skip_skills"
 
@@ -66,4 +69,4 @@ class DjinniScraper(BaseScraper):
             page += 1
             time.sleep(self.delay)
 
-        logger.info(f"Finished scraping. Total resumes collected: {len(all_resumes)}")
+        logger.info(f"Finished scraping for {self.category}. Total resumes collected: {len(all_resumes)}")
