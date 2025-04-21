@@ -12,11 +12,11 @@ logging.basicConfig(
 
 DATA_PATH = "ml_backend/data/raw/"
 CATEGORIES = [
-    "frontend"
+    # "frontend"
     # "backend",
     # "full stack",
     # "devops",
-    # "qa"
+    "qa"
     # "ux",
     # "designer",
     # "data engineer",

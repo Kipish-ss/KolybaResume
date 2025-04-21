@@ -76,6 +76,7 @@ class PostJobScraper(Scraper):
                 page_resumes = self._get_resumes_from_page(page_url)
 
                 if not page_resumes:
+                    logger.info(f"No resumes found on page {page}. Stopping.")
                     break
 
                 location_resumes.extend(page_resumes)
@@ -92,12 +93,14 @@ class PostJobScraper(Scraper):
 
                 page += 1
                 time.sleep(self.delay)
-
             header = i == 0
             mode = 'w' if i == 0 else 'a'
             current_df = pd.DataFrame({'Category': self.category, 'Resume': location_resumes})
             current_df.to_csv(self.file_path, index=False, mode=mode, header=header)
-            logger.info(f"Scraped location {location}: {len(location_resumes)} resumes found")
+            logger.info(f"Scraped location {location or 'Global'}: {len(location_resumes)} resumes found")
             resume_count += len(location_resumes)
+
+            if upper >= total and total <= 500 and i == 0:
+                break
 
         logger.info(f"Finished scraping for {self.category}. Total resumes collected: {resume_count}")
