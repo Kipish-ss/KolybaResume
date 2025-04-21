@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 from langdetect import detect
+from langdetect.lang_detect_exception import LangDetectException
 from deepl import DeepLClient
 from pathlib import Path
 import logging
@@ -34,7 +35,11 @@ class DjinniScraper(Scraper):
         resumes = []
         for resume_div in resume_divs:
             resume = resume_div.get_text(separator="\n", strip=True)
-            resume_language = detect(resume)
+            try:
+                resume_language = detect(resume)
+            except LangDetectException:
+                logger.error(f"Could not detect language. Skipping.")
+                continue
             if resume_language != "en":
                 resume = self.deepl_client.translate_text(resume, target_lang="EN-US").text
             resumes.append(resume)
