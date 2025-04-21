@@ -1,4 +1,7 @@
+import { StoreModule, provideState } from '@ngrx/store';
+
 import { AuthCardComponent } from './components/auth-card/auth-card.component';
+import { AuthEffects } from './store/effects/auth.effects';
 import { AuthPageComponent } from './components/auth-page/auth-page.component';
 import { AuthRoutingModule } from './auth-routing.module';
 import { CommonModule } from '@angular/common';
@@ -7,8 +10,8 @@ import { MaterialModule } from '../material-module/material.module';
 import { NgModule } from '@angular/core';
 import { SignInFormComponent } from './components/sign-in-form/sign-in-form.component';
 import { SignUpFormComponent } from './components/sign-up-form/sign-up-form.component';
-import { StoreModule } from '@ngrx/store';
 import { authReducer } from './store/reducers/auth.reducer';
+import { provideEffects } from '@ngrx/effects';
 
 @NgModule({
     declarations: [
@@ -22,7 +25,6 @@ import { authReducer } from './store/reducers/auth.reducer';
         CommonModule,
         AuthRoutingModule,
         MaterialModule,
-        StoreModule.forFeature('auth', authReducer)
-    ],
+    ]
 })
 export class AuthModule {}

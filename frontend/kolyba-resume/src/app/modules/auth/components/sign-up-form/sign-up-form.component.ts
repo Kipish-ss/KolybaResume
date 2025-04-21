@@ -1,10 +1,9 @@
-import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 
-import { AuthFormService } from '@auth//services/auth-form.service';
 import { AuthService } from '@auth//services/auth.service';
 import { AuthStoreService } from '@auth//store/services/auth-store.service';
 import { BaseComponent } from '@core/components/base-component/base.component';
+import { Component } from '@angular/core';
 import { EmailValidator } from '@auth//validators/email-validator';
 import { PasswordsErrorStateMatcher } from '@auth//validators/passwordsErrorStateMatcher';
 import { removeExcessiveSpaces } from '@core/helpers/string-helper';
@@ -54,7 +53,7 @@ export class SignUpFormComponent extends BaseComponent {
     }
 
     public onSignUp(): void {
-        if (this.signUpForm.valid) {
+        if (this.signUpForm.errors == null) {
             const email = this.signUpForm.value.email!;
             const password = this.signUpForm.value.password!;
             const name = this.signUpForm.value.name!;

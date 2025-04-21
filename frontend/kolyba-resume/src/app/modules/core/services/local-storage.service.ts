@@ -18,7 +18,12 @@ export class LocalStorageService {
         });
 
         authStoreService.setAccessToken(localStorage.getItem(accessTokenLocalStorage) ?? '');
-        authStoreService.setEmailVerified(JSON.parse(localStorage.getItem(emailVerifiedLocalStorage) ?? ''));
-        authStoreService.setUser(JSON.parse(localStorage.getItem(userLocalStorage) ?? ''));
+        if (localStorage.getItem(emailVerifiedLocalStorage)) {
+            authStoreService.setEmailVerified(JSON.parse(localStorage.getItem(emailVerifiedLocalStorage)!));
+        }
+
+        if (localStorage.getItem(userLocalStorage)) {
+            authStoreService.setUser(JSON.parse(localStorage.getItem(userLocalStorage)!));
+        }
     }
 }

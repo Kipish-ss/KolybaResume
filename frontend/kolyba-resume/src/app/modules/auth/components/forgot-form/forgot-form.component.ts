@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 
-import { AuthFormService } from '@auth//services/auth-form.service';
 import { AuthService } from '@auth//services/auth.service';
+import { AuthStoreService } from '@auth//store/services/auth-store.service';
 import { BaseComponent } from '@core/components/base-component/base.component';
 import { EmailValidator } from '@auth//validators/email-validator';
 import { Router } from '@angular/router';
@@ -18,7 +18,7 @@ export class ForgotFormComponent extends BaseComponent implements OnInit {
 
     public forgotPasswordForm!: FormGroup;
 
-    constructor(private router: Router, private authService: AuthService, private authFormService: AuthFormService) {
+    constructor(private router: Router, private authService: AuthService, private readonly authStoreService: AuthStoreService) {
         super();
     }
 
@@ -37,11 +37,7 @@ export class ForgotFormComponent extends BaseComponent implements OnInit {
     public resetPassword(form: FormGroup): void {
         const { email } = form.value;
 
-        this.authFormService
-            .resetPassword(email)
-            .subscribe(
-                { next: () => this.goToSignInPage() },
-            );
+        this.authStoreService.resetPassword(email)
     }
 
     public goToSignInPage(): void {

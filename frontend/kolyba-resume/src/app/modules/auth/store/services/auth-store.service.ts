@@ -33,4 +33,12 @@ export class AuthStoreService {
     public setEmailVerified(emailVerified: boolean): void {
         this.store.dispatch(authActions.setEmailVerified({ emailVerified }));
     }
+
+    public resetPassword(email: string): void {
+        this.store.dispatch(authActions.resetPassword({ email }));
+    }
+
+    public signOut(): void {
+        this.store.dispatch(authActions.signOut());
+    }
 }

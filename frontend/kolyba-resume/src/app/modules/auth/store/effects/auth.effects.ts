@@ -2,7 +2,7 @@ import * as authActions from '../actions/auth.actions';
 
 import { Actions, createEffect, ofType } from '@ngrx/effects';
 import { Auth, createUserWithEmailAndPassword, sendEmailVerification, sendPasswordResetEmail, signInWithEmailAndPassword, signOut } from '@angular/fire/auth';
-import { accessTokenLocalStorage, userLocalStorage } from '@core/constants/local-storage.constants';
+import { accessTokenLocalStorage, emailVerifiedLocalStorage, userLocalStorage } from '@core/constants/local-storage.constants';
 import { catchError, from, map, mergeMap, of, switchMap, tap } from 'rxjs';
 
 import { Injectable } from '@angular/core';
@@ -68,6 +68,7 @@ export class AuthEffects {
                     authActions.sendVerificationEmail(),
                     authActions.createUser({
                         user: {
+                            uid: userCredential.user?.uid,
                             userName: userCredential.user?.displayName ?? userName,
                             email: userCredential.user?.email ?? '',
                             image: userCredential.user?.photoURL ?? undefined,
@@ -140,9 +141,9 @@ export class AuthEffects {
             mergeMap(() =>
                 from(signOut(this.auth)).pipe(
                     tap(() => {
-                        localStorage.removeItem('user');
-                        localStorage.removeItem('email-verified');
-                        localStorage.removeItem('access-token');
+                        localStorage.removeItem(userLocalStorage);
+                        localStorage.removeItem(emailVerifiedLocalStorage);
+                        localStorage.removeItem(accessTokenLocalStorage);
                     }),
                     map(() => authActions.signOutSuccess()),
                     catchError((error) => of(authActions.signOutFailure({ error }))),
