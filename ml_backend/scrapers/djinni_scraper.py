@@ -3,9 +3,7 @@ from .scraper import Scraper
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
-from langdetect import detect
-from langdetect.lang_detect_exception import LangDetectException
-from deepl import DeepLClient
+import hashlib
 from pathlib import Path
 import logging
 
@@ -13,9 +11,9 @@ logger = logging.getLogger(__name__)
 
 
 class DjinniScraper(Scraper):
-    def __init__(self, category: str, path: str, deepl_client: DeepLClient, max_pages: int | None = None,
+    def __init__(self, category: str, path: str, max_pages: int | None = None,
                  delay: float = 2.0):
-        super().__init__(category, deepl_client, max_pages, delay)
+        super().__init__(category, max_pages, delay)
         self.file_path = path + f'djinni/{self.category}.csv'
         Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://djinni.co"
@@ -35,13 +33,12 @@ class DjinniScraper(Scraper):
         resumes = []
         for resume_div in resume_divs:
             resume = resume_div.get_text(separator="\n", strip=True)
-            try:
-                resume_language = detect(resume)
-            except LangDetectException:
-                logger.error(f"Could not detect language. Skipping.")
-                continue
-            if resume_language != "en":
-                resume = self.deepl_client.translate_text(resume, target_lang="EN-US").text
+
+            resume_hash = hashlib.sha256(resume.encode("utf-8")).hexdigest()
+            resumes.append(resume_hash)
+            if resume_hash not in self.unique_resumes:
+                self.unique_resumes.add(resume_hash)
+                resumes.append(resume)
             resumes.append(resume)
 
         return resumes

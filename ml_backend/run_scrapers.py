@@ -1,13 +1,8 @@
-import os
 import time
 import logging
-from dotenv import load_dotenv
-from deepl import DeepLClient
 from scrapers import DjinniScraper, PostJobScraper
 
-load_dotenv()
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
-deepl_client = DeepLClient(DEEPL_API_KEY)
+
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(
@@ -17,17 +12,18 @@ logging.basicConfig(
 
 DATA_PATH = "ml_backend/data/raw/"
 CATEGORIES = [
+    "frontend"
     # "front end",
     # "backend",
     # "full stack",
-    # "devops"
-    "qa"
+    # "devops",
+    # "qa"
     # "ux",
     # "designer",
     # "data engineer",
     # "data analyst",
     # "business analyst",
-    # "data scientist",
+    # "data scientist"
     # "product manager",
     # "project manager",
     # "ios",
@@ -57,7 +53,6 @@ def main():
             scraper = ScraperClass(
                 category=category,
                 path=DATA_PATH,
-                deepl_client=deepl_client,
             )
             scraper.scrape()
             time.sleep(2)

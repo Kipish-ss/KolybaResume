@@ -1,12 +1,9 @@
 import hashlib
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
-from langdetect import detect
 import logging
-from deepl import DeepLClient
 from pathlib import Path
 from .scraper import Scraper
 
@@ -14,14 +11,13 @@ logger = logging.getLogger(__name__)
 
 
 class PostJobScraper(Scraper):
-    def __init__(self, category: str, path: str, deepl_client: DeepLClient, max_pages: int | None = 5,
+    def __init__(self, category: str, path: str, max_pages: int | None = 5,
                  delay: float = 2.0):
-        super().__init__(category, deepl_client, max_pages, delay)
+        super().__init__(category, max_pages, delay)
         self.file_path = path + f'postjob/{self.category}.csv'
         Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://www.postjobfree.com"
         self.search_url = f'{self.base_url}/resumes?t="{category}"&r=100'
-        self.unique_resumes = set()
         self.locations = [
             "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
             "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky",
@@ -55,11 +51,6 @@ class PostJobScraper(Scraper):
 
                     if resume_hash not in self.unique_resumes:
                         self.unique_resumes.add(resume_hash)
-                        # resume_language = detect(resume)
-                        # if resume_language != "en":
-                        #     resume = self.deepl_client.translate_text(
-                        #         resume, target_lang="EN-US"
-                        #     ).text
                         resumes.append(resume)
                 else:
                     logger.warning(f"No full resume found at {resume_url}")
