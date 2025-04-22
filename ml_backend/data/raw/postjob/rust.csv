@@ -1,0 +1,310 @@
+Category,Resume
+rust,"Joni Laitinen
+****.********.*@*****.*** Storgatan 19, 114 55 Stockholm, Sweden
+SUMMARY
+Blockchain Engineer skilled in Rust, Go, and Solidity, with expertise in building blockchain infrastructure, protocols, smart contracts, and dApps.
+Rust Engineer adept in system programming, Wasm, backend systems, web applications, and blockchain technology.
+EXPERIENCE
+SlickDevs 07/2022 - 08/2024
+Senior Blockchain Engineer
+Engineered high-performance Solana programs(Smart Contracts) using Rust and the Anchor framework, optimizing transaction latency by 20% and increasing throughput by 30% for DeFi applications and NFT games.
+Architected and developed custom DEX platforms, integrating features such as AMMs, liquidity pools, and DAO governance, achieving 99.9% uptime and processing over $1 million in transactions daily.
+Built customized blockchain infrastructures and protocols using Rust with Substrate and ink!, improving scalability by 25% and reducing network latency by 20%.
+Integrated blockchain solutions for secure interactions and enhanced decentralized functionalities using Wormhole for cross-chain messaging, achieving a 40% improvement in cross-chain transaction efficiency.
+Led the development of smart contracts using Solidity on Ethereum, focusing on performance optimization and security, including compliance with EIP-4337 standards, resulting in a 30% reduction in gas fees and zero critical vulnerabilities.
+Automated testing scripts in Python for backend systems, enhancing the CI/CD pipeline, reducing deployment times by 35%, and increasing code reliability across blockchain protocols and dApps. Honey Finance 07/2021 - 06/2022
+Blockchain Protocol Engineer
+Developed and implemented NFT lending and borrowing protocols using Rust, integrating with Solana, Polygon, and Arbitrum, achieving a 50% increase in transaction throughput and an 80% reduction in gas fees.
+Engineered high-performance smart contracts for variable interest rate loans and liquidity pools using Rust on Solana and Solidity on Ethereum, focusing on cross-chain interactions to leverage Solana’s high throughput and reduce transaction costs by up to 60%, improving processing efficiency by 40%.
+Enhanced the Honey DAO governance framework by creating tools with TypeScript and Node.js to streamline voting and proposal management, improving governance participation by 35% and facilitating more effective decision-making.
+Jungle Cats 04/2021 - 06/2021
+Smart Contract Engineer
+Designed and implemented smart contracts for the Jungle Cats NFT project on Solana, using Rust and Anchor to handle over 10,000 NFT transactions efficiently.
+Integrated Metaplex for NFT minting and metadata management, enhancing contract functionality and optimizing interactions with the Solana blockchain.
+Utilized Solana CLI and localnet for deployment and testing, achieving a 30% improvement in contract performance and ensuring secure, scalable NFT operations. Bifrost 10/2020 - 03/2021
+Rust/Typescript Engineer
+Developed staking smart contracts in Rust for Polkadot, leveraging Substrate’s modular framework and achieving a 30% increase in cross-chain liquidity through XCMP (Cross-Consensus Messaging).
+Engineered backend infrastructure with Rust and WebAssembly (Wasm) to enable secure cross-chain staking operations, reducing transaction latency by 40%.
+Built RESTful APIs in Rust and Node.js to facilitate real-time communication between the frontend and blockchain nodes, ensuring 99.9% uptime.
+Built the frontend with React.js and TypeScript, improving transaction processing times by 20% through optimized WebSocket handling.
+Integrated Polkadot.js API and Substrate RPC nodes to facilitate staking management and governance voting, overseeing more than $5M in staked assets across multiple blockchain ecosystems. RumbleFish 07/2017 - 09/2020
+Backend Engineer
+Contributed to building Radicle’s decentralized protocol by designing and optimizing peer-to-peer communication using Rust’s libp2p and mio libraries, improving message propagation speed by 30% and ensuring reliable network connectivity.
+Implemented cryptographic identity and authentication mechanisms using libsodium and ring libraries in Rust, enhancing security for code collaboration by 40%.
+Engineered microservice architecture and backend systems in Rust using Actix and Tokio, enhancing system scalability and reducing latency by 40% for high-traffic client applications.
+Developed and optimized RESTful APIs with Go and the Gin framework, implementing advanced authentication and rate limiting, leading to a 30% increase in API performance and security.
+Developed cloud-native backend solutions in Go using Docker, Kubernetes, streamlining CI/CD pipelines and reducing deployment times by 50%.
+Implemented real-time data streaming platforms in TypeScript using Node.js, NestJS, and RxJS, providing low-latency solutions for high-reliability data delivery. SKILLS
+Programming Languages:
+Rust, Go, Solidity, Python, TypeScript, JavaScript Blockchain:
+Solana, Polkadot, Ethereum, Arbitrum, Polygon
+Infrastructure, Protocol, Smart Contract, Layer1, Layer2, DeFi, DEX, Consensus Algorithms, Cryptography, Cybersecurity, NFT, dApps, Crypto Game, Bot
+Libraries & Frameworks:
+Anchor, Substrate, Serum, Hardhat, Truffle, Rollup, Wormhole, Tokio, Serde, Rocket, Diesel, Handlebars, ink!, Libp2p, Rust-Bitcoin, Actix, Actix Web, Seed, Wasmer, Stdweb, Clap, Wrap, Gin, Fiber, gRPC, Protobuf, RabbitMQ, Kafka, Web3.js, Ethers.js, Polkadot.js
+Web:
+Node.js, Express, GraphQL, HTML5, CSS3, React, Next.js, NestJS, WebSocket, Material UI, Bootstrap, Tailwind CSS DevOps:
+AWS, Google Cloud, Github, Docker, Jira, Jenkins, Kubernetes, Microsoft Azure Database:
+MongoDB, MySQL, SQLite, PostgreSQL, Sequelize, Redis EDUCATION
+Oulu University 05/2013 - 04/2017
+Bachelor’s degree in Computer Science
+Operating System, Data Structures and Algorithms, Programming Language
+Networking, Database Management, Web Development
+Cryptography, Cybersecurity, Blockchain Technology
+Software Design Principles, Software Engineering, Project Management
+"
+rust,"Lussi Petelius
+Senior Blockchain & Rust Engineer
+CONTACT S U M M A R Y
+*****.********@*****.*** Blockchain engineer skilled in Go, Rust, and Solidity, with 10+ years of hands-on experience in web3 projects, including blockchain infrastructure, smart contracts, protocols, NFTs, and dApps.
+Rust engineer skilled in secure, low-level programming for cybersecurity, cryptography, and backend systems.
+Skilled in full-stack development with Typescript. Recognized for innovative contributions that have boosted several companies by over 30%.
+760 49 Herräng,
+Stockholm County, Sweden
+WORK E X P E R I E N C E
+nChain
+Senior Blockchain Engineer August 2023 - July 2024
+• Engineered and deployed over 25 secure smart contracts utilizing Solidity, Rust, and FunC, enhanced system resilience and integrity, leading to a 30% improvement in overall security metrics and reduced vulnerabilities.
+• Designed and implemented blockchain protocols in Rust and Go, increasing transaction throughput by 50%.
+• Collaborated with the BSV Association to enhance the BSV blockchain’s infrastructure, supporting millions of transactions per day and improving efficiency by 30%. Ratio Finance
+Senior Smart Contract Engineer October 2022 - July 2023
+• Developed and deployed smart contracts using Rust on the Solana blockchain, ensuring security and efficiency while enhancing the platform's functionality.
+• Implemented advanced risk metrics within CDP protocols, resulting in a measurable decrease in default rates by 15% and improving the overall financial stability of the portfolio in high-risk environments.
+• Optimized the platform's performance and scalability, reducing transaction costs by 25% and increasing user trust and adoption by 40%.
+Jungle Cats
+Smart Contract Engineer August 2021 - September 2022
+• Created and launched secure smart contracts for the Jungle Cats NFT ecosystem on Solana, deploying over 10 contracts to improve functionality and security.
+• Worked with diverse teams to integrate smart contracts with platform features like gamified rewards, achieving a 20% reduction in execution costs.
+• Developed innovative features that increased user engagement and platform adoption by 30%, ensuring thorough testing and audits.
+Colony
+Blockchain Protocol Engineer June 2020 - July 2021
+• Contributed to the development and implementation of Colony blockchain protocols using Rust, enhancing scalability and operational efficiency.
+• Assisted in security enhancement initiatives, utilizing Solidity to reduce system vulnerabilities by 25% and ensure robust protection for blockchain applications.
+• Crafted a suite of 10+ smart contracts in Solidity and Rust, implementing rigorous security audits, resulted in a significant reduction of identified vulnerabilities by 30%, bolstering trust among client stakeholders.
+Bitmark
+Rust Engineer July 2018 - May 2020
+• Spearheaded the development and optimization of cryptographic algorithms using Rust, resulting in a 30% enhancement in security protocols.
+• Architected and maintained blockchain infrastructure using Go, achieving a 25% increase in transaction processing efficiency.
+• Designed and implemented high-performance backend systems with Rust, reducing system latency by 40% and significantly improving overall performance. E D U C A T I O N
+Lund University
+M.S. in Computer Science May 2016 – April 2018
+• Software Design Principles, Software Engineering, Project Management
+• Cryptography, Cybersecurity, Blockchain Technology Karlstad University
+B.S. in Computer Science May 2012 – April 2016
+• Operating System, Data Structures and Algorithms, Programming Language
+• Networking, Database Management, Web Development K E Y S K I L L S
+• Programming Languages
+C/C++, Rust, Go, Solidity, FunC, Python, JavaScript, Typescript
+• Blockchain
+Solana, Ethereum, Ton, Polkadot, Cardano, Blockchain Infrastructure, Layer1, Layer2, Layer3, Smart Contracts, Protocols, NFT, DApps, DeFi, DEX, Consensus Algorithms, Cryptography, Cybersecurity, Anchor, Hardhat, Truffle, OpenZeppelin, Blueprint, Rollup, Substrate, Cosmos SDK, Web3.js, Ethers.js
+• DevOps
+Github, Docker, Jenkins, AWS, Kubernetes, Google Cloud, Microsoft Azure, Jira, Trello
+• Web
+Node.js, Express, PHP, Laravel, GraphQL, HTML5, CSS3, React, Next.js, Material UI, Tailwind CSS
+• Database
+MongoDB, MySQL, SQLite, PostgreSQL, Sequelize
+• Other
+Leadership, Project Management, Mentoring
+"
+rust,"Marcello Delgado
+1-305-***-****
+-- *******************@*****.*** –
+GH: march489 – LinkedIn: marcello-delgado-38b46837 Summary A new-grad software engineer with hands-on experience deploying full-stack features and extensive practice in Rust, C++, and C#. I am results- and data-driven, and I have a proven track record of driving innovation and value in both my previous and current careers. Given my extensive experience and professional development in education, I also bring excellent interpersonal and communication skills, years of experience mentoring students and co-workers, and proven systems for iteration and documentation.
+ㅡ
+Education
+● MS Computer Science – DePaul University (June 2024)
+● MA Education – The University of Chicago
+● BS Mathematics/ BA Biological Sciences - The University of Chicago ㅡ
+Work
+Experience
+Software Development Intern / Amazon.com, Inc. (AFT Pack Team) Jun 2022 – Aug 2022, Seattle, WA
+Applied AWS services, including CloudFormation and DynamoDB, to architect and implement scalable solutions to extend a REST API, in Java and Ruby, and successfully integrated autoscaling mechanisms, enhancing the application's robustness and responsiveness. Due to excellent mentorship, I developed a comprehensive understanding of version control using Git, and we developed an excellent rapport and workflow to deliver a quality project. I verified the integrity of the service with rigorous unit, integration, and end- to-end testing.
+Precalculus Teacher / Lindblom Math and Science Academy (Chicago Public Schools) Aug 2021 – present, Chicago, IL
+In addition to my instructional responsibilities, I implemented an Auto-Grader script using Google Cloud Services (detailed below) to efficiently give students real-time, up-to-date feedback. AP Statistics/Calculus Teacher & Department Chair / Intrinsic Schools (Chicago Public Schools) Aug 2016 – July 2021, Chicago, IL
+In addition to my instructional responsibilities, I conducted daily/weekly assessments to determine appropriate learning interventions. I improved 390 students’ math scores from PSAT- 10 to SAT-11 by 49 points on average every school year, surpassing the math department average of 30 points of growth. I further coached co-teachers and junior teachers in curriculum design, assessment strategies, and differentiation for diverse learners. ㅡ
+Personal
+Projects
+Auto-Grader. Designed and implemented a software solution that automatically grades student spreadsheet projects in JavaScript using the Google App Script API. When run, the script iterates through students’ assignments, grades the assignment, creates a text file detailing which individual tasks the student has left to do, and records the grade for both student and teacher.
+Audio Engine. A multithreaded system designed to play audio through the Windows Xaudio2 API, giving users the ability to easily start and stop playback, switch audio between different channels, and change pitch and volume without blocking.
+Graphics Engine. A graphics engine based in OpenGL, couples with a custom memory system for managing heap allocations directly, a math library optimized for matrix algebra using SIMD intrinsics (MMX & SEE), and object pooling.
+ㅡ
+Quantitative
+& technical
+skills
+● Rust, C++, C#, Go, Clojure, JavaScript, MySQL, Java, Python
+● Proficient with Git and Perforce version control software
+● AWS cloud architecture, in particular: DynamoDB & CloudFormation
+● Native fluency in English & Spanish.
+"
+rust,"Jared Mundt
+CS student at BYU. Looking for a internship in software development
+Reno, NV 89510
+**********@*****.***
+385-***-****
+I enjoy designing software and writing code. I am especially interesting in understanding low level processing and assembly to write super efficient and safe code. I am currently learning Rust for fun. Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+Work Experience
+Ranch Hand
+Andelin Family Farm
+August 2019 to September 2019
+Worked with livestock and farm equipment.
+Math Tutor
+Self-employed - Reno, NV
+September 2015 to June 2017
+Tutored for Math levels Algebra through Trigonometry Quality Control Lab Technician
+NOW FOODS - Sparks, NV
+June 2016 to September 2016
+Tested food samples for toxic metals using spectroscopy. Followed detailed scientific procedures. Ranch Hand
+Marshal Ranch
+June 2015 to September 2015
+Moved water lines and maintained farm irrigation.
+Education
+Currently working on Bachelors in Computer Science Brigham Young University - Provo, UT
+September 2019 to Present
+Associate of Science
+Truckee Meadows Community College - Reno, NV
+September 2015 to December 2017
+HS Diploma
+Spanish Springs High School
+September 2016 to December 2016
+Skills
+• programming in C++
+• programming in C
+• Construction Experience
+• Linux terminal
+• Rust programming language
+• programming in Java
+• SQL and SQLite
+• Spectroscopy
+• Git
+"
+rust,"Allen Junge
+**** ********** ** ** ***********
+, MN
+507-***-****
+● allenrjunge @ gmail.com ● github.com/jungal01 ● linkedin.com/in/allen-junge-b07563141/ Seeking an Opportunity in
+Software Development
+• Recent BACS graduate offering a strong foundation in software development and programming principles across multiple platforms
+• Experienced in Object Oriented Programming; encryption and security; User Interfaces and User Experience; developing, debugging, and documenting code Education
+Luther College – Decorah, IA
+Bachelor of Arts in Computer Science – completed 2019 Projects
+Senior Computer Science Capstone Project
+• Scope: Part of a four person team to create an online IDE that features multiple file support, 14 different programming languages, and AI language detection
+• Tools: Python, Bash, GCC, Clang, Docker, Apache, Tensorflow, Git
+• source code available at github.com/jungal01/WebIDE Password Manager
+• Scope: An open source password manager that features CLI and GUI interfaces, user customizable encryption methods, and random password generation
+• Tools: Python, AES, RSA, Git
+• source code available at github.com/jungal01/LockDown-password-manager Skills
+Programming Languages: Python, JavaScript, Bash, TypeScript, Java, Rust, PostgreSQL Markup Languages: HTML, XML, LaTeX, Markdown
+General Computing: Linux, Git, IDEs, Debugging, Flask, Sci-kit Learn, GUI Programming, Windows Related: Spreadsheets, Computer hardware, Software troubleshooting, Documentation Additional Skills: Customer Service, Supervisory, Ability to interpret and apply data, Change management, Professionalism, Works well under pressure
+Work Experience
+Store Associate Oct. 2019 – Present
+Aldi Inc., Brooklyn Park, MN
+• Stock shelves from pallets in a timely manner and maintain the appearance of the store
+• Efficiently operate the POS system
+• Communicate with coworkers to ensure smooth operation Student Manager Aug. 2015 – May 2019
+Luther College Dining Services, Decorah, IA
+• Organize students to ensure smooth operation while serving 1000+ people per shift
+• Prioritize and assign tasks to all student workers
+• Communicate food requirements between students and chefs
+• Prepare cash register for service
+"
+rust,"RESUME
+M.RAMESH, mobile no:
+887*******
+,
+733-***-****
+.
+*/*** ******* ***** ******
+, Email: *************@*****.***
+PARINDHAL (POST).
+ULUNDURPET (T.K),
+VILLUPURAM (D.T),
+PIN 606 305.
+CARRIER OBJECTIVE:
+To secure a challenging position where I can effectively contribute my skills to enhance the reputation & advancement of the organization.
+QUALIFICATION PROFILE:
+Qualification
+Institution/ Board
+Year
+Percentage
+S.S.L.C
+Govt.Hr sec school Elavanasur.
+2011
+65%
+Hr.Sc
+Govt. Hr sec school Elavanasur.
+2013
+51%
+DIPLOMA MECHNICAL ENGG
+Govt.polytechnic College
+Sankarapuram
+2016
+75%
+PROJECT TITLE:
+Abrasive jet machine for remove rust.
+PROJECT DESCRIPTION:
+Power hacksaws are used to cut large sizes of metals such as steel. Cutting diameters of more than 10/15 mm is very work with a normal hand held hacksaw.
+The objective of this project is to automate the conventional power hacksaw machine in order to achieve high productivity of workpieces.
+PAPER PRESENTED:
+Paper presented on the topic COMPOSITE MATERIALS & BIO-DIESEL PRODUCTION IN JATROPHA SEED IN VSVN Polytechnic college at virudhunagar and also at kongu polytechnic college at perundurai.
+SOFTWARE SKILLS:
+MS-office
+Auto cadd
+AREA OF INTEREST:
+MANUFACTURING TECHNOLOGY
+CNC OPERATING.
+EXTRA CURRICULAR ACTIVITIE:
+District level basket ball and shot put winner.
+HOBBIES:
+Reading books
+Listening to music
+Singing
+Social sevices
+PERSONAL DETAILS:
+NAME : RAMESH.M
+Date of Birth : 12/05/1996
+Age : 20
+Gender : Male
+Father’s name : Maheshwaran.P
+Mother’s name : Rani.M
+Nationality : Indian
+Languages known : Tamil,English,.
+Address : Perumal kovil st, Parindhal.
+:Ulundurpet (Tk).
+:Villupuram(Dt).
+DECLARATION:
+I hereby declare that the information furnished above is true to the best of my knowledge.
+Yours truly,
+Place :
+Date : (M.RAMESH)
+"
+rust,"POSITION OBJECTIVE: FACILITIES AND MAINTENANCE MANAGER
+Seeking a position in building maintenance utilizing a wide-range of related experience. Background spans 22 years of working in the capacity of residential and commercial property's. Project oriented with a comprehensive knowledge and hands-on experience in installation, maintenance and renovation task's. Work effectively with all concerned to ensure quality control, cost containment, compliance and on-time completion of all work.
+PROFESSIONAL EXPERIENCE
+Title, Maintenance II Spokane Housing Authority
+Title, Production Supervisor Kaiser Aluminum
+Title, Building Maintenance Spokane School Dist # 81
+Title, Operations U.S. Army.
+PERTINENT SKILL SET HIGHLIGHTS
+▪ Responsible for daily operation of 215 plus residential units, grounds and preventive maintenance program.
+▪ Responsible for the daily operation of a 150,000 sq.ft. aquatic and recreational facility.
+▪ Evaluate progress and and quality of work performed by staff and contractors, assure customer service.
+▪ Liaises with Police, Fire, and other essential departments to insure asset and customer safety.
+Plumbing
+▪ Repair and install kitchen and bathroom plumbing fixtures encompassing sinks, faucets, supply and drain lines. ▪ Repair and/or replace gas and electric water tanks. Repair or replace dishwashers, washer/dryer, venting Etc.
+▪ Troubleshoot and repair trunk lines and exterior waste runs.
+Electrical
+▪ Repair and replace light fixtures, dimmer switches, outlets, ceiling fans and air conditioners.
+▪ Operational knowledge of 110 and 220 outlets, fixtures and supply.
+▪ Troubleshoot HVAC systems and evaluate indoor air quality status.
+Carpentry
+▪ Repair and install interior and exterior doors, and associated hardware.
+▪ Install moldings, cabinets, shelving, framing, drywall, decking and windows.
+OTHER PROFESSIONAL SKILLS, TRAINING, AND EXPERIENCE
+▪ Strong leadership skills, have directed teams of 25 plus.
+▪ Conflict and situational defusement/resolution trained.
+▪ Safety and Security Certified.
+▪ Blood borne and multiple pathogen Certified
+▪ Advanced First Aid and C.P.R. Certified.
+Reference's and additional skills upon request.
+"
