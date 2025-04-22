@@ -12,33 +12,33 @@ logging.basicConfig(
 
 DATA_PATH = "ml_backend/data/raw/"
 CATEGORIES = [
-    # "frontend"
-    # "backend",
-    # "full stack",
-    # "devops",
-    "qa"
-    # "ux",
-    # "designer",
-    # "data engineer",
-    # "data analyst",
-    # "business analyst",
-    # "data scientist"
-    # "product manager",
-    # "project manager",
-    # "ios",
-    # "android"
-    # "marketing",
-    # "hr",
-    # "recruiter",
-    # "seo",
-    # "customer support",
-    # "c++",
-    # "rust",
-    # "sales manager",
-    # "java",
-    # ".net",
-    # "python"
-    # "software engineer"
+    "frontend",
+    "backend",
+    "full stack",
+    "devops",
+    "qa engineer",
+    "ux",
+    "designer",
+    "data engineer",
+    "data analyst",
+    "business analyst",
+    "data scientist"
+    "product manager",
+    "project manager",
+    "ios",
+    "android"
+    "marketing",
+    "hr",
+    "recruiter",
+    "seo",
+    "customer support",
+    "c++",
+    "rust",
+    "sales manager",
+    "java",
+    ".net",
+    "python"
+    "software engineer"
 ]
 
 SCRAPERS = [PostJobScraper]

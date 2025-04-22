@@ -1,0 +1,1303 @@
+Category,Resume
+data engineer,"I am an experienced Data Engineer with a passion for building and optimizing ETL pipelines to ensure fast and efficient data processing. I have a broad skill set encompassing both Data Analyst and Data Engineer roles, enabling me to comprehensively understand various aspects of data work. My proactive and independent approach allows me to tackle complex tasks and solve challenging problems effectively. I continuously learn and implement new technologies, recently focusing on AWS, with hands-on experience in building ETL pipelines using S3, Athena, and AWS Glue."
+data engineer,"Passionate Data Engineer with multiple years of experience in data acquisition, web scraping, and large-scale data processing. Adept at designing automated pipelines, integrating APIs, and optimizing workflows for accuracy and efficiency. Skilled at collaborating with cross-functional teams to deliver actionable insights and data-driven solutions. With a background and strong focus on applying data analytics to economics and research challenges.
+EREI(Equity Real Estate Investment)
+I was incharge of creating web scraping pipelines to collect large-scale data from real estate websites all over Europe.
+OSINT Data Collection and Automation Tool:
+I worked on a Social Media web scraper using Node.js, express, and advanced fortified Puppeteer for browser automation, I also utilized residential proxy pools to bypass antibot mechanisms facilitating seamless data collection without getting blocked in addition to this I have also conducted analytical and keyword analyses on the acquired data to generate actionable information.
+Content Writer:
+I have authored numerous content for various companies as a testament to my expertise in web scraping
+technologies. I have delivered high quality blogposts and articles to companies like Zenrows, Scrapeops and AnyIP
+My primary aspiration in a work setting is to continually expand my expertise and deepen my understanding of data collection, analysis, and presentation. I'm passionate about taking on roles that provide opportunities for learning and growth, allowing me to hone my skills further.
+I thrive in environments that foster ongoing learning and encourage the exploration of innovative approaches to solve complex data-related challenges."
+data engineer,"Data Science professional with 6+ years of experience focused on Machine Learning. Have worked in both startup and enterprise environments in distributed across the globe teams of different sizes. Completed master's in Applied Computer Science at Vrije Universiteit Brussel with great distinction, ranked 1st in class. Ph.D. candidate.
+I am a proactive individual who adapts quickly to new environments, both technically and socially. Have experience in leading projects, data teams, and mentorship. In a nutshell, I have been passionate about Computer Science since I was 12, and, now, in the industry, this passion remains with me.
+- Successfully driving the Machine Learning vision for a $100M+ company;
+- Built from scratch and deployed a RAG chatbot optimized to serve over 10M+ users;
+- Developed from scratch and deployed a tailored LLM solution serving over 3 million users;
+- Created a state-of-the-art Revenue forecasting system serving 20000+ restaurants across the world;
+- One of the patent authors of a system to detect and analyze the propagation of fake news online. Currently used by the Belgian government;
+- Outperformed the previous state-of-the-art system for joint document segmentation and segment labeling surpassing the work of the Adobe research team;
+- Fluent in English, German, Lithuanian, Ukrainian, and Russian.
+I am searching for a company where I would have the possibility to express and exchange ideas."
+data engineer,"Data Engineer - Proxima Research International (June 2023 - Present):
+-- develop new, maintain & improve existing ETL pipelines from different sources (migration to prefect)(Python, Prefect, PostgreSQL, AWS S3, 3rd party API,  FTP/SFTP, SSIS);
+Data Engineer (Part time) - Metro Cash & Carry Ukraine (Aug 2023 - Oct 2023):
+-- update existing and development new data flows (migration from Teradata to GCP BigQuery) ( Python, Teradata, GCP BigQuery,VBA Excel, VBScript );
+Data Engineer (ETL) - DataMola Ukraine/Poland (March 2022 - Apr 2023):
+-- develop new, maintain & improve existing ETL pipelines from different sources (Python, Prefect, IBM DB2, AWS S3, 3rd party API, SharePoint, SFTP, SSIS);
+-- participate in build unify data flows (data pipelines) for all company projects (Prefect Dataflow Automation, Python, AWS S3, 3rd party API, SharePoint, SFTP, SSIS);
+Senior Pricing Process Optimization Specialist/Reporting and Process Automatization Specialist - Metro Cash & Carry Ukraine (June 2019 -  Aug 2022):
+-- create, maintain and improve data pipelines (ELT)/data processing for reporting and working tools in department (MS Office, Teradata, Python, VBA Excel, VBScript, Corporate Storage and Systems);
+-- develop promo planning tool (work templates (MS Office), data processing (VBA Excel,VBScript, Python, Teradata, Corporate Systems);
+-- pricing process automatization (develop tools for price analysis & price setting (MS Office, Teradata, VBA Excel, VBScript, Corporate Systems).
+I am looking for a job where I can deepen my technical and professional skills in field of Data Engineering."
+data engineer,"- Creating dashboards and reports enhances data visualization and decision-making
+processes for stakeholders.
+- Developing database objects entails creating tables, views, and procedures to
+manage data effectively.
+- Building APIs facilitates seamless communication and interaction between different
+software systems and applications.
+- Data modeling involves designing and structuring data to ensure its effectiveness
+and efficiency.
+- Configuration of test environments to ensure seamless and efficient test data migration
+processes.
+- Generation of detailed reports and thorough analyses to facilitate insightful decision-making
+processes.
+- Developing comprehensive ETL monitoring tool within the test environment for enhanced
+oversight.
+- Troubleshooting ETL processes effectively in diverse and dynamic test environments.
+- Provision of prompt and efficient second-line support services to address complex issues.
+- Continuous monitoring of ETL processes for sustained performance improvement."
+data engineer,"Web3 Full-stack pet projects using  React(Next)/HardHat/Solidity.
+Intern in CGS as a React/Express/MongoDB Full-stack developer (1 month)
+Trading strategies developer PineScript/Python (6 month)
+Full-stack/data engineer Flask/PostgreSQL in quantitative hedge fund AlgoZeus (1 year 6 month)
+Full-stack developer at web3 outsource TheBuidl (present)"
+data engineer,"Level Designer / Quality Assurance Tester
+Qublix Games · Full-time
+Aug 2021 - Apr 2024
+Ukraine · RemoteUkraine · Remote
+Data Research Analyst
+Blumbit · Full-time
+Dec 2019 - Apr 2022
+Ukraine · RemoteUkraine · Remote
+Data Research a"
+data engineer,"Data Engineer Jun 2023 - Present
+U.S-based product software development company working on the innovative solution for
+logistics market.
+Bug fixing
+Developing of new dashboards
+Supporting of existing dashboards
+Creating datasets
+Writing sql queries for datasets
+Tools & Technologies: Quicksight, Redshift, Postgresql, S3, GitHub, Jira.
+Junior Data Engineer - January 2022 - January 2023
+Web and mobile appication for managing security system
+Project Description: Project is a Web and mobile application for managing, tracking, and supporting of security systems, maintaining user roles, and permissions for large businesses. App is being assed by external AKQA team, and based on that we have a brand new development stage using GCP.
+Client is a US nationwide company that offers home security monitoring, equipment and installation services. It is recognized as the nation’s premier full service security provider, offering security services to residential, business, national account, and integrated system customers including professional installation, a high level of ongoing customer service and company owned monitoring centers to ensure a rapid response.
+Customer: US company
+Involvement Duration: 9 months
+Project Role: Junior Data Engineer
+Responsibilities:
+Bug fixing
+Migration data from SQL Server to BigQuery
+SSRS report deployment
+Perfomance/data usage refactoring
+Project Team Size: 14 team member
+Tools & Technologies: MSSQL Server, Visual Studio, GCP, SSRS, Scrum , Sourcetree.
+SoftServe IT Academy – Data Engineer Internship(LV-663 DB) – December 2021-January 2022
+Internet shop database
+Project Description:    SQL Server Database for project. Development with more emphasis on database
+design. Development of features including transactions, stored procedure, functions, triggers
+for consistent product quantity, dynamic product rating based on reviews etc.
+Customer:    SoftServe IT Academy
+Involvement Duration:    2 months
+Project Role:    Data Engineer
+Responsibilities:    Requirements analysis and clarification;
+Database design;
+Database development and deployment script
+Project Team Size:    5 team members
+Tools & Technologies:    SQL Server, SQL Server Management Studio
+SoftServe IT Academy – Service Engineer (LV-637 SE) September-December 2021"
+data engineer,"- skilled in data engineering and technical leadership
+- participated in Software Requirements and Product Architecture creation
+- participated in project stuffing
+- played a tech lead role
+- played a team lead role
+- experience with major cloud providers: Google Cloud Platform, AWS, Azure
+- have experience working with SQL and NoSQL databases
+- have experience with CI tools and CI/CD process
+- worked at both product and service companies
+- worked with Agile methodologies
+- worked with different teams from small local (4-5 people) to big distributed ones (80+ people)
+- Professional Cloud Architect, certified by Google Cloud
+- Professional Data Engineer, certified by Google Cloud
+Open to positions that involve:
+- one-time consultancy, advisory, pre-sales activity
+- technical leadership & development"
+data engineer,"I am a data engineer at an international humanitarian organisation. I develop data collection tools, automate tasks for data collection monitoring, scripts for cleaning & analysing the data. I create various ad-hoc automations and occasionally work as a cross-cutting specialist helping to bring other projects to fruition"
+data engineer,"- Development of analytical systems;
+- Integration of systems and data exchange: CRM, advertising systems, databases, web and app analytics systems, data visualization for reports;
+- Google Cloud Platform(IAM & Admin,
+Cloud Storage, BigQuery, Pub/Sub, Dataflow, Looker, Cloud Run, App Engine, Logging, Firebase, Artifact Registry, Cloud Scheduler);
+- Developing Machine Learning Models to Predict Conversions, ROI;
+- Working with API;
+- Mobile App Analytics;
+- Web Analytics;
+- Building Attribution;
+- Development of system description and documentation;
+- Docker;
+- Python;
+- C#;
+- ETL\ELT processes;
+- dbt (Data Build Tool);
+Databases:
+Working with BigQuery and PostgreSQL: Storing and processing large amounts of data, creating complex queries and reports for deeper data analysis.
+Creation of a comprehensive analytical platform (financial sector, medical) based on Google Cloud platforms. Integration with external data sources, data transformation, logging system, backup, paplines, reports.
+I want to work for a company that has its own product.
+I am ready to pass the interview, but I refuse to take the tests."
+data engineer,"Results-driven Data Engineer with 4+ years of experience in designing and optimizing scalable data pipelines, managing large-scale data systems, and leveraging cloud technologies (AWS, Azure). Skilled in Python, SQL, Apache Airflow, and big data tools (Spark, Hadoop). Adept at implementing ETL processes, automation, and real-time analytics, driving efficiency and data accessibility. Strong background in database development, data warehousing, and cloud-based data solutions. Passionate about mentoring and training aspiring data engineers.
+Proficient in Python, SQL, and popular ETL tools, with hands-on experience in building automated data workflows.
+I’m seeking a long-term remote position where I can collaborate with a dynamic team while enjoying flexibility in my schedule."
+data engineer,"- Experience working in a development environment focused on managing purpose-built, highly available, distributed, and scalable cloud services.
+- Strong problem-solving skills, with attention to detail and a commitment to quality.
+- Deep understanding of the mathematical foundations of Machine Learning, including algorithms, with the ability to discuss them in detail.
+- Solid knowledge of probability theory, random processes, statistics, and optimization techniques.
+- Proficient in linear algebra.
+- Previous experience in Information Retrieval (IR), Natural Language Processing (NLP), Computer Vision (CV), text mining, Machine Learning, or Big Data mining is highly desirable.
+- Proven track record of delivering enterprise-grade, scalable, secure, and reliable software systems.
+- Extensive experience developing highly scalable machine learning/deep learning applications and services.
+- Over 9 years of experience in the analysis, design, and development of client/server, web-based, and multi-tier applications, with expertise in developing Windows and web applications, services, and APIs.
+- Ability to work on data mining and data science projects while collaborating with engineering teams, quality engineers, and product management.
+Optimized Data Pipelines: Spearheaded the design and optimization of scalable ETL pipelines, reducing data processing time by 40%, enabling faster access to business-critical insights.
+Implemented Data Lake Architecture: Led the implementation of a distributed data lake architecture, improving data availability and reducing storage costs by 30%, while enhancing data governance and accessibility.
+Automated Data Quality Monitoring: Developed and deployed an automated data quality monitoring system that identified and resolved data inconsistencies, resulting in a 25% reduction in data errors and improving overall data reliability.
+Streamlined Data Ingestion: Architected real-time data ingestion pipelines using Apache Kafka and Spark, enabling near real-time analytics and reducing batch processing windows from 24 hours to 2 hours.
+Enabled Data-Driven Decision Making: Collaborated with business intelligence teams to integrate multiple data sources into a single platform, providing stakeholders with actionable insights and driving a 15% increase in operational efficiency.
+Cloud Data Migration: Successfully led the migration of legacy data infrastructure to AWS, cutting operational costs by 20% while improving scalability and security.
+Advanced Analytics Infrastructure: Designed and implemented a robust analytics infrastructure, enabling machine learning model deployment on large-scale datasets and reducing model training times by 50%.
+Improved Data Security and Compliance: Implemented data encryption, role-based access controls, and other security measures, ensuring full compliance with GDPR and other regulatory requirements.
+Data Warehousing Optimization: Reengineered the company's data warehouse architecture, improving query performance by 60% and supporting faster decision-making across the organization.
+Cost Reduction through Data Efficiency: Identified inefficiencies in data storage and processing strategies, leading to a 15% cost reduction in cloud storage and compute resources."
+data engineer,"Constantly improving Software Engineer with extensive knowledge of SQL and hands-on experience in development / optimization of DWHs, DB objects, ETL jobs, data modeling and analysis for reporting.
+Worked for one of the Big Four accounting organizations, using SAP HANA, SAP Data Services (BODS), SAP Analisys for MS Office, SAP Web Intelligence (Business Objects), Tableau, Azure DevOps.
+Professional geographer (Ph.D Graduate Student) with significant background in GIS and Geospatial data analysis.
+Former mountain guide used to work with Ukrainian- and English-speaking groups in more than 12 countries on 4 continents, which helped me to develop my soft skills.
+Independently implemented the sub-project from scratch, including the development of DWH, ETL procedure and job, client face view, report, security etc."
+data engineer,"ONLY PART-TIME or CONSULTATION < 4h week.
+I’ve spent the past few years deeply involved with Generative AI and LLMs, developing systems that merge cutting-edge research with practical, enterprise-ready solutions. My experience covers a wide range of projects:
+‎ ‎ ‎ ‎ ‎ •       RAG Pipelines: Implemented Retrieval-Augmented Generation using vector databases and GPT-based models to build high-precision knowledge retrieval and Q&A systems.
+‎ ‎ ‎ ‎ ‎ •	Agent Orchestration: Developed multi-agent workflows for complex tasks like context-aware customer support and automated data extraction, drastically reducing manual intervention.
+‎ ‎ ‎ ‎ ‎ •‎ ‎ MLOps Integration: Deployed these AI solutions via containerized environments (Docker, Kubernetes), coupled with CI/CD for model versioning and robust monitoring in production.
+Currently, I serve as an AI Lead, guiding both junior and senior team members in designing and deploying ML-driven products. My day-to-day involves everything from brainstorming proof-of-concepts to ensuring production stability. Looking ahead, I plan to dive deeper into multi-modal LLMs, combining text, vision, and possibly even audio into unified frameworks that can tackle a broader range of enterprise use cases. I’m particularly excited about evolving my experience of creating complex AI agents practices to streamline experimentation and scaling of business processes, making advanced AI accessible and reliable across different verticals.
+‎ ‎ »‎ ‎ ‎ Developed AI-powered search with video and image understanding (2024)
+‎ ‎ »‎ ‎ ‎ Created one of the first Code Generation models in the world before OpenAI's first model launch (2021) (demo video upon request)
+‎ ‎ »‎ ‎ ‎ Created the first AI chatbot assistant with memory and usage of external APIs before ChatGPT (2022) (demo video upon request)
+‎ ‎ »‎ ‎ ‎ Created top performance face recognition project with full functionality (real-time processing, gallery search,  gender/age, emotions, alerts, gallery continuous enhancement) that is used by several cities in Ukraine by the government.
+‎ ‎ »‎ ‎ ‎ Created one of the first in-the-world neural networks for image quality estimation with custom architecture, dataset synthesis, and training methods before the first such benchmark from NIST was presented (2017).  No scientific papers have been done in this area before.
+Ambitious 2025 roadmap with AI integration scaling into business processes or evolving cutting-edge feature development."
+data engineer,"I am leading a project focused on enhancing the quality of analytical data. This involves creating comprehensive policies, procedures, and methodologies to enable high-quality data ETL processes. Additionally, I developed a robust Data Quality Engine to enforce data quality standards, utilizing tools and technologies such as Python, Airflow, SQL, and Apache Superset.
+I am eager to leverage my knowledge and experience to help enterprises effectively manage and control the quality of their data.
+Enabled Data Quality transparency. Decreased time-to-detect and time-to-acknowledge of data incidents. Reduced the risk of wrong decisions based on bad data.
+• Developed and managed a comprehensive Data Quality Program to ensure integrity across over 800 analytical data assets over 500 TiB in size. Managed to control Data Quality Dimensions of over 16 trillion rows.
+• Designed and implemented a custom data quality framework using soda.io and other tools (profiling and custom solutions using Python), providing a clear and actionable overview of data health.
+• Optimized data pipelines and storage models, resulting in significant cost reductions in cloud computing and storage.
+• Created and deployed dashboards using Apache Superset to monitor data health and manage incidents effectively.
+• Developed a monitoring tool for data ingestion, ensuring robust data health in a Data Lake by controlling duplicates and data gaps.
+• Maintained high-quality standards throughout the Information Life Cycle, ensuring reliable and accurate solutions.
+Expect stakeholders to communicate in a precise way, understanding that the quality of Data is everyone's responsibility. Competitive compensation."
+data engineer,"Skilled data specialist highly adaptable to new areas of domain knowledge and having a natural curiosity for what patterns and pain points connect the business world.
+My skills include expertise in:
+• SQL: MySQL, PostgreSQL, BigQuery, Presto/Trino
+• Python: raw python, pandas, numpy, pyplot, scipy, sklearn, seaborn, some backend skills: unit tests, FastAPI, GenAI: langchain, llamaindex
+• Git and CI/CD
+• R: tidyverse, data.table, ggplot2, purrr
+• Visualizations using Tableau, QuickSight, Looker Studio
+• GA4, GTM, Docker, kubernetes, kubeflow, airflow
+• Jira, and Confluence for effective teamwork
+• Microsoft Excel and Google Sheets
+Won't collaborate with any company providing services or products in the territory of russia. As well as in the company still having russians either leading any company’s business area or participating in teams. Save your time and respect mine please."
+data engineer,"Data Scientist
+airSlate
+05/2022 - Present, Kyiv, Ukraine
+- Strategic initiatives end-to-end leading: business
+understanding, communication with stakeholders, solution
+design, decomposition, implementation, monitoring, delegation, mentorship
+- Classical ML models: classification and regression models
+training and deployment using best practices
+- Launching necessary model from idea to production within a
+week to save a lot of money during A/B experiment
+- NLP for classical ML: vectorization of text information for
+users with state-of-the-art language models
+- Building custom ML algorithms for specific tasks:
+Consolidated unit-economics metrics time-series prediction
+and anomaly explanation projects
+- Working with AWS infrastructure: Redshift, Airflow, S3, Glue, Quicksight, Sagemaker
+- Knowledge sharing sessions, team processes improvement
+suggestions
+ML Teacher
+Kyiv School of Economics
+10/2024 - Present, Kyiv, Ukraine Machine Learning and Deep Learning course
+- Creation of whole course, including lectures slides, code for
+workshops and labs, materials for exams and paper review
+- Practical code-sessions for another ML-related course
+Research Scientist
+Sumy State University
+09/2019 - 09/2022, Sumy, Ukraine / Remote
+- Search and summarization of papers related to our field
+- Article writing and publication
+- Adressing the conferences
+- Teaching courses related to AI and Deep Learning"
+data engineer,"Experienced AI developer with expertise in computer vision, machine learning, and generative AI. Developed high-accuracy AI models for military use and efficient data processing systems that significantly improved operational speeds. Founded DiploDoc, creating AI-driven tools that automated document generation, leading to substantial revenue. Proven success in competitive hackathons, applying AI to solve real-world problems effectively.
+Deep Knowledge Group (Data Scientist)
+Developed a data validation and deduplication pipeline that tripled the speed and accuracy of data quality in our dataset.
+Created a multiclass classification pipeline using LLM, increasing data processing and classification speed by five times. Utilized LLMs to enhance data quality.
+Developed custom models for binary classification, enhancing the accuracy of current classifications by tenfold.
+Designed an internal tool for automating deck creation for the marketing department, improving efficiency by five times.
+Contributed to database migration to PostgreSQL, optimizing data accessibility and security.
+Quickly progressed to taking on team lead responsibilities, demonstrating rapid adaptation and leadership in project execution.
+DeepX (CV/ML Engineer)
+Developed a ZeroShot Multiclass Object Segmentation pipeline effective up to 500 meters for a miltech project achieving a 95% accuracy rate.
+Developed an algorithm for detecting human and obstacle intersections, achieving up to 70% accuracy on distances up to 500m.
+Contributed in the optimization of the solution to run on a standard laptop which resulted in working real-time at 1 FPS.
+Developed an algorithm and pipeline for collecting highly accurate statistical data from helicopter dashboard videos.
+DiploDoc (Solo-Founder)
+Generated $2,500 in monthly revenue and acquired about 40 clients per month, saving around 1500 work hours for students.
+Developed an LLM pipeline that searched for information online and formatted it into documents, creating in high-quality research papers.
+ER IPT Hack, 2023 (1st place)
+Developed a pipeline within the last 24-hour period during a 10-day hackathon that utilized a UNET model for classifying forest damage from satellite images with an accuracy of about 96%.
+Conducted research on the causes of forest damage issues in France, which led to securing first place as a solo participant.
+CSC Hack, 2023, (Finalist 2 nominations)
+Developed and trained a Superresolution model that enhanced the resolution of facial photos by 16 times (32px-512px).
+Developed a super-light Siamiese image deduplication model which achieved the same accuracy as the Lun.ua model but was 21 times faster.
+Minecraft Texture Generator
+Developed a generative network model, C-GAN-WP, for creating character textures in Minecraft.
+Built a comprehensive web-scraping pipeline to gather over 2mln images for training. Conducted extensive image processing and feature engineering to tailor data for specific conditions in Seagun.
+Achieved realistic and unique texture generation for game characters, enhancing the visual experience in Minecraft.
+I want to have minimal calls, ideally just one daily meeting, and a flexible schedule because I value deep work sessions. I’m looking for a highly skilled and intelligent team lead who can mentor and challenge me. I also want to make new friends among my coworkers and enjoy casual hangouts, like grabbing a beer together on Fridays."
+data engineer,"9 months as a Technical Writer, creating documents to ensure clear communication with customers
+6 months at a research lab, developing methods for text to sign language translation using Deep Learning and NLP techniques
+Created a framework for text to sign language translation: a recurrent model for animation data generation and a fine-tuned Mistral 7B for translation
+I'm eager to work long-term as a data scientist with a welcoming team"
+data engineer,"I developed an AI Streaming assistant for Web3 streaming service, utilizing Eliza framework and various LLMs, STT and TSS models.
+At INFUSE, developed an NLP multi-label classification model to support RPA solutions. Implemented a Quart server and integrated models, providing RESTful API Endpoints for interaction with models and MongoDB databases.
+At Rivo Agency, designed a custom ComfyUI workflow for realistic face stylization, using SDXL models as a base, as a part-time project.
+Developed an AI-powered web game ""SketchMath"" that focused on validating user drawings using computer vision, using TensorFlow, Flask and Javascript.
+Successfully designed and queried SQL (PostgreSQL) and NoSQL (MongoDB) databases as part of a university project."
+data engineer,"I've been working as a Data Engineer for over six years, specializing in building scalable ETL pipelines, automating data processes, and enhancing machine learning workflows. My expertise lies in Python, Databricks, and AWS, and I've successfully migrated large datasets to cloud-based warehouses while improving data accuracy and accessibility.
+I focus on designing efficient data solution, from web scraping tools to interactive Tableau dashboards, and I've worked with technologies like Apache Kafka, PySpark, and Snowflake to optimize data processing and visualization. I'm passionate about improving decision-making through data-driven insights and enjoy collaborating with cross-functional teams to solve complex challenges.
+What motivates me is streamlining data workflows and leveraging advanced analytics to deliver actionable insights. I aim to deepen my knowledge in real-time data streaming and further enhance machine learning models to drive better business outcomes."
+data engineer,"- Data engineer with 5 years' experience of implementing data solutions for customers from insurance, healthcare, credit scoring, and other realms.
+- AWS Certified Solutions Architect.
+- Able to write high-quality (maintainable and efficient) code in Scala, Python, and Java.
+- Proficient in SQL.
+- Experienced in implementing solutions using Spark, AWS (Glue, Step Functions, Lambdas, S3, Athena, DynamoDB, etc), GCP (BigQuery, Dataproc, Cloud Storage), data warehouse tools (worked with Hive, Impala, etc).
+- Result-oriented with focus on business needs.
+- Team player with good communication skills.
+Key achievements:
+- Migrated a Pentaho job to Spark, after which execution time decreased from 60-70 min to 10-15 min.
+- Re-designed Spark jobs I/O module, significantly increasing maintainability of a project (e.g. instead of adding a log statement in 30+ different places it became possible to add it just in one).
+- Re-designed a Python project (AWS Lambdas), introducing AWS SDK for Pandas, modularity, code reuse, and testing with pytest and moto.
+Showed proven ability to:
+clarify and decompose tasks, implement solutions with maintainability, performance and const-efficiency in mind, learn new technologies and tools on-the-fly,  document solutions and perform knowledge transfer.
+I've been learning Computer Science and Maths (self-stadying using books, tutorials, online-courses, and articles; EPAM Java external training) for a few recent years. I learned the basics of algorithms and mathematical logic, core features of Python 3 and Java, base SQL commands (gained experience with MySQL and Postrgres), the main internals and usage of git, organization of Linux OS (Ubuntu) and a bunch of ways to interact with it via a terminal.
+I'd like to learn by practice, gaining hands-on experience and receiving feedback about my current level of knowledge and skills, finding out ways of improving that level."
+data engineer,"I am a  Senior Python Developer with data engineering specialization.
+AWS Certified Solution Architect Associate.
+For the last 6 years I've been taking part as a Python developer in a series of large SAAS projects/startups. Specifically
+keelvar - logistics optimization AI platform
+rebelmouse.com - social media platform
+lifedojo.com - online learning
+allyo.com - AI chatbot automation for recruiting
+I like to deal with DATA, engineer it, develop ETL and data workflows, process it asynchronously and store it in the most optimal and safe way.
+There were more projects, sentiment analysis apps, marketing apps, sports  betting apps, online auctions and web site generators.
+Engineering data-intensive database applications for more than 10 years. Those include:
+Allyo.com - designed from scratch, spearheaded and launched two analytics services, developed integrations with Tableau Analytics
+Lifedojo.com - designed hundreds of apis for online learning provider, provided AWS integrations
+Leadrouter - designed reporting for Fortune-500 company in real-estate, a db-heavy project for US.
+Rebelmouse.com - social-network publishing platform.
+Certified AWS Cloud Architect Associate.
+Personal relations in a good team.
+Preferring long-term projects."
+data engineer,"Developing ETL process
+Managing DWH
+Maintaining data infrastructure
+Communication with client
+Developing systems for supply chain, fuel automotive domain, logistics
+Collecting data for analytics and reporting
+Data quality provisioning"
+data engineer,"Big Data Engineer at TBC Bank(October 2023 - Present):
+- Developed a scalable Data Lakehouse using Data Vault architecture on Azure Databricks to streamline data storage and processing for company-wide analytics capabilities.
+- Developed and managed ETL processes using Azure Data Factory and Azure Databricks, automating data ingestion from various sources, including transactional databases, APIs, FTP servers.
+- Collaborated with cross-functional teams and stakeholders to define data requirements, ensuring alignment with business goals and compliance standards in the banking industry and the internal platforms.
+- Developed a reusable performance monitoring data platform for multiple teams to identify bottlenecks and necessary optimization strategies in over 300+ pipelines, resulting in a 30% reduction in processing time, and costs on average.
+- Integrated Unit Tests and Data Quality checks in CI and Data Pipelines across different layers of the Medallion Architecture for the Lakehouse platform.
+Data Engineer at Sweeft Digital(July 2021 - October 2023):
+- Developed an analytical and visualization platform for automatically ingesting data to and from multiple marketing sources.
+- Designed, developed, built, deployed and migrated existing numerous and reusable data pipelines using serverless and serverful technologies on Google Cloud Platform, resulting in a 50% reduction in data processing time and costs.
+- Developed and maintained Data Lakes and Warehouses on Google Cloud Platform using Google BigQuery and Cloud Storage.
+- Utilized best practices to support continuous process automation for data ingestion and data pipeline workflows.
+- Developed reusable CI/CD workflows and IAC for data pipelines using Terraform and Cloud Build.
+- Worked closely with stakeholders across departments to design, build and deploy various initiatives within the data platform.
+- Mentored interns later becoming Data Engineers."
+data engineer,"Currently I am working in healthcare domain at M42 Health. Our team is responsible for the largest in the world whole genome sequenced data. We facilitate fast and reliable access to data for analytical/research use cases. Currently I am responsible for developing distributed pipeline for preparing data for one of the largest research use cases in world (sample wise). In my previous roles, I have developed backend applications using FastApi and PostgreSQL. Developed large scale web scraping applications. Improved performance of existing ETL pipelines and developed new ones. I have deployed and maintained services on Kubernetes cluster using Helm software. I usually do data modeling and data ingestion."
+data engineer,"As a seasoned Data Engineer, I have honed my skills across a wide range of technologies and platforms. My expertise spans Java, Groovy, Spring Boot, PostgreSQL, Hive, HBase, Phoenix, NiFi, Kafka, Apache Spark, Airflow, Python, Git, GitLab, Docker, and Kubernetes, among others.
+Specializing in the design and management of efficient data infrastructure, I excel at building robust data pipelines that ensure seamless data processing and analysis. My deep understanding of these cutting-edge tools and frameworks allows me to architect and implement scalable, high-performing data solutions that drive business value.
+Throughout my career, I have been instrumental in:
+Designing and deploying data platforms that optimize data storage, processing, and accessibility
+Developing and maintaining complex data pipelines using technologies like Apache NiFi, Kafka, and Airflow
+Integrating disparate data sources and ensuring data quality, reliability, and security
+Leveraging Big Data technologies such as Apache Spark, Hive, and HBase to power advanced analytics and reporting
+Collaborating cross-functionally with stakeholders to understand business requirements and translate them into effective data solutions
+Automating and streamlining data engineering workflows using Docker, Kubernetes, and other DevOps practices
+Staying up-to-date with the latest industry trends and continuously expanding my technical expertise
+With a keen eye for detail and a strong problem-solving mindset, I am adept at delivering high-impact data engineering solutions that drive business growth and insights. My versatile skill set and ability to adapt to evolving data challenges make me a valuable asset to any organization.
+Accomplished Data Engineering Projects
+Throughout my career as a Data Engineer, I have successfully executed a wide range of projects that leveraged my extensive technical expertise. Here are some key accomplishments:
+1.	Designed and Implemented a Large-Scale Data Platform:
+•	Architected a scalable data platform using a combination of PostgreSQL, Hive, HBase, and Phoenix to handle terabytes of structured and unstructured data
+•	Developed sophisticated data pipelines with Apache NiFi and Kafka to ingest, transform, and load data from various sources
+•	Optimized data storage and processing performance using Apache Spark and Airflow for efficient batch and real-time data processing
+2.	Streamlined Data Ingestion and Transformation Processes:
+•	Automated the ingestion of data from multiple sources, including databases, APIs, and files, using a combination of Python scripts and NiFi workflows
+•	Implemented robust data transformation and enrichment processes using Spark Structured Streaming and Scala, ensuring data accuracy and consistency
+•	Developed a self-service data mart powered by PostgreSQL , enabling business users to access and analyze data with ease
+3.	Improved Data Monitoring and Incident Resolution:
+•	Implemented a comprehensive monitoring and alerting system using tools like Prometheus, Grafana, and Kibana to proactively identify and address data pipeline issues
+•	Developed a centralized logging and error handling framework using the ELK stack, enabling swift root cause analysis and incident resolution
+•	Collaborated with cross-functional teams to enhance data quality, reliability, and security across the organization
+4.	Facilitated DevOps Best Practices:
+•	Automated the deployment and management of data engineering services using Docker and Kubernetes
+•	Implemented a GitLab-based CI/CD pipeline to streamline the development, testing, and deployment of data engineering applications
+•	Advocated for and implemented infrastructure as code (IaC) practices, enhancing the scalability and maintainability of the data platform
+5.	Delivered Actionable Business Insights:
+•	Leveraged Apache Spark, Hive, and HBase to build complex data processing pipelines that enabled real-time analytics and reporting
+•	Collaborated with business stakeholders to understand their data requirements and translated them into effective data solutions
+•	Provided data-driven recommendations and insights that informed strategic decision-making and drove business growth
+Throughout these"
+data engineer,"Professional Summary:
+Dedicated Data Engineer with 4+ years of experience, including 2 years in fintech and 2 years in logistics. Proven expertise in building, optimizing, and managing data pipelines, ETL workflows, and cloud-based data architectures. Adept at migrating legacy systems, integrating diverse data sources, and enhancing data infrastructure to support business intelligence and analytics. Passionate about leveraging data engineering to drive scalable and cost-efficient solutions.
+Key Skills:
+Data Pipeline Development: Expertise in PySpark, Airflow, and Dataiku for orchestrating, transforming, and loading data.
+Cloud Data Solutions: Skilled in working with BigQuery and DataLake, ensuring efficient data storage and processing.
+ETL Optimization: Experience in developing unified ETL frameworks to streamline data ingestion and transformation.
+Programming & Automation: Proficient in Python for data manipulation, automation, and web scraping (Pandas, NumPy).
+Database Management: 4+ years of SQL expertise in query optimization, data analysis, and performance tuning.
+Data Visualization: Familiar with Tableau, Power BI, and Looker Studio for creating insightful dashboards.
+Key Achievements:
+Migrated legacy data systems to cloud platforms using PySpark and MINIO, reducing processing overhead by 30%.
+Designed and implemented data pipelines integrating BigQuery and Google Ads, saving $36,000 annually for Kapital Bank.
+Reduced data refresh times in Dataiku, enabling real-time analytics and improved decision-making.
+Established a unified ETL process for efficient data transfer to DataLake, achieving significant cost savings.
+Played a critical role in orchestrating workflows with Airflow, leading to a 30% boost in SQL response times for analytics teams.
+Professional Experience:
+Kapital Bank, Data Engineer: Migrated and optimized data pipelines, integrated diverse data sources, and supported legacy systems (03/2024 - Present).
+Kapital Bank, Data Analyst: Built systematic documentation for event tracking and optimized data workflows (07/2022 - 03/2024).
+166 Logistics, Data Analyst: Developed dashboards and reports from consolidated datasets, driving data-backed decisions (03/2020 - 07/2022)."
+data engineer,"Over the past 6+ years, I have specialized in designing and maintaining scalable data pipelines that handle complex workflows and large volumes of data. I have developed efficient ETL processes, ensuring seamless extraction, transformation, and loading from diverse data sources while maintaining high standards for data quality and consistency.
+Strategic Data Management: Developed and implemented strategic plans for IT Asset Management, focusing on data accuracy,
+completeness, and reliability. For example, utilized Python and SQL to create automated scripts that identified and corrected data
+inconsistencies, improving data accuracy by 30%.
+• ETL Processes: Built ETL pipelines using Apache Airflow to automate data extraction, transformation, and loading from multiple sources.
+This reduced manual data handling efforts by 40% and streamlined data ingestion processes.
+• BI Tools and Dashboards: Developed and managed enterprise-level dashboards using PowerBI. Created interactive visualizations that
+provided actionable insights into IT operations, helping reduce incident response time by 20%.
+• Cloud Integration: Integrated ServiceNow with AWS for cloud-based data storage and processing. This improved data accessibility and
+operational efficiency by enabling seamless data flow between on-premises and cloud environments.
+• Statistical Analysis: Applied advanced statistical methods using Python's libraries like Pandas and NumPy to analyze large datasets. For
+instance, conducted a root cause analysis on incident data, leading to a 15% reduction in recurring issues.
+• Collaboration and Communication: Worked closely with stakeholders to translate business objectives into data-driven solutions. For
+example, collaborated with business analysts to design a predictive maintenance model that forecasted asset failures, resulting in a 25%
+decrease in downtime.
+• Data Security and Compliance: Ensured compliance with data security policies by implementing AWS IAM roles and policies. Maintained
+data confidentiality and integrity in accordance with organizational standards.
+Built Scalable Data Pipelines: Designed and implemented an automated ETL pipeline that reduced data processing time by 40%, handling over 10 million data records daily across multiple sources.
+Optimized Database Performance: Improved query performance in a PostgreSQL database by 60% by restructuring complex queries and indexing large tables, resulting in faster data retrieval and better system efficiency.
+Cloud-Based Data Solutions: Migrated data workflows to AWS, utilizing S3 for storage and Lambda functions for processing, reducing infrastructure costs by 30% and increasing processing speed by 25%.
+Automated Data Quality Monitoring: Developed Python scripts and automated monitoring tools that reduced data inconsistencies by 20% across a large dataset, ensuring reliable data for analytics teams.
+Integrated New Data Sources: Integrated 5+ new data sources into an existing architecture, enabling the business to gain new insights and drive data-driven decision-making.
+Enhanced Collaboration: Worked closely with cross-functional teams to deliver a data solution that improved reporting accuracy by 15%, increasing the trust in data for business stakeholders.
+Led Performance Optimization Initiative: Spearheaded an initiative to optimize data pipeline performance, reducing data processing time from hours to minutes, improving efficiency for the entire data team."
+data engineer,"Jul-2023 - Till now (Aug-2023) - Data Engineer, EPAM Systems
+Customer Description: Life Sciences & Healthcare
+Responsibilities:
+•	Perform the migration from GCP to AWS for a key customer.
+•	Design, develop, and maintain scalable data pipelines.
+•	Develop the entire ETL process, including integrating new data sources and FHIR (CDR)
+•	Participate in architecture design discussions and decision-making.
+•	Develop and manage Airflow DAGs.
+•	Optimize scripts to ensure compatibility with Redshift while improving performance and efficiency.
+•	Optimize GCP costs to improve efficiency.
+•	Build Looker reports to present product performance insights to stakeholders and customers
+•	Schedule ETL processes (daily and monthly), ensuring smooth integration with existing ETL operations. Develop framework for Data Quality.
+Tools and Technologies: BigQuery, Reshift, Lambda, Step Function, Composer ( Airflow), SQL, Looker,  Git, Jira, Confluence
+Nov-2021 - Jul-2023 - Data Engineer, EPAM Systems,
+Customer Description: FS - Insurance
+Team Size: Dev Team: 3 Developers; Vendor Dev Team: 3 Developers; Business Analyst team: 4 Analysts
+Responsibilities:
+•	Developed and maintained Snowflake objects (Stored Procedures, Functions, Tables, Stages, Views) using JavaScript and Snowflake SQL
+•	Developed Pipelines for ETL processes, Data Integration, Data Transformation, Data Archiving, and Process Automation
+•	Developed PowerShell scripts to manipulate files on AWS S3
+•	Designed complex automation processes using ActiveBatch (Integration between Snowflake, AWS S3, Voyager, and SFTP Servers)
+•	Developed error logging, notifications, and alerts at different points of the data exchange process
+•	Designed detailed documentation for the existing processes
+•	Actively participated in the deployment of project changes to production (Bamboo pipelines, Flyway pipelines)
+•	Performed data model synchronization between systems SimCorp and AWS Glue/Athena combo
+•	Developed PowerBI data models, reports, and dashboards
+•	Developed and updated AWS policies
+Tools and Technologies: SimCorp Dimension, Oracle, Snowflake, Snowflake, SimCorp DWH, ActiveBatch, AWS Glue, Git, CloudForge, CloudFormation, Bamboo, SFTP Client Applications, Jira, Confluence, Voyager, Oracle SQL,  Snowflake SQL,  Power BI, AWS Crawler, AWS Glue, SimCorp Dimension, ActiveBatch, Powershell
+Feb-2021 - Sep-2021 - Database engineer, Innohub
+Project Description: System for tracking and predicting health-check for cars, System for estimat"
+data engineer,"**Senior Data Engineer**
+**Latest Work Experience**
+**RS Group (Sep 2023 - July 2024)**
+- Spearheaded the integration and efficient streaming of data using Amazon Kinesis Data Firehose to enhance data flow to various analytics services.
+- Developed and enhanced ETL processes utilizing Apache Spark and Kafka, significantly boosting real-time data processing capabilities and system scalability.
+- Orchestrated complex data logging and analysis by leveraging AWS CloudWatch Logs with OpenSearch, akin to an ELK stack, to enable robust data visualization.
+- Designed AWS Lambda functions for GDPR-compliant automated data management, enhancing data security and compliance.
+- Initiated and managed the collection of unstructured data using AWS Matillion, effectively handling large data volumes across multiple formats.
+**TATA Consultancy Services (Aug 2022 - Mar 2025)**
+- Engineered data warehousing solutions with Amazon Redshift, using Data Vault modeling to ensure data integrity and scalability.
+- Utilized Apache Flink for dynamic, real-time data analysis, facilitating rapid, data-driven business decisions.
+- Deployed scalable web applications on AWS, incorporating Elastic Beanstalk, RDS, and OpenSearch for enhanced performance and user experience.
+- Integrated Snowflake and PySpark within the ecosystem to centralize and process extensive data sources, streamlining analytics and reporting processes.
+**Notable Achievements**
+- Transitioned from a PHP/WordPress background to mastering Python and data engineering technologies within a week, highlighting rapid adaptability and commitment to growth.
+- Pioneered a prototype of a sales-oriented chat bot in just one day, which evolved into a robust, fully developed product under my leadership.
+- Developed a microservice for testing LLM responses, utilizing another LLM, enhancing the evaluation process and ensuring high-quality prompt adjustments.
+- Created a sentiment analysis tool capable of parsing vast internet data, equipped with a web interface that supports both SQL queries and a graphical user interface.
+**Looking For**
+- Opportunities to make a substantial impact through innovative data engineering.
+- A collaborative team environment where creativity and innovation are encouraged.
+- A flexible work schedule that accommodates late starts, reflecting my nocturnal"
+data engineer,"I have over 10 years of experience in Business Intelligence and data management across various domains, including finance, sales, and the gas & oil industry. I’ve worked both as part of a team and as a solo BI developer on projects. My expertise includes building and developing large Data Warehouses (DWH), focusing on ETL processes and visualizing data through reports.
+Technologies I’ve worked with, ranked by experience, include:
+SQL, BODS, Power BI, SSRS, Powershell, Databricks.
+I am interested in Cloud solutions and would be excited to participate in projects that involve this technology. I'm looking forward to applying my expertise in Business Intelligence and data management to cloud-related initiatives."
+data engineer,"Senior DWH/BI Developer | Pasha Life
+09/2017 – 11/2024
+Developed end-to-end ETL processes in MS SQL Server for building and managing the enterprise Data Warehouse (DWH).
+Created and automated internal reports using SSRS and Power BI, ensuring stakeholders had access to real-time and accurate insights.
+Delivered training for new team members on SQL, Power BI, and business intelligence, fostering a data-driven company culture.
+Spearheaded data integration efforts, ensuring seamless data flow across multiple platforms and systems.
+Analyzed requirements from data analysts and designed appropriate data marts to support their reporting and analytical needs.
+Ensured accurate and structured data provisioning within the Data Warehouse to facilitate future Artificial Intelligence (AI) implementations.
+Delivered SQL training sessions to Data Governance teams to enhance their technical capabilities. Additionally, provided high-quality reports to support data quality management initiatives.
+Software Developer | AXA Mbask
+04/2015 – 08/2017
+Developed Call Center applications using C# WPF, enhancing customer support capabilities.
+Built and managed HR ERP systems in ASP.NET MVC, streamlining HR operations and processes.
+Conducted digital sales analysis by integrating ASP.NET MVC APIs and PL/SQL, providing actionable insights for sales optimization.
+Designed and implemented a Face Detection system using C# (WinForms) to monitor and register employee attendance across regions.
+Automated internal reporting systems using T-SQL, PL/SQL, and SSRS, reducing manual workloads and increasing accuracy.
+Software Developer | Azerbaijan National Academy of Sciences
+10/2014 – 03/2021
+Designed and implemented ""Optim ME,"" a software tool for automating mathematical calculations in chemistry processes using C# WPF.
+Collaborated with researchers to customize algorithms for specific scientific experiments.
+Accomplishments
+Recognized multiple times as Employee of the Month for exceptional performance and dedication.
+Awarded 2nd Best Employee of the Year, a significant achievement during the early stages of my career at the company.
+Received several letters of appreciation from the CEO, acknowledging my valuable contributions to the organization.
+Certifications
+Successfully passed the T-SQL Querying Exam, demonstrating advanced SQL querying skills.
+Earned a Python Programming Certificate, showcasing proficiency in Python for data analysis and development.
+Completed IBM Data Analytics Certificates, gaining expertise in data analytics and visualization techniques.
+Achieved Google Data Analytics Certification, focusing on data-driven decision-making and business insights.
+What I want:
+Opportunities to work on challenging and impactful projects that allow me to grow professionally and enhance my skills.
+A collaborative and positive work environment where team members support and respect each other.
+Fair compensation, recognition for accomplishments, and opportunities for continuous learning through training and certifications.
+Clear communication of goals and expectations from leadership to ensure alignment and productivity.
+What I don’t want:
+A toxic or negative workplace culture that demotivates employees.
+Lack of structure, unclear objectives, or insufficient feedback from management.
+Micromanagement or excessive bureaucracy that hinders creativity and efficiency.
+Limited opportunities for personal or professional growth."
+data engineer,"Data Engineer – GlobalLogic
+Jan 2025 –  Present
+- Built an automated pipeline to ingest PDF documents, structuring data efficiently using a Bronze-Silver-Gold architecture on Databricks, Azure, and Airflow.
+- Created a real-time Google Drive crawler to keep the data lake updated with the latest documents, ensuring quick and reliable access.
+- Optimized workflows to smoothly transform PDFs into usable structured data, enhancing them further with AI-generated metadata and smart classification.
+- Ensured robust data pipelines with a strong focus on data integrity, clear lineage tracking, and advanced document classification processes.
+- Technologies Used: Databricks, Azure, PySpark, Python, Airflow, Azure OpenAI.
+Data Engineer – EPAM Systems
+Aug 2024 – Dec 2024
+- Improved notifications and assisted with DBX.
+- Helped transition data encryption from PostgreSQL to Databricks.
+- Technologies: Databricks, Azure, SQL, DBX, Apache Spark, Python.
+Data Engineer – EPAM Systems
+Jun 2023 – Jul 2024
+- Migrated critical datasets to QuantHub with 100% data integrity.
+- Automated data workflows using Power Automate, improving pipeline efficiency by 40%.
+- Designed optimized data structures for seamless integration into Azure-based platforms.
+- Tools: Python, Azure Databricks, Power Automate, Elasticsearch, Confluence.
+Data Engineer – EPAM Systems
+Apr 2023 – Jun 2023
+- Created Proof of Concept (PoC) for Medallion Architecture in Databricks.
+- Developed SQL queries to validate and optimize data migration processes.
+- Reviewed and improved team SQL scripts for better performance.
+- Tools: Databricks, Azure Data Lake, SQL, Python.
+Data Engineer – EPAM Systems
+Apr 2021 – Oct 2022
+- Enhanced resource utilization in Druid, reducing costs by 25%.
+- Optimized Kafka streams and resolved complex performance bottlenecks.
+- Migrated and maintained distributed data systems with zero downtime.
+- Tools: Apache Kafka, Druid, Google Cloud Platform, Kubernetes.
+Software Engineer – EPAM Systems
+Aug 2019 – Feb 2021
+- Wrote data transformation scripts using SQL/Groovy
+- Improved stability of AWS Aurora database during failover
+- Wrote highly-tested Java backend code
+- Profiled code with JProfiler
+- Passed the first exam out of two for Java 11 certification
+Software Engineer – EPAM Systems
+Jun 2019 – Aug 2019
+- Fixed problems in Java backend and JSP frontend
+Experienced Data Engineer with over 6 years in data engineering and cloud computing. Expertise in Databricks, Apache Spark, and Azure, with proven success in implementing scalable data pipelines and optimizing data workflows. Certified in Azure Data Engineering (DP-203) and Databricks Data Engineer Associate. Skilled in Python, SQL, and Big Data technologies, with a strong focus on performance optimization and data reliability."
+data engineer,"5th commercial project (>1.5 years, in progress) - data engineering (newly built B2B CRM) for a global enterprise client (a company from TOP-20 UK companies): AWS Step Functions, PySpark, Redshift, Lambda, Athena, SQL Server, Iceberg, etc.
+4th commercial project (~6 months) - global privacy protection-based search engine (DuckDuckGo alternative). I defined architecture and built integrated and automated parsing of Wikipedia articles big data dumps within AWS Serverless infrastructure (AWS Step Functions, Lambda, Glue/PySpark, DynamoDB, AWS SAM) - to use it for displaying Wikipedia widget in a search engine results.
+3rd commercial project (~3 months) - NFT-market based project in transition from Flask to Django. Writing basic Django replica (basic fullstack Django/Bootstrap) app from scratch with functionality of existing project in Flask (using docker & docker compose, consisting of Django web app, nginx, celery, Postgres, Redis, Rabbitmq), celery jobs of parsing of data from Opensea, endpoints and views, user dashboards & authentication etc.)
+2nd commercial project (~14 months) - US e-commerce platform for managing products marketing on Amazon - new functionality, performance & speed improvements, debugging, Pytest tests from scratch, ad hoc scripts.
+1st commercial project (~7 months) - US e-commerce platform for managing logistics & goods deliveries costs & efficiency for e-commerce traders - improvements and debugging.
+pet-project (~6 months) - e-commerce platform for managing drop-shipping products sales in Ukraine e-commerce aggregators - myself full-stack building from scratch to prototype.
+experience as team lead of a team of ~10 data engineers (~6 months)
+experience as an architect of a separate data engineering feature for parsing various dumps of all Wikipedia articles/metadata in a startup (as part of a team of ~50 people) - 6 months
+project to parse Amazon data using Tor network of free proxies as an alternative to paid services (client could decrease monthly costs by a few thousand US dollars)
+background before switching to IT - economics & finance (passed 2 out of 3 levels of Chartered Financial Analyst [CFA] qualification), data analytics roles in various Ukraine-based western-capital top-tier corporate banks / venture capital & insurance companies.
+Focus on data engineering in AWS environment.
+Elements of data science/MLOps/ML/AI might be interesting, because I have some solid but a little bit outdated statistical background."
+data engineer,"Data engineer, 2024-2025
+Client - multi-platform audio and entertainment company.
+The main idea of the project to support data users with expected, ready to use, up to date datasets based on their needs.
+- ingest data from different sources
+- implement ETL pipelines,
+- moved Airflow pipelines from old account to the new one.
+- develop new data pipelines using Airflow, Python, SQL, API.
+- update existing data pipelines with the new features.
+- fix production issues.
+- use SQL queries in Snowflake to transform, clean, load the data.
+- set data validation checks
+Data analyst/engineer, 2021 - 2024
+Client - US retail and CPG agency
+- write, run SQL code in RDBMS YellowBricks, Netezza,
+- support, monitor, modify bash jobs (Shell scripting), work in Autosys job scheduling system,
+- data engineering task using Python and Spark in Azure Databricks,
+- build data processing pipelines in Azure Data Factory,
+- use Azure DevOps, Git for version control, create branches, Pull Requests, code review, code deployment
+Senior Data analyst,  2019 - 2021
+FinTech project. Client - one of the biggest US hedge fund.
+Our team developed Data Factory - Customer Data Platform, where customer will collect all the data and use it for decision making process in stock markets.
+Macroeconomic data tasks:
+- extract macroeconomic data (gdp, cpi, ppi, flow of funds) releases from provider web site; COVID data from open sources,
+- convert to custom XML format using Python scripts,
+- check for errors, anomalies in data (outliers, seasonality, missed data points) on test environment, launch appropriate reports, Rundeck jobs,
+- load data to platform, monitor progress in Kibana,
+- save XML files with dataset releases on AWS S3 storage.
+Company data tasks:
+- analyze datasets in MS SQL database:  structure, types of data, relations, define mapping, metadata/time series fields, and measures of datasets (export/import, commodity data, ownership, equity),
+Use MS SQL, Python (depends on source data).
+- discuss with client results of analysis and provide it to business analysts and developers.
+Senior Analyst/Consultant, 2 years
+Experience in marketing research, FMCG, consumer insights, consulting. Create reports and dashboards in Power BI
+•	Areas of experience include CPG and Retail.
+•	Participated in:
+o	Forecasting projects
+o	Innovation strategy
+o	Business Hierarchies
+o	Price&Promo
+market overview, category and need states analysis, opportunity spaces prioritization, new hierarchies’ creation"
+data engineer,"I am a Python Developer with 3 years of experience and over 15 years in IT, including 10+ years as a system administrator. Currently a Team Lead at Ajax Systems, I focus on microservices architecture, SQL database management, and CI/CD automation. Proficient in Python Core, FastAPI, and tools like Apache Airflow. Detail-oriented and responsible, I am continuously enhancing my skills and seeking new opportunities as a Data Engineer to apply my expertise in data-driven solutions.
+Under my leadership, the team became one of the best teams in terms of accomplishing the assigned tasks.
+I am motivated by complex tasks that require teamwork and non-trivial solutions.
+I'm interested in the data engineering and fintech."
+data engineer,"As a DBA, I know how it should be, how it can be, and what the difference is. Yes, it's all about tradeoffs. And there are will be much more tradeoffs in case you want to scale your workload.
+p.s.
+Oh, there was a limit for the description's length. Ok, I fit it.
+I may explain ""how it works"" to the dev team. Yes, with examples."
+data engineer,"I'm a data scientist with nearly 2 years of experience. I have a computer science degree which gave me familiarity with many advanced concepts, programming languages, tools, and a strong mathematical background. I've worked as a Data Scientist and Analyst in different companies and mentored students in machine learning.  My previous role has involved leading data collection initiatives, developing efficient data architecture, and leveraging data visualization tools to convey insights to stakeholders.
+Currently, I'm working as a Data Analyst/Scientist in a company providing AI solutions. I scrape and create datasets, ensure data quality, test model performance, and compare metrics. I'm also involved in research and finding the best approach for our AI models. This includes both Computer Vision and Natural Language Processing focused solutions. I aim to further my expertise in advanced machine learning algorithms and big data technologies to drive innovative solutions."
+data engineer,"My experience is focused on developing reliable and efficient solutions for building data processing processes. I have extensive experience working with cloud platforms such as Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS), and the Kubernetes containerization system.
+I also have extensive experience with streaming data and real-time analytics. The main technologies I have worked with are PubSub Lite and Azure Event Hub. Less with Apache Kafka.
+During my work, I have integrated with more than 40 external APIs. I have extensive experience with data warehouse systems such as Google BigQuery, ClickHouse, and Snowflake. I also worked on building a data lakehouse based on Amazon S3 and Google Cloud Storage (GCS) using Databricks and Apache Spark.
+Extensive experience in Python development. Building API applications for microserver architecture and connecting various data processes.
+I have significant expertise in marketing and product analytics.
+I have experience in migration from Databricks to Apache Spark in Kubernetes, which allowed to reduce costs by more than 6 times (savings amounted to several million dollars per year).
+I consider only part-time offers."
+data engineer,"I am a Software/Data Engineer with experience in ETL, automation, data modeling, complicated debugging tasks and other. My expertise includes Python, SQL, Bash, and ECM systems, with a strong focus on process optimization and data accessibility.
+British Bank (2y 7m) – Developed a centralized data platform, automated ETL pipelines, and implemented PCI DSS compliance monitoring.
+Pharmaceutical Company (11m) – Optimized an eCTD system for regulatory compliance, automated system management using Bash & Linux.
+Business Process Automation (6m) – Automated KPI tracking, salary calculations, and client registration flows.
+Personal & Freelance Projects – Developed Telegram/Discord bots, built websites with ReactJS & Django, and worked with local ML models.
+Automated ETL Pipelines – Developed multiple automated workflows to retrieve, transform, and load data from diverse sources, reducing manual effort and improving efficiency.
+Built a Centralized Data Platform – Improved data integrity and accessibility for a British banking project, ensuring compliance with industry standards.
+PCI DSS Compliance Automation – Created a system to automatically track and report security compliance using Jira, reducing audit preparation time.
+Optimized eCTD Regulatory System – Refactored and enhanced a pharmaceutical compliance system, ensuring full alignment with Ukrainian regulations.
+Developed Business Process Automation Tools – Automated KPI tracking, salary calculations, and client registration, improving decision-making and operational efficiency.
+Created AI-Enhanced Chatbots – Designed Telegram and Discord bots integrating LLM models, API data retrieval, and automation features.
+Built Web & ECM Solutions – Developed websites with ReactJS & Django and implemented ECM automation for document management.
+I have 4+ years of commercial experience in different projects. With this experience, I'm not afraid of new technologies and love to learn something new. I did various things, but in different positions, so I'm looking to focus on one stack, learn something new, at a junior or trainee level, where I can grow fast and have a mentor if possible."
+data engineer,"Developed Customer 360 platform to unify customer data from various sources into one view for sales and marketing teams while working as a data engineer.
+Built a single customer platform to analyze full customer journeys across websites, apps, and stores to identify pain points.
+Created ETL pipelines, database architecture and SQL queries to transform raw data into insights.
+Stock Prediction Chatbot - Built an NLP chatbot in Python that provides stock price predictions using machine learning algorithms.
+GigAi Chatbot - Worked on the development of a customer service chatbot handling FAQs for an e-commerce company.
+Collaborated on an NLP project leveraging LLMs to analyze social media data for insights into global mental health and well-being.
+Cleaning, processing and analyzing large datasets using Python and SQL to draw insights.
+Building data visualizations and presenting findings to stakeholders across multiple countries collaborating on the project.
+I have also worked as a Lead AI Engineer for a Stock trading company in the United States where I was tasked to oversee the back-tesking processes as well as developing AI models that would help investors in real time.
+Interesting projects"
+data engineer,"Summary :  .
+Over 20 years of IT experience
+Primary skill : BI Analyst, Business analyst, BI team leader, BI SME, BI technical lead, ETL Technical Lead.
+BI solution architect, Senior business intelligence developer, Senior DWH developer.
+Industries : Financial, Telecommunication, Automotive, Airline
+Organization skill : Software lead, Technical lead, Team leader
+Primary DWH platform : Teradata, MS SQL Server
+Primary BI platform : SSIS, SSRS, Power BI, MS Excell, SAP BO
+Hands on programmer experience for the various databases. (procedures, triggers, ...)
+."
+data engineer,"Throughout my career as a Machine Learning Engineer, I have been involved in various projects, taking on diverse roles throughout the entire project lifecycle. My portfolio encompasses essential business applications of machine learning, including Retrieval-Augmented Generation, Fraud Detection, Credit Risk Scoring, and Network Optimization. The following is list of projects I have worked on:
+1) I developed secure, on-premises solutions using 8-bit quantized Llama2 for document interaction and an HR assistant that streamlined recruitment by processing diverse CV formats and ranking candidates, all while ensuring data protection and resilience.
+2) I developed a novel SIMBOX Fraud Detection model to address a critical challenge for the company. This involved navigating through tens of millions of customer transaction records over several months to unlock highly meaningful and interpretable patterns. The most challenging aspect of the project was dealing with the inherent class imbalance that exists in ML application domains like fraud. Tackled the challenge with SMOTE (targeted oversampling) to achieve a precision and recall score of 0.83 and 0.81 respectively. Designed and implemented an inference data pipeline to support hourly detections, with model results communicated to stakeholders via SMS, email, and dashboards.
+3) I led the development of an in-house credit risk scoring model designed to gauge the device creditworthiness of customers. The most challenging aspects of this project were the extraction and preparation of revenue-generating customer transactions spanning several months, the lack of credit performance data, and its financial sensitivity. Given these challenges, I opted to develop expert scorecards that align with targeted customer behaviors as per the project BRD. This approach required thoughtful and extensive exploratory data analysis, as well as collaboration and communication with the respective business unit.
+4) I have also worked on a Network Optimization Project, predicting a key network congestion parameter 15 days in advance to enable proactive adjustments and prevent potential network quality issues. After a detailed exploratory data analysis (EDA), I identified temporal patterns, seasonal trends, and lagged relationships in the data, leading me to model the problem as a time series forecasting task. I chose Prophet for its robustness with large mean shifts, speed, and intuitive out-of-the-box interpretability.
+In a recent achievement, I played a crucial role as a Machine Learning Engineer in Team NetiX at the Safaricom Telecommunications Ethiopia PLC hackathon, where we utilized Retrieval-Augmented Generation (RAG) architectures and large language models (LLMs) to streamline complex and repetitive tasks in telecommunications. Our innovative solution earned us first place among over 500 teams, advancing us to the African Finals hosted by Vodacom Group. There, we competed against top projects from 12 African markets and emerged victorious, subsequently representing Africa on the global stage at Vodafone's annual world hackathon."
+data engineer,"I specialize as a Backend Developer with a primary focus on Python (Django). However, my expertise extends beyond these areas, covering a diverse range of technologies, including but not limited to Front-end development (React), Cloud
+Service like Azure, as well as Machine Learning and Data Science.
+Always eager to boost my engineering skills through exciting projects and contribute to a great community as an individual.
+Fully skilled on:
+- Python, Django, Rest Framework, Celery
+- PostgreSQL, Microsoft SQL Server, MongoDB
+- Redis, RabbitMQ
+- Pandas, Numpy
+- Azure, Sentry, Git, CI/CD, Docker/Docker-compose
+- System Design
+- LLM, LLama, OpenAI API, RAG, Microsoft Bot Framework
+- Web scraping/crawling
+Have general knowledge on:
+- JavaScript, React, Ant Design, Redux-Toolkit
+- Ngnix
+- Machine Learnig/Data Science/Data Analyses
+Roles and responsibilities I follow as Backend Developer:
+- Writing, debugging and maintaining code
+- Working under Agile Methodology
+- Troubleshooting software issues
+- Development of web applications from scratch
+- Working closely with other developers to improve product’s functionality
+- Developing innovative solutions and robust, scalable, and secure features
+- Attending and contributing to company development meetings.
+- Monitor the performance of internal systems
+- Participating in quality assurance activities
+- Participating in estimation discussions with the product team
+- Continually improving coding skills by learning the codebase and improving my coding skills.
+- Follow internal company coding conventions.
+- Following a strict code of ethics and protecting any confidential information at all times
+- Troubleshooting
+Projects with stack of Python, Django, LLMs, Openai, RAG, LLama-index, Azure"
+data engineer,"Data Engineer and Data Analyst with 6 years of experience in Data field. As a Data Professional, I possesss experience in different data platforms with focus on Data Engineering, Data warehousing, Data analytics and Cloud solutions (MS Azure, Snowflake and AWS). I have experience in building traditional as well as Cloud Data Warehouses (DWH) and Data Lakes. Solid experience in continuous delivery tools and technologies working with modern Agile development methodologies.
+Technical skills and technologies:
+- Programming languages: SQL (T-SQL, MySql, PostgreSQL), Python;
+- BigData: Pyspark, Kafka, Hadoop, Yarn, HDFS
+- RDBMS: SQL Server, MySQL, PostgreSQL;
+- ELT/ELT and Orchestration Tools : SSIS, Azure Data Factory, Airflow, Azure Synapse, Azure Databricks, AWS Glue
+- Cloud : MS Azure, Snowflake, AWS (EMR, S3, Redshift, EC2, Glue)
+- Storages: HDFS, Azure Data Lake Gen2, Azure Blob, AWS S3
+- Data Analysis: SQL, Pandas, Numpy
+- Data Visualization: MS Power BI, SSRS, Tableau
+- Data warehousing : Kimpball, Inmon, Data vault"
+data engineer,"Data Engineer | Data migration | Retail
+Designed and implemented scalable data migration pipelines from scratch using Apache Airflow .
+Developed ETL workflows to extract, transform, and load large datasets from on-prem Teradata to
+Cloud Storage and BigQuery.
+Optimized data processing performance in batch workflows using Spark (Dataproc).
+Collaborated with cross-functional teams to define migration strategies and troubleshoot data
+quality issues.
+Data Engineer | Data platform development | Travel industry
+Participated in the design and development of dbt models from scratch.
+Took an active part in the development of Airflow data ingestion pipelines. Contributed in DAGs
+design solution. Implemented automations that reduced the DAGs development process by 70% of time.
+Certifications: Astronomer Certification for Apache Airflow Fundamentals, Databricks Academy
+Accrediation - Apache Spark Programming, dbt Academy - dbt Fundamentals
+I'm looking for engaging and meaningful tasks that challenge me and help me grow professionally. Just as importantly, I value a healthy and respectful work environment — one with reasonable deadlines, mutual trust instead of micromanagement or constant tracking, and a generally positive atmosphere where people enjoy working together."
+data engineer,"Створюю звіти та дашборди, які допомагають бізнесу (телеком) приймати обґрунтовані рішення для оптимізації процесів і зменшення витрат, а також дозволяють швидше вирішувати операційні питання.
+Основні обов'язки:
+• Пошук, аналіз і обробка даних з різних джерел (DWH, дата марти, тощо), трансформація
+• Створення структур баз даних (tables/views/CTE's), розробка PL/SQL процедур, функцій та пакетів для автоматизації розрахунків
+• Створення звітів, дашбордів у Microsoft Power BI та Report Builder
+• Формування ad-hoc вибірок
+• Співпраця з бізнесом: аналіз та узгодження бізнес-вимог, допомога в їх формуванні та оптимізації.
+• Підтримка та консультація замовників і кінцевих користувачів.
+Стек:
+• БД і мови: Oracle (+інші реляційні СУБД); SQL, PL/SQL, DAX.
+• Інструменти: PL/SQL Developer, TOAD, SQL Developer.
+• Візуалізація BI: Microsoft Power BI, Report Builder, Tableau.
+Додаткові навички:
+• Робота з дата мартами, сховищами даних, білінговими системами.
+• Знання ETL-процесів, методологій Agile, CI/CD, досвід роботи з Jira.
+• Навички роботи з Object Pascal, Delphi, HTML+CSS, JavaScript.
+------------------------------------------------------------------
+As part of the BI reporting team (telecom segment), I create analytical reports and dashboards that help businesses make data-driven decisions, optimize processes, and reduce costs.
+Key Responsibilities:
+• Collaborating with the business: analyzing and aligning business requirements, assisting in their formulation and optimization.
+• Searching, analyzing, and processing data from various sources (DWH, data marts, etc.), data transformation.
+• Designing database structures (tables/views/CTEs), developing PL/SQL procedures, functions, and packages to automate calculations.
+• Creating ad-hoc queries for immediate business issue resolution.
+• Developing reports and dashboards in Microsoft Power BI and Report Builder.
+• Providing support and consultation to clients and end users.
+Tech Stack:
+• Databases and Languages: Oracle (+ other relational DBMS); SQL, PL/SQL, DAX.
+• Tools: PL/SQL Developer, TOAD, SQL Developer.
+• Data Visualization: Power BI, Report Builder, Tableau.
+Additional Skills:
+• Experience with data marts, data warehouses, and billing systems.
+• Knowledge of ETL processes, Agile methodologies, CI/CD, and experience working with Jira.
+• Proficiency in Object Pascal, Delphi, HTML+CSS, JavaScript.
+•	Managed and maintained 30+ recurring reports for a customer base of over 30 million users.
+•	Implemented automated monthly reward calculations for company partners, optimizing financial workflows and reducing manual workload.
+• Opportunities for professional growth
+• Competitive financial conditions with a currency peg
+• Long-term projects
+• Transparent terms and regular salary reviews"
+data engineer,"Results-oriented Data Engineer with over 10 years of experience in Databases, Cloud Data Warehousing, and Big Data solutions. Proficient in AWS (Redshift, Glue, Lambda, S3), GCP (BigQuery), Python, Spark, and SQL, with expertise in designing, implementing, and optimizing scalable data architectures. Skilled in orchestrating complex data pipelines using Apache Airflow, ensuring efficient and reliable workflows. Demonstrated ability to lead teams, collaborate with clients, and deliver autonomous, scalable solutions in complex and enterprise environments.
+Buiilt and optimized Big Data pipelines.
+Challenging tasks."
+data engineer,"creating reports (stored procedure MS SQL Server + reporting form Stimulsoft)
+optimization of own and previously written code
+Wrote SQL statements and stored procedures.
+Working with relational databases and SQL.
+Developing findings and solutions to audiences, Technical support and administration.
+Participated in back-end development(Java) in the company's Web-services.
+Network administration, Kafka integration.
+Creation and configuration of a workflow for processing and transforming incoming client data.
+Cleansing and identifying duplicates.
+Updating data through third-party services in a specific format.
+Extracting subsets of data for the client.
+Initiating a record scoring process for the client
+Writing SQL queries.
+Preparing Pandas,NumPy scripts to work with dataframes using JupyterLab.
+Using Alteryx for some data preparations."
+data engineer,"main responsibilities:
+ensure quality of data exchange development from client`s or outsource developments between client`s ERP and our SaaS solution, or develop integrations internally. Also, responsible for developing\updating data integrations documentations
+Currently working on BI development as Analytics engineer
+Setup process of manual data integration as an easier integration option, currently used by multiple clients, setup of documentation of most common issues during data exchange processes.
+Creating different data models for further usage by other data team or for consumption by PowerBI developers, while also maintaining documentation.
+Also familiar with dbt and elt processes (Djinni does not allow those as tags)
+Cureently looking for data engineer\data analyst\analytics engineer jobs (as I am currently employed I do not seek to get hired
+immediately)"
+data engineer,"Details of what I have been doing:
+Developing a system to monitor
+Real-time data quality: This system allowed us to quickly identify and resolve anomalies in the data, providing high fidelity data for business intelligence. We used Kafka for data streaming and Elasticsearch to visualize quality metrics.
+Building a Hadoop-based data lake: I was involved in designing and deploying a centralized data warehouse for various business units. We implemented Hive and Impala for data analytics and ensured access control and data security.
+Automated the process of loading data from third-party APIs:  Developed Python scripts to automatically collect data from various sources (e.g. social media, marketing platforms) using Airflow for task orchestration. This significantly reduced the time spent manually processing data and improved the accuracy of the information.""
+This is roughly what it looks like , now continuing to work on interesting projects.
+My current position is junior+ data engineer.
+I continue to further develop in this area of expertise and grow into a strong specialist."
+data engineer,"Data Engineer/Analyst/SRE with 7+ years of experience. With main background in various monitoring/alerting-related projects, data analytics, SRE and cybersecurity.
+Designing monitoring strategy based on opensource and commercial solutions, APM and CI/CD. Striving to improve customer's monitoring infrastructure to operate effectively and meeting the needs of monitoring goals.
+Have experience with SIEM solutions(Splunk, Elastic, Grafana), APM monitoring(NewRelic, DataDog), Experience working with languages: Python, Bash, PowerShell. Understading of of operating systems, databases, network, version control tools, participation in a software development life cycle.
+Ready to work in a team, able to communicate clearly and concisely. Able to solve problems quickly, effectively, in a timely manner. Ready to deal with unexpected outages or performance issues."
+data engineer,"I am a highly motivated and client-focused Senior Data Engineer with expertise in Microsoft Azure, Databricks, and Spark. My skills include advanced SQL, data modeling, developing scalable and high-performance ETL/ELT pipelines, and orchestrating data workflows using Azure Data Factory. I have a strong background in leading teams and working closely with clients on various projects, effectively handling both leadership and client-facing roles. I also have experience in designing scalable and robust data architectures and frameworks that meet and exceed customer needs, improving their data systems.
+As a team leader, I am known for my excellent communication skills. I work well with team members and clients, ensuring clear communication and successful project completion. My leadership style is focused on achieving goals while also supporting my team's growth and success.
+I am passionate about mentoring and sharing knowledge. I have mentored over 20 mentees in data engineering and contributed to the development of the data engineering mentoring program to support newcomers in the field. As a conference speaker, I often share my knowledge and experiences with the wider data community.
+Additionally, as a Resource Manager at the company, I support my team's career advancement and skill development, manage their compensation, source suitable projects, and resolve any arising challenges.
+As a Lead Data Engineer, I play a crucial client-facing role, guiding the project toward successful outcomes by designing and implementing new features based on client requirements:
+1. Designed a scalable and robust architecture for the new version of the Metadata Driven Data Ingestion Framework, ensuring it meets client specifications.
+2. Developing scalable and high-performance ETL/ELT pipelines utilizing Databricks and Apache Spark to enhance data processing capabilities.
+3. Developed a key feature to analyze and cleanse emails and phone numbers, utilizing the third-party Melissa API to enhance data quality and reliability.
+4. Orchestrating and monitoring data workflows using Azure Data Factory, ensuring efficient data management and integration across the platform.
+5. Worked closely with DevOps to design deployment processes for SQL to Azure SQL Database, Databricks, and Azure Data Factory (ADF).
+6. Leading the data engineering team, optimizing task distribution to maximize team efficiency and project success.
+Company's Client Impact Award:
+Recognized for making substantial contributions to the client's technology stack and methodologies in the data platform development. Played a pivotal role in innovating approaches and ensuring the timely completion of the MVP phase, demonstrating exceptional commitment and performance."
+data engineer,"Development and maintenance ETL/ELT pipelines using Apache Airflow for seamless data integration and
+processing, with outputs to HDFS, Hive, PostgreSQL, GreenPlum, and Oracle.
+Sending data to FTP, SMB servers. Email distribution.
+Development and maintenance real-time data processing pipelines using Spark Structured Streaming and
+Kafka.
+Working with the requests library to retrieve data via API.
+Development and maintenance of services on Flask, FastAPI, deploying in Docker.
+Web scraping with BeautifulSoup, Selenium.
+Development and maintenance of the OpenMetadata data catalog."
+data engineer,"Entry-level Data Analyst / Data Engineer with a strong interest in data automation and process optimization.
+Contributed to a project that migrated data from Google Sheets to SQL using Python scripts.
+I switched careers, and during my entire time in my previous field, only one client ended up dissatisfied—but the issue wasn't with the work itself; it was my unwillingness to do part of it for free.
+I expect to develop rapidly and continuously as a specialist, thereby accelerating and improving the company's performance. I look forward to long-term and productive working relationships."
+data engineer,"Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
+• Doctor Chat – AI Assistant for Medical Consultations
+Tech Stack: TensorFlow, Transformers, Docker, Sreamlit, Pandas.
+In this project, I developed an AI-powered chatbot that provides medical advice and recommendations. The bot utilizes a fine-tuned GPT-2 model to generate responses in a structured dialogue format between the patient and a virtual doctor. The application is built using Streamlit and deployed on a server, ensuring seamless accessibility. The chatbot offers personalized health advice, making it an essential tool for quick consultations and initial diagnostics.
+Achievements:
+- Fine-tuned the GPT-2 model to achieve high accuracy in generating medical advice,
+reducing perplexity to 12.91.
+- Implemented a rigorous fine-tuning process to tailor the responses specifically to the medical domain, ensuring that the chatbot provides accurate, reliable, and contextually appropriate
+answers.
+- Built an intuitive and engaging front-end with Streamlit, allowing users to interact easily with the bot and receive personalized advice.
+- Deployed the solution in a Docker container, ensuring scalability, easy deployment, and enhanced performance across different environments.
+• Weather Forecast API
+Tech Stack: Keras, FastAPI, Docker, Numpy, Pandas, Scikit-Learn, Matplotlib.
+In this project, I developed an RNN-based API to forecast weather conditions for the next day using historical data from the past 7 days. The API was containerized using Docker and deployed on a server, enabling seamless integration and scalability. The endpoint is easily accessible via POST requests, making it practical for real-world applications in weather monitoring or decision support systems.
+Achievements:
+- Designed and deployed an RNN model optimized for time-series weather data prediction.
+- Built a FastAPI backend, packaged it in Docker, and deployed it on Render.
+- Developed an interface that accepts 7 days of weather data.
+1. Quickly and thoroughly mastered Python to write clean and efficient code by leveraging literature and online courses.
+2. Immersed myself in the field of Data Science and gained proficiency in libraries such as Pandas, NumPy, Matplotlib, and Seaborn for working with data.
+3. Using the knowledge from the previous achievement, successfully completed projects focused on data analysis and visualization.
+4. Acquired practical experience in collecting data from various sources using technologies such as SQL, MongoDB, and web scraping.
+5. Studied the functionality of machine learning algorithms and libraries such as Keras, TensorFlow, and scikit-learn, and successfully completed numerous tasks involving machine learning and neural networks.
+6. Mastered and effectively utilized technologies for project and dependency management, including Docker, Git, Poetry, and Conda.
+7. Delved into the deployment of machine learning models and learned how to create visually appealing interactive web dashboards using Streamlit, as well as deploying them on servers.
+8. Successfully completed the Data Science and Machine Learning course, gaining deep knowledge in the field and completing numerous projects that showcase my expertise.
+9. Gained proficiency in working with APIs, using requests to effectively integrate with other APIs and perform comprehensive tasks.
+10. Acquired skills in building APIs using FastAPI and implemented an API for a previously developed weather forecasting neural network.
+11. Acquired theoretical and practical knowledge in transformer architecture and the use of the HuggingFace library, applying them to create a chatbot based on GPT-2.
+12. Researched Power BI to effectively address various business objectives.
+Soft Skills:
+• Team collaboration
+• Strong communication
+• Critical and analytical thinking
+• Problem-solving
+• Adaptability to new tools and technologies
+I am actively seeking a position where I can apply my skills and knowledge in data science and machine learning to solve complex and innovative challenges. I am a fast learner, quickly adapting to the ever-evolving IT landscape. Passionate about this field, I am steadily and purposefully improving my expertise.
+With strong experience in libraries such as NumPy, Pandas, TensorFlow, and others, I am capable of tackling both current and more advanced tasks to address real-world problems. Let’s work together to make a meaningful impact in this world!"
+data engineer,"Hi everyone - I am highly skilled Data Engineer with over 10 years of experience in Data Engineering, Analytics, Data Modeling, and Business Intelligence. Adept at designing and optimizing ETL pipelines while transforming complex datasets into actionable insights. Proficient in SQL and Python for data processing and automation, with extensive experience in developing interactive dashboards and visualizations using Tableau.
+Known for bridging the gap between data and business, enabling strategic decision-making through data storytelling and BI solutions. Strong problem-solving abilities, attention to detail, and a results-driven mindset ensure accuracy and efficiency in data workflows. Excellent communicator with the ability to translate technical insights into business impact, ensuring stakeholders fully leverage data for informed decision-making.
+Years of experience in designing and optimizing data
+warehouse structures.
+Expertise in developing ETL workflows using SSIS.
+Skilled in automating processes with Python and
+Databricks.
+Extensive experience in managing database
+migrations.
+Proficient in leveraging Tableau, OBIEE, and similar
+tools for reporting.
+Proven ability to optimize SQL query performance.
+Extensive background in data modeling and schema
+design.
+Skilled in designing AWS architectures for database
+solutions.
+Experienced in creating user dashboards with
+Sisense and Tableau.
+Proven track record of designing comprehensive
+migration plans and strategies.
+Expertise in developing and managing onboarding
+processes.
+Adept at translating business requirements into
+technical specifications.
+Skilled in leading and supporting ongoing data
+reporting solutions."
+data engineer,"While studying at the university, I fundamentally studied the programming languages ​​​​Python and C++, and also gained knowledge in the field of algorithms and computational methods. My educational program included the study of discrete mathematics, which is a key tool for developing effective algorithms and data structures. In addition, I gained experience in data analysis using the Python language, which allowed me to process and interpret information to make informed decisions. All this experience at the university formed a solid foundation for me in the field of programming, algorithms and data analysis, which I am ready to apply in my future work and i also had experience in passing Tensor Flow ML course.
+Stack: python, c++, django, javascript(html, css), git, SQL(MySQL, MSSQL, Oracle, Firebird)"
+data engineer,"1) Data integration pipelines from 3rd party services. Set up automated data integrations and build database design to store and operate with gigabytes of data to help business make data-driven decisions.
+Stack: Airflow, Postgres, BigQuery, GCP
+2) Migrate data that is being produced by IoT platform to a TimeScaleDB. Provide close to live big data aggregations for client dashboards.
+Stack: Posgres, TimeScaleDB
+3) Deploy ML model training cycle on a Databricks platform, including fetch of data, preprocessing, model training, comparing with previous version, serving better version as an API endpoint
+Stack: scikit-learn, Postgres, MLFlow, AirFlow, Databricks
+4) Educational Computer Vision projects
+- Un-, semi-, self-supervised and metric learning approaches for image classification, representation and retrival. Utilizing transfer learning including ViT as feature extractors.
+Stack: pytorch, clip, dino, timm
+Image segmentation with U-net and SAM models
+Stack: pytorch, segmentation models, SAM
+5) Educational GenAI Computer Vision project
+Implementing Autoencoders, VAE, GAN, Diffusions (pixel and latent), FlowModels
+Completed Data Science Program at Epam University
+Obtained a Deep learning certificate on Coursera
+Courses certificates and completed projects on DataCamp"
+data engineer,"Various Data Analysis, Image Recognition, Natural Language Processing, Reinforcement Learning projects.
+Kaggle Competition Expert.
+Skills Used: Data Collection, EDA, Data Processing, Data Wrangling, Data Visualization, Predictive Analysis, Modeling, Feature Engineering, Deep Reinforcement Learning, TensorFlow, TPUs, Image Classification, Natural Language Processing.
+I aspire to develop in the field of generative AI and Image Recognition.
+Certification in:
+Data science,
+Deep learning,
+Unsupervised,  Reinforcement Learning,
+Sequences, Time Series
+TensorFlow, PyTorch
+OpenCV
+Generative AI
+Apache Spark
+Statistics
+MLOps
+Mongo DB
+AWS
+Power BI, Excel"
+data engineer,"Part-time Laravel developer (<1yr)
+• Built Web scraper with Beautifulsoup-like php library and expanded website’s database to store and use this
+data, thus allowing to populate majority of a website with automatically scraped and processed data.
+• Managed and patched MySQL database for newly created services of multiple websites, ensuring data
+integrity and anomaly free design which eased development process in the future.
+• Made custom console tool to communicate with OpenAI REST API to process data about various animals and
+automatically assign generated “properties” tags to animals.
+• Maintained, expanded and integrated websites’ admin pages and their associated databases.
+• Developed, patched and created websites’ dynamically created pages, which often required creating admin
+pages and such database schemas to enshure failproof
+• Used numerous JS, CSS libraries, like Jquery, Tailwind, Bootstrap, swiperjs etc. UI libraries.
+Successfully launched containers with Apache Spark, Kafka, local Minio AWS compatible storage and
+experimented building ETL pipelines with SparkSQL batch processing interface and writing data into storage.
+Familiarized myself with the basics of cloud technologies (Google cloud) + terraform; launched remote
+instances of virtual machines and connected to them via SSH protocol, setting them up
+Worked with pandas and numpy python libraries as a part of university python data course"
+data engineer,"As a Senior Data Operations Manager and Data Analytics Team Lead, I have led teams to build data-driven frameworks and optimized data operations, aligning analytics capabilities with strategic business goals. My core focus has been on designing scalable data infrastructures that enable efficient, high-quality data management and insights delivery. I drive the establishment of critical business metrics and lead the team in creating robust ETL pipelines and data models using Python, SQL, ClickHouse, and PostgreSQL.
+I oversee predictive analytics initiatives, developing models that leverage historical data for accurate forecasting and strategic planning. Additionally, I implemented A/B testing frameworks that allow the team to validate and optimize business processes, generating actionable recommendations for stakeholders. My approach ensures that analytics are both impactful and tightly integrated into business operations.
+In this role, I collaborate closely with cross-functional leaders to align data initiatives with broader organizational objectives, facilitating a data-driven culture across departments. I also lead cloud migration projects, guiding the transition to Azure and AWS to enhance data accessibility, system scalability, and team productivity.
+- Built a Centralized Data Infrastructure: Led the creation of a scalable data warehouse with efficient ETL pipelines, providing a solid foundation for enterprise-wide analytics.
+- Automated and Standardized Key Metrics: Established interactive dashboards for continuous KPI tracking, enabling leadership to make real-time, data-driven decisions.
+- Executed a Seamless Cloud Migration: Successfully transitioned data operations to Azure, improving reliability, performance, and scalability for future growth.
+- Enhanced Data Efficiency and Accessibility: Automated routine data processing tasks, reducing time spent on manual reporting and increasing data accessibility for business users.
+- Implemented High-Impact Forecast Models: Deployed predictive models that deliver strategic insights, enabling the organization to anticipate trends and make proactive business decisions.
+- Unified Retail Data Operations: Integrated sales, orders, and visits data, delivering a consolidated view of retail performance for operational oversight.
+- Instituted Data-Driven A/B Testing: Developed structured A/B testing frameworks that empower the team to systematically improve key processes, delivering measurable business outcomes."
+data engineer,"More than 5 years of experience in data management, specializing in building and optimizing data management systems and digital solutions. Extensive expertise in setting up and maintaining reporting systems, integrating advanced data platforms, and streamlining data flow to drive business growth and innovation. Skilled in data analysis, dimensional modeling, and ETL processes, with strong proficiency in T-SQL and Python, utilizing libraries like Pandas and PySpark. Hands-on experience with platforms such as Azure Synapse, Google BigQuery, and Snowflake, along with managing various databases and cloud environments. Proficient in leveraging cutting-edge technologies to unlock the full potential of data for organizations.
+-> Successfully built and optimized scalable data management systems, improving data flow efficiency by 30%.
+-> Led the integration of advanced data platforms, enhancing reporting capabilities and supporting business growth.
+-> Developed and maintained ETL processes, resulting in faster data processing and improved data quality.
+-> Streamlined database operations across cloud platforms such as Azure Synapse, Google BigQuery, and Snowflake, ensuring seamless performance.
+-> Utilized Python and T-SQL to implement complex data analysis and modeling, driving actionable insights for strategic decision-making.
+I’m seeking a long-term project that will allow me to grow professionally and further solidify and enhance my skills as a Data Engineer."
+data engineer,"Hi there! I’m a data expert who creates complete data ecosystems and optimizes digital infrastructures. I have a proven track record of building reporting systems, implementing cutting-edge data platforms, and improving data flow efficiency to fuel growth and transformation. My skill set includes data analysis, modeling, and ETL processes, and I have expertise in T-SQL and Python, using tools like Pandas and PySpark. I’m experienced with Azure Synapse, Google BigQuery, and Snowflake, and I’m familiar with several databases and cloud environments. I’m passionate about using innovative technology to help organizations fully capitalize on their data!
+* Designed and implemented comprehensive data ecosystems, enhancing digital infrastructure and optimizing data flows for improved business performance.
+* Developed and deployed advanced reporting systems, providing actionable insights that supported business growth and transformation.
+* Expertise in data analysis, modeling, and ETL processes, utilizing tools like T-SQL, Python, Pandas, and PySpark to ensure efficient data handling.
+* Extensive experience working with cloud-based platforms such as Azure Synapse, Google BigQuery, and Snowflake, ensuring smooth integration across multiple environments.
+* Passionate about leveraging cutting-edge technologies to help organizations maximize the value of their data and drive innovation.
+I’m looking for a long-term project that will allow me to expand my skills as a Data Analyst and engineer and continue to develop professionally."
+data engineer,"Hi there! I’m a data enthusiast who builds comprehensive data ecosystems and robust digital infrastructures for top and middle management. I’ve worked on projects where I’ve set up regular reporting systems, integrated advanced data platforms, and optimized data flows across organizations to drive transformation, innovation, and growth.
+I craft tailored business intelligence (BI) solutions from scratch, enabling companies to track and monitor key performance indicators (KPIs) crucial for their digital transformation journey. I utilize practical BI tools like PowerBI, QlikView, and Tableau to help businesses make informed decisions and stay agile in the digital landscape.
+My skills in data analysis, modeling, and designing ETL processes are backed by a deep expertise in T-SQL and a proven track record in performance tuning and handling large data volumes. I’ve written and optimized Python ETL data pipelines using libraries like Pandas, NumPy, and PySpark for data manipulation, analysis, and visualization. My technical toolkit includes dbt, R, Jupyter, Scala, Anaconda, GitHub, and Rust.
+I’ve developed reporting and analytics solutions using tools like Azure Synapse, Azure SQL Database, SSAS, Google BigQuery, and Snowflake. I’m familiar with CRM systems, data warehousing solutions, and technologies like PostgreSQL, MongoDB, MySQL, Oracle, and 1C8. Plus, I have extensive experience with cloud platforms like Azure, AWS, and GCP, including components like Data Lakes, Data Warehouses, Azure Data Factory, and BigQuery.
+I also work with languages like KQL, DAX, MDX, HTML, PHP, CSS, and JavaScript, and I integrate tools like Jira into my projects. With a comprehensive understanding of the entire Software Development Lifecycle (SDLC), I’ve successfully delivered projects from initial data architecture design to full-scale implementation and ongoing support.
+I’m eager to continue growing in data engineering and analytics. I’m passionate about leveraging cutting-edge technologies to drive innovation and help organizations make the most of their data!
+1. Successfully built comprehensive data ecosystems and digital infrastructures that improved decision-making and performance tracking for top and middle management.
+2. Led the implementation of regular reporting systems and integrated advanced data platforms, streamlining data flows and driving organizational transformation and innovation.
+3. Developed custom BI solutions from the ground up, enabling businesses to effectively monitor KPIs and accelerate their digital transformation journey using tools like PowerBI, QlikView, and Tableau.
+4. Optimized and designed ETL pipelines using Python, Pandas, PySpark, and dbt, improving data manipulation, analysis, and reporting capabilities for large data volumes.
+5. Delivered high-performance reporting and analytics solutions across platforms such as Azure Synapse, Azure SQL Database, SSAS, Google BigQuery, and Snowflake, ensuring scalability and reliability.
+6. Enhanced data warehousing and CRM systems, working with databases like PostgreSQL, MongoDB, MySQL, Oracle, and 1C8, along with cloud services such as Azure, AWS, and GCP.
+7. Proficiently used T-SQL for performance tuning and large-scale data handling, while employing languages like KQL, DAX, MDX, HTML, PHP, CSS, and JavaScript to integrate complex solutions.
+8. Managed the entire SDLC, from data architecture to implementation and support, delivering end-to-end projects that leveraged cutting-edge technology to drive innovation and data-driven decision-making.
+1. Opportunities to work on long-term projects that offer professional growth and allow me to expand my skills in data engineering and analytics.
+2. Challenging and engaging work where I can apply cutting-edge technologies to solve business problems.
+3. Involvement in projects that focus on building and optimizing data infrastructure, creating analytics systems, and reporting that help companies make informed decisions.
+4. Flexibility in work arrangements, including remote work options and a flexible schedule.
+5. Clear goals and transparent processes within the team to effectively complete tasks and achieve results."
+data engineer,"Skills:
+- Streamlining workflows and reporting in analytics tools like Google Analytics (GA4), Heap, Amplitude, and Mixpanel.
+- Setting up and fine-tuning analytics for mobile apps using platforms such as AppsFlyer, AppMetrica, Firebase, and Facebook Analytics.
+- Developing technical specifications for integrating analytical services, CRM systems, and third-party tools (K50, OWOX BI, Exponea, User.com, Hubspot, MailerLite, MailChimp, Zapier, etc.).
+- Experience with Python for data extraction and processing via API for ETL pipelines, frequently using libraries such as JSON, requests, pandas, numpy, and client libraries (Google Cloud, Google Search Console, Twilio, Crisp, Meta, Bing).
+- Conducting detailed analysis of advertising campaigns based on multichannel attribution data to drive strategic insights.
+- Creating clear and effective data and report visualizations using tools like Google Looker Studio, Tableau, and Power BI.
+- Experienced user of task management systems like Jira, Trello, Redmine, and YouTrack to manage projects efficiently.
+- Planning, budgeting, and executing marketing activities with precision.
+- Collaborating with external agencies, including advertising and analytics partners, to achieve project outcomes.
+- Impartially evaluating the effectiveness of advertising campaigns to optimize performance.
+- Customizing and optimizing contextual and targeted advertising strategies for better engagement.
+- Experience working with databases like PostgreSQL and MariaDB, as well as data warehouses such as Google BigQuery.
+- Proficiency in CSS, HTML, JavaScript, SQL, and Python for data manipulation and web analytics.
+- Managing virtual machines on cloud platforms like Google Cloud and AWS (Debian, Ubuntu, Amazon Linux environments).
+- Setting up cloud functions (Google Cloud Functions, AWS Lambda) for automating data tasks.
+- Setting up and managing conversions and goals for site analytics using tools like Google Tag Manager, Google Analytics, Facebook Pixel, and Segment for precise tracking and reporting.
+Big data analyzed with razor-sharp accuracy."
+data engineer,"* Advanced skills in MS Excel, particularly with Pivot Tables, Power Query, and various data visualization techniques.
+* Extensive experience in SQL, including developing queries and performing data manipulation tasks such as inserting, updating, and deleting data rows.
+* Deep understanding of task management software like Jira and Asana.
+* Proficient in Business Intelligence tools such as MS Power BI, with a strong focus on DAX and Power Query for crafting insightful reports.
+* Competent in using external Power BI tools like Tabular Editor 2, Tabular Editor 3, and DAX Studio for fine-tuning data models and optimizing performance.
+* Skilled in Power BI administration, including managing Workspaces, Gateway connections, update scheduling, and safeguarding data integrity.
+* Extensive practice with Power BI Dataflows, MS Power Automate, and applying Row-Level Security (RLS) to ensure data control.
+* Solid grounding in Python, with experience using PyCharm and Jupyter Notebook for automating workflows and conducting data analysis.
+* Knowledgeable in MS Dynamics 365 for Finance and Operations.
+* Created a new analytics system for the company, significantly improving the speed and accuracy of data reporting.
+* Streamlined financial reporting through automation, cutting down on processing time and minimizing errors.
+* Designed and implemented a forecasting tool that enhanced the quality of business decision-making."
+data engineer,"Summary
+I'm a data engineer with 5 years of experience (Fintech, banking, healthcare). I have experience in leading a team. I am very proactive, have management and organizational skills, willing to learn and have experience in mentoring. I am able to achieve goals and handle pressure, meet deadlines and flexibly adapt to changing project requirements. Participated in the development of a project from 0 with microprocessor architecture.
+Skills
+•   Maintaining regular communication with clients to gather requirements and provide updates.
+•   Database and Query queryoptimization
+•   Delivering sprint reports to clients, showcasing project progress and metrics.
+•   Participated in the construction of architecture from 0
+•   ETL automation and create sql tests
+•   Tuning existing database objects, fixing bugs and errors. Create new stored procedures,functions,tables,views and other database objects;
+•   Working with OLAP cubes: creating measures, dimensions and relations between it.Fixing bugs and cube processing errors
+•   Creating Export/Import procedures by load data from local or ftp files
+•   Checking the code in the git and following the code convention
+•   Mentoring a group of people
+•   Documenting business processes.
+•   Supports environments and communicating with the customer
+•   Evaluating tasks and checking scores
+Studied at Lviv Physics and Mathematics Lyceum Graduated in 2015
+Education Magister degree in Computer Science 2016-2022:
+Ivan Franko National Iniversity of Lviv, Faculty of Applied mathematics, ""Computer Science ""
+Speciality.
+Course work - Development of a relational database for accounting Graduate work - Face recognition using Azure
+Course work 2 - Analysis of relational database optimization
+Master's work - Application of Olap technologies to solve FMCG market problems
+For the past almost two years, I've been doing a lot of management and working with the customer service team, etc."
+data engineer,"AI Engineer
+Apr 2024 – Present
+- Developed forest segmentation and land use delineation models from low-resolution satellite imagery.
+- Trained super-resolution models (2x, 4x) using Swin Transformer to increase image resolution for downstream tasks.
+- Tools: PyTorch, Python, Computer Vision, Swin Transformer, U-Net, GANs
+Machine Learning Engineer
+Jan 2024 – Apr 2024
+- Developed a multilingual AI agent using RAG architecture with LangChain and LLMs.
+- Designed BERT-based models to detect gibberish keywords and predict user search intent.
+- Tools: Python, BERT, LangChain, Random Forest, SpaCy, Selenium, MongoDB, LLMs, RAG, AI Agents
+Senior Data Scientist
+Sep 2023 – Feb 2024
+- Automated C-suite dashboards with real-time KPIs, doubling reporting speed.
+- Deployed fraud detection models reducing internal misconduct by 50%.
+- Tools: R, Python, SQL, QlikView, PowerBI
+Data Scientist
+Oct 2021 – Aug 2023
+- Analyzed customer behavior to boost premium card uptake by 60%.
+- Led marketing analytics that improved campaign conversion rates by 25%.
+- Tools: Python, K-Means, ARIMA, Linear Regression, PowerBI
+- Presidential Scholarship Winner (2016)
+- 1st place at the 2nd International Student Research and Science Conference (2021)
+- 3rd place at the First National Students Scientific Conferences (2019)
+Personal Projects
+Real-time Drone Detector (07/2019 - 08/2019)
+- Implemented and optimized a YOLOv3-based Real-time Drone Detector model in collaboration with a team of two, achieving an accuracy rate of 90% and reducing false positives by 50%
+Tools: Python, ML, OpenCV, TensorFlow, Keras, YOLO
+Semi-Automated Data Cleansing Tool (07/2022-05/2023)
+- Developed a Python-based, user-friendly data cleansing tool leveraging PyQt, machine learning, and visualization libraries, achieving substantial enhancement of dataset quality through innovative semi-automation.
+- Demonstrated tool proficiency in autonomously handling diverse data cleaning tasks, contributing to improved model accuracy via rigorous evaluations, particularly with a random forest classifier.
+- Pioneered a transformative advancement in data preprocessing, emphasizing the tool's automated approach and intuitive interface, marking a significant stride in improving data quality for robust analysis in data science and analytics.
+Tools: Python, ML, Linear Regression, KNN, PyQt, Matplotlib, Seaborn, Scikit-Learn"
+data engineer,"Data Analyst | Data Engineer with a background in Frontend Development.
+Core Skills: SQL, Excel, Python & libraries, Power BI, Tableau, Machine Learning Basics
+Relevant experience from Frontend Development:
+- Optimized web performance, improving load speed and user experience.
+- Implemented GSAP animations, reducing rendering time by ~20%.
+- Collaborated with backend and design teams, reducing project delivery time by ~15%.
+- Refactored and debugged projects, improving overall code efficiency.
+- Completed IBM Data Science Specialization, applying SQL, Python, and statistical modeling for data analysis and process automation.
+- Developed analytical SQL queries, enabling efficient job market analysis for Data Analytics roles (personal project).
+- Optimized data processing by leveraging PostgreSQL and pipeline automation, improving analysis speed by ~30%.
+I'm looking for a role in Data Analytics or Data Engineering where I can apply my technical background and problem-solving mindset."
+data engineer,"Worked with different data sources and business processes in a wide range of contexts and roles, from high-level strategy, and roadmap to day-to-day tasks. In Banking (15 years) and E-commerce (6 years).
+- Data  integration, processing, cleaning, ETL
+- Data Warehousing and Data Lake concept implementation
+- Postgres, PrestoDB, ClickHouse, Oracle, Teradata, MS SQL, MS Access, MySQL, SQLite, MongoDB, Couchbase, Spark/Thrift
+- SQL knowledge, procedures, functions, usage of analytical and window functions, development of agreement of usage names. Author of central database model in warehouse project.
+- Programming in Python (command line interface tools, web applications, data crawlers, data analysis notebooks)
+- Strong in classic machine learning tasks like churn, scoring, and fraud detection (pandas, scikit-learn, IBM Modeler/ SPSS Clementine, SAS enterprise miner) also could work with part of NLP tasks
+- BI tools and spreadsheets for building reports (Google spreadsheets, Looker studio, MS Excel, Tableau, Oracle BI, Power BI, Qlik, etc)
+- Leaded teams of up to 10 people
+I want to find a job related to data/data science area, where, on the one hand, there would be useful and could apply my old skills, but also where there is an opportunity to learn new approaches, learn new tools, and technologies, solve a new type of tasks.
+- easy-to-manage analytical processes with reusable results and code, knowledge sharing, and customer focus
+- data-driven approach
+- the central data warehouse data model author
+- development of light wear ETL command-line tool
+- BI replacement approach based on google sheets
+- classic ML feature engineering approach based on Weight of Evidence (classic bank scoring technics)
+- ML models (credit scoring, churn prediction, fraud detection, deal detection)"
+data engineer,"- Development of SQL queries of any level of complexity( queries to transpose tables,aggregate functions, window functions,queries to tables with a hierarchical data structure, queries that contain JOIN instructions, queries that contain UNION instructions and other).
+- Development of SQL queries for large tables.
+- Development of scripts for creating database objects, development of scripts for filling tables with data.
+- Migration of database objects, data between different data stores using Oracle packages DBMS_METADATA, DBMS_DATAPUMP, utility  SQL Loader.
+- Development of recommendations for the database administrator on the list of roles that must be provided to the user for correct script execution.
+- Developing procedures and functions using pl/sql.
+- Experience reviewing execution plans and performance tuning.
+- Structure design and creation of database objects.
+- Program development(SQL, Pl SQl , Sql*Plus technology).
+- Developing scripts to automate tasks for the Windows operating system using the CMD command interpreter.
+- Experience with the Jira project management system.
+- Creating the reports using Sql,Pl Sql, Sql*Plus, Asp.
+- Technical support and maintenance of specialized software.
+- Providing advice to users on the work of the software.
+- Good knowledge of mathematics.
+- Good analytical skills"
+data engineer,"I started learning programming in school. It was a competitive programming using C++. I also took part in an IT tournament as a member of a team. There I met Python for the first time, and I was working with image processing and analyzing them. The next stage came when I started studying at university. We started with intense learning of C#. I've created a bunch of applications using the WPF framework and SQL server during my first year. Before entering the second year I started taking courses to prepare for a data engineer position.
+Then I started working as a data engineer in a British company (Aug 2022 - Mar 2023 · 8 mos).
+I was using Apache NiFi for data processing and GCP utilities as a data warehouse in particular GCP Storage buckets and BigQuery. Then the company delegated me some software engineer responsibilities. I was using Flutter to display the results of data processing we've done before. After the project with data processing, I had an opportunity to take part in designing an infostructure in GCP. We used  Cloud Run, and Cloud Function, Monitoring. During this project, I've learned Terraform, infrastructure-as-code software. Also, I got a Professional Cloud DevOps Engineer certificate. After that, I switched companies.
+I started working as a software developer (Oct 2022 - Present). I got experience working with Java multithreading servers, more advanced NiFi data processing, configuring working servers, and a little bit more DevOps stuff. Meanwhile, I was using Flutter for front-end development. In a side project, I created a back-end for a report-creating application. I had experience working with large amounts of data, building SQL queries, and writing post-processing logic for data preparation.
+I am looking for a promising company with interesting people and projects so that we can develop together."
+data engineer,"Collecting Various Types of Data from Different Sources, Transforming, and Loading to Data Warehouses
+building data pipelines to ingest, transform, and load the data into data warehouses using Azure Data Factory, Python, and Talend.
+Visualizing data based on the nature of the data and the respective chart type to get insights easily for the customers.
+creating and publishing dashboards and reports in various data visualization tools.
+Tools that I have used so far:
+Power BI, Azure, Azure Data Factory, Azure SQL, Snowflake,R, Python, SQL Server, SSRS, SSIS, SSAS, DBT, Excel and PostgreSQL
+Successfully implemented three USA-based pure data engineering remote projects, showcasing expertise in ETL processes using Azure Data Factory, Python, Five Tran, Snowflake, DBT, and SQL. Collaborated closely with a skilled team, ensuring timely delivery. Specialized in data cleansing and transformation, leveraging a comprehensive tech stack, including Power BI, Azure, SQL Server, and more. Received positive client feedback for tailored data visualization strategies. Continuously updated skills to incorporate cutting-edge technologies and contribute to project success.
+***What I Want:
+Challenging projects and continuous learning
+Collaborative and supportive work environment
+Opportunities for professional development
+Healthy work-life balance"
+data engineer,"Philip Morris, Armenia - Data Scientist
+September 2021 – Present
+Projects: Juniper, Battery Capacity Estimation, Topic Modeling
+* Build predictive ML, DL models and hand-coded rules to predict the state of all the IQOS devices that the company has, as well as estimate the battery's capacity using charging data.
+* Automate many processes such as building an automation data manager tool to bring (SQL, Snowflake) and push (AWS) data using CLI commands. Build and deploy interactive, user-friendly web applications for stakeholders and management with the Streamlit framework.
+* Use NLP techniques to clean and preprocess customer complaints data from many countries and build predictive models to identify the top complaints for each device
+EasyDMARC, Armenia - Machine Learning Engineer
+September 2020 – August 2021
+Project details: Phishing URL Detection, Anomaly detection
+* Scrape benign and phishing URLs from various website sources and store all the raw and preprocessed data in PostgreSQL tables.
+* Preprocess text data from the URL and the website itself and train both classical ML and DL algorithms, applying hyperparameter tuning of the models, and scheduling training processes with Airflow.
+* Create Rest API with Sanic, containerize with Docker and deploy the project in Google Cloud
+Metric.am, Armenia - Data Scientist
+June, 2020 – August, 2020
+Project details: Stock price prediction, People target classification
+* Get personal data from American banks and identify top candidates who are most likely to accept bank offers and apply classical ML algorithms to divide people into top 10 deciles
+* Building stock price predictive models, to predict the prices of different stocks and comparing both classical ML and DL models with a buy-and-hold strategy
+RAU ML Laboratory, Armenia - Data Scientist
+June, 2018 – May 2020
+Project details: Risky people classification, House price, Document Classification, DSP
+* Apply ML algorithms on tabular data of insurance companies to identify statistical insights from the data and identify risky people
+* Scrape house data from all the website sources in Armenia and for government provide House Price Index for different regions in Armenia.
+* Using digital signals from the insole to generate/extract features and build predictive models to identify
+how long was a person sitting, walking, etc.
+* Use NLP techniques to extract data from various documents and build predictive NLP classifiers to classify each document.
+TOEFL Official Score of 98
+SAT official score of 800
+Python and Machine Learning teacher from September 2022 teaching in various Training Centers and Companies."
+data engineer,"I worked as a data manager-data engineer. As a data manager (DM), I was responsible for database creation (the company I worked at had its own commercial web-based database), configuration, manual testing, coding automated calculations, data cleaning, and data validation. I also focused on delivering projects on time—from database creation to production release, along with all the necessary technical documentation—while coordinating cross-functional teams to align on project deadlines and requirements. Additionally, I provided training on databases to my colleagues and mentored junior staff.
+Over time, I realized I wanted to take on more technical tasks, and I had the opportunity to work with some data engineering tools. Since I was doing a lot of data cleaning, I implemented Python scripts (great expectation (GX)) to speed up the process of finding duplicates and discrepancies, which I previously handled manually in Excel. The data was stored in CSV files within folders, making it inconvenient for medical experts to retrieve and analyze information. To improve this, I started developing ETL processes—extracting CSV files from cloud storage, loading the data into a PostgreSQL database, and transforming it using SQL (e.g., joining CSV files and aggregating them into data marts). I then sent the processed data to Superset for analysis and visualization by medical experts. I orchestrated the entire process using DAGs in Apache Airflow."
+data engineer,"I’m a Data Engineer just starting out and already loving the world of data. I’ve worked with Python, SQL, and some database management, contributing to real projects in both internships and my current role. So far, I’ve built and optimized small data pipelines, cleaned datasets, and pulled insights from structured data. I’m excited to keep growing, learn more about databases, explore new tools, and get hands-on with cloud platforms.
+I’ve optimized data pipelines to run faster, built a SQL dashboard that helped my team make better decisions, and improved how we clean datasets. I also completed the Google Data Analytics Certificate, which leveled up my skills with databases and queries. These experiences have been super rewarding and keep fueling my passion for data.
+I’d love a role where I can learn from others, work on exciting projects, and grow my skills with big data and cloud platforms. A workplace that supports learning and creativity would be amazing—I’m all about collaboration and solving meaningful problems."
+data engineer,"...
+Developed a model to predict loan default probability, improving credit risk assessment and reducing non-performing clients.
+Utilized Pandas for data preprocessing, handling missing values, and feature engineering to prepare datasets for classification tasks.
+Applied Scikit-learn to develop and evaluate classification models for predicting credit risk.
+Developed a regression model to predict house prices.
+Utilized pandas for data manipulation and Scikit-learn for model development."
+data engineer,"DATA ANALYST INTERN (DRONE PROGRAMMING FOCUS) – AZERCOSMOS – Baku, Azerbaijan        January – March 2021
+Analyzed drone performance data through flight testing and assessments to improve reliability.
+Developed Python-based automation scripts for integrating sensor data and monitoring drone operations.
+Collaborated on the development of real-time reporting systems for autonomous drones, enhancing decision-making efficiency.
+Utilized data visualization techniques to present insights on operational performance.
+ROBOTICS COACH – AZERBAIJAN ROBOTICS ENGINEERING ACADEMY (AREA) – Baku, Azerbaijan 	August 2019 – December 2020
+Designed data-driven learning strategies to prepare student teams for the World Robot Olympiad.
+Mentored students on analyzing and optimizing robotics projects using programming and sensor data.
+Implemented performance-tracking tools to monitor progress, resulting in improved problem-solving and teamwork skills.
+Utilized various data collection methods to assess student engagement and project success.
+MASTER OF SCIENCE IN BUSINESS ANALYTICS AND DATA SCIENCE– Marie Curie-Skłodowska University – Lublin, Poland (2024-2026)
+BACHELOR OF SCIENCE IN ROBOTICS AND MECHATRONICS ENGINEERING – Azerbaijan State Oil and Industry University – Baku, Azerbaijan  (2018-2022)
+What I Want from Work:
+Opportunities for Growth and Learning: I am looking for a role where I can continue to develop my skills in data analysis, automation, and data visualization. I value environments that encourage learning new tools and technologies, such as Python, Power BI, SQL, and RPA tools, while also providing mentorship and guidance.
+Collaborative and Innovative Environment: I thrive in teams where collaboration and innovation are encouraged. I enjoy working with diverse, cross-functional teams to solve complex problems and deliver data-driven solutions.
+Impactful Work: I want to contribute to projects that have a meaningful impact, whether it’s improving business processes, optimizing decision-making, or driving innovation through data insights.
+Work-Life Balance: While I am committed to delivering high-quality work, I value a healthy work-life balance, especially during academic commitments. Flexibility during exam periods or personal milestones is important to me.
+Clear Goals and Structured Processes: I appreciate roles where expectations and goals are clearly defined, and processes are well-structured. This allows me to focus on delivering results and continuously improving efficiency.
+What I Don’t Want from Work:
+Micromanagement: I prefer roles where I am given the autonomy to manage my tasks and projects, with trust in my ability to deliver results.
+Limited Opportunities for Skill Development: I want to avoid roles that do not offer opportunities to learn and grow, as continuous improvement is a key part of my professional journey.
+Static or Repetitive Tasks: I am not looking for roles that involve repetitive tasks without room for creativity, problem-solving, or innovation.
+Toxic Work Environment: I value a positive, inclusive, and supportive workplace culture and want to avoid environments that lack collaboration or respect."
+data engineer,"Currently working with Azure Data Factory.
+Microsoft Certified: Azure Data Engineer Associate.
+Experience in refactoring / writing high performance T-SQL scripts / stored procedures for OLTP systems (available 24/7 without downtime for release deployment) including next approaches:
+- design and development Micro Service DB part of architecture in new and existing projects;
+- Reverse engineering NHibernate .Net code to MS SQL procedures (good .Net code reading skills);
+- readable, commented SQL code;
+- dynamic SQL code with parameterization (resistant to SQL-injections);
+- index covering for certain cases;
+- checking IO statistics and tuning;
+- checking execution plans and tuning;
+- profiler trace use;
+- XEvents monitoring;
+- creating fast working SSRS reports;
+- altering SSIS packages / creating migration scripts.
+Education:
+University. Department of electronic and information technologies. Specialty: ""Computer systems and networks"". Master degree.
+In OLTP solution changed type of wide spread column (near 20 tables) that were also used as composite primary key of few project tables. Done without downtime using triggers, migrations,  backward compatibility code in stored procedures.
+Designed, tested and implemented high loaded message queue for Kafka.
+Without downtime were moved DB objects of high loaded Micro Service to dedicated DB.
+Interesting tasks, dynamic work, Scrum approach, effective work in team, getting new knowledge and experience.
+I currently live abroad - in Turkey."
+data engineer,"Under my belt is more than 13 years in backend and overall software system engineering, including (but not limited with) a wide spectrum of activities in SDLC itself (design and implementation, troubleshooting, supervision and audit) and personnel development (mentoring, leading, etc).
+For last 7 or so years I work primarely with cloud-based solutions, targeting AWS and GCP, using modern (to date) practices of an operational automation (DevOps/GitOps).
+I have experience in development and maintaining of highload large-scale platforms (MAU in millions) written in JVM-languages, namely Scala and Java.
+Some of the mentioned systems were: 1 - adtech (US media corporation), 2 - fashion marketplace (UK/Europe), 3 - clinical CRM (US vettech/petcare). All of them allowed me to grasp domain knowledge of a respectful industry.
+Conducted a technical initiative for a streaming processing at (1), using a state of the art (to date) opensource framework.
+Led an outsorced engineering team at (2) with a goal of development a new subsystem of their platform to automate client to client disputes resolution.
+Designed, implemented and maitained a significant portion of a data warehouse solehandedly due to the lack of team extention capabilities."
+data engineer,"I have been creating Proof of Concept and Minimum Viable Product solutions for startups.
+My primary expertise is in Computer Vision and Natural Language Processing, though I am also experienced in traditional Data Science.
+I have experience with:
+CV:
+- Object detection/tracking
+- Segmentation
+- Image retrieval
+- Generative models
+NLP:
+- Chatbot development
+- Multi-agents
+- Language model fine-tuning
+- LLMs, BERT, VLMs
+Tabular DS:
+- Regression models
+- K-Nearest Neighbors
+- Tree-based methods (Random Forest, AdaBoost, Gradient Boosting)
+- Support Vector Machines (SVM)
+- Clustering (K-means, DBSCAN)
+- Dimensionality reduction (PCA, t-SNE)
+Technical Skills:
+- Docker / Docker-Compose
+- FastAPI
+- GIT
+- AWS (EC2, S3, Lambda)
+I would prefer to dedicate my future career to the robotics branch of machine learning, which I find extremely fascinating. It's basically my hobby, so I'm not interested in positions related solely to the LLM tech stack."
+data engineer,"I'm Mid-Senior Azure Data Engineer and Power BI Data Analyst.
+I specialize in designing scalable data architectures, enabling data-driven decision-making, and delivering actionable insights to address complex business challenges. With strong expertise in modern data engineering tools and cloud-based solutions, I excel in optimizing data workflows and empowering organizations to harness the full potential of their data.
+Key Highlights:
+Proficient in Azure Data Factory (ADF): Expertise in designing and orchestrating data pipelines for data ingestion, transformation, and migration.
+Developed migration pipelines with ADF to migrate data from SQL Server to Azure SQL Database, utilizing Incremental Load (SCD Type 2) to ensure historical data accuracy and seamless updates.
+Skilled in Azure Databricks (PySpark) for processing and transforming large-scale data from Azure Data Lake Storage Gen2 (TEXT and CSV files) into structured datasets using Delta Lake.
+Designed and implemented multi-layered data pipelines, transitioning data through Bronze (iODS stage), Silver (iSTG stage), and Gold (ADW stage) Delta Tables to ensure high-quality, datasets for analytics.
+Built optimized pipelines to load large datasets from Databricks into Azure SQL Pool, delivering superior performance for enterprise data warehousing and analytics.
+Streamlined ETL processes using ADF and Databricks, ensuring seamless integration, data accuracy, and operational efficiency.
+Scheduled and orchestrated Databricks notebooks with ADF, automating workflows to improve reliability and reduce manual effort.
+Created and deployed over 10 Power BI reports across key business domains, including Sales and Stock, Financials, HR, Customer, and Marketing, providing actionable insights for stakeholders.
+Proficient in using Jira for task management, sprint planning, and tracking progress across the Software Development Life Cycle (SDLC).
+Collaborated with cross-functional teams to ensure alignment on project goals and delivery timelines.
+Managed user stories, epics, and sprint cycles to maintain Agile workflows and enhance project delivery efficiency.
+Utilized CI/CD pipelines to schedule and run data pipelines, ensuring consistency and reducing operational overhead.
+Used Git for version control, pushing changes to the repository after updates to scripts, and configurations."
+data engineer,"- Management of RDBMS and optimization SQL queries for performance;
+- Monitoring and perfomance analysis;
+- Data transformation and modeling;
+- Implementation of solutions for offloading OLTP databases;
+- Support for databases with terabytes of data using optimal tuning, partitioning and filegroup separation techniques;
+- Developing, implement and maintain ETL/ELT workflows;
+- Setting up batch and near-real-time data processing using CDC mechanisms;"
+data engineer,"•	Knowledge of SQL, T-SQL, DAX, MDX, Python.
+•	Knowledge of Power BI, Google Data Studio, Sisense, Looker, SSRS, Tableau, Jaspersoft Studio;
+•	Development of procedures, views, triggers, functions, etc.
+•	Knowledge of Google Analytics;
+•	Knowledge of MS Office products (Word, Excel, Power Point etc.)
+•	Work experience with CRM system (Salesforce);
+•	ETL development using Azure Data Factory, SSIS, SQL, Python.
+•	Work experience with SSMS, DBeaver, DataGrip, VSCode;
+•	Work experience with OLAP;
+•	CI/CD;
+•	Work experience with Azure, MS SQL, PostgreSQL, Greenplum, MongoDB (basics) databases;
+•	Python.
+- Was participating in deployment pipeline automation for Power BI
+- Was mentoring and launching BI development team in company
+I think this can be challenging work with interesting tasks which can give me more experience in solution of different tasks."
+data engineer,"I worked in such domains: telecommunications, big data, agro, date engineering, marketing and iGaming. I have experience in developing scalable services from zero and ongoing development, developing monolith, microservices and migration of monolith to microservices, implementing async code, working with integrations, debbuging and optimazing apps for performance, deploying and participation in code reviews.
+• Languages: Python, Javascript
+• Frameworks: FastAPI, Django, Flask, aiohttp
+• Cloud Providers: AWS, GCP
+• Databases: PostgreSQL(PostGIS), MongoDB, Apache Cassandra, Redis, ElasticSearch, QLDB
+• API Technologies: REST API, GraphQL
+• Infrastructure, Orchestration & DevOps: Docker, Kubernetes, Airflow, Terraform, AWS CloudFormation
+• CI/CD: GitLab CI, GitHub Actions, AWS Pipeline
+• Monitoring & Logging: Kibana, Grafana, New Relic, Datadog, Sentry
+• Testing: unittests, pytest, locust
+• Other: Git, Bash, Auth0, Celery, Swagger, Asyncio, Jira, Confluence
+- Developed a high-load data parsing solution capable of handling data from 10 million TV boxes.
+- Developed a visualization tool for connections between boxes that is utilized by a network of 5,000 customer support representatives.
+- Designed a scalable big data solution using Apache Cassandra, optimizing data modeling and query performance to efficiently retrieve necessary information for critical business insights.
+- Built a robust backend system for a mobile application that serves thousands of clients.
+- I have received 20 different certifications from various well-known companies, showcasing my expertise and dedication to my field, like AWS Solution Architect Professional and GCP Cloud Architect."
+data engineer,"Data Engineer
+January 2024 - present
+• Building new Data Platform based on Azure Databricks leveraging Apache Spark for large-scale data ingestion, transformation, and processing of healthcare-related datasets, ensuring high performance and reliability.
+• Collaborated with business stakeholders to design clear, explainable, and business-aligned data models, enabling better decision-making and insights.
+• Using IaC approach to build Azure Databricks infrastructure to ensure scalability, consistency, and rapid provisioning.
+• Collaborated on the development of a cost-optimization strategy, achieving significant reductions in platform expenses.
+• Implemented reusable and modular PySpark-based data pipelines to enable advanced analytics and reporting, supporting downstream analytics teams with timely, clean, and accurate data.
+• Utilized SQL and Python to enhance data querying and transformation logic, integrating best practices for data integrity and pipeline orchestration within the Databricks environment
+Data Scientist/Engineer
+April 2023 - January 2024
+• Designed and implemented robust data pipelines to extract, transform, and integrate data from diverse sources, including APIs, websites, and CRM systems, ensuring seamless data ow, accuracy, and accessibility for analytics and reporting.
+• Developed interactive and insightful dashboards using Tableau, delivering clear and actionable data visualizations to enable stakeholders to make data-driven decisions effectively.
+• Utilized AWS infrastructure (including VPC, EC2, RDS, S3 and Lambda) to build scalable, reliable, and cost-efficient data solutions for processing and storing fitness-related data.
+• Collaborated on machine learning workflows, supporting analytics-driven features to enhance fitness application functionality and improve user experience.
+• Ensured data quality and integrity by implementing rigorous testing and validation processes across all stages of the data pipeline.
+Trainee Data Engineer
+October 2022 -April 2023
+• Developed and optimized data transfer scripts in Python to seamlessly move and process data across AWS services, including Amazon Athena, S3, and RDS, ensuring efficient and reliable data flow.
+• Contributed to building a robust Data Platform by integrating Python, Apache Airflow, FastAPI, and PostgreSQL.
+• Collaborated with cross-functional teams to enhance platform performance, optimize workflows, and ensure adherence to best practices in data engineering
+and cloud infra.
+Databricks Certified Data Engineer Professional"

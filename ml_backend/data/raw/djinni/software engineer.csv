@@ -1,0 +1,1206 @@
+Category,Resume
+software engineer,"Successfully led and implemented several projects to migrate, process, and compute data from Snowflake to AWS S3, ensuring scalability and data integrity.
+Developed and maintained microservices using Java and SQL.
+Created ETL pipelines with automated DAGs in Airflow that processed large amounts of data in the cloud environment.
+Actively worked with cloud infrastructure:
+Snowflake - data storage
+AWS (S3, Lambda, RDS, SQS, EC2)
+Redis - for caching and accelerating access
+Technologies: Java, Python, SQL, Snowflake, AWS (S3, Lambda, RDS, SQS, EC2), Redis, Airflow, Docker"
+software engineer,"With five years of hands-on experience in Python backend development, I specialize in utilizing technologies like FastAPI and Django to create efficient and scalable server-side applications. My expertise extends to working with databases like PostgreSQL, optimizing performance using Redis, and integrating various technologies to build robust web solutions. I am proficient in designing RESTful APIs and ensuring the security and reliability of web applications, while also staying updated with the latest trends and best practices in backend development."
+software engineer,"1. Senior Software Engineer at S&P Global (EPAM) (2021 – Present, Paris, France)
+• Developed scalable backend solutions for financial transaction reporting.
+• Optimized data reading from S3
+• Accelerated data processing by 80%, reducing runtime from 2.5 hours to 15-20 minutes.
+2. Software Engineer / Team Lead at DevRain (2019 – 2021, Kyiv, Ukraine)
+• Led development team for a CRM system integrating webshop and financial modules.
+• Optimized Azure costs by 40% and implemented various business-driven features.
+3. Software Engineer at Churchill Capital (2015 – 2019, Kyiv, Ukraine)
+• Developed an online research management system for trade idea sharing.
+• Migrated to Microsoft Azure, cutting costs by 30%.
+• Improved search efficiency with Lucene content indexing.
+4. QA Engineer at Nik LLC (2012 – 2015, Kyiv, Ukraine)
+• Desktop and web applications for energy management software.
+• Contributed code and wrote guide documentation."
+software engineer,"I'm Senior Software Engineer with hands-on experience in software development and software architecture. I have experience in several domains: fintech, insurance, and transportation. Mostly I'm responsible for the backend. I've been working in companies of different sizes, so I have a good understanding of SDLC (from gathering requirements to the support phase), how to communicate with stakeholders and teams, and how to build good processes.
+As a part of my daily responsibilities, I'm involved in the architecture design and implementation of the solutions, and code reviews.
+Made a refactoring of application that helped reduced api calls withing internal service to service communication. Improved database schema that helped us to reduce response time in 20%,
+Created a plan that improved code coverage up to 75% using Unit, Integration, Load, Acceptance testing using different tools (k6, xunit/nunit, Specflow, etc) Made refactoring the system that helped us to increase scalability and availability.
+The Projects are based on modern technologies.
+Preferred technologies/approaches on the project:
+DDD, Docker, Kubernetes, Cloud Services, ELK, .Net 5+, ASP.NET Core, Microservices, CQRS, Event Sourcing, SOLID, GOF, OOD, CI/CD"
+software engineer,"I’ve spent the last few years building, fixing, and scaling real-world systems - from high-load backends to Electron desktop apps and AI-integrated platforms. I don’t just ship features - I take ownership of the whole thing: architecture, code quality, performance, and delivery.
+At ProDrops, I rebuilt a broken tournament system from the ground up, cutting response times and boosting user session duration 5x. At The EXT Store, I implemented the frontend architecture for a cross-platform app, built a UI Kit from scratch, and helped steer product direction. With Basilicode, I integrated AI into a FinTech platform and led development on a psychology app, balancing technical complexity with clear delivery timelines.
+I’ve led full-stack teams at AMC Bridge, contributed to critical performance fixes, and replaced clunky libraries with clean, fast internal ones. Earlier, I co-founded a studio, shipped MVPs under pressure, and freelanced across a bunch of domains - always learning, always delivering.
+My go-to stack is TypeScript, Node.js, React, Next.js, Electron, and PostgreSQL, but I’ve worked with everything from Python and Go to Lua and Rust. I’m solid on CI/CD, DevOps basics, and scaling challenges.
+These days, I’m usually in a senior or lead role - writing solid code, mentoring teammates, and driving product delivery. While I’m deeply experienced in full-stack and web technologies, I’m also expanding my skills into lower-level programming - things like C/C++, embedded systems, and Rust - to round out my toolkit and better understand the layers beneath the platforms I build on.
+- Rebuilt a major tournament system at ProDrops, fixing long-standing performance issues. The new version cut backend response times significantly and increased user session duration by 5x.
+- Created a full UI Kit from scratch in just a few weeks at The EXT Store, replacing scattered, inconsistent code with a clean, reusable component system that sped up development across the team.
+- Integrated AI features into a live FinTech platform at Basilicode, balancing complex ML outputs with a clean user experience. Also led development of a psychology app powered by GPT-based analysis.
+- Replaced bloated Material UI with a custom internal library at AMC Bridge, reducing app build times and improving runtime performance. This change also made styling and component logic easier to reason about for the whole team.
+- Delivered an MVP event app in 3 days during a high-pressure client engagement at BOBR.studio. Fixed bugs live while the app was in use - risky but successful, and the client was happy.
+- Led a full-stack development team and coordinated with BAs, designers, and QAs to deliver on tight deadlines, while mentoring junior devs and handling complex technical decisions.
+I want to work on things that matter - projects with real technical challenges, where good engineering makes a difference. Ideally, I’d like to be part of a small, sharp team where everyone takes ownership and the work isn’t buried under layers of bureaucracy.
+I’m especially interested in systems that go beyond just UI - whether it’s backend-heavy, infrastructure, integrations with hardware, or anything with a bit of technical depth. I’m always up for learning something new, especially if it takes me closer to understanding how things work under the hood.
+What I don’t want is to be stuck pushing tickets in a giant feature factory, or endlessly polishing frontend animations for yet another clone app. If I’m in, I’m all in - but only if the work’s worth doing."
+software engineer,"10+ years of embedded devices and systems development experience.
+ESP32, ESP8266, C, Altium, Keil, IAR, full-cycle development, components research, schematic design, PCB tracing, prototype production
+Development of automated payment systems based on ESP8266 and ESP32 microcontrollers - vending, turnstiles, parking lots - cash and non-cash payments. Registration and printing of fiscal checks. Full cycle from design to implementation and user support.
+Automated climate control systems - humidity, temperature."
+software engineer,"4+ years of Android experience, inc. development of highly optimized applications.
+--------------------------------------------------------------
+NDA | Android Software Engineer (November 2024 - Present)
+Project: Point-of-Sale (PoS) application for a major retail chain
+Stack: NDA
+- Built payment integration framework, supporting diverse payment methods.
+- Optimised app for processing 900K+ daily transactions, scaling to 2M during peaks, ensuring 99.99% uptime.
+- Designed modular technical menu, streamlining diagnostics and reducing MTTR by 25% for support teams.
+- Optimized application performance by refactoring critical components, leveraging multi-threading.
+- Implemented OAuth 2.0 and JWT-based mechanisms to safeguard sensitive data.
+Tedee | Android Developer | (July 2023 - November 2024)
+Project: Smart home application with over 15k+ globally active users
+Stack: Kotlin, Jetpack Compose, Coroutines, MVI, Koin, BLE
+- Created a system to automatically restore BLE connections when they break, ensuring continuous operation.
+- Participated in the development of a huge data encryption and decryption system.
+- Fixed a critical bug related to access token and improved security by 25%.
+- Implemented a hashing mechanism to secure sensitive user data.
+- Resolved a token expiration lag during network drops, improving auth reliability by 25%.
+- Reduced BLE module power consumption by 20% by optimizing connections.
+- Rewrote and covered 30% of the team's legacy codebase with tests.
+- Developed dashboards for real-time monitoring of smart devices.
+- Reduced the application size by 10 MB by removing RxJava
+- Creating UI screens - Compose.
+- Code refactoring
+MBDA Group | Android Developer (April 2022 – July 2023)
+Project: Local application for employees 1k+/MAU
+Stack: Kotlin, Jetpack Compose, Coroutines, MVVM, Dagger 2, ExoPlayer
+- Engineered a high-performance video streaming solution with ExoPlayer, optimizing bitrate adaptation for smooth playback and reducing resource consumption by 15%.
+- Implemented secure token-based authentication ensuring safe storage and refresh of access tokens
+- Improved project build speed by 16% by optimizing core module dependencies and Gradle configurations.
+- Improved network requests with Retrofit, cutting response times by 20% with retry logic.
+- Designed and implemented a video download system using Fetch and WorkManager, enabling queued offline playback with progress tracking."
+software engineer,"I’m a passionate backend developer with nearly 2 years of hands-on experience building scalable server-side applications, primarily using Node.js and Express.js. I've also worked with Python frameworks like FastAPI and Flask for several months, giving me flexibility across technologies.
+Throughout my career, I’ve developed and maintained APIs, integrated third-party services, and optimized database interactions using PostgreSQL and MongoDB. I also have solid experience with web scraping tools, including Selenium, Beautiful Soap, and tools Airflow which I’ve used to build efficient data extraction pipelines.
+In my early journey, I completed a full-stack development internship, gaining practical experience with React.js on the frontend. While my main focus has been backend development, this exposure allows me to understand and collaborate effectively with frontend teams."
+software engineer,"Software Engineer II July 2022 - Present
+EPAM SYSTEMS Newtown, Pennsylvania, USA
+Leading US company in legal, tax, finance, and healthcare solutions (remote) Remote
+• Implemented features, fixed bugs, conducted code reviews, and was actively involved in customizing core features to
+meet business needs.
+• Increased test coverage by more than 80% by writing high-quality code, and covering the written code with unit
+tests using Jasmine and Karma.
+• Successfully enabled the Sonar scanner by increasing code coverage and addressing technical debt.
+Leading US company in workforce management solutions (remote) Remote
+• Successfully updated jQuery from version 1.x.x to the latest version, 3.6.0, effectively resolving security issues.
+• Migrated the main page dashboard from the ASP.NET web framework to the latest version of Angular, employing
+a micro-frontend approach.
+• Developed high-quality E2E tests using Playwright which decreased number of project defects to be deployed to
+production.
+• Performed technical analysis and delivered impressive demos to key stakeholders.
+• Designed, developed, and maintained cutting-edge Web Components using Angular and RxJS.
+• Created and maintained robust unit and end-to-end tests using Jest and Playwright, respectively.
+• Developed and maintained Web Methods (HTTP endpoints) using ASP.NET.
+• Enhanced CI/CD pipelines and implemented Quality Gates for comprehensive E2E testing.
+Software Engineer I July 2021 - June 2022
+EPAM SYSTEMS Newtown, Pennsylvania, USA
+Carbon footprint calculator | Eco-friendly impact measurement tool Remote
+• Implemented code quality gates by adding pre-commit step using Husky, which performs auto-formatting code
+according to project code-style and checks for potential code issues by configuring ESLint and Prettier tools.
+• Collaborated with the backend team and Business Analyst on translation matters, resulting in the confirmation of
+the Excel structure for translations and its accurate parsing to JSON to meet frontend requirements."
+software engineer,"I only accept offers from product companies. Thanks for understanding
+I have extensive experience in programming using technologies such as Python, Django, React, and Kubernetes. I have worked on a variety of software development projects, playing a key role in the development and debugging of software code.
+In my most recent project, I developed a high-level platform for container management using Kubernetes and Docker, where my role involved developing a web interface and API for managing containers.
+I also have experience in developing data collection and monitoring systems using Python and Elasticsearch, and in my current project, I am responsible for developing microservices using Django and React, including analysis of software requirements, system architecture design, and software development.
+I am always looking to improve my skills and explore new areas of development. In the future, I am interested in exploring the use of artificial intelligence in software development and expanding my knowledge in this field."
+software engineer,"Hey, if you have positions within Fintech niche, I would be more then happy to discuss them. Specifically:
+AML/KYC Compliance
+Risk Assessment & Fraud Detection (Transactional Monitoring, Behavioral Analytics, etc.)
+I’m seeking roles at product‑oriented companies that empower developers to take on product‑management and ownership responsibilities alongside their engineering work."
+software engineer,"Creating a client side using js libraries and frameworks. For the server part I use technologies .Net (C#). Used DBMS MS SQL for data storage. Responsibilities: development new features, refactoring code, bug fixing, requirements analysis, estimation of tasks
+Part time job 2-3 hours per day work from home"
+software engineer,"Experienced Software Engineer with over a decade of expertise in software design, development, and implementation of complex systems. Proficient in Java, Spring, microservices architecture, and cloud technologies with a strong background in API creation, database design, and software architecture.
+1touch.io
+Feb 2019 - May 2024
+Developed the automation system for data privacy searching and management according to GDPR data protection law for customers from the European Union and the US (CCPA/CPRA/...).
+Responsibilities:
+• Designed software architecture and developed APIs.
+• Database design
+• Microservices creation.
+• Preparing POC
+• Investigated and planned new features, ensuring alignment with business needs.
+• Collaborated in an Agile environment to deliver high-quality software solutions.
+• Data migration process design
+Intro Pro
+Feb 2012 - Jan 2019
+Developed microservices for user access control to video content for DirecTV, a leading provider of satellite and cable television services, ensuring secure and reliable content delivery to millions of users.
+Responsibilities:
+• Developed microservices on Java.
+• Worked with Oracle SOA Suite to design and implement service-oriented services.
+• Developed no-code/low-code services using BPEL.
+• Developed and executed comprehensive test suites using SoapUI and Apache JMeter to validate the functionality and performance of SOAP-based web services.
+GWT Developer
+Nov 2011 - Jan 2012
+Developed a standalone client for an interactive risk management system for the banking sector, including a visual interface built with GWT to calculate insurance contract amounts and insurance commissions and assess the feasibility of working with a client.
+Software Engineer
+Interactivity
+Sep 2009 - Sep 2011
+Developed a video streaming service for IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity. The service supported live and on-demand conference video viewing, including the development of a standalone video website and a dedicated Facebook application to expand user access and engagement.
+Responsibilities:
+• Developed and maintained multiple projects, including full-stack architecture and database structure.
+• Designed APIs for integration with external services, including mobile applications.
+• Managed user accounts, video transcoding, and payment system authentication.
+• Delivered dozens of Proof of Concept (PoC) projects, enabling the company to prioritize quick-win implementations. Created detailed implementation plans, broke down tasks, managed development, supported testing, and contributed to onboarding multiple product data sources.
+• Developed an intelligent approach for detecting implicit relationships in SQL and NoSQL databases, transforming it into a competitive advantage that secured two key business contracts.
+• Designed, proposed, led, and implemented a plugin system for various SQL database implementations (15+), reducing the data source onboarding process from two months to weeks.
+• Optimized the processing of a Distributed File System (DFS), significantly reducing processing time and traffic consumption, resulting in substantial cost savings for clients.
+• Implemented key services for access control to content for a leading cable and satellite TV provider, enabling the system to handle massive loads and reducing failure rates by an order of magnitude during high-profile sports events. This increased client revenue and enhanced customer satisfaction.
+• Developed dozens of microservices using BPEL, XSLT, and XML, accelerating development, testing, and deployment processes, which secured contracts for more advanced Java-based services.
+• developed dozens of Java-based services for the HCAS project in Oracle service-oriented architecture (SOA). This approach enabled effective system scaling compared to its monolithic predecessor and improved throughput under high-load scenarios.
+• Developed the first Facebook application for IEEE using Java, FBML, and FBJS, securing a contract for their primary video platform.
+• Led the development of IEEE’s video platform website (IEEE.tv), contributing extensively to the backend (Java/Spring) and frontend (JavaScript/jQuery) development. Redesigned frontend plugins, reducing page load times by threefold and increasing user engagement, directly boosting revenue from video access.
+• Migrated multiple websites from Perl to PHP, improving performance and ensuring retention of maintenance contracts."
+software engineer,"With over 9 years of experience as a Full Stack Software Engineer, I specialize in building high-performing, visually compelling, and SEO-optimized web applications that not only engage users but also drive conversions.
+What I Bring to the Table:
+SEO-Optimized Web Development – I build fast, responsive, and search-engine-friendly websites, ensuring high visibility and performance
+Full-Stack Development – Expertise in a range of programming languages, capable of delivering end-to-end scalable solutions.
+AI & Automation – Implemented AI-powered features and automation tools to enhance user experience and streamline workflows.
+Mobile Development – Experience with React Native and Flutter, building cross-platform apps with smooth UX.
+E-Commerce & Payment Integration – Developed and optimized e-commerce platforms with Stripe, PayPal, and Telebirr payment solutions.
+Web Performance & Security – Proficient in CDN, caching strategies, JWT authentication, and secure API development.
+DevOps & Deployment – Skilled in CI/CD pipelines, Docker, Kubernetes, and cloud platforms like AWS, Firebase, and Render.
+Real-Time & Interactive Apps – Built WebSocket-based messaging systems, live notifications, and 3D interactive experiences with Three.js.
+Marketing & Growth Tech – Implemented analytics, A/B testing, and gamification techniques to enhance engagement and retention.
+Thank you."
+software engineer,"I’ve been working as a software engineer for various companies for 6 years now. I developed new features and refactored the code for existing full stack applications and I created new services from scratch using modern frameworks and tools. I fixed several bugs, vulnerabilities and performance issues and I developed unit and integration tests."
+software engineer,"Experienced Software Engineer with a strong background in software design, installation, testing, maintenance, and diverse skills across platforms, languages, and tools. Proficient in cutting-edge development and adept at both independent work and collaborative team projects.
+In my role as an R&D scrum team software engineer, I performed a wide range of responsibilities:
+I developed various A/B tests with team for the previous compoany site and primary micro-services. This included engaging in pair and mob programming, participating in Code Review processes, and handling deployment complexities across different release stages.
+Additionally, I actively collaborated with external teams to solve problems and make critical decisions. My contributions extended to actively participating in documentation and knowledge sharing efforts.
+I regularly clarified product requirements through meetings with the product team, ensuring alignment with business goals and suggesting improvements where necessary. My ability to quickly address unexpected challenges and blockers was a key asset in my role.
+- Streamlined ""On Duty"" Process: I create a realtime Calendar with Slack bot for better team's coordination in company.
+- Critical .NET Migration: Successfully migrated a vital service from .NET Core 2.2 to 3.1 and then to .NET 6, ensuring stability and quick issue resolution.
+- Legacy Project Management: Oversaw and improved two large legacy projects, including a scraping solution and a machine learning-based job search system. One solution fully updated from .NET Core 2.2 to .NET 6 and integrating it into the company's infrastructure.
+- Operational Excellence: Achieved 99% uptime for supervised projects and developed more then ten projects to enhance team's workflows.
+- Error Discovery: Wrote a critical API service parser, uncovering a costly company error and facilitating its recovery.
+- SQL Server Admin: Can manage SQL Server, from installation to writing complex stored procedures.
+- Extensive IT Experience: Over 10 years of official IT work.
+- Early Coding Passion: Started coding in Turbo Pascal and C during childhood, showcasing a lifelong dedication to technology."
+software engineer,"I've been involved in various projects, including an AI-powered Recruitment and Hiring system, a Research Management System, a Crowdfunding platform, a Rental Property Management system, as well as solutions for Ecommerce, Delivery, and Inventory management, among others."
+software engineer,"Hello, I'm a Python developer. I'm passionate about using technology to improve lives and solve problems. My expertise includes scalable Python application development, complex algorithm design, and working with various libraries and frameworks such as Django, Flask, FastApi, and Odoo.
+In addition to my technical skills, I possess strong analytical and problem-solving abilities, allowing me to tackle complex issues efficiently. I thrive in collaborative environments and enjoy working with diverse teams to achieve project objectives. Continuously seeking growth opportunities, I'm eager to contribute my skills and expertise to your team."
+software engineer,"Ruby on Rails, Sinatra, Ruby, Node.js, Elasticsearch, Redis, MySQL, PostgreSQL, Linux, Rspec, Kafka, RabbitMQ, Microservice, Docker, Kubernetes, Heroku, Grafana, Kibana, ELK Stack, Golang, Tech Lead, Team Lead"
+software engineer,"I am a passionate and client-oriented Software Engineer with a deep love for innovative solutions.
+With experience in developing robust and interactive web applications using .NET and ReactJS.
+Proficient in Azure Cloud technologies and in developing CI/CD pipelines. Also, I have excellent
+communication skills, able to work in a team and independently. Deep expertise in software
+development projects using Agile/Scrum/SAFe and Waterfall approaches
+Microsoft certified engineer:
+- Microsoft – Azure Fundamentals
+- Microsoft Partners – Designing and Implementing Microsoft DevOps Solutions"
+software engineer,"-Overall 13 years of experience in IT with
+-Solid mathematical and algorithmic background to solve any technical problem
+-Experience in analysis initial requirements, design, estimation, development and testing Web-based applications
+-Good knowledge and understanding of OOP, SOLID and design patterns.
+-Experienced Elasticsearch specialist"
+software engineer,"I have over 5 years of experience in front-end development, specializing in Angular (from the early versions to the latest, including version 18), with a strong background in markup development. For the last 5 years, I have been actively engaged in commercial projects, focusing on building robust software solutions with comprehensive test coverage, automated build pipelines, mentoring, and conducting code reviews. My recent work includes the successful launch of several social networks with complex architectures, where I contributed as the lead front-end developer.
+Additionally, I have developed expertise in creating cross-platform mobile applications for both Android and iOS using Angular and the Ionic Framework with Capacitor. I am proficient in front-end technologies such as Angular material, Bootstrap, Tailwind CSS etc. On the back-end, I have solid experience with Node.js, PostgreSQL, and also have experience CI\CD with AWS (ECS, EC2, Fargate).
+Any type of rush and long term jobs using the latest technologies, including artificial intelligence. I have a lot of experience and able to do it fast and furious"
+software engineer,"Title:
+Software Test Automation Engineer
+- Software Test Engineer with 3+ years of experience in testing backend and web application.
+- I have good understanding of best software testing practices and techniques, hands-on experience with different kinds of testing: Automated regression testing, Functional testing of WEB UI applications, Non-functional testing, Integration testing, Performance testing, API testing, creation of project documentation, good interpersonal and communication skills, high attention to details, succession planning, time-management, motivation.
+- Strong knowledge of theory and practice of Testing (Types of Software Testing, Test Design Techniques, QA documentation: Test Cases, Checklists, QA Reports)
+- Experience in writing autotest using Selenium and jUnit, Rest-assured, Selenide
+- Analytical and communicative skills, high level of self-management. An open-minded, flexible, proactive, goal-oriented, reliable and honest person
+Experienced in:
+• Functional testing;
+• Non-Functional testing;
+• Testing frameworks and libraries ( Selenium WebDriver, Selenide)
+• Database usage ( MySql, PostgreSql)
+• Tools for web servise testing (Postman)
+• Git usage ( gitHub)
+• Performance testing ( JMeter)
+• BDD approache (JBehave)
+• Creation and execution of test cases.
+• Regression testing
+• Integration testing with other testers
+I'm performing:
+* Automated API testing;
+* Manual web services and UI testing
+Abilities:
+- Automated and manual Integration, Regression, UAT testing
+- Participate in TAS development
+- Create and maintain Test Cases
+- Mentoring newcomers
+- Leading team during release from 3 AQA
+- Automation backlog owning
+Key achievements:
+- Leading team during release from 3 AQA
+- Participate in TAS development
+- Update CI/CD approach for better release testing process
+Seeking an opportunity to enhance my professional abilities and contribute to a product-focused company where I can effectively apply and grow my development skills."
+software engineer,"As a seasoned Software Engineer with over five years of professional experience, I have consistently demonstrated my ability to architect, develop, and deploy robust web applications. Over the course of my career, I have honed my skills in both front-end and back-end technologies, enabling me to take ownership of the entire development lifecycle.
+Key Achievements and Responsibilities:
+Full-Stack Expertise: Developed end-to-end web applications, from concept to deployment, combining the power of front-end and back-end technologies. This included the creation of responsive user interfaces, implementation of server-side logic and database management.
+Technological Proficiency: Mastered a wide range of technologies and tools, including JavaScript, HTML, CSS, React, Node.js, Express.js, MongoDB, and more. This expertise allowed me to select the most appropriate tools for each project's requirements.
+Custom API Development: Created custom RESTful APIs and integrated third-party APIs to enhance the functionality of web applications. Leveraged API endpoints for data retrieval, user authentication, and external service integration.
+Database Management: Proficient in database design, management, and optimization. Utilized both SQL and NoSQL databases to ensure efficient data storage and retrieval.
+Front-End Excellence: Designed and developed user-friendly interfaces that prioritize a seamless user experience. Employed frameworks like React and responsive design principles for compatibility across various devices and screen sizes.
+Back-End Expertise: Implemented server-side logic using Node.js and Express.js. Developed and maintained scalable and efficient back-end systems.
+Version Control and Collaboration: Utilized Git for version control and collaborated with cross-functional teams, QA engineers, and project managers, to meet project objectives and timelines.
+Security and Best Practices: Enforced security best practices to safeguard applications against vulnerabilities. Followed industry standards and kept updated with the latest security threats.
+In my role as a Software Engineer, I have consistently delivered high-quality web solutions that meet both business and user needs. I am confident in my ability to tackle complex projects, adapt to new technologies, and continue making a positive impact on the world of web development. My experience and expertise have prepared me to take on new challenges and contribute to the success of any project or team."
+software engineer,"Data Engineer – Canada (remote)
+Trade X & Resilience Corporate Services
+Jun 2022 – Feb 2023
+• developed and modified data pipelines, performed ELT, data manipulation using Python 3, AWS cloud
+technologies including S3, RDS, EKS, ECR, EC2, DataSync, DMS
+• built APIs (GraphQL & REST) using Fast API and PostGraphile
+• maintained the scraping of 140+ websites using Apify, Scrapy, Playwright libraries and improved the quality of
+scraped data by filtering duplicates & modifying scraping logic
+• configured AWS OpenSearch cluster & migrated data to it from RDS using AWS DMS and build Kibana
+dashboards
+Software Engineer Intern –  Canada (remote)
+KellyKinetix
+Oct 2021 – Mar 2022
+• redesigned an e-commerce web page that increased company sales by 9%
+• produced multiple visual elements of web application by translating UI design wireframes into code using
+React, CSS3 (styled-components)
+• enabled online payments using PayPal Checkout
+Full-Stack Developer Co-op – Richmond Hill, Canada (remote)
+AP Agency
+Dec 2020 – Apr 2021
+• designed multiple browser-compatible responsive web pages using JS (React, Redux), CSS3, jQuery
+• developed REST APIs using Node.js & Express.js to fetch data from the MongoDB database
+• integrated Square payments into the web application"
+software engineer,"Android developer with 8 years of experience in the development, design, and testing of Android applications.
+Throughout this journey, I have contributed to a wide range of projects, including assisting a healthcare startup in bringing their product to market and collaborating with both product-based and outsourcing companies. My experience spans diverse industries such as, energy, real estate, social media,  and social networking platforms.
+Ensured adherence to best coding practices, optimized legacy code, and implemented innovative functionalities to improve user experience and meet evolving business requirements.
+Key responsibilities have included:
+Focused on developing new features and refactoring existing ones.
+Participation in project design and early-stage estimations.
+Setting up application architecture and ensuring ongoing development and maintenance.
+Proficient in the Android framework with a strong command of third-party libraries, I bring a comprehensive skill set to deliver scalable, efficient, and user-focused mobile solutions.
+Kotlin | Java | Coroutine | Flow | RxJava | Dagger 2 | Hilt | Retrofit | Ktor
+Good knowledge of MVVM | MVP| MVI | Jetpack Compose | Clean Architecture
+Development of Healthcare Application
+Collaborated with a team to design and develop a comprehensive application for a healthcare startup, aimed at helping clinics and patients monitor and manage vital signs. The product enables real-time tracking and alerts, enhancing patient care and promoting proactive health management.
+Stack: Kotlin, MVVM, Clean Architecture, Compose, Hilt, GraphQL, Flow
+Primary developer for Theme Park Application
+Delivered an interface to pre-seat guests, accessible through both manual selection and QR code scanning. Responsible for the ongoing maintenance and enhancement of existing attractions, as well as the integration of pre-seat functionality for several new attractions.
+Stack: Kotlin, MVVM, Clean Architecture, Compose, Dagger 2, Flow
+Lead Developer, Product for the Energy Industry
+Spearheaded the development of the application, a robust application designed to provide both customers and engineers with secure, real-time access to drilling data, reports, and analytics from any location. The platform includes multiple custom views, data caching for enhanced performance, and push notifications to ensure timely updates and insights.
+Stack: Kotlin, Clean Architecture, Room, Firebase. RxJava
+Application Developer, Vacuum Cleaner App
+Provided ongoing support and developed new features for an established vacuum cleaner application, enhancing functionality and user experience. Collaborated closely with cross-functional teams to identify user needs, improve app performance, and integrate innovative features to maintain the app’s competitiveness in the market.
+Stack: Kotlin, MVVM, Dagger 2, Koin, Retrofit, Room
+Developed application for Searching Temporary Local Workers
+Designed and developed a platform enabling service providers to connect with local clients. The application features real-time worker availability, pricing details, customer ratings, and feedback to ensure transparency and enhance user experience.
+Stack: Kotlin, MVI, LiveData, Dagger, RxJava"
+software engineer,"I've been tinkering with a couple of pet projects lately, and you can find them on my GitHub profile. They're a reflection of my interests and skills in software development. Feel free to take a look and explore what I've been working on!"
+software engineer,"RECENT PROJECTS
+(Visit my website - uievo.com)
+DECEMBER 2022 - PRESENT: Senior Software Engineer (part-time)
+Project description: web application in the Education/Transportation domain with monolithic
+architecture.
+Server-side technologies: C#, .NET Core, Entity Framework, Mediatr, xUnit,
+PostgreSQL.
+Client-side technologies: TypeScript, React, Redux, React Router, Ant Design,
+Moment, Axios, i18next, Jest, Testing Library React.
+Other tools: yarn, ESLint, Prettier, GitLab, Jira, Confluence, Git, Docker,
+Postman, pgAdmin, Visual Studio Code, Visual Studio.
+JANUARY 2023 - MAY 2023: Tech Lead (part-time)
+Project description: web application (client) that communicates with partner
+staff management systems.
+Server-side technologies: not present, since this project is about the GUI.
+Client-side technologies: TypeScript, React, React Router, Material UI, SWR,
+date-fns, uuid, Jest, Testing Library React.
+Other tools: npm, ESLint, Prettier, Azure, Git, Postman, Visual Studio Code.
+AUGUST 2022 - DECEMBER 2022: Senior Software Engineer
+Project description: web application (MVP) in the Automotive/BI domain with
+micro services architecture on backend and micro frontend architecture of the
+client SPA.
+Server-side technologies: TypeScript, Node.js, PostgreSQL.
+Client-side technologies: TypeScript, React, React Router, Material UI, Here
+Maps, Chart.js, SWR, Format.js, Moment, Vite, Vitest.
+Other tools: pnpm, ESLint, Prettier, Azure, Jira, Confluence, GitLab, GitHub,
+Git, Postman, pgAdmin, Visual Studio Code.
+JULY 2021 - JUNE 2022: Senior Software Engineer
+Project description: web application (MVP) in the Automotive domain with
+monolithic architecture.
+Server-side technologies: C#, .NET Core, Entity Framework, Mediatr, AutoMapper,
+xUnit, PostgreSQL.
+Client-side technologies: TypeScript, React, Redux, Redux Toolkit (including
+RTKQuery), React Router, Material UI, Moment, date-fns, Axios, i18next,
+react-xarrows, react-beautiful-dnd, Jest, Testing Library React, Cypress.
+Other tools: yarn, ESLint, Prettier, Azure, GitHub, Jira, Git, Docker, Postman,
+pgAdmin, Visual Studio Code, Visual Studio.
+Turning words (business needs) into functionality that works as expected - that’s what I like the most about software engineering.
+Since February 2017, I have been working as a Software Engineer. I have worked on projects of different sizes and in different domains utilizing Agile SDLC.
+I started with the development of small static websites. Later I have spent 2+ years developing cross-platform mobile applications using Xamarin. Then I concentrated on web development using React, Node.js, .NET.
+Since July 2021, I have been working as a Senior Software Engineer with the top notch technologies, building MVPs for the industry leaders in the Automotive domain. Since December 2022, I have been working part-time (0.5 FTE) on a project in the Aviation domain. In January 2023 - May 2023 I was also working as a Tech Lead on another project (in parallel) - a web application (client) that communicates with partner staff management systems.
+Key responsibilities:
+- studying customer’s business needs and generating possible solution approaches (with UI/UX designs if needed);
+- providing UI/UX guidance aimed at achieving better user experience that meets all the business needs;
+- taking part in meetings with a product owner and a technical team, communicating possible solution approaches;
+- taking part in scrum meetings (refinement, estimation, planning, retrospective);
+- providing ballpark estimates for a project/feature implementation;
+- contributing to project documentation;
+- front-end and back-end programming;
+- supporting/coaching technical team members;
+- contributing new ideas on technical and business sides;
+- generating clean and maintainable code;
+- covering code with tests;
+- providing code reviews;
+- mitigating security vulnerabilities.
+SOFT SKILLS
+Strong analytical and problem-solving skills. Proactive team member who contributes, collaborates and demonstrates positive behavior. Able to work effectively & independently in a dynamic multicultural team environment. Proven time management, organizational and follow-up skills to meet deadlines. Proven quality-orientation with passion for customer satisfaction. Excellent interpersonal skills. Proven ability to learn new technologies and processes quickly. Strong work ethic and professionalism.
+1. Cooperation agreement allows working on pet/side projects with no impact on the pet/side projects' intellectual property rights (using personal device).
+2. Work is 100% remote.
+Make sure these requirements are met before contacting me. Thank you."
+software engineer,"I have 6years of working experience as java software engineer. The projects I've been working on mostly were related to API design and development using REST protocol, data scraping from different sources, creating several microservices using Spring Boot and handling their maintenance and interconnection using Amazon Web Services. Also I have experience of writing unit tests, using monitoring tools like Datadog, NewRelic. Currently I am working on  queuing which consists of several microservices using Spring Boot and Amazon Web Services.
+AWS Certified Solutions Architect Associate
+AWS Certified Developer"
+software engineer,"Experienced Software Testing Lead with a strong background in guiding small agile teams to successfully deliver top-quality software. Skilled in creating detailed test plans and strategies, I play a key role in ensuring the smooth performance of both web and mobile applications. In addition to my main role, I am also effective in handling product ownership and project management. This involves turning client needs into clear user stories, organizing tasks for better project flow, and making sure everything stays on track. I also lead daily scrum meetings, keep up clear communication with clients, and contribute to UI/UX design discussions. My diverse skills make me a valuable player in any software project team."
+software engineer,"Bug-tracking: Jira, Mantis
+Test documentation: Check-list, Bug-report, Test-case
+Types of testing: Layout Testing, Functional testing, Usability testing, Performance Testing, Mobile Testing, Regression test, Smoke test, ad-hoc Testing, Stability/Reliability testing, Localization testing, exploratory testing
+TestLink - starting knowledge;
+Programming: HTML (HTML5), CSS(CSS3), basic knowledge of SQL, Javascript
+SRM: Magento 1.9…
+Tools: Joxi, Lightshot, Awesome Screenshot
+Qatestlab , Kyiv, online (09/2018-10/2018)
+specialty: “Basics of Software Testing”
+WAYUP, online (08/2020-12/2020)
+specialty: 'Javascript'
+Люблю працювати з базами даних,
+цікавлять проекти пов’язані з інвестиціями, спортом, нутріціологією"
+software engineer,"Senior PHP Developer with a strong background in backend development and a master's technical degree.
+Adept at leading small teams, fostering collaboration, and bridging the gap between technical and non-technical stakeholders to ensure smooth development processes.
+With strong analytical skills and a well-organized approach, I excel at identifying and resolving complex challenges, optimizing workflows, and driving projects to successful completion.
+Expertise in e-commerce, booking systems, data scraping platforms
+Proficient in third-party integrations, database optimization
+Leading technical interviews and performing in-depth code reviews
+Exceptional collaboration and communication skills
+Authoring detailed software requirements documentation
+Advanced problem-solving and analytical abilities
+Interested in remote long-term projects or an on-site/hybrid  projects in Berlin. Preferred framework - Symfony."
+software engineer,"I am an enthusiastic, skilled web developer with years of experience in developing innovative digital solutions. My background spans a myriad of different projects, which have turned out to show my capabilities in quality delivery at both ends: frontend and backend development.
+In the previous position, I managed the full-cycle development of a large marketplace on auto parts using Vue.js, Nuxt.js, and Node.js. There was a need to develop a dynamic UI with payment systems integration and further automation of processes to make operations more efficient. I was responsible for data import/export functionality and integration with third-party services like TecDoc.
+One of the biggest projects was to develop a web site for payment of gas consumption with millions of users every month. It designed and implemented the next features: Personalized Dashboards, Payment Processing, Automated Reminders. The role required maximum focus on the user experience and good communication to address complex requirements and present a user-friendly platform.
+One of the key strengths and skills is :
+Technical Knowledge: I know Vue.js, Nuxt.js, Node.js, and SQL to their core. This enables me to develop robust applications that give users the best experience.
+Problem-solving: Such complex problems related to system integration and automation of the same for enhanced functionality and efficiency can be resolved.
+Project Management: Managed the whole project lifecycle from an idea to the implementation of UI/UX design, server-side development, and payment systems.
+Communication: The ability to communicate with teams and all those involved in a project in such a way that it will obviously eliminate any kind of misunderstanding about the delivery of the project goals.
+Adaptability: My record in quickly adapting new technologies and requirements of various projects shows my versatility in different areas of web development projects.
+I am confident that my technical skills, problem-solving abilities, and project management experience will make me instrumental in each role to provide innovative web development solutions and undertake projects efficiently.
+Email me at sharaidaria.h_gmail.com; let's take a moment of your valuable time to discuss how my experience could help ensure the success of your team."
+software engineer,"I'm currently a SWE building low level systems with Rust. I've built a Postgres proxy, implementing the Postgres Wire Protocol, as well as network application all built in Rust. In my current role, I'm building an extendable filesystem among other things."
+software engineer,"I am currently working as a Lead Software Engineer at Byond, where I am responsible for developing both back-end and front-end components of a candidate assessment platform. My work involves integrating real-time video functionalities, ensuring seamless interaction between candidates and recruiters. I have extensively used AWS services such as Lambda, SQS, IVS, EventBridge, and S3 to build a scalable and efficient system. One of my key contributions has been optimizing backend performance by leveraging serverless technologies, message queues, and asynchronous processing. Additionally, I have implemented a synchronization mechanism between PostgreSQL and MongoDB using AWS Lambda.
+Previously, I worked as a Project Manager at Kelati, where I oversaw the development of an e-commerce system. I designed the database structure, managed the development workflow, and integrated Elasticsearch to enhance product discoverability. I also implemented a structured approach to handling product variations, making it easier for users to find the right product.
+At Finbit, I worked as a Frontend Developer, focusing on building web applications using Next.js. My work involved migrating applications from the pages router to the app router, integrating APIs, and ensuring a smooth user experience. I also handled third-party service integrations to extend the platform’s capabilities.
+During my time at the Institute of Foreign Affairs, I worked as a Software Developer, leading a team of seven developers on a project subsystem. I played a key role in analyzing client requirements, designing system architecture, and integrating secure authentication using OpenID Connect. I also developed critical functionalities for three of the subsystems.
+Throughout my career, I have worked with a diverse set of technologies, including NestJS, Next.js, Django, ASP.NET Core, Angular, Flutter, Node.js, ExpressJS, and AWS services. I have experience with both relational (PostgreSQL) and NoSQL (MongoDB) databases. I aim to further improve my expertise in optimizing large-scale distributed systems, enhancing real-time data processing capabilities, and refining my leadership skills to manage larger teams and more complex projects.
+Promoted to Team Lead at Gobyond.ai, Korenti Craft Technologies, and the Institute of Foreign Affairs due to dedication, accountability, and problem-solving skills.
+Played a key role in optimizing performance and ensuring successful product releases, enhancing efficiency and scalability across projects.
+I thrive in a structured and disciplined work environment with clearly defined goals, vision, and timelines. I seek opportunities to collaborate with like-minded professionals who are driven, innovative, and focused on delivering high-quality solutions.
+I prefer to avoid disorganized workflows, unclear expectations, and a lack of direction, as they hinder productivity and team efficiency."
+software engineer,"Aug 2024 - Till now
+Functional tester at EPAM Systems.
+Domain: Media and Entertainment.
+Responsibilities:
+- Requirements analysis and confirmation.
+- Manual testing across tvOS applications.
+- Bugs reporting, bug fixes verification.
+- Analysis and validation compliance with the certification requirements.
+- Development team support.
+Nov 2023 – Aug 2024
+Functional tester at EPAM Systems.
+Domain: Software & Hi-Tech.
+Responsibilities:
+- Manual testing activities across various types of testing.
+- Creating comprehensive reports about test results.
+- Analyzing requirements.
+- Collaborating with all team members for intime delivered product.
+Sep 2023 – Oct 2023
+Functional tester at EPAM Systems.
+Domain: Retail & Distribution
+Responsibilities:
+- Analyzed requirements and user stories to ensure comprehensive testing coverage.
+- Conducted various types of testing, including functional, integration, regression, and localization.
+- Provided support to the development team.
+- Reported defects to the bug tracking system and verified their fixes.
+Jul 2021 - Jul 2023
+Functional tester at EPAM Systems.
+Domain: Business Information and Media.
+Digital marketing platform for purchasing tickets for sports and entertainment events in the United States.
+Responsibilities:
+- Analysis of requirements and user stories for testing purposes.
+- Clarification of acceptance criteria with the customer.
+- Supporting the development team, and test data creation.
+- Creation of test cases in compliance with acceptance criteria.
+- Performed different kinds of testing: functional, integration, localization, API, UI, and regression.
+- Involved in Front-end and back-end testing, and debugging.
+- Defects reporting to the bug tracking system and fixes verification.
+- Collaborating with cross-functional teams including developers, product managers, and customers.
+Jun 2021 -Jul 2023
+As a trainee at EPAM Systems, I was involved in testing the internal website for simplifying reporting to the customer.
+My responsibilities:
+- User stories clarification and preparing test scenarios.
+- Test data creation, updating, and managing.
+- Check-list creation.
+- Updating knowledge base for other team members.
+- Functional and regression testing.
+- Bugs reporting and fixes verification.
+- Earned Delivery Excellence reward from EPAM for extraordinary technical contribution and outstanding performance;
+- Consistently earned rewards of Excellence as the top contributor across the QA teams to have logged the biggest number of defects and bugs;
+- A leading QA who is able to clean up the backlog and successfully complete projects on tight deadlines;
+- Become a Key tester on the projects;
+- Always strong and supported relationships with the developing team.
+Certification:
+- AZ-900: Microsoft Azure Fundamentals Certification.
+I'm looking for a job as a QA engineer in a friendly team.
+Team support and ability to growth are key values for me."
+software engineer,"I'm a Software Quality Engineer, Experineces in Automation and manual test.
+I used create a test plan, functional test, smoke, sanity and regression testing.
+I also conducting a e2e script with any test automation framework, such as : Cypress, Selenium, Katalon and Appium. I have skill for continous integration process with github action, gitlab CI or jenskin CI."
+software engineer,"I had experience working in different teams - from 3 to 40+ engineers.
+My last project is a large and fast-growing system that covers all aspects of veterinary practice management, including financial reporting, data migration, and analytics.
+I’ve mostly worked with data ingestion pipelines but also dealt with inventory management and third-party integrations. Here, I’m proud of
+- taking over the data ingestion domain and leading a team of five people
+- redesigning and refactoring the data ingestion pipeline that made the system more observable, robust, and maintainable.
+The tech stack is standard for a JVM-based microservices backend: Spring Boot (and some Cloud components), Java 17, and Kotlin. We store data in BigQuery, Postgres, Couchbase, GCS, and sometimes Redis. There is also the ElasticSearch, but I have limited experience with it. We also use RabbitMQ and Kafka.
+Operations are also pretty standard - GitHub, Gradle, Jenkins, Buildpacks, Kubernetes, Helm, ArgoCD, and Google Cloud.
+Other projects were also quite interesting, but the text is already too long :)
+I have some expectations for a new job:
+- good working and engineering culture
+- the ability to see my work's impact on the business
+- the ability to learn from teammates
+- challenging tasks"
+software engineer,"I have expanded systems at several companies: Digitally Inspired, SoftServe, and GeeksForLess. All my tasks and responsibilities are detailed in my CV. The most recent project involved over 100 microservices that produce and consume kafka messages. The primary function of the system was to map various data types. Additionally, I wrote unit and integration tests for 100% of classes and 85% coverage of code lines.
+To find a skillful team and projects with new technologies."
+software engineer,"Technical Lead & Software Engineer with 10 years of experience, specializing in
+Java (7+ years) and Web3 technologies (3+ years).
+Strong background in high-load distributed systems, microservices, and TDD.
+Designed and built the first decentralized wallet on Internet Computer, leading it
+from concept to fully operational DAO with an active token in circulation.
+Former Software Engineer at JFrog, working on Artifactory, one of the world's
+leading artifact repository solutions.
+Led a Java team of 13 engineers for 2+ years, managing system architecture, code
+quality, and best practices.
+Experience in network monitoring platforms, including backend development and
+hardware integration, successfully deployed in 10+ European countries.
+Extensive experience working in outstaffing and outsourcing models with high-profile
+clients like Cisco and AWS, contributing to critical projects and delivering reliable
+solutions."
+software engineer,"Professional Software Developer since 2005.
+Participated in industrial projects.
+About last 10 years I owned positions of Tech. Lead/Team Lead.
+Major technologies:
+- Python 2/3: since 2012
+- Django, Redis, Celery: since 2018
+- Firebase, AWS (Lambda, API Gateway, EventBridge, SystemsManager, etc.): since 2018
+- MySQL, PostgreSQL: since 2008
+- Ansible, Vagrant, Docker: since 2015
+- Scrapy: since 2012
+- Falcon: since 2013
+- Linux: since 2005
+- FreeBSD: since 2008
+- Nginx, Apache: since 2010
+- PHP 4/5/7, HTML, CSS, JavaScript: since 2005
+- C++: since 2002
+I'm in search of the interesting projects and a good compensation of my time."
+software engineer,"Seasoned QA Engineer with 7 years of extensive experience in testing Web, desktop, and mobile applications, including real device and emulators (e.g. Android Studio), as well as API testing (SOAP, REST and GraphQL). Proficient in utilizing Swagger, Postman, and developer tools, with expertise in test management and defect tracking tools such as Jira, TestRail, and Zephyr. Have experience working with Charles, TestFlight for mobile application testing. Experienced in data validation and testing using MySQL, and familiarity with NoSQL databases. Possesses a solid understanding of Linux environments. Experienced in choosing test cases for automation and prioritizing cases for regression testing.
+Deep knowledge and experience in requirement gathering, root-cause analysis, and the creation of comprehensive test documentation, encompassing Test Plans, Test Strategies, and Traceability matrices. Strong experience in preparing Sprint and Release reports, along with conducting demo sessions for clients. Offers mentorship for Junior QAs and knowledge transfer sessions for newcomers.
+Good understanding and experience working with SalesForce.
+Skilled in Scrum methodologies with hands-on experience in both Kanban and Waterfall frameworks.
+ISTQB Certified.
+Have experience in building automation frameworks from scratch using Python (Selenium + Pytest) at beginner level. Deep skills in CI/CD principles and Git workflows.
+Demonstrated the ability to create precise and comprehensive documentation, ensuring clear and high-quality project records.
+Successfully onboarded new Quality Assurance professionals, streamlining their integration into the team and project workflows.
+Led and mentored a team of Junior Quality Assurance professionals, fostering their professional growth and contributing to project success.
+Orchestrated and executed successful production releases, showcasing a commitment to delivering quality and reliability.
+Initiated and oversaw the establishment of testing processes from the ground up, taking a pivotal role in project success and achievement."
+software engineer,"The most significant part of my experience is development of a software complex for the digital airborne camera (equipment interaction and control, real time raw image processing, GPS navigation, image post-processing). Other projects include video processing (transcoding, streaming), audio processing (real-time analyze and recognition). Also I have experience with the ardupilot based drones (configurating and programming using mavlink protocol).
+I like to process big arrays of raw data, would it be image, audio, video or something else. So it would be great if my job will be related to that. Also I like everything about remote control drones and would like to evolve in this direction."
+software engineer,"Developed the project from scratch, designed the project, wrote the code for various features, fixed bugs, wrote unit tests. I also conducted scrum ceremonies, communicated with the customer, planned tasks with customer, worked as team lead.
+Work experience in Java development: 6 years
+An interesting project with the newest technologies, professional growth, friendly and experienced team."
+software engineer,"Selenide, Jira, Git, SQL, Java (8 - 17), Datagrip, Cucumber, Appium, Cypress, Ranorex, Playwright.
+Java SE 11 Programmer
+Junior C# Developer
+IBM Project Manager Essential
+Подальше зростання до Technical Lead"
+software engineer,"I have 8 years of experience in backend and frontend development and a comprehensive understanding of Adobe Experience Manager (AEM). In my previous roles, I have had the privilege of working on diverse projects that have honed my technical skills and equipped me with a deep understanding of AEM. My experience includes designing, developing, and maintaining scalable solutions tailored to meet clients' specific needs.
+One of my recent achievements includes leading a team in the successful implementation of a complex AEM project for a major client. My responsibilities involved architecting, optimizing performance, and ensuring seamless integration with third-party systems. This experience not only strengthened my technical expertise but also enhanced my ability to communicate effectively and manage project deliverables efficiently."
+software engineer,"I'm fully responsible for every feature that I've make: from the design to automation testing and deployment into production.
+I would like to work for a grocery company with streamlined processes, flexible hours, and a minimum of meetings."
+software engineer,"- Java, SQL (PostgreSQL, MySQL), JDBC, JPA, MongoDB, Neo4j
+- Microservices, (API First) OpenAPI/Swagger, Kafka
+- Spring Boot, Spring MVC/Data/Cloud/Security
+- NodeJS, NestJS, JavaScript/TypeScript, NPM, Jest
+- Git, Docker, Maven/Gradle, Shell, Jenkins, Gitlab, Kubernetes, Terraform, Nginx
+- AWS (S3, ECS, ECR, EC2, Route53, IAM, Cognito, CloudFront, Secret Manager, CloudWatch)
+- Hadoop (HDFS, HBase, Flume, Ozie, Zookeeper)
+- Splunk, Datadog, Newrelic
+- Experience with cloud native application development
+- Hands-on experience with Full Stack - Node, NestJS, NPM, HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Angular2+
+- Mobile development (non prod experience): Unity(C#), React Native, Flutter
+Oracle Certified Professional, Java SE 6 Programmer (1Z0-851)
+An interesting project. Adequate management. Informal atmosphere"
+software engineer,"Summary:
+8 years of experience in testing of mobile, web applications and backend services.
+6 years of experience in automated testing.
+1 year of experience in performance testing.
+Experience as team lead position [ 4-10 people teams ].
+Strong expertise with mobile, web and backend API automation.
+Solid experience within CI processes and environment for test automation.
+Able to start automation processes from scratch.
+Ability to work independently and be self-managed.
+Good understanding in technical English, manuals, product documentation, etc.
+Technical skills:
+- Automation frameworks: Selenium, RestAssured, Selenide, Playwright, Appium, WebDriverIO
+- Build tools: Gradle, Maven, sbt
+- Test frameworks: JUnit5, TestNG, Jest, Mocha, Scalatest, PyTest
+- Main program language: Java
+- Secondary program language: JavaScript, TypeScript, Python, Kotlin
+- Tools and libraries: Testcontainers, Docker, k8s, Spark, Hadoop, PyDeequ
+- Performance testing frameworks: k6, Gatling
+- CI Tools: GitHub Actions, CircleCI, Jenkins, GitLab CI
+- Test Infrastructure: Selenium Grid, Solenoid, SauceLabs, Browserstack
+- Experience with: AWS, DigitalOcean"
+software engineer,"Experienced Software Engineer with 7 years of experience, specializing in designing and developing high-performance, scalable, and fault-tolerant solutions for handling real-time updates in distributed systems using C# .NET Core.
+- Reduced system downtime and improved stability through performance monitoring and health alerting tools.
+- Built and maintained microservice architecture using Docker, Kubernetes, and Consul.
+- Actively contributed to cross-functional team efforts and on-call operations to ensure 24/7 system availability.
+I'm looking for a company with a friendly and collaborative environment, where I can work on challenging projects using modern .NET technologies"
+software engineer,"- Testing web, desktop, and mobile applications;
+- Testing REST (Postman, cURL, Swagger) and gRPC Web (Kreya) APIs;
+- Foundational knowledge of automated testing (Selenium WebDriver + Java, PyTest, JMeter);
+- Proficient with relational databases and SQL (Oracle, MySQL);
+- Expertise in test documentation (checklists, test cases, bug reports, traceability matrices, test strategies, and plans);
+- Establishing QA processes aligned with Agile frameworks (Scrum, Kanban);
+- Proficient with test management and documentation tools (JIRA, Confluence, TestRail, Xray, YouTrack);
+- Leading QA teams (3–5 members), conducting technical interviews, and mentoring new team members.
+Seeking a Lead Software Test Engineer position in a software development company to utilise and enhance my skills and knowledge with opportunities for professional and career growth."
+software engineer,"Software Engineer with 5 years of experience, focused on building APIs, databases, libraries, desktop and mobile applications, as well as SDKs. Skilled in both functional and object-oriented programming, with a strong background in designing and implementing scalable systems. Well-versed in design patterns and application architecture layers. Experienced in developing complex systems from scratch, managing both frontend and backend development seamlessly. Familiar with working in Scrum and Agile environments."
+software engineer,"Tech Lead / Senior Software Engineer
+Sep 2022 – Present
+Project Highlights:
+Automated ERD Schema Generation Pipeline using Dagger, AI LLM (Gemini), and DbDocs for enhanced schema visualization.
+Migrated ETL service connectors from Python to a declarative YAML framework, improving efficiency and maintainability.
+Optimized cloud infrastructure, reducing costs by 40% and boosting system performance.
+Technologies: Python, Go, GCP, Kubernetes, Dagger.
+Role: Led backend projects, mentored team members, and collaborated cross-functionally to improve product reliability and scalability.
+Aspirations: Enhance expertise in Go and cloud-native architecture while shaping engineering practices to drive impactful solutions.
+Software Engineer
+Aug 2021 – Sep 2022
+Project Highlights:
+Built frameworks for WMS integrations with major US retailers, accelerating order processing by 40%.
+Directed CI/CD pipeline improvements, cutting deployment time by 30%.
+Migrated legacy ERP systems to microservices on AWS EKS, reducing costs by 30%.
+Technologies: Python, AWS, PostgreSQL, Docker, Redis.
+Role: Focused on backend system optimization and process automation.
+Aspirations: Deepen skills in microservices architecture and DevOps practices.
+Software Engineer
+Jan 2021 – Sep 2021
+Project Highlights:
+Developed tools to streamline sales, boosting conversion rates by 25%.
+Integrated third-party APIs to improve system interoperability and response times by 25%.
+Technologies: Python, JavaScript, REST APIs, FastAPI.
+Role: Delivered high-quality backend solutions while collaborating with cross-functional teams.
+Aspirations: Explore innovative ways to enhance system performance and user experience.
+PCPP1™ – Certified Professional in Python Programming 1
+organization and management of development
+implementation of CI/CD using Github and Bitbucket
+design of architecture for manufacturing and trading companies"
+software engineer,"Software engineer with over 20 years of experience in developing web applications,
+distributed services, and databases. Adept at designing scalable systems, optimizing performance, leading development teams."
+software engineer,"C++ Software Engineer with 5+ years of experience in maintaining and extending complex desktop applications. Adept at both legacy code support and developing new features. Strong background in QA automation and a passion for building reliable, maintainable systems."
+software engineer,"Experienced backend engineer and solution architect focused on designing and building distributed systems for high-load environments. Skilled in creating real-time, scalable, and fault-tolerant services used by thousands of concurrent users. Hands-on with Kafka, ClickHouse, AWS, and Kubernetes to deliver reliable infrastructure and responsive applications. Enjoy tackling complex engineering challenges and optimizing systems for performance, reliability, and maintainability.
+Tech Stack: Apache Kafka, ClickHouse, Amazon DynamoDB, Amazon RDS for MySQL, Amazon ElastiCache, Datadog, Node.js, NestJS, TypeScript, TypeORM, Microservices architecture, Distributed Systems, Kubernetes, gRPC
+Led a redesign of the tournament architecture, reducing point update latency from 40 seconds to near-instant and eliminating leaderboard inconsistency issues.
+Optimized the free spins creation flow, increasing throughput from 1,000 to 7,000 concurrent operations with sub-second latency - all without changing the existing architecture.
+Identified and resolved excessive CPU usage in a custom Kafka wrapper, reducing idle pod consumption by 2.5x."
+software engineer,"Hi,
+I am Stanislav, Senior Unity Software Engineer with 10 years of commercial experience.
+Skills
+- Unity/C#
+- Android, iOS, WebGL
+- Ads, payment, analytics
+- Animations, VFX implementation
+- Photon Cloud
+- Firebase
+- Physics
+- 2D/3D apps
+- SOLID
+- Design patterns
+- DI, Zenject
+- MVC
+Tools
+- Git
+- Jira, Trello
+- Figma
+Looking for a remote/Kyiv full-time job"
+software engineer,"I have overall 7 years of experience in QA with 6 years in QA automation.
+Experience in writing API, UI tests:
+Java, Selenium WebDriver, Selenide, Selenoind, Maven, TestNG, JUnit, Allure, Jenkins, Azure.
+Experience in writing API, UI tests:
+JavaScript, Playwright, Allure, Jenkins.
+My experience is related to:
+- Healthcare:
+Insulin pump for the people with diabetes
+- Fintech:
+Web application for trading
+- Gambling:
+Web application for betting (real sport, virtuals)
+- Other:
+Streaming platform, online music service, book store
+Work experience:
+- Manual mobile testing (iOS/Android)
+- Automation mobile testing (iOS/Android, Hardware, FE, BE)
+- Cross-browsing testing of Web Applications
+- API, back-end, E2E automation testing
+- Creating and managing all required test documentation using Jira, TestRail (test plans, checklists, test suits, test cases, test reports, and bug reports)
+- Contributing to, maintaining, improving and building test automation frameworks in Java/Selenium from scratch
+- Requirements analysis
+- Close cooperation with customer and development teams
+- Newcomers mentoring (junior manual, trainee automation)
+- Implementation of project improvement ideas;
+- Conducting technical interviews
+- Helping teammates put together personal development plans and achieve their growth goals
+PageObject, PageObjectManager, Singleton patterns implementation into the huge automation project.
+Creating and maintaining the automation framework from scratch using Java & Selenium and TypeScript & Playwright for web applications.
+Creating and maintaining the automation framework from the scratch using JavaScript and Playwright.
+I am looking for a challenging project with the opportunity to gain new experience and improve my technical skills."
+software engineer,"Highly skilled Senior Software Engineer with expertise in Retrieval-Augmented Generation (RAG) , Graph RAG , and AI-driven Business Automation . Proven track record of designing and implementing advanced AI solutions using Large Language Models (LLMs) and Generative AI to optimize processes, enhance decision-making, and deliver scalable results. Experienced in developing intelligent chatbots , web applications , and mobile apps that address complex business challenges."
+software engineer,"I'm a seasoned Software Engineer with over 5 years of experience in the .NET ecosystem and Microsoft Azure Cloud technologies.
+Here's how I make an impact:
+- Innovative system design: I create stable, observable, and scalable systems that stand the test of time.
+- Team Leadership: I lead by example - guiding teams to meet project goals and elevate overall performance.
+- Mentorship & Onboarding: I'm dedicated to nurturing talent by mentoring developers and designing comprehensive onboarding roadmaps.
+- Talent acquisition: I conduct technical interviews to build and maintain high-performing teams.
+- Client collaboration: I work closely with clients on resource planning and PBRs, ensuring that every project is a success.
+Beyond that, I actively explore the world of Artificial Intelligence (AI) and Machine Learning (ML), integrating AI-driven solutions and constantly learning and experimenting to bring intelligent capabilities into modern applications.
+.NET ecosystem; relocation to Germany."
+software engineer,"I am a team lead/full-stack developer with over 10 years of experience in Python, TypeScript, and JavaScript programming. Throughout my career, I have worked on a variety of projects and technologies. I believe I am now ready for a more exciting and challenging position.
+For more than 10 years I have been increasing my ability to solve many kinds of IT-related problems, managing and inspiring myself and the people near me. I proved myself in multiple startups, working as a CTO, Team Lead, and Developer, I have gained enough knowledge to bring a superior level of value to an organization.
+I want to work with a company that has respect, transparency, collaboration, and direct feedback as their main objectives, where I can use all my knowledge in development."
+software engineer,"Software Engineer (Automotive)
+- Requirements engineering
+- BSW Testing , bug fixing
+- Software architecture development
+- Traceability ensuring
+- AUTOSAR CLASSIC, ISO26262, Tesos, C, MATLAB/Simulink, Enterprise Architect,  IBM Rational DOORS.
+Team Lead
+- Embedded
+- Customer requirements analyzing
+- System architecture development
+- Suppliers managing
+- Budget planning
+Product Development Engineer
+- Customer requirements analyzing
+- Development the system architecture.
+- Signal processing.
+- Data analysis, validation, and preparation.
+- Demand prediction
+1) Ph.D.;
+2) patents."
+software engineer,"A skilled Software Test Engineer with extensive experience in manual and automation testing across diverse domains such as lottery systems, passport consultancy, and lead generation platforms. Proficient in crafting high-quality test cases, driving automation, and leading testing teams in Agile environments.
+UPAM (Unified Player Account Management System):
+Played a key role in testing multiple modules including Back-office, Profile, Promotions, Subscriptions, and Wallet. Formulated 80+ test scenarios using TestRail, improved application stability through thorough functional and GUI testing, and led a team of 4 testers. Designed 80+ Cucumber scripts and 50+ test cases, enhancing API testing efficiency by 30% using Swagger and Postman. Automated regression testing for 25+ submodules, saving 12 manual workdays monthly. Ensured end-to-end testing in UAT for wallets and promotions using test card and bank data. Technologies used include PHP, .Net, Cucumber BDD, TestRail, JIRA, Oracle/MySQL, ActiveMQ, Postman, and Jenkins CI/CD.
+SCBZ (Second Chance Bonusing):
+Executed manual test cases for web and mobile platforms, collaborated with cross-functional teams, and performed cross-browser/device testing in an Agile setup, participating in sprint planning and release cycles.
+IndiaPassport.org (Online Passport Consultancy):
+Led test planning and traceability efforts, executed various test cycles (Smoke, Functional, Integration), conducted peer reviews, and logged 40+ bugs. Deployed 30+ automation scripts using Selenium with Java and improved test documentation and defect tracking.
+Lead Mart:
+Tested a lead generation system through 50+ functional and GUI test cases, logged 30+ bugs, and executed 20+ regression cycles. Maintained traceability matrices and performed exploratory testing to enhance software robustness.
+Expertise:
+Manual Testing, Test Automation, Cucumber BDD, Selenium with Java, API Testing, Postman, Jenkins CI/CD, JIRA, TestRail, SQL, Agile methodology. Proven ability to improve quality assurance processes, reduce manual effort, and ensure high-quality product releases."
+software engineer,"1. Telemedicine platform:
+- Refill and prioritize product backlog items
+- Remove bottlenecks for the engineering team
+- Ensure engineering excellence and that the team is delivering high-quality results on time
+- Plan, implement and maintain roadmap, strategy, and scheduling
+2. Big Real Estate Search Engine in the USA.
+- Working on the core features with the team
+- Refactoring of the legacy codebase
+- Taking part in the architecture of the core services
+- Integration of third-party APIs
+3. E-commerce platform selling products online:
+- Documented development and architectural decisions of approaches taken along with all integration steps
+- Built a robust RESTful API for interaction between our service and a third-party vendors warehouse
+- Worked on bug fixing and code-quality third-party integrations for the CI/CD process
+- Led a small team of four backend engineers
+4. All-in-One tool that helps Amazon sellers with routine tasks:
+- Designed and developed core features (RESTful API)
+- Developed an analytic tool that worked with Amazon API which allowed thousands of sellers to monitor daily information about millions of products sold
+- Built and Maintained an AWS environment (RDS/Route52/EC2/ElasticCache) using docker and Kubernetes
+- Collected data by scraping Amazon website using PhantomJS, Capybara
+- Contributed to the development of roadmap sessions
+5. A financial trust marketplace:
+- Split the original monolithic application into multiple components in order to achieve a
+microservice architecture
+- Helped build the chat-based marketplace platform from the ground up using Ruby on Rails
+- Worked with the Engineering Excellence team to integrate Jenkins into our development process for CI/CD
+- Led software architecture and infrastructure design decisions, such as migrating to a new chat platform.
+I don't want to deal with real-time chat solutions, video/audio WebRTC technology, or bank solutions."
+software engineer,"Professional Background
+My career began as a web developer in an era before ECMAScript gained popularity. For over four years, I primarily utilized vanilla JavaScript and JQuery, Webpack and Sass to create engaging web UI/UX designs. During this time, I recognized the rising prominence of React.js and decided to pivot my focus towards reactive development.
+.
+.
+For the next 3 years, I specialized in building Single Page Applications (SPAs) and Server-Side Rendered SPAs (SSR-SPAs) using React.js and Next.js. While fulfilling, this phase involved complex challenges and significant hustle.
+.
+.
+Subsequently, I transitioned to React Native, which enabled me to explore developing cross-platform mobile applications by leveraging my existing JavaScript skills and a similar technology stack. This experience has been both exciting and rewarding for the last four years.
+.
+.
+After spending several years in this field, I decided to expand my horizons by adopting the native iOS development stack (Swift, with focus on SwiftUI) and planning to pursue native Android development as well(Kotlin).
+Summary
+Experienced Software Engineer skilled in building scalable and high-performance web and mobile applications, focusing on intuitive user experiences (UX) and mobile-friendly user interfaces (UI).
+As I seek new opportunities, I am looking for a role that provides:
+Clear Team Hierarchy: A well-defined organizational structure that fosters effective communication and collaboration among team members, enabling me to understand my responsibilities and the pathways for career growth.
+Minimal Legacy Code: An environment with a low amount of legacy code, alongside opportunities to recycle and innovate upon existing codebases. I thrive in settings that encourage creativity and the implementation of modern solutions.
+Focus on Mobile Development: A position that emphasizes mobile native development or cross-platform mobile development. I am passionate about creating seamless user experiences and am eager to contribute to innovative mobile applications.
+Structured Development Processes: Well-established development processes and efficient code delivery practices that ensure high-quality outputs and streamline collaboration among team members."
+software engineer,"iOS Software Engineer with over 6 years of experience in designing, developing, and deploying high-quality iOS applications. Proficient in Swift, Objective-C, and iOS frameworks. Strong expertise in developing UI/UX, server-side integration, and testing. Good communication and team management skills.
+I’m looking for companies with long-term projects. Appropriate salary to my experience."
+software engineer,".Net Full Stack Software Engineer
+3Shape 2024 - Now
+I have been leading a team of 3 developers and 3 QAs. I have been working on the creation and support of a few microservices related to authorization with OAuth 2.0 protocol.
+.Net Full Stack Software Engineer
+Playtika	2020 - 2024
+I have been leading team of 6 developers and QA. We as a team have been working on the creation of a few microservices, SDKs for mobile platforms (Xamarin, Unity 3D, Web Native, Android and iOS), support of the .Net template for backend Web Services that could be used to easily integrate into company's infrastructure.
+.Net Full Stack Developer
+SoftServe (Nov 2018 - 2020)
+I had been working on a project there was on the role of “expert” and we have been finding weaknesses of different .Net project and providing improvements for them.  Key responsibilities:
+•	Assessment of the project weakness
+•	Performance improvement
+•	Test covering
+•	Improvement configuration for CI/CD
+•	Integration with AppInsights
+•	Refactoring of the systems
+•	Design the architecture of the new applications
+.Net Full Stack Developer - Elegance Ukraine / e-Docs	(Sep 2015 - 2018
+Work on different outsource projects for Ukrzaliznytsa, Borispol and other big companies. Was involved in creation of e-Docs project that is a SAAS On-Premise and Cloud system of electronic document management. This system is multitenant and allows different companies to work on the same infrastructure and deploys on either Azure Cloud or customer servers. Customers of this system are one of the largest companies in Ukraine.
+My key responsibilities:
+•	Create architecture of basic features of some modules
+•	Create dynamic flexible registries with dynamic filters and grouping using LINQ and Entity Framework
+•	Optimization of SQL queries, EF work and Web application
+•	Creation of mobile client for Android (Java) and IOS (SWIFT 4)
+•	E-Mail notifications and mobile notifications using Azure Notification Hub
+•	Integration with other systems
+•	Implement organization structure with synchronization and exporting/importing to different formats and historicity
+Software Developer - Center of Information and Technologies (Feb 2014 - Sep 2015)
+In this company I have developed a CRM system and take part in the creation of product for restaurants on Android devices. The idea was to show a menu of dishes on the Android tablet and sync orders with 1C system.
+Certifications
+Google Cloud Professional Architect
+Microsoft Exam 483: Programming in C#
+NO GAMBLING
+NO UNITY PROJECTS
+NO DESKTOP/MOBILE
+========
+Clear prospects for professional and career growth.
+Very much desired: flexible working hours during the day, tolerance to occasionally remote work.
+Task-wise: solving complex and complicated problems, respect for high-quality solutions over speed, high impact of problems solved."
+software engineer,"Software Engineer with experience in Military, Multimedia, Geometry, and Geodesy domains. I have dived into new complex domains and worked with various platforms and tools.
+Software Engineer (Sep 2024 – Dec 2024)
+Stack: C++17, Boost, Apache Thrift, MariaDB, Redis
+Developed a back-end system for supporting security panels.
+Fixed bugs and collaborated with QA teams.
+Software Engineer (Aug 2023 – Mar 2024)
+Stack: C++17, Qt, QML, TypeScript, CMake, Docker
+Developed GIS for radio intelligence network monitoring.
+Built desktop and web applications, migrated UI, and configured Docker images.
+Introduced MQTT for node communication and optimized system performance.
+Junior Software Engineer (Sep 2022 – Aug 2023)
+Project 1: Multimedia Gaming System (C++14, Boost)
+Developed business logic, wrote unit tests, and resolved memory leaks.
+Collaborated with client’s development team.
+Project 2: Acoustic Intelligence System (C++17, Qt, STM32)
+Created app for intelligence data display.
+Implemented sound source localization algorithms and developed STM32 firmware for sensors.
+I am looking for a company where I can grow long-term, focusing on a field that excites me."
+software engineer,"30 years of experience in IT industry – software development, telecommunication, networks 10 years of experience in programming and software development on Java/Kotlin
+Wide area of expertise
+Strong understanding of the software development life cycle
+Experienced in software development
+Experienced in testing client-server applications
+Experienced in software support for corporate customers
+Experienced in network support for corporate customers
+Experienced in support of server’s solutions for corporate customers
+Intermediate English
+Programming Languages: Kotlin, Java, Scala, Python, JavaScript, SQL, C, C++, HTML, CSS, Angular.
+DB and tools: Microsoft SQL, Transact SQL, PostgreSQL, MySQL, MariaDB, Cassndra, Liquibase
+IDE and tools: IDE IntelliJ IDEA, NetBeans IDE, Visual Studio Code, Git
+Network WAN and LAN protocols: DNS, HTTP, SMTP\POP, FTP, DHCP, P2P, SSH, SMTP, NAT, TCP, UDP, IP, Ethernet, Multicast, NetFlow
+Network devices: cisco 25xx, 72xx, 38xx, 29xx, 37xx, ASR1xxx, Linksys WiFi, modems
+Network and admin tools: Sniffer, Network analyzer, Technologies: Maven, Gradle, ODBC, ADO, JDBC, Servlets, JSP, JSF, JavaScript, AJAX, HTML5, CSS3, Angular2, Hibernate, JPA, Spring Framework (Spring Core, Spring Security, Spring MVC, Spring Data), JAX-RS, Apache Tiles
+Misc: experience in agile and scrum methodologies, full large-scale project life cycle."
+software engineer,"Worked on different size of companies and applications from early stage startups to mature enterprise teams. Have experience with designing an architecture of frontend applications , discussing and creating new apps and features. Created testing suits both unit and integrations.
+Technologies used are mainly React.js , Vue.js and their ecosystems with different API-s like, REST , Graphql also used tools like React Query. Have an experience with node.js and Golang."
+software engineer,"Seasoned frontend developer, Vue.js is where I am most efficient. Built tons of a projects with it. Last project was fintech SaaS web application.
+On my last projects I am catching myself using Next.js though. For backend Express/Node."
+software engineer,"MAPLETECH Analytics- Engineering Manager
+Projects: Leading the development of a responsive website and user app using ReactJS and React Native, aiming to increase daily active users by 40% and decrease app load times by 25%.
+Technologies: ReactJS, React Native, AI, robotics, and other web development technologies.
+Role: As Engineering Manager, role involves strategic planning and envisioning the company's future in agriculture. As a Software Engineer, I'm responsible for the development of web and app solutions.
+Areas for Improvement: I want to focus on enhancing your skills in AI and robotics further to support my company's mission.
+The CNC Group - Full Stack Software Engineer.
+Projects: Designing and developing highly responsive and user-friendly interface components using React-Redux, resulting in a 25% reduction in page load time and a 60% increase in user engagement.
+Technologies: React, Redux, and web development tools.
+Role: I efficiently allocate tasks and manage team productivity using Jira, while also leading meetings to improve UI/UX, version control, and application performance.
+Areas for Improvement: Consider further enhancing your project management skills and deepening your expertise in frontend and user experience design.
+Data Labs, Tapestry Inc - Full-Stack Software Developer (Contract):
+Projects: Collaborated with stakeholders to identify business needs and challenges, leading to a 20% increase in revenue through data-driven insights. Developed interactive visualizations to improve user engagement.
+Technologies: Data analysis tools, interactive visualization libraries, and web development technologies.
+Role: As a Full-Stack Software Developer, I contributed to data-driven insights and the development of interactive visualizations.
+Areas for Improvement: Expanding my expertise in data analysis and visualization could be a valuable focus.
+Homeknock - Front-End Developer (Contract):
+Projects: Led the creation of front-end designs to increase user engagement, conversion rates, and decrease bounce rates.
+Technologies: React JS and front-end development technologies.
+Role: My role as a Front-End Developer centered on design and user experience.
+Areas for Improvement: Consider deepening my skills in front-end development, design, and user experience.
+In terms of areas for improvement, I might consider continuous learning and staying up-to-date with industry trends."
+software engineer,"I am a Senior Software Engineer with over 8 years of experience in building and optimizing scalable, high-performance systems. My expertise spans cloud computing, microservices architecture, and Kubernetes, with a proven track record of delivering impactful projects across leading global organizations like Miro, Amazon Web Services, and 1&1.
+I excel in designing efficient software solutions, driving system migrations, and enhancing observability and operational excellence. My technical stack includes Kotlin, Java, TypeScript, AWS, Spring Ecosystem, and Kubernetes, among others. I am passionate about solving complex challenges and implementing innovative approaches to improve efficiency and reliability.
+Beyond my technical skills, I bring a collaborative mindset, leadership capabilities, and a commitment to continuous improvement. With a strong foundation in clean code principles and agile methodologies, I aim to contribute to forward-thinking teams that prioritize quality, innovation, and growth.
+Let me know if you'd like further refinements or additional details tailored to specific roles!
+Prior to this, worked as a Software Developer at 1&1 in Karlsruhe from July 2019 to June 2021, focusing on projects related to spam fighting, microservices development, and leading the deployment of legacy systems to Kubernetes infrastructure. Also, played a key role in addressing architectural topics within the team.
+Earlier experiences include a role as a Java Backend Developer at LogMeIn Inc. in Karlsruhe (May 2017 - June 2019), where responsibilities included microservices development, API security improvement, and providing DevOps support on AWS and on-premises. Additionally, worked as a Full-stack Developer at TOPdesk Deutschland GmbH in Kaiserslautern (January 2016 - May 2017), contributing to the transition from a monolithic to a microservices architecture, implementing REST APIs, and ensuring application responsiveness on various devices.
+AWS Certified Architect and Developer,
+Certified Kubernetes Application Developer,
+Oracle Certified Professional Java Developer,
+Several times programming contest winner,
+High salary and the good team"
+software engineer,"Software Developer with 6 years of experience backend. Mostly work with C#
+but also experience on Go language but open to learn and work any language.
+Experience on designing RESTful API services from scratch and splitting
+legacy systems to microservice architecture.
+Well-versed in creating test cases, as well as covering all test conditions and
+eliminating redundancy and duplications.
+Work with distributed systems, message queues, asynchronous, cache,
+scalability.
+Constantly striving to learn new technologies such as Python-Java-Swift and
+improving my skills on Design Patterns ,Clean"
+software engineer,"I'm an experienced software engineer with a strong focus on iOS development, backed by over 6 years of hands-on experience. I've also ventured into watchOS and tvOS platforms, where I discovered unique challenges and exciting opportunities. My passion for technology is matched by my ambition, work ethic, and an open, communicative nature."
+software engineer,"Specializes in targeted problem solving to define development, estimation, planning & design sessions for mobile applications. Challenge-driven, information-seeking leader who works independently & within teams to drive projects from pre-launch through completion. Consistently engages the inputs of others, relying heavily on work ethic & curiosity to stay abreast of industry changes. Accustomed to working in an Agile environment, serving as an iOS technical expert who advises on architecture, systems design & project roadmaps."
+software engineer,"Angular software engineer
+- Full lifecycle applications development
+- Integrate software with existing systems
+- System risks analysis
+- Communicate with customers
+- Worked with Agile and Scrum methodologies in Jira
+- Perform unit testing
+- Collaborate with cross-functional teams
+- Provide technical support and troubleshooting
+- Develop technical documentation and user guides
+- Participate in code reviews and provide constructive feedback
+- Stay up-to-date with emerging technologies and industry trends
+- Optimize application performance and scalability
+- Implement security best practices in software development
+Frontend developer with 3 years of experience.
+- develop a web application app from scratch.
+- fully refactored the project from the legacy to a newer version. (Angular 7 => Angular 14).
+- ""Deep dive"" and understanding project pros and cons, how to improve projects and other exciting ideas.
+- updateing+supporting+develop new features for existing projects
+I would like to work in a result-oriented team on an interesting project or create it from scratch. Perform various tasks, offer my ideas for improvement, develop my skills."
+software engineer,"I am experienced software engineer with 6+ years in building highquality applications using Unity & C#.
+[TAB Apps, Unity Developer]
+- Unity applications development and optimization
+- Monetization SDKs integration
+- Mentoring
+Technologies: Unity, C#, Profiling&Optimization, Firebase, AI, Apphud, Adapty, OneSignal, AdMob.
+[Upwork, Unity Developer]
+- Technical specification creating
+- Communication with a client
+- Time and budget requirements estimation
+- Development
+- Architectural design
+- Animation
+- setting up UI, scenes and prefabs
+Technologies: Unity, C#, Git, Unity Animation Skeleton, Unity Animation Rigging, WebSocket, Photon Unity Networking 2.
+[Upwork, Unity Developer]
+> Developed analysis application for processing and viewing large amount of data gathered from motion sensors.
+- Architectural design
+- Development
+- UI design implementation
+- Communication with a client
+- Setting up UI, scenes and prefabs configuring.
+Technologies: Unity, C#, Git, Unity Animation Skeleton, Unity Animation Rigging.
+[MeShine Factory, Unity Developer]
+> Created mobile game template targeted for Unity developers.
+- Architectural design
+- Development
+- Animation
+- Setting up UI, scenes and prefabs configuring
+- Base design
+- Game design
+- Documentation creating.
+Technologies: Unity, C#, Git, Unity Animation Skeleton.
+[WhaleApp LTD, Unity Developer]
+> Had been developing a mobile game for large audience, as a member of a big company.
+- Bug-fix, development, refactoring
+- Documentation creating
+- Setting up UI, scenes and prefabs configuring
+- Colleagues counseling.
+Technologies: Unity, C#, Git, Asana.
+- I have been a mentor for Junior Developer and it ended up in higher efficiency and improved skills of the developer.
+- I've managed to construct part of game, using Replit (AI service for programming).
+- I've managed to optimize several applications fow low-end mobile devices so that it improved users' engagement statistics.
+- I've developed a complex pro-level Unity application that allows to interact with huge arrays of data in a smooth way. To achieve that, the following solutions were used:
+indexing, caching, logic optimization and other tricks.
+- I've developed a game with multiplayer support that works between two devices without using server for game session (p2p, hole punching). Although this connection method does not provide a complete guarantee of success, it allowed to create a solution that saves up to 80% of costs for gaming servers.
+- I've developed my own asset for Unity developers by managing the creation process completely by my own.
+I expect challenging and interesting tasks, friendly environment, opportunities for career and professional growth.
+It is critical that company does NOT work for and with russians."
+software engineer,"E-commerce, Health tech, Packages and dependencies. To build these i used PHP, Laravel, NodeJs, NestJs , RabbitMQ, PostgresSQL, MySQL , AWS , Azure and many other tools in the PHP and JavaScript ecosystem"
+software engineer,"I have over 11 years of development experience, 11 projects brought to production, 3 projects development and support of enterprise. Almost all the time in product companies. The main stack is React, Node.js and everything around JavaScript. Recently I was responsible for supporting and developing new parts of the cloud automation system for cafes and restaurants. Namely:
+- cash register operation based on SPA (React), which is displayed in the browser and in native iOS, Android and Electron applications
+- a platform that is part of the cash register and allows third-party developers to interact with the cash register via API
+- cash register integrations (PRRO)
+- admin integrations (Node.js, TypeScript, Express, MySQL)
+- admin UI work and development/transition to Next.js
+- site migration to Next.js and development of new components
+- adding metrics and analysis
+- service support for remote checkout debugging
+Came as a ""firefighter"" who stabilized the ""cash register"" product. A year later, we put the cash register aside as the main problem of the support load and switched to the direction of development and development of other products. Acted as a technical specialist to whom people go for advice and assessment of future solutions.
+I understand the business side, so I expect a ""win-win"" relationship. And what exactly that will be, we need to see from the project."
+software engineer,"Hello, my name is Dmytro, and I'm an Android developer with over 10 years of experience. I've worked on a wide range of projects, from large e-commerce platforms to complex VOD applications for TV platforms.
+I'm proficient in Kotlin and Java, have a deep understanding of the Android SDK and Jetpack Components, and I'm well-versed in architectural patterns like MVP, MVVM and Clean Architecture, ensuring robust and scalable code."
+software engineer,"I'm a Software Engineer with more than 10 years of commercial experience. Had participated in many interesting and big projects with different domains like telecomunications, fintech, gambling, social network, helthcare, real estate etc.
+During my career I was involved mainly in Front-end development, but also had experience as a Back-End Engineer using Node.js/Express (7 month).
+Also I had solid experience in migration from AngularJS to Angular2+. Had expirience of creating desktop application using Dart/Flutter, it was challenging but very interesting. And also have expirience on React.
+Second side of my career it is Mentoring. Around 6 years I worked on IT Academy as a Front-end development mentor and teach people from zero to junior level.  Practice mentoring inside companies."
+software engineer,"Experienced software engineer with 5+ years of expertise in distributed systems, microservices, serverless architecture, and cloud-native product development. Skilled in handling various modern technologies, from startups to managing products with extensive user bases. Proven adaptability, commitment to innovation, and a solid foundation in full-stack development. Passionate about optimizing performance, crafting robust app designs, adhering to industry standards, and ensuring meticulous attention to detail.
+Collaborative team player dedicated to contributing to motivated teams that embrace innovation, teamwork, and user-centricity. Proven track record of successfully leading cross-functional teams. Seeks an environment that fosters creativity, prioritizes user satisfaction, and strives for excellence in every project.
+Throughout my dynamic career, I've consistently made significant contributions to diverse projects. At Thallo, I have been involved in the development of blockchain solutions for climate tech, reshaping the carbon offset marketplace. With Crunch, I optimized the performance of a cloud-based simulation product for drug development, introducing key features to enhance user experience. Additionally, at ElephantStock, I played a pivotal role in redesigning workflows, ensuring an aesthetically pleasing online art gallery. As a full stack developer at OKwine, I successfully migrated the online shop to a new version, utilizing React and Next.js. Finally, in the first project, I developed and integrated multiple Telegram bots, significantly contributing to the success of a blockchain-based product with a global user base. These achievements highlight my versatility, technical expertise, and leadership skills in delivering impactful results across various projects.
+I am seeking a collaborative team where I can contribute to the development of a cutting-edge product, aligned with clear strategic goals, ensuring stability and fostering a healthy work/life balance. Additionally, I value opportunities for networking and professional growth within a supportive work environment."
+software engineer,"I am working for about four years at perago informations systems PLC as manual QA expert and operation team lead on different projects like E-service and BSCC.
+Quality assurance professional with stellar record of collaborating with software developers to produce robust, bug-free programs that meet business and consumer needs. Analyzes and improves software development processes and supports teams in meeting critical project deadlines. Captures and documents defects, solutions and test plans accurately and clearly across diverse teams. Resourceful Software Quality Assurance Engineer with 4years handling complete review process. Expertly assists IT design, testing and maintenance to preserve application effectiveness. Offers detailed patch assessment and script automation to handle service delivery in rigorous always-on environments. Actively resolves technical complications during application QA testing.
+My exception about new work is it helps me to upgrade my work experience and to get updated experiences on the sector."
+software engineer,"-lead distributed teams of senior software engineers
+- architecture overview
+- solution analysis
+- coordinate development process (using Scrum framework)
+- set up efficient release planning and delivery schedule
+- product feature roadmapping
+- resource allocation
+- create all user-facing and internal documentation
+- hiring and onboarding new engineers
+- leading UX/UI development, deep expertise of marketing and seo technical background
+- projects technical stack includes ReactJS/NextJS for frontend and Python, PHP/Symfony for backend
+- build efficient software development process
+- lead white label development direction
+- negotiations with clients
+- improve developer productivity
+- architect data store solution
+Interested in a growth oriented position in an outsource or product company."
+software engineer,"Experienced Full Stack Developer with over 8 years of hands-on expertise in designing, developing, and maintaining robust web applications.
+Proficient in a wide range of technologies across the stack including JavaScript, React, Angular, Vue.js for front-end development, and Node.js, Python, Ruby on Rails, ASP.NET, Java for back-end development. Skilled in implementing scalable architecture patterns such as microservices and serverless."
+software engineer,"EXPERIENCE
+Senior Java Developer
+Windmill
+Aug 2023Jan 2024
+Worked on fintech/crypto domain project, was a part of huge team, implemented a new features and APIs.
+08.2021 - 03.2023
+EPAM
+Middle Java Developer
+Worked on 3 projects with fintech domain. Developed a 2 microservices to communicate with GraphQL on Java 9 reactive API. Refactored a legacy code base. Worked with AWS infrastructure such as S3, EC2, etc.
+12.2020 - 08.2021
+GlobalLogic
+Middle Java Developer
+Was a part of Agile team on the project with telecommunicates domain. Worked with Kubernetes based on kubectl queries. Refactored a legacy code base. Refactored a Junit and Contract tests. Developed a new features based on Kubernates and Helm.
+08.2020 - 12.2020
+Proarea
+Java Developer
+Was a part of small team on healthcare project. Developed a big part of DB based on PostgreSql to process map coordinates data.
+02.2019 - 07.2020
+Sednor Holdings Limited
+Java Developer
+Was a key backend developer on e-store. Communicated with English-spoken customer. Integrated a full-text search engine based on Elastic Search with Kibana and Logstash."
+software engineer,"Experienced software developer with thorough understanding of JS based backend and frontend workflows, able to translate business requirements and designs into high quality code. Familiar with different architectural models of modern applications and where to apply them. Had led numerous projects with different complexity through all development stages, from planning to production."
+software engineer,"Dating platform with a unique approach where others decide if you are a good match instead of self-selection.
+Worked as a developer, DevOps, and mentor.
+•  developed authentication
+• developed randomizer
+• Integrated Firebase cloud messaging
+• Integrated Huawei push kit
+• wrote web socket API
+• deployed API to server
+Business management platform for local companies. It helps manage processes and control resources and finances.
+Worked as a developer, DevOps, and mentor.
+• developed user authentication
+• developed PostgreSQL database
+• developed user authorization
+• deployed API to server
+• configured nginx
+• configured pm2
+• developed mail sender to API
+A platform for web calls and meetings. The project is a web call solution in the quarantine period.
+Worked as a developer, DevOps.
+• developed rate limiter for API
+• updated mongoDB with new fields
+• deployed API to server
+• developed mail sender to API
+A platform for learning. The project comes from E-learning and Health sphere. Helps specially trained people to try their own skills before the main exam and certification.
+Worked as developer, and mentor.
+• integrated app to SCORM
+• developed API authentication
+• setup project kernel
+The platform for advertising. Project is a b2b solution between famous brands and influencers. The platform gathers bloggers KPIs and prepares them for brands.
+Worked developer
+• fixed data scrapping
+• refactored components to TypeScript
+• wrote unit and e2e tests
+• implemented new features
+• increased application response time
+Platform for solar energy management in the Swiss market. Simplifies energy usage, trend visualization, and optimal distribution. Supports multiple roles, efficient PV configuration, and helps installers save costs while extending PV amortization.
+Technologies & Tools: Node.js, Express, MongoDB, Redis, mongoose, Bull, Web
+Workers, lambda, mocha, chai, Hapi
+US-based fintech platform offering the World Elite Mastercard with cash-back rewards, credit health insights, gamified credit-building, and community-driven monetary rewards.
+Technologies & Tools: Typescript, Koa.js, Node.js, Terraform, React.js, Next,js, PostgreSQL, knex.js, objection, AWS, Jest, Git, GitHub Actions, aws-vault, Transunion API"
+software engineer,"An accomplished backend developer who excels at working collaboratively, solving problems, and ensuring customer satisfaction. Proficient in designing and building web applications that integrate with various APIs, third-party services, and databases."
+software engineer,"It's hard to describe all (or at least the majority) of the projects/technologies/tools that I've been working with during my ~15 years of professional experience so I'll pick 3 of them that I consider as most exciting ones.
+1. OnlinePizza/DeliveryHero/Foodora — Swedish online food ordering startup (at the beginning) that became a worldwide network mostly known as Foodora today in Europe. For ~7 years the IT team has been relatively small (~5 people) meaning that pretty much everything like BE, FE, DevOps, etc had to be done by everyone. The most exciting thing that I've achieved there is a complete refactoring of the entire system from self-written PHP/MySQL/VanillaJS to Microservice-based PHP-Symfony/MongoDB/ES/React application.
+2. FellowFarmer — written from scratch by a single-person e-commerce solution for local NY farmers. Everything from architecture and design to actual implementation (BE/FE) and DevOps setup and support. PHP-Symfony/MongoDB/ES/React/AWS.
+3. Vimeo — mostly working as a BE support person for a dedicated FE team. A lot of work with internal/external API, interesting experience regarding how streaming is working (WebRTC/RTMP), a improving unit-tests coverage."
+software engineer,"Experienced Software Engineer with a strong background in commercial software development and maintenance. Proficient in utilizing major web development tools and frameworks like JavaScript, TypeScript, Angular, Node.js, React.js, and others. An enthusiastic team collaborator and an effective problem solver. Proactive and communicative professional who excels at meeting deadlines, prioritizing tasks, and rapidly learning new concepts. Patient and maintains resilience under pressure.
+- Improved the application's performance by conducting a thorough architectural review and providing ongoing support, resulting in significant revenue growth for the project.
+- Collaborated with multiple teams to identify and resolve issues affecting speed, delivery, and quality.
+- Developed and implemented a plan to migrate the monolithic architecture to a micro-frontend approach using single-spa.
+- Successfully migrated a large application following a rebranding initiative.
+Passionate about programming, I look forward to engaging challenges and collaborating with an interesting and friendly team."
+software engineer,"* Successfully launched a lot of projects on key roles
+* Architecture design/review, building scalable architecture, load testing, performance testing, performance optimization
+* Roadmap/rollout planning, team leading/mentoring.
+* Building data pipelines (Data Engineering)
+* Data Science solution rollout
+* Cyber Security domain experience
+* Many successfully launched projects
+* Reduced expenses on cloud infrastructure (up to 3x)
+* Scale up many projects
+Simple/plain interviewing process
+Friendly team of professionals"
+software engineer,"I have 2 years of experience as C++ developer.
+My first client was a manufacturer of medical equipment. We delivered application for patients monitoring in hospitals using C++ 14 and QT Creator.
+My duties included working with the UI and backend: implementing classes based on interfaces we were getting, functions connected to the UI.
+My second client was a manufacturer of elevators and escalators. We worked with D-Bus and C++ 14.
+My responsibilities included researching various options of connecting to D-Bus, implement logger library.
+For now I have 1,5 years of experience as Python engineer. The primary idea of the cooperation was to develop a software framework to test maps.
+This framework was used for running
+automated tests on a previously compiled
+map. My responsibilities included implement
+changes to existing test classes, implement
+unit tests for existing test classes, build
+project in VS Code Dev Containers, fix
+different fails
+I am interested in working with data (some ML/AI projects or data engineering). I have experience with ML algorithms and models in my pet projects."
+software engineer,"I have over 14 years of commercial experience as a Senior Full-Stack Software Engineer. I have worked on a variety of projects, including the development of CRM systems, web applications, high-load online stores, and GIS applications. He used the following technologies and programming languages:
+Programming languages: PHP (5-8.3), Python, C++, C#, JavaScript, Node.js.
+Back-End frameworks: Laravel, Symfony, FastAPI, Django, Yii2.
+Front-End frameworks: Vue.js, React.js, Angular, Three.js, jQuery.
+Databases: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, MariaDB, ClickHouse, PostGIS.
+DevOps tools: Docker, Kubernetes, Jenkins, GitLab CI/CD, Ansible, Terraform.
+Other technologies: RESTful APIs, gRPC, OAuth2, JWT, CQRS, Event Sourcing.
+In his role, he was responsible for application architecture, database design, development from scratch, refactoring and optimization of existing code. I had experience in mentoring the development team and conducting code reviews. Currently, I am striving to develop in the field of machine learning and artificial intelligence, in particular, integration of large language models (GPT-3/4, LLaMA) and development of AI solutions.
+Developed a GIS system for creating and storing maps using PostGIS and GDAL, providing the ability to export to various vector formats.
+Integrated AI models GPT-3/4, Copilot, LLaMA into web applications, which improved functionality and user experience.
+Optimized databases, which led to a 30% increase in application performance.
+Mentored a team of 5 developers, improving their skills and performance.
+Implemented CI/CD processes using Jenkins and GitLab CI/CD, which reduced deployment time by 50%.
+Refactored and updated legacy code, migrating projects to modern frameworks and versions of programming languages.
+I am looking for an opportunity to join a company that values innovation and uses modern technologies. I want to work on challenging and interesting projects where I can apply my experience in system development and architecture, as well as develop in the field of machine learning and artificial intelligence.
+My expectations from the job:
+Professional development: the opportunity to learn new technologies, attend trainings and conferences.
+Teamwork: cooperation with experienced colleagues, exchange of knowledge and ideas.
+Influence on projects: participation in technical decision-making, the ability to propose and implement your own ideas.
+Flexible working conditions: the ability to work remotely or have a flexible schedule.
+What I wouldn't want from my job:
+Lack of clear project management and organization.
+Working with outdated technologies without the prospect of upgrading.
+Limited opportunities for development and training.
+Underestimation of the role of communication and teamwork in project success."
+software engineer,"I have experience with various projects using the following technologies and approaches:
+* Both vanilla PHP and frameworks (primarily Symfony, but also Yii and Laravel)
+* Product Information Management systems (Akeneo, Pimcore)
+* MySQL design, development, and optimization
+* NoSQL technologies such as Redis, Elasticsearch, and RabbitMQ
+* Front-end technologies such as JavaScript, Backbone.js, React.js, jQuery, Underscore.js, Twig, and Smarty
+* CI/CD (Docker, GitHub Actions)
+* AWS services (SNS, SQS, S3, SES)
+* Unit and integration test coverage (PHPUnit)
+* Implementation of coding standards (PSR) and static code analysis using PHPStan and Scrutinizer
+* Project migrations
+* Major upgrades of third-party libraries
+* Team leadership
+* Mentoring
+* Conducting technical interviews
+In each of my performance reviews over the past eight years, I have consistently received an ""exceeds expectations"" rating from my superiors across various areas of competence.
+The business domain doesn’t matter much to me—there can be interesting projects in any domain. I already have experience in Dating, E-commerce, Server Monitoring, and more. I’m always eager to explore new technologies and tools, improve existing code and infrastructure through refactoring and optimization, and introduce coding standards and code coverage."
+software engineer,"Dear Hiring Team,
+I am a highly motivated Software QA Engineer with five years of experience specializing in testing both web-based and mobile applications. I hold a master's degree in Software Engineering and am eager to bring my expertise to a dynamic engineering team.
+Currently, I am looking for new opportunities to join a talented engineering team to contribute to something new and bring maximum value to the team and the company.
+In my previous roles, I have gained valuable experience across various domains:
+1. FuelTech & RetailTech:
+Manual testing of iOS & Android, WearOS & watchOS, CarPlay & Android Auto apps
+Worked with GraphQL API (Altair), Microsoft Azure, Azure SQL DB, and Proxyman
+2. FinTech & PayTech (BO):
+Worked directly on testing payment functionalities such as funds movement, payment processes, balance management, reconciliations, etc.
+Implemented improvements to product functionality and QA processes in the team
+Сreated a test collection containing over 7,000 API tests using Postman (REST API)
+Conducted penetration tests to verify core security measures, including authorization bypass and cross-site scripting (XSS), using a comprehensive list of over 2,500 XSS injection attempts
+Executed performance tests using JMeter (Blazemeter)
+Explored app behavior analytics and server logs using Grafana and Kibana
+3. EdTech (Online Learning Platform):
+Conducted manual testing of web apps and React Native mobile apps
+Performed comprehensive testing, including exploratory, ad-hoc, functional, usability, UI/UX, installation, browser compatibility, A/B, regular happy path, smoke, and regression testing
+Performed documentation and acceptance testing
+Configured parameters and viewed HTTP/HTTPS requests and responses from apps and domains, including iOS and Android devices using Proxyman
+Collaborated closely with PMs, BAs, Developers, and Designers to ensure alignment with project requirements
+Proactively identified opportunities for product improvement and collaborated with customers and stakeholders on implementation strategies
+4. e-Сommerce (Marketplace):
+Manual testing of both web and mobile (iOS, Android) apps
+Performed cross-browser testing (Chrome, Safari, Firefox, Opera) and utilized tools such as Charles Proxy for traffic sniffing
+Executed functional, usability, UI/UX, smoke, sanity, and regression testing
+Created comprehensive test suites, test cases, and checklists based on project requirements
+Explored logs using Chrome DevTools
+Experience in mentoring and guiding Interns and Junior QA engineers, fostering their professional growth and development within the team.
+Experience with Agile methodologies, particularly Scrum and Kanban frameworks, facilitating efficient collaboration and adaptability within cross-functional teams.
+Experience in effective communication and collaboration with stakeholders, including Product Managers, Project Managers, Business Analysts, Developers, Designers, and Security Engineers.
+Extensive experience in generating and maintaining QA documentation, including test cases, checklists, test reports, and bug reports, ensuring thorough documentation throughout the testing process.
+Experience in both functional and non-functional testing, including exploratory, ad-hoc, load, stress, usability, UI/UX, cross-browser, cross-platform, localization, smoke, and regression testing.
+Experience in penetration testing, performance testing, REST API testing, and A/B testing.
+Specialized experience in payments testing.
+Skilled in documentation testing and requirements analysis, ensuring that software requirements are accurately translated into test cases and validation criteria.
+Recognized as a motivated and reliable team member, dedicated to fostering a collaborative and supportive working environment conducive to success.
+Strong communication skills coupled with an aptitude for learning new technologies, facilitating seamless integration into diverse project environments.
+Committed to continuous learning and knowledge sharing, actively contributing to team development and collective growth through collaboration and information exchange.
+------------------------------
+Experience with tools: Jira, Trello, ClickUp, Chrome DevTools, Sentry, Segment, UXCam, Charles Proxy, Proxyman, Burp Suite, Qase, TestRail, Notion, Confluence, BrowserStack, Android Studio, Xcode, Instabug, Figma, Miro, Zepplin, GitHub, GitLab, CircleCI, Amplitude, Kibana, DataDog, TestFlight, Firebase, Postman, JMeter, VS Code.
+Looking for a long-term, interesting, and challenging project.
+I am seeking a position as a manual QA with the opportunity to dive into automation testing.
+Excited about the opportunity to leverage my skills and experience to contribute to your team's success. Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your success further."
+software engineer,"15+ years of experience in application and web development.
+Team/Tech lead role for the last 6 years.
+Technologies: .NET, Entity Framework, Azure, CQRS, Docker, Kubernetes, Helm,  Ansible, Terraform, MS SQL, Postgresql, Mongo, Cosmos DB, REST API, RabbitMQ, SignalR, React, React Native, NodeJs, JS.
+Current project: Platform for collecting information from electrical devices in real-time and representing it to end users.
+Role: Team Lead
+Responsibilities:
+- Team-leading of the international team.
+- Planning and features development.
+- Focus on domain investigating and refinement of technical stories using technical documentation.
+I have experience in leading cross-functional development teams with the main aspects of the software development cycle including requirements definition, system design, implementation, and support.
+I'm a responsible and attentive person who takes care of details. I like to learn new technologies and invest in myself. Besides, I'm open-minded and could be a great addition to any team."
+software engineer,"Introduction
+I am a software engineer with seven years of development experience. Throughout my career, I have honed my skills across various technologies and platforms, contributing to numerous successful projects. My journey in the tech world has provided me with extensive experience, particularly in leadership roles.
+Professional Experience
+Over the past seven years, I have been involved in various projects, ranging from web applications to mobile apps. My expertise spans several key areas, including front-end development, cross-platform development, and back-end development.
+Leadership Experience
+In addition to my technical expertise, I have had the opportunity to work as a team lead. This role involved overseeing a team of developers, coordinating project tasks, and ensuring the timely delivery of high-quality software."
+software engineer,"I am a backend Python developer.
+My main technology stack includes Python/Django, DRF, PostgreSQL/MySQL, and Celery.
+I'm a strong believer in writing tests and producing reusable, maintainable code. Also, I am familiar with clean code and clean architecture principles. By utilizing these techniques, I ensure that my code is both efficient and effective, leading to successful project outcomes."
