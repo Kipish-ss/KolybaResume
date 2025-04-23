@@ -1,4 +1,172 @@
 Category,Resume
+c++,"Over 5 years of professional experience in the IT industry as a C/C++ Software Engineer with strong background in embedded and IoT solutions development.
+Extensive knowledge of network protocols (TCP/IP, UDP, TLS, SSL, SCP, DHCP, DNS, ARP, LWM2M, IPC), Wi-Fi routers, and network operating systems.
+Besides C/C++, experienced in Perl, Python, AWK, JavaScript, and PHP.
+Skilled in virtualization with VMware and QEMU.
+Good knowledge and practical utilization of build tools (CMake and Make).
+Experienced in GDB.
+Knowledge of Jenkins and Docker.
+A result-oriented, enthusiastic, attentive, and responsible team player. Passioned for creating sophisticated and optimal solutions."
+c++,"About 7 years of experience in C/C++ development.
+Extensive knowledge in software development and design of C/C++ application architectures for Linux.
+Strong expertise in embedded development, including MCU programming and hardware debugging using oscilloscopes. Proficient in working with databases for embedded systems.
+Up to 8 months of experience with Linux Kernel development.
+Practical IoT development experience as a hobby, utilizing the Zigbee stack.
+Technical skills:
+- C/C++, Bash, U-Boot scripting, Rust
+- Embedded Linux/bara-metal
+- CMake, Yocto
+- C++17, STL, boost
+- ARM, AVR, Nios2
+- UART, SPI, I2C, RS485, GPIO
+- Databases: MySQL, Redis DB, Berkeley DB, Influx DB,  Level DB
+- Oscilloscope, Valgrind
+- GNSS, RTC, temperature sensor, motion sensor, microcontrollers
+- Linux kernel
+- Git
+- D-Bus
+CPUs and MCUs:
+SoC FPGA with Cortex-A9, Cortex-A53, Cortex-A7, Cortex-A55, Nios2, ATmega8, Artpec 7/8/9"
+c++,"I have had experience working as a data analyst with proficiency in various analytical tools such as Power BI, M Query, Alteryx, and many more. My experience in data analysis has been diverse, ranging from small-scale projects to large-scale projects. In my previous role, I was responsible for gathering, analyzing, and interpreting complex data sets to provide insights to the management team on business operations and customer behaviour. I have also been involved in designing and implementing dashboards, reports, and visualizations using Power BI to communicate key performance indicators to the stakeholders effectively. Additionally, I have experience in data wrangling, cleaning, and transformation using Alteryx to prepare data for analysis. Overall, my experience as a data analyst has given me a comprehensive understanding of data analysis, and I am always eager to learn and adapt to new technologies and techniques in the field.
+I had a Google Data Analyst Certificate
+I developed the Power BI interface from 0 to 100 by myself.
+As a data analyst, my expectations from work include being given clear and well-defined goals, having access to relevant data sources, and being provided with the necessary tools and resources to analyze the data effectively. I also expect to have opportunities for professional growth and development, such as attending relevant training programs and conferences.
+However, there are also some things that I don't want from work. For instance, I don't want to be micromanaged or have my work constantly scrutinized without any trust or autonomy. I also don't want to be given unrealistic deadlines or workloads or be subjected to a toxic work environment. Overall, I believe that a healthy work-life balance and a positive work culture are essential for job satisfaction and productivity."
+c++,"Doing my game in openGL(C/C++) to learn the following languages, did .obj loader with transition to own binary format, small math library for graphics, portable executable parser, image loader in native win32 api(parsing manually). Have some minor experience in Vulkan as I'm intersted in low level programming as well.
+Ready for any jobs, internships to gain experience in C/C++
+OpenGL engine
+DirectX11 engine with cascaded shadow mapping, lighting, model loader with transition to binary format, lighting, camera system.
+BMP image file loader(custom) with display of these pictures in raw win32 api.
+Portable Executable file parser.
+Small math library for 2d-3d computer graphics.
+OpenGL game  from scratch, paying solid attention to the architecture to make the
+system more scalable, convenient. Made model loading using the assimp library, normal
+mapping, shadows, particles system, collision(WIP), gamma correction etc.
+Support, nice atmosphere, interesting project"
+c++,"C embedded developer:
+- current: FW development for radio controlled IOT devices
+- previous: development FW for coin changer. IDE: IAR, Eclipse (CMake projects). MCU: STM32, NRF52.
+Pet projects(schematics/PCB tracing in Altium, FW development, debug):
+- on-board car computer with K-line communication with ECU (STM32 MCU, GUI, audio advices for driver)
+- backup power system for house (STM32 MCU, parameters displaying on LCD, control of MPPT solar controller, DC-AC inverter, AC-DC battery charger)"
+c++,"I am a C/C++ developer with more than fifteen years of commercial development experience.
+The main directions are network programming, distributed systems, high-loaded services, multi-threaded programming and algorithms.
+The main platform is Linux.
+The quality of my code can be verified on many of my open-source projects, some of which are about fifteen years old. (see my GitHub profile).
+I have experience in developing all kinds of servers and application layer protocols, MMO projects (servers/partly_game_logic/RMI/RPC/IPC/replication), high-speed trading, game bots, mining optimization, distributed mining, profiling and application optimization, cryptography (symmetric/asymmetric, key exchanging/derivation/revocation), video streaming, video processing, video multiplexing/de-multiplexing, v4l2, gstreamer, Mavlink, UAV, remote control system for UAV.
+My technology stack:
+- C/C++
+- Cоde gеneration, PP-way, pre/post -way
+- STL, boost, boost.asio, Qt, wxWidgets
+- Networking, tcpdump, Valgrіnd/Callgrіnd
+- RPC
+- TCP/UDP
+- development of user-space communication protocols
+- video streaming, processing, multiplexing/de-multiplexing, v4l2, gstreamer
+- cryptography, symmetric/asymmetric, key exchanging/derivation/revocation
+- bash, python, JavaScript
+- deb/dpkg
+- JSON, XML
+- git
+- make, CMake, qmake
+- SQL, SQLite
+- Embеdded, RPI 3-4/Pine64/IFC6601
+- UAV
+- In 2010 I was the first to implement multi-threading support for MinGW-W64.
+- In 2012 I implemented serialization for C++, which until recently was the fastest.
+- In 2017 I added to that serialization the ability to ""construct"" objects for serialization, this became the basis for static reflection of objects, followed by serialization in JSON format. At the time it was the fastest zero-copy serialization of C++ objects as JSON.
+- also in 2017 I was the author of the implementation for GCC compiler of std::filesystem support for Windows. (MinGW-W64)
+- In 2013 I started working on a hobbyist task of an interface generator for RPC using only the C++ Preprocessor. (really! =)) The result was a self-contained RPC project (with client/server skeleton) that is now used by several companies.
+- In 2019 I successfully implemented and integrated a UDP video stream demultiplexer for streaming video from a UAV over several GSM channels, with multiplexing on a server side for the company's field to cloud infrastructure.
+- In 2021 I implemented a lossless UDP channel for video streaming, which became possible to use to send UAV control commands in both directions.
+what are my expectations from the job?.. hmm...
+the opportunity to do my job well, but not ""need for yesterday, as long as it works"" =)"
+c++,"• Programming STMicroelectronics STM32 microcontrollers
+• Experience in programming STM32, AVR, ESP-8266, ESP-32, Ambarella , WCH, ARTERY, Digispark ,
+Orange Pi , Raspberry Pi , Arduino platform , etc.
+• Development environments: Keil uVision5, STM32CubeIDE, STM32CubeMX, Espressif -IDE, Arduino
+IDE, Microsoft Visual Studio, MounRiver Studio.
+• Knowledge of real-time operating systems (RTOS) - FreeRTOS, Azure RTOS (ThreadX)
+• Experience in using I2C, SPI, UART interfaces, RS-485, RS-232 ,working with ADC, PWM, timers, interrupts,
+DMA, 1Wire, RTC, WatchDog , GPIO , SDIO, etc.
+• Working with HMI Displays ( Nextion, DWIN )
+• Experience with version control/bug tracking systems: Jira, Git
+• Experience with radio modules , Wi -Fi, analog and digital sensors, various peripheral devices, etc.
+• Experience in writing libraries for various sensors, etc.
+• Experience with measuring equipment: Oscilloscope, multimeter, logic analyzer, etc.
+• Experience in reading and understanding circuit diagrams.
+• Experience with a soldering iron, soldering station, installation and dismantling elements in DIP and SMD
+packages
+• Experience in selecting electronic components, circuit design and development of printed circuit boards
+characteristics and requirements for an electronic device.
+• Knowledge of C / C++ / WinAPI / MS SQL / Transact -SQL / Python
+• Basic knowledge of HTML / XHTML / CSS / XML / JavaScript / JQuery
+• Basic knowledge of electronics, circuitry and robotics
+• Device development automation and robotics
+• Assembling and setting up a PC, selection of components, diagnostics, minor repairs, etc.
+• Knowledge of drawing, descriptive geometry
+Tel: +З8O97262I5IО
+Viber: +З8O97262I5IО
+I am currently freelancing.
+Freelancer. Development of electronics, automation, programming of microcontrollers STM32, AVR, ESP-32
+Development of electronics and automation for the needs of the customer in accordance with the detailed TOR with all the characteristics and requirements for an electronic device.
+— Programming microcontrollers STM32, AVR, ESP-32, etc. in
+development environment: Keil uVision5, STM32CubeIDE, STM32CubeMX, Arduino IDE.
+— Preparation of Terms of Reference;
+— Reverse engineering of a device or system;
+– Selection of electronic components, circuit design and development of printed circuit boards.
+— Development of a functional prototype;
+– Production of prototypes (ordering boards in China);
+— Organization of small-scale production of electronics;
+— Assistance in the manufacture of stands for functional testing
+Skills:
+• Experience in using I2C, SPI, UART interfaces, working with ADC, PWM, timers, interrupts, DMA, 1Wire, RTC, WatchDog, GPIO, SDIO, etc.
+•Experience with radio modules, Wi-Fi, analog and digital sensors, various peripheral devices, etc.
+•Experience in writing libraries for various sensors, etc.
+•Experience with measuring equipment:
+Oscilloscope, multimeter, logic analyzer, etc.
+•Experience reading and understanding circuit diagrams.
+•Experience with a soldering iron, soldering station, mounting and dismounting of elements in DIP and SMD packages
+•Experience in the selection of electronic components, circuit design and development of printed circuit boards (easyeda.com online editor)
+• Experience in compiling a detailed TOR with all the characteristics and requirements for an electronic device."
+c++,"Linux C/C++ python middleware developer. Experience in networking with middle and high level protocols.
+Prepare architecture and design of client-server and client side API for the users, including unit/functional test coverage and providing documentation.
+Development of system architecture for solution and directions team members to clear architecture and code.
+Interesting challenges, growing up as technical lead and system architect.
+Desirable to work with no legacy code."
+c++,"I am a C++ programmer with 1.5 years of experience in game development. I handle the full development cycle, including design, coding, testing, and debugging. In my work, I extensively use algorithms, STL templates, design patterns, idioms, and adhere to SOLID principles to create clean and maintainable code.I have experience in debugging applications on mobile devices, which enables me to effectively troubleshoot issues and optimize performance. In one of my pet projects, I worked with the ImGui library for creating graphical user interfaces and the BASS library for audio processing."
+c++,"Currently developing cross-platform desktop app for Analog/Digital signal processing. Generate and export signal patterns for company internal purposes. Also currently maintaining logic analyser app with the same code base.
+Also took part in developing of embedded solution based on linux and bare-metal firmware, both 'sitting' on two different cores of the same silicon. We created working prototype, documented and transferred solution to newly created team.
+Experiece mentoring newcomers. Experience leading small team.
+Looking for new opportunities. Interested in any projects where I will be able to contribute value."
+c++,"С++ Engineer with 6+ years of experience in designing and developing software for embedded systems and desktop applications.
+Technical skills include a strong understanding of algorithms and data structures, advanced knowledge of C/ C++, and knowledge of the Python programming language.
+Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy.
+Some of the projects:
+Apr 2024 - Present
+Development and maintenance of software for medical devices.
+Creation and optimization of algorithms for real-time processing and analysis of medical data.
+Conducting software testing and validation to ensure stable performance in clinical settings.
+Feb 2022 - Feb 2024
+The primary objective of this project was to create a robust and efficient protocol analyzer for PCIe bus and USB.
+This app allows users to analyze and monitor the data transmitted over the PCIe bus and USB.
+Jan 2020 - Feb 2022
+Industrial automation system for gas control applications.
+The main objective of the project is to create a device capable of detecting and monitoring gas concentrations in the surrounding environment.
+Mar 2018 - Jan 2020
+Innovative sports startup that leverages technologies such as a three-axis inductive position sensor, ESP32 microcontroller, BLE (Bluetooth Low Energy), OTA (Over-The-Air) updates, and FreeRTOS operating system for advanced position tracking in
+sports. The primary goal of our project is to create the way athletes, coaches, and sports enthusiasts track and analyze positions during various sports activities."
+c++,"I was working as C embedded developer for a little more than 1 year, also I have a lot experience as full-stack developer.
+My technical skills are:
+- Linux programming (also ROS)
+- C programming
+- Delphi script
+- HW programming
+- Debugging software
+I have a lot of experience working as a front-end(full-stack) developer, but I often wanted to get new experience with C/C++.
+Today I'm looking for interesting projects which can improve my professional and technical skills.
+The main achievement our team developed for Panasonic is functionality that works via the SDN protocol.
+The main requirements for employer are a good atmosphere, friendly collective, modern stack and competitive salary."
 c++,"Projects: Windows Utility Applications
 Product-oriented development of performance and system optimization tools for Windows. All apps were built from scratch using modern C++ (C++17/20) and cross-platform Sciter UI. Actively contributed to core feature design, optimization
 Technologies: C++, Sciter Reactor, Python, Steam API, GPU/CPU/RAM overclocking modules, WinAPI, SQLite, Git, JSON, CI/CD pipelines
@@ -26,36 +194,6 @@ One of my most notable achievements has been the automation of routine processes
 These contributions had a tangible impact on the success of the products and the development of the team. I directly contributed to the successful release and monetization of 2 products that have generated millions of dollars in revenue for the company. Additionally, I mentored new engineers, helping them onboard quickly and start contributing to the project productively
 In my next role, I aim to join a team of proactive, honest, and professional individuals and contribute to modern projects that utilize up-to-date technologies. A flexible work schedule and a transparent system for regular salary reviews are very important to me.
 At the same time, I would like to avoid working with outdated legacy code or in a toxic team environment. Repetitive, monotonous tasks are not a good fit for me. I also strongly oppose excessive control practices, such as activity trackers that take screenshots or monitor mouse movements, as I believe trust and autonomy are key components of productive work."
-c++,"Luxoft | Regular C/C++ Software Engineer
-Nov 2021 – Present
-Ukraine, Kyiv | Remote
-Participate in the development and integration of components for a virtual environment (ECUs/Machines, and automated testing support). Provide core parts for Automotive Middleware, including networking power management for Telematic Control Unit (TCU). Integration of an AUTOSAR Classic stack and business logic through the different projects. Development of key performance indicators for real time system performance diagnosis. Provide the MCAL configuration.
-Technology and Skills:
-Embedded C, C++, Classic AUTOSAR, CMake/Make, Bash Shell, Lauterbach TRACE32, Python3, Vector Davinci Configurator, Vector Davinci Developer Classic, GTest Framework, Jenkins CI/CD, CodeSonar SCA, Mentoring, Integration, Soldering.
-Hardware:
-STM8 (STM8AL3136), AURIX TriCore TC37x.
-IT Education Academy (ITEA) | C/C++ Mentor
-Dec 2021 – Jan 2023
-Ukraine, Kyiv | Remote
-Conducted extensive training programs covering C and C++ software development for students around the world and provide a mentorship. Set up the internal test-environment with GitHub Actions to facilitate students in completing their homework assignments while learning the appeared errors in build processes and unit tests. Grade the Course Final Project.
-Technology and Skills:
-Git, GitHub, GitHub Actions, C/C++, Google Test Framework, CMake, Python3, Mentorship.
-NDA | C/C++ Firmware Developer
-Feb 2021 – Jul 2021
-Ukraine, Kyiv | Hybrid
-Took part in development of IoT ecosystem devices for smart lightning connected by LoRaWAN. Engaged in the creation of bare metal software tailored for control street lighting through the applying of LoRaWAN and MQTT IoT protocols. The IoT device included MCU and WiFi SoC.
-Technology and Skills:
-Embedded C, C++, STM32CubeIDE, Python3, MQTT v3.1, TLS 1.3, MQTT Mosquitto, OpenSSL, Prototyping, Soldering.
-Hardware:
-STM32 (STM32F103C8T6 ARM Cortex M3), ESP32 (2 Core Xtensa LX6), SX1276, SIM800L/C.
-RoboCode | Embedded Systems Education Instructor
-Aug 2017 – May 2021
-Ukraine, Kyiv | Hybrid
-Led comprehensive training programs encompassing C/C++ embedded software development, Python applications in computer vision and machine learning, as well as foundational skills in schematic design and PCB soldering.
-Technology and Skills:
-C++, Embedded C, Python, Prototyping, Soldering, Mentorship.
-Hardware:
-Arduino Family Boards and great amount of peripheral Sensors/Actuators, STM32, ESP32, K210."
 c++,"10+ years of experience in marketing and PR.
 Sectors:
 - Investment banking
@@ -82,20 +220,20 @@ A program for calculating a nutritional plan for a week for a family, taking int
 Website for ordering food delivery (JS/HTML/CSS/PHP, GitHub, teamwork)
 Power grid resistance calculator (JS/HTML/CSS, GitHub, teamwork)
 Creating an information bot for a handyman company (Python)
-Development of an algorithm for generating crosswords of different types
+Development of an algorithm for generating crosswords of various types
 Bachelor graduate work ""Mathematical models of stock index optimization"" (Python, Matlab)
 ----------------------------------------------
 [UA]
-Development of an advanced calculator with the ability to take higher-order derivatives for functions of two variables (C++, QT, GitHub, teamwork)
-A program for calculating a nutritious plan for a week for a family, taking into account allergies and wishes (Python, QT, GitHub, teamwork)
-A website for ordering food delivery (JS/HTML/CSS/PHP, GitHub, teamwork)
-Calculator for calculating the resistance of the power grid (JS/HTML/CSS, GitHub, teamwork)
-Creating an information bot for a company of handymen (Python)
-Development of an algorithm for generating crossword puzzles of various types
-Diploma work ""Mathematical models of stock index optimization"" (Python, Matlab)
+Розробка просунутого калькулятора з можливістю брати  похідні вищого порядку для функцій двох взмінних (C++, QT, GitHub, робота в команді)
+Программа для розрахунку нутрієнтного плану на тиждень для родини, з урахуванням алергій та побажань (Python, QT, GitHub, робота в команді)
+Веб сайт для замовлення доставки їжі (JS/HTML/CSS/PHP, GitHub, робота в команді)
+Калькулято розрахунку супротиву електромережі (JS/HTML/CSS, GitHub, робота в команді)
+Створення інформаційного боту для компанії різноробочих (Python)
+Розробка алгоритму генерації кросвордів різних видів
+Дипломна робота ""Математичні моделі оптимізації фондових індексів"" (Python, Matlab)
 Bachelor's degree in ""applied mathematics""
 ----------------------------------------------
-Bachelor's degree in ""applied mathematics"""
+Ступінь бакалавра за спеціальністю ""прикладна математика"""
 c++,"I'm a software developer with 6 years of experience, mostly on C/C++ stack. My strongest skills are C/C++, embedded systems, kernel modules/drivers in Linux based systems. I can write high performance program code in C/C++, both in user space and kernel space. I have experience in web backend programming in C/C++, Python and Java languages. Also, I have a Udemy certificate in Ethereum smart contracts, Solidity and Web3. I can easily learn and adapt to new technologies and environments.
 Done jobs and projects:
 -Python/Django: Lectured students in python and django web backend development.
@@ -105,11 +243,11 @@ Done jobs and projects:
 -Python/Flask: Backend of web application's AI engine.
 -Java/Spring Boot: Backend for payment machine terminal application.
 -C/C++: Remote desktop control application."
-c++,"I have experience working with Arduino microcontrollers, modeling programs, soldering electronic components, and now I'm working with network equipment, trying to develop in different directions in IT.
-I believe that my most important achievement was the work on creating prototypes of electronic devices, from idea to practical implementation. This helped me understand the process of the full cycle of creating electronic equipment.
-I want to work on interesting projects."
-c++,"I work as a leading software engineer (3+ years). I have 9 years of experience in C/C++, microcontroller software development (Atmega/STM32: DIn, DOt, SD-card, I2C, SPI, DAC, ADC, UART, CAN, USB) in C. API for Windows (Qt C++), providing communication between the PC and the microcontroller. Testing and refactoring of the written code.  Reading electronic circuits and debugging boards. Developing software documentation and drafting technical specifications. Commissioning and adjustment works at the facility.
-I understood the legacy code in a programming language that I knew only the base of (Delphi) and made it viable."
+c++,"Маю досвід роботи з мікроконтролерами Arduino, програмами для моделювання, займався пайкою електронних компонентів, наразі працюю з мережевим обладнанням, стараюсь розвиватися в різних напрямках в IT.
+Я вважаю, що найголовнішим моїм досягненням була робота по створенню прототипів електронних пристроїв, від ідеї до практичної реалізації. Це допомогло зрозуміти процес повного циклу створення радіоелектронної апаратури.
+Маю бажання працювати над цікавими проєктами."
+c++,"Працюю на посаді провідний інженер-програміст(3+ роки). Досвід роботи 9 років в C/C++,  розробка програмного забезпечення мікроконтролерів(Atmega/STM32: DIn, DOt, SD-card, I2C, SPI, DAC, ADC, UART, CAN, USB) на C. API під Windows(Qt C++), забезпечення зв'язку між ПК та мікроконтролером. Тестування та рефакторінг написаного коду.  Читання електронних схем та налагоджування плат. Розробка документації к програмному забезпеченню та розробка технічного завдання. Пуско-налагоджувальні роботи на об'єкті.
+Розібрався в legacy коді на мові програмування, якій знав тільки базу(Delphi) та зробив його життєздатним."
 c++,"GlobalLogic:
 Sep 2023– Feb 2024
 Trainee C software engineer
@@ -132,22 +270,22 @@ Contributed to the development of Arduino-based projects (Digispark, Arduino Nan
 Performed simulation of electronic circuits and configured Linux environments (Debian, Kali, Ubuntu), ensuring robust system performance and security during on-the-job training.
 I also know German pre-intermediate.
 I am looking for a job where I can use and develop my skills in embedded development, IoT, and C++/C programming. I want to work on interesting projects."
-c++,"Development of concepts of digital computing devices, algorithms, Hardw code, circuit design and tracing of multilayer PCB boards such as:
-- Development of a high precision inertial navigation system based on STM32H743, compatible with MavLink.
-- Development of Hardware/Soft of a smart home.
-- Visual tracking system.
-- Development of algorithms and software for a robotic car painting system.
-And many other projects.
-- Development of devices with interfaces such as PCI, PCIe, CSI, I2C, CAN, UART, RS485, HDMI, SATA, etc.
-I have patents for inventions in the field of electronics and energy.
-I will consider offers"
+c++,"Розробка концептів цифрових обчислювальних пристроїв, алгоритмів, Hardw code, розробка схем та трасування багатошарових PCB плат таких як:
+- Розробка інерційної навігаційної системи високої точності на базі STM32H743, сумісної с MavLink.
+- Розробка Hardware/Soft розумного будинку.
+- Систему візуального трекінгу.
+- Розробка алгоритмів та ПО до роботизованої системи фарбування авто.
+та багато інших проектів.
+- Розробка пристроїв з інтерфейсами як PCI, PCIe, CSI, I2C, CAN, UART, RS485, HDMI, SATA та інше.
+Маю патенти на винаходи у галузі електроніки та енергетики.
+розгляну пропозиції"
 c++,"High performance network storage solution specifically designed for audio and video workflows for the media and entertainment industry (6 years).
 High-speed data and multiplexing on-demand video streamer over an IP network over coax (2 years)."
-c++,"My portfolio includes a 2D game written in C using SDL 2, and a chat room written in GTK 3.0, SQLite, OpenSSL, and cJSON.
-- In the game, I was responsible for implementing basic character movement mechanics and music playback.
-- In chat, my task was to transfer data between the server and the client.
-I also have a link shortener in PHP, a calculator in JS, and several other projects in NodeJS and React.
-I also have experience with the WordPress platform."
+c++,"У моєму портфелі є 2д гра написана на C з використанням SDL 2, та чат написаний на GTK 3.0, SQLite, OpenSSL та cJSON.
+- У грі я відповідав за реалізацію базових механік руху персонажа та музичне відтворення.
+- У чаті моєю задачею була передача даних між сервером та клієнтом.
+Також в мене є скорочувач посилань на PHP, калькулятор на JS та декілька інших проєктів на NodeJS та React.
+Також є досвід з WordPress платформою."
 c++,"I prefer back-end development. I don't have height experience in Embedded. I didn't work in gamedev.
 I participated in development network applications before.
 I participated in development migration applications for client databases in the last company."
@@ -176,7 +314,7 @@ What I avoid:
 • Micromanagement that stifles expert input.
 • Rigid structures that choke flexibility.
 • Startups lacking a clear product vision or growth strategy."
-c++,"I have experience in developing several Python projects, including working with SQL databases. One of my projects was about creating social media bots in Python and C. Currently, I am studying at the Faculty of Cyber Security at the National Aerospace University named after M.E. Zhukovsky ""Kharkiv Aviation Institute"". I have a basic understanding of TCP/IP, VoIP, have several certificates from cybersecurity courses, and speak English at C2 level.
+c++,"Маю досвід розробки кількох проектів на Python, в тому числі роботи з базами даних SQL. Один із моїх проектів стосувався створення ботів для соціальних мереж на Python і C. На даний момент я навчаюся на факультеті кібербезпеки в Національному аерокосмічному університеті імені М. Є. Жуковського «Харківський авіаційний інститут». Маю базове розуміння TCP/IP, VoIP, маю декілька сертифікатів з курсів по кібербезпеці, володію англійською мовою на рівні C2.
 ------------------------------------------------------
 I have experience in developing several projects in Python, including working with SQL databases. One of my projects involved creating bots for social networks using Python and C. At the moment, I am studying at the cyber security department at M. E. Zhukovsky National Aerospace University ""Kharkiv Aviation Institute"". I have a basic understanding of TCP/IP, VoIP, I have several certificates from cyber security courses, I speak English at the C2 level."
 c++,"Experienced Database Developer, Python Developer, Backend developer, DBA and C/C++/D System Programmer with a strong background in data architecture design, backend design, REST API creation and fintech software development.
@@ -192,6 +330,13 @@ I also have expertise in system programming, embedded programming, electronic de
 Ph.D. in electronic engineering
 Open for a remote part-time, project or full-time job with a flexible schedule to combine development with university teaching.
 I don't write in Java!"
+c++,"Seasoned executive with 15+ years of experience leading large organizations through growth, transformation, and operational excellence. I specialize in turning strategy into action — scaling teams, optimizing operations, and unlocking revenue across tech, investment, and service-driven industries.
+From driving 345% revenue growth to leading 600+ people across global markets, I bring the vision and structure needed to scale. Whether as CEO, COO, or CBDO, I’ve consistently delivered results by reshaping strategy, restructuring organizations, and closing high-impact deals.
+Let’s connect if you’re building something bold — or need to fix something broken.
+Transformed organizations across multiple industries with revenue growth ranging from 84% to 345%.
+• Built high-performing teams (scaled from 1 to 90+ professionals) while maintaining exceptional retention rates.
+• Spearheaded digital transformation initiatives that resulted in significant audience engagement milestones (150M+ views).
+• Negotiated high-value partnerships with global enterprises to drive sustainable growth."
 c++,"I am a highly motivated Embedded Software Engineer with a strong ability to learn quickly and solve complex
 problems. I have experience in programming with C and working on firmware development for microcontrollers like
 STM32, ESP32, PIC16. I possess basic knowledge of C++ and Python, which I use for scripting and prototyping I am
@@ -230,33 +375,33 @@ Work on projects:
 · plugin to automate optimization LOD in UnrealEngine 4/5"
 c++,"ENG:
 Independent Reverse-engineer, researcher, C++/asm developer, project manager, QA-engineer. SW/company ex. co-founder.
-I have large experience (25+ years with IDA Pro) in Reverse engineering area, (Gamedev --autosimulators code, tools, RadioElectronic, CAD's), Including R/E of Microsoft code., SDK's etc. Creating/developing tools for these tasks. (including extending of IDA/HexRays)
+I have large experience  (25+ years with IDA Pro) in Reverse engineering area, (Gamedev --autosimulators code, tools, RadioElectronic, CAD's), Including R/E of Microsoft code., SDK's etc. Creating/developing tools for this tasks. (including extending of IDA/HexRays)
 it listed on my github ""About me"" page.
 https: //github. com/IDA-RE-things
 *****
 Also one of the projects, on which I'm working now:
 https: //github. com/IDA-RE-things/Chrome-xp-api-adapter/releases
-My other projects are not public.
-Since reverse engineering as such is just a tool and a method of creating something else,
-Based on my interests, I would like to develop in the sphere of Gamedev (car simulators and something related to them), or CAD of radio electronics, or software of automotive industry. Or anything else from the interests described on my github page (there's a lot of stuff there).
-I prefer to refine rather than develop from scratch. Also lead the process. Preferably in a product company. Maybe be a co-founder of a startup (I have such experience - I was the head of the application research department and co-founder of ApriorIT, a Dnepropetrovsk outsourcing company, back in 2004).
-And one more thing: if the project budget is limited, I am ready to compromise my salary for the sake of tasks that interest me."
-c++,"- Full development cycle - from ideas to publication in the Appstore and further support
-- Proficient knowledge of Swift, Objective-C (MAC OS & iOS) and experience with other languages such as C, C++, Java, Java-Script, etc.
-- Experience in using standard, popular, and not so popular frameworks and libraries of various directions
-- Understanding and experience in using various approaches, patterns, templates in software development
-- Extensive experience with tools for development, debugging, optimization, research, and reverse engineering
-- Good algorithmic base
-- Use of Agile, SCRUM, Kanban development methodologies
-- Ability to effectively plan time and positive experience of remote work
-- ""Editors Choice"" mark on your own app in the App Store
-- Applications in the top App Store
+Other my projects is not public.
+т.к реверс-инженерия как таковая это всего-лишь инструмент и метод создания чего-то другого,
+То исходя из моих интересов, желательны разработки в сфере Gamedev(автосимуляторы и чтолибо с ними связанное), или САПР радиоэлектроники, или софта автомобильной индустрии. Или чтолибо еще из интересов, описанных на моей странице github (там много всего).
+Предпочитаю дорабатывать, а не разрабатывать с нуля. Так же руководить процессом. Желательно в продуктовой компании. Возможно быть сооснователем стартапа (имею такой опыт - был руководителем отдела исследования приложений и сооснователем днепропетровской оутсорсинговой компании ApriorIT в далёком 2004-м году).
+И ещё момент: если бюджет проекта ограничен, готов поступиться зарплатой в меньшую сторону ради интересных мне задач."
+c++,"- Повний цикл розробки - від ідей до публікації в Appstore та подальшої підтримки
+- Впевнене знання Swift, Objective-C (MAC OS & iOS ) та досвід роботи з іншими мовами С, С++, Java, Java-Script ets.
+- Досвід використання стандартних, популярних, та не дуже фреімворків та бібліотек всіляких напрямів
+- Розуміння та досвід використання різноманітних підходів, паттернів, шаблонів в розробці програмного забезпечення
+- Великий досвід роботи з інструментами для розробки, відладки, оптимізації, дослідження та реверс-інжинірингу
+- Гарна алгоритмічна база
+- Викорестання методологий розробки Agile, SCRUM, Kanban
+- Вміння ефективно планувати час та позитивний досвід віддаленої роботи
+- Відмітка ""Editors Choice"" на власному додатку  в App Store
+- Додатки в топ App Store
 - Advent of Code (2015-2024) Fully Done
 - Leetcode 100 Days Badge
-- Clear and comfortable development process
-- A team of professionals focused on results
-- Interesting projects with high-quality architecture and design
-- Complex tasks that correspond to the level of competence"
+- Зрозумілий та комфортний процес розробки
+- Команда професіоналів націлена на результат
+- Цікаві проєкти з якісною архітектурою та дизайном
+- Складні задачі що відповідають рівню компетенції"
 c++,"Prefer *nix-specific projects(macos is also fine). Love system development. Good at cross platform projects. Prefer to work on product.
 Area of development: cross platform development, embedded/backend/desktop linux, system development for OS X(kext development, system extensions), GUI(Qt widgets), network applications, full cycle of application development(from technical specification to deployment)
 Languages: C, С++(including modern standarts), Rust, basic Objective-C, bash, basic python, dockerfiles(adept of docker environments)
@@ -282,44 +427,6 @@ Designed and implemented a financial application for real-time data collection, 
 Developed a high-performance load balancer and network handler for a low-latency traffic system, significantly improving throughput and reducing processing delays.
 Utilized technologies including C++, STL, Boost, multithreading, TCP/IP, UDP, and raw sockets to build scalable and efficient backend components.
 Improved system stability and responsiveness by optimizing multithreaded data processing pipelines and minimizing memory overhead."
-c++,"• Made a pendulum simulation with SFML and C++
-• Made a long-arithmetic factorial calculator in C
-• Made a text chat with client-server architecture and POSIX sockets with C++ on Linux
-• Made an inline telegram bot (with aiogram) for searching books using Google Books API
-• Made a compiler for own little programming language on Python
-• Worked in a team on the web chat (WebSocket, Java Spring, React, MySQL)
-• Worked with Ardupilot and vehicles on Ardupilot
-Solving problems, maybe math/physics related.
-Friendly, professional team.
-Gaining experience.
-Making new connections."
-c++,"SKILLS
-- Programming: C/C++/Bash
-- Good knowledge on L2-L3 Infiniband/Ethernet protocols
-- Working knowledge in the design and development of embedded hardware-related software solution
-- Basic knowledge in design and/or understanding of electronic schematics
-- Experienced in working with issue tracking tools (Redmine, Jira)
-Ajax era:
-- Basic radio knowleges
-- ARM Cortex development experience
-- SPI, UART, I2C, STM32, Docker
-EXPERIENCE
-Mellanox/NVIDIA:
-Sep 2018 - Jun 2023 (4.75 years)
-- Developed NVMoF/NVME functionality for HCA Coprocessor
-- Developed external(SW) and internal(FW only) features for NICs
-- Documented (for internal use), designed, tested FW features / verification tools
-- Lead a unit testing project
-- Assisted in SW integration/QA testing
-- Debugged and participated in HW/FW/SW bug fixing
-- Performed peer review and supported other FW teams in development
-Ajax:
-Sep 2023 - Present (6+ month)
-- Full sycle development of Malevich OS (C lang)
-- Support code with Unit tests
-- Write SDD, HLD, SoftReq (lmao so much docs)
-- Development infrastraction improvements
-Everything is under discussion"
 c++,"I am a versatile tech professional with over 12 years in the industry. I have a unique blend of experience in software development, leadership, project and delivery management, marketing, and design. I use all this expertise and personal skills to level up and grow businesses by building efficient workflows and bringing innovative solutions to different business areas.
 I’ve had the incredible opportunity to collaborate with some of the top companies and products in the industry:
 Miro (
@@ -372,35 +479,7 @@ I'm interested in the following positions:
 - Software Development Manager
 - Engineering Manager
 - R&D Manager"
-c++,"С++ Engineer with 6+ years of experience in designing and developing software for embedded systems and desktop applications.
-Technical skills include a strong understanding of algorithms and data structures, advanced knowledge of C/ C++, and knowledge of the Python programming language.
-Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy.
-Some of the projects:
-Apr 2024 - Present
-Development and maintenance of software for medical devices.
-Creation and optimization of algorithms for real-time processing and analysis of medical data.
-Conducting software testing and validation to ensure stable performance in clinical settings.
-Feb 2022 - Feb 2024
-The primary objective of this project was to create a robust and efficient protocol analyzer for PCIe bus and USB.
-This app allows users to analyze and monitor the data transmitted over the PCIe bus and USB.
-Jan 2020 - Feb 2022
-Industrial automation system for gas control applications.
-The main objective of the project is to create a device capable of detecting and monitoring gas concentrations in the surrounding environment.
-Mar 2018 - Jan 2020
-Innovative sports startup that leverages technologies such as a three-axis inductive position sensor, ESP32 microcontroller, BLE (Bluetooth Low Energy), OTA (Over-The-Air) updates, and FreeRTOS operating system for advanced position tracking in
-sports. The primary goal of our project is to create the way athletes, coaches, and sports enthusiasts track and analyze positions during various sports activities."
-c++,"Software development for embedded, wearable electronics and IoT, based on chips from STM, Microchip, Renesas, Espressif, Mediatek. Creating new concepts for electronic devices. Implementing the management of a small development team. Continuing self-study, professional development"
-c++,"I was working as C embedded developer for a little more than 1 year, also I have a lot experience as full-stack developer.
-My technical skills are:
-- Linux programming (also ROS)
-- C programming
-- Delphi script
-- HW programming
-- Debugging software
-I have a lot of experience working as a front-end(full-stack) developer, but I often wanted to get new experience with C/C++.
-Today I'm looking for interesting projects which can improve my professional and technical skills.
-The main achievement our team developed for Panasonic is functionality that works via the SDN protocol.
-The main requirements for employer are a good atmosphere, friendly collective, modern stack and competitive salary."
+c++,"Разработка программного обеспечения для встраиваемой, носимой электроники и IoT, на базе чипов от STM, Microchip, Renesas, Espressif, Mediatek. Создание новых концепций электронных устройств. Осуществление руководства небольшой командой разработчиков. Продолжаю самообучение, профессиональное развиие"
 c++,"Highly accomplished and results-driven Product Leader with 10+ years of experience building, launching, and scaling successful e-commerce, SaaS, and marketplace products. Proven ability to drive significant revenue and profit growth, manage cross-functional teams, and optimize user experience through data-driven decision-making. Expertise spans the entire product lifecycle, from ideation and market research to launch, iteration, and growth. Passionate about creating unique value propositions and building products that users love.
 Key Strengths & Experience:
 Full Product Lifecycle Management: From concept to launch and beyond, I've managed all stages of product development, including defining vision, strategy, roadmaps, and managing backlogs.
@@ -418,38 +497,6 @@ Scaled e-commerce project (Postel-Deluxe.ru), doubling profits and increasing AO
 Launched a B2B e-commerce platform, successfully delivering 120,000+ B2B orders.
 Launched Homemania.ru (B2B2C platform), driving 500K monthly visits.
 Increased conversion rates by up to 30% through UX/UI optimization and A/B testing."
-c++,"I am a C/C++ developer with more than fifteen years of commercial development experience.
-The main directions are network programming, distributed systems, high-loaded services, multi-threaded programming and algorithms.
-The main platform is Linux.
-The quality of my code can be verified on many of my open-source projects, some of which are about fifteen years old. (see my GitHub profile).
-I have experience in developing all kinds of servers and application layer protocols, MMO projects (servers/partly_game_logic/RMI/RPC/IPC/replication), high-speed trading, game bots, mining optimization, distributed mining, profiling and application optimization, cryptography (symmetric/asymmetric, key exchanging/derivation/revocation), video streaming, video processing, video multiplexing/de-multiplexing, v4l2, gstreamer, Mavlink, UAV, remote control system for UAV.
-My technology stack:
-- C/C++
-- Cоde gеneration, PP-way, pre/post -way
-- STL, boost, boost.asio, Qt, wxWidgets
-- Networking, tcpdump, Valgrіnd/Callgrіnd
-- RPC
-- TCP/UDP
-- development of user-space communication protocols
-- video streaming, processing, multiplexing/de-multiplexing, v4l2, gstreamer
-- cryptography, symmetric/asymmetric, key exchanging/derivation/revocation
-- bash, python, JavaScript
-- deb/dpkg
-- JSON, XML
-- git
-- make, CMake, qmake
-- SQL, SQLite
-- Embеdded, RPI 3-4/Pine64/IFC6601
-- UAV
-- In 2010 I was the first to implement multi-threading support for MinGW-W64.
-- In 2012 I implemented serialization for C++, which until recently was the fastest.
-- In 2017 I added to that serialization the ability to ""construct"" objects for serialization, this became the basis for static reflection of objects, followed by serialization in JSON format. At the time it was the fastest zero-copy serialization of C++ objects as JSON.
-- also in 2017 I was the author of the implementation for GCC compiler of std::filesystem support for Windows. (MinGW-W64)
-- In 2013 I started working on a hobbyist task of an interface generator for RPC using only the C++ Preprocessor. (really! =)) The result was a self-contained RPC project (with client/server skeleton) that is now used by several companies.
-- In 2019 I successfully implemented and integrated a UDP video stream demultiplexer for streaming video from a UAV over several GSM channels, with multiplexing on a server side for the company's field to cloud infrastructure.
-- In 2021 I implemented a lossless UDP channel for video streaming, which became possible to use to send UAV control commands in both directions.
-what are my expectations from the job?.. hmm...
-the opportunity to do my job well, but not ""need for yesterday, as long as it works"" =)"
 c++,"My specialization is data transfer and data optimization.
 Network layers L2-L3 (main in v802.1q and v802.11)
 Work with QT client-side protocols:
@@ -501,9 +548,9 @@ Working with a local DB (SQLite);
 Multithreading;
 Linux scripts (bash);
 RPM/deb packages building."
-c++,"I have a year of practical experience in the field of software development for electric vehicles in a company specializing in creating a platform for modern transportation solutions. My main area of expertise is the development of software for the ESP32 microcontroller, in particular, the control panel.
-In my workflow, I actively use the C programming language and the Espressif-IDE integrated development environment, and I am familiar with the principles of the Real-Time Operating System (RTOS) to optimize system performance. My tasks include the development of control logic and user interface, ensuring reliable and efficient operation of the system.
-In addition, I have a basic knowledge of electronics and circuitry, which allows me to better understand the interaction between software and hardware. Additionally, from time to time, I develop supporting software in C# programming language, which complements my development skills."
+c++,"Маю рік практичного досвіду роботи у сфері розробки програмного забезпечення для електротранспорту в компанії, що спеціалізується на створенні платформи для сучасних транспортних рішень. Моєю основною областю є розробка програмного забезпечення для мікроконтролера ESP32, зокрема, панелі керування.
+У моєму робочому процесі я активно використовую мову програмування C та інтегроване середовище розробки Espressif-IDE, і я знайома з принципами роботи Real-Time Operating System (RTOS) для оптимізації роботи системи. Мої завдання включають розробку логіки керування та інтерфейсу користувача, забезпечуючи надійну та ефективну роботу системи.
+Крім того, я маю базові знання в галузі електроніки та схемотехніки, що дозволяє мені краще розуміти взаємодію програмного та апаратного забезпечення. Додатково, час від часу я розробляю допоміжний софт на мові програмування C#, що доповнює мій навички у сфері розробки."
 c++,"Experienced CEO/COO & Project Manager | IT & Business Operations Leader
 Dynamic executive with 18+ years of leadership experience in IT, outsourcing, and corporate management. Proven track record in strategic planning, team leadership, and process optimization to drive business growth and operational efficiency.
 Successfully managed 100+ IT projects, delivering high-impact solutions for clients across multiple industries.
@@ -536,6 +583,20 @@ Motivated to build and lead high-performing teams, fostering a strong corporate 
 International Expansion & Market Growth
 Aspiring to contribute to global business development, forming strategic partnerships, and expanding operations into new markets.
 Open to C-level, operations, or senior project management opportunities in IT, tech startups, consulting, or digital transformation sectors."
+c++,"Over 6 years as a Software Developer
+• Expert in C++ programming
+• Collaborated with development teams and product owners
+• Developed and maintained software components
+• Updated and refactored existing projects
+• Conducted code reviews
+• Provided technical expertise and support to team members
+• Participated in architecture decisions
+• Troubleshot CI/CD pipelines
+• Implemented unit, integration, HIL, and SIL tests
+Recent technologies stack: C++, Python, Linux, QNX, GCC, Bash, IPC, VSCode, Bazel, Grafana, SOME/ IP, DDS, Helix QAC, DLT viewer, WireShark.
+With a strong background in C++ development and project leadership, I have developed software for automotive and medical projects. In my recent automotive project, I developed SDK libraries, integrated third-party programs, and created algorithms for lidar point clouds. I facilitated team collaboration, prepared presentations, and communicated effectively with customers. My work involved testing on various platforms and working with databases, ensuring a comprehensive approach to software development.
+I am stress-resistant, responsible for deadlines, sociable, quick to absorb information and always ready to learn. I thrive in collaborative team environments and can work independently. I have strong analytical and logical skills.
+Prepared to collaborate within a team or autonomously, I am equipped to tackle any task, whether it be captivating or less so."
 c++,"Ground Control Station for UAVs.
 Frontend: desktop application using Vue.js+Vuex and Electron.js
 Backend: Django and Django Channels for sending telemetry from drones
@@ -545,15 +606,6 @@ Before that I worked on various projects (desktop and mobile) on different OS.
 I’m looking for a long-term relationships and company where my extensive experience will be helpful.
 I have extensive experience
 Good salary"
-c++,"Hello!
-I have worked on several innovative and powerful projects, including:
-DinoDB – A High-Performance Database Management System
-DinoDB is a custom-built Database Management System (DBMS) that I developed from scratch using C++. It provides user management, database and table creation, modification, and deletion, data management, remote connections, and many other advanced features. Designed for speed and efficiency, DinoDB ensures secure and scalable data handling while supporting remote access and seamless management of large data structures.
-Dino Crypto Algorithm – Ultra-Secure Encryption System
-Dino Crypto Algorithm is a highly secure encryption system that I developed using C#. This algorithm ensures that encrypted data remains completely inaccessible to unauthorized third parties. Optimized for both security and performance, it guarantees data confidentiality and integrity while maintaining exceptional speed and efficiency. Data encrypted with Dino Crypto Algorithm is virtually impossible to decrypt without authorization, making it ideal for securing sensitive information.
-Other Projects
-In addition to these, I have worked on several innovative solutions across security, encryption, system programming, and database management. My goal is to develop advanced and highly secure software solutions that push technological boundaries.
-Feel free to reach out for more details or collaboration opportunities!"
 c++,"I am a software developer with 20 years of experience in commercial Software Development.
 Specializing in C/C++ my background includes extensive work on various projects implementation, writing unit tests, troubleshooting, debugging, maintenance.
 I'm proficient in multi-threading,
@@ -576,38 +628,6 @@ c++,"Developed an implementation of the pyramidal Kanade-Lucas-Tomasi (KLT) feat
 Developed a C++ library for arbitrary-precision integer arithmetic, implementing efficient algorithms for operations such as addition, subtraction, multiplication, and division on large integers.
 Linux System Internals & Administration – Gained a deep understanding of Linux system architecture, including kernel-user space interactions, process hierarchy, file system structure, and system startup sequence. Explored system administration concepts, command-line tools, and shell scripting.
 Computer Networking Fundamentals – Studied the TCP/IP stack and various network protocols, developing a solid foundational understanding of computer networks. Explored key networking concepts such as routing, packet structure, and data transmission principles."
-c++,"Doing my game in openGL(C/C++) to learn the following languages, did .obj loader with transition to own binary format, small math library for graphics, portable executable parser, image loader in native win32 api(parsing manually). Have some minor experience in Vulkan as I'm intersted in low level programming as well.
-Ready for any jobs, internships to gain experience in C/C++
-OpenGL engine
-DirectX11 engine with cascaded shadow mapping, lighting, model loader with transition to binary format, lighting, camera system.
-BMP image file loader(custom) with display of these pictures in raw win32 api.
-Portable Executable file parser.
-Small math library for 2d-3d computer graphics.
-OpenGL game  from scratch, paying solid attention to the architecture to make the
-system more scalable, convenient. Made model loading using the assimp library, normal
-mapping, shadows, particles system, collision(WIP), gamma correction etc.
-Support, nice atmosphere, interesting project"
-c++,"About 7 years of experience in C/C++ development.
-Extensive knowledge in software development and design of C/C++ application architectures for Linux.
-Strong expertise in embedded development, including MCU programming and hardware debugging using oscilloscopes. Proficient in working with databases for embedded systems.
-Up to 8 months of experience with Linux Kernel development.
-Practical IoT development experience as a hobby, utilizing the Zigbee stack.
-Technical skills:
-- C/C++, Bash, U-Boot scripting, Rust
-- Embedded Linux/bara-metal
-- CMake, Yocto
-- C++17, STL, boost
-- ARM, AVR, Nios2
-- UART, SPI, I2C, RS485, GPIO
-- Databases: MySQL, Redis DB, Berkeley DB, Influx DB,  Level DB
-- Oscilloscope, Valgrind
-- GNSS, RTC, temperature sensor, motion sensor, microcontrollers
-- Linux kernel
-- Git
-- D-Bus
-CPUs and MCUs:
-SoC FPGA with Cortex-A9, Cortex-A53, Cortex-A7, Cortex-A55, Nios2, ATmega8, Artpec 7/8/9"
-c++,"I have 2 years of hands-on experience with C and C++. For 1.5 years, I had been working with C and then spent half of the year working with C++. In C I developed operating system-level and desktop applications. These include the implementation of a custom Unix ls command, custom Unix shell implementation with IPC and signals interruptions, and a multithreaded desktop messenger application that used the GTK library to implement GUI. In C++ I was working mostly with desktop application development using the Qt framework. In addition, I have some experience in embedded development and developed a small car robot that avoids obstacles while moving, a fire alarm system and a fingerprint access system."
 c++,"Linux,  python, bash, C (plain), C++, Ubuntu, Git, Perforce, Subversion, Embedded C, Embedded Linux, Video, Gstreamer
 Can develop smart devices from scratch up to the final product.
 Worked with CSI cameras.
@@ -833,54 +853,6 @@ Development and support service for monitoring network
 hardware modems, communicators, optical nodes etc. php, database oracle.
 C++ program for linux as simple servers. UDP, TCP/IP, telnet.
 C/C++, Qt, Automotive, HMI"
-c++,"• Programming STMicroelectronics STM32 microcontrollers
-• Experience in programming STM32, AVR, ESP-8266, ESP-32, Ambarella , WCH, ARTERY, Digispark ,
-Orange Pi , Raspberry Pi , Arduino platform , etc.
-• Development environments: Keil uVision5, STM32CubeIDE, STM32CubeMX, Espressif -IDE, Arduino
-IDE, Microsoft Visual Studio, MounRiver Studio.
-• Knowledge of real-time operating systems (RTOS) - FreeRTOS, Azure RTOS (ThreadX)
-• Experience in using I2C, SPI, UART interfaces, RS-485, RS-232 ,working with ADC, PWM, timers, interrupts,
-DMA, 1Wire, RTC, WatchDog , GPIO , SDIO, etc.
-• Working with HMI Displays ( Nextion, DWIN )
-• Experience with version control/bug tracking systems: Jira, Git
-• Experience with radio modules , Wi -Fi, analog and digital sensors, various peripheral devices, etc.
-• Experience in writing libraries for various sensors, etc.
-• Experience with measuring equipment: Oscilloscope, multimeter, logic analyzer, etc.
-• Experience in reading and understanding circuit diagrams.
-• Experience with a soldering iron, soldering station, installation and dismantling elements in DIP and SMD
-packages
-• Experience in selecting electronic components, circuit design and development of printed circuit boards
-characteristics and requirements for an electronic device.
-• Knowledge of C / C++ / WinAPI / MS SQL / Transact -SQL / Python
-• Basic knowledge of HTML / XHTML / CSS / XML / JavaScript / JQuery
-• Basic knowledge of electronics, circuitry and robotics
-• Device development automation and robotics
-• Assembling and setting up a PC, selection of components, diagnostics, minor repairs, etc.
-• Knowledge of drawing, descriptive geometry
-Tel: +З8O97262I5IО
-Viber: +З8O97262I5IО
-I am currently freelancing.
-Freelancer. Development of electronics, automation, programming of microcontrollers STM32, AVR, ESP-32
-Development of electronics and automation for the needs of the customer in accordance with the detailed TOR with all the characteristics and requirements for an electronic device.
-— Programming microcontrollers STM32, AVR, ESP-32, etc. in
-development environment: Keil uVision5, STM32CubeIDE, STM32CubeMX, Arduino IDE.
-— Preparation of Terms of Reference;
-— Reverse engineering of a device or system;
-– Selection of electronic components, circuit design and development of printed circuit boards.
-— Development of a functional prototype;
-– Production of prototypes (ordering boards in China);
-— Organization of small-scale production of electronics;
-— Assistance in the manufacture of stands for functional testing
-Skills:
-• Experience in using I2C, SPI, UART interfaces, working with ADC, PWM, timers, interrupts, DMA, 1Wire, RTC, WatchDog, GPIO, SDIO, etc.
-•Experience with radio modules, Wi-Fi, analog and digital sensors, various peripheral devices, etc.
-•Experience in writing libraries for various sensors, etc.
-•Experience with measuring equipment:
-Oscilloscope, multimeter, logic analyzer, etc.
-•Experience reading and understanding circuit diagrams.
-•Experience with a soldering iron, soldering station, mounting and dismounting of elements in DIP and SMD packages
-•Experience in the selection of electronic components, circuit design and development of printed circuit boards (easyeda.com online editor)
-• Experience in compiling a detailed TOR with all the characteristics and requirements for an electronic device."
 c++,"Developed multiple embedded systems using STM32 MCUs, designing both hardware and firmware applications. Implemented firmware in C and C++, optimizing performance and memory usage. Utilized GDB and OpenOCD for debugging and troubleshooting. Additionally, worked with VHDL to design and simulate digital logic for FPGA-based applications."
 c++,"Python developer• Sedoc Digital Group s.r.l
 November 2024 - Present
@@ -981,22 +953,19 @@ Developing unit tests
 Providing software documentation
 Analyzing requirements
 Maintaining legacy code"
-c++,"1)Completed a 5-month IntelliMapLab course
-Worked on a project where I gained experience in developing a comprehensive data transformation system using Apache Spark (Scala)
-2)Current position: C/C++ &  Python developer at ""Arithma""."
 c++,"Hardworking, data-driven, used to multi-tasking and launching big projects. Succesfully launched 2 iGaming affiliate networks from scratch, implementing innovative and previously unknown business models and USPs. 6+ years of experience in affiliate marketing, 3+ years of С-level experience ."
-c++,"Development of a social package for the company's employees with the division of employees into categories; support of the social package; support of corporate communication to optimize the company's expenses; support of payroll; calculation and submission of bonuses for the company's employees (1000+ employees); preparation of a part of the quarterly report; formation of a resource plan; cooperation with the HR department in terms of coordinating the names of positions and departments; filling out questionnaires on salary and compensation market reviews; Communication with employees in time
-Developed a compensation and benefits package with a division into categories, manage and calculate bonuses for all employees of the company."
-c++,"Chief Operating and Financial Officer at Hewlett Packard Ent.
-Preparation of all regulatory documents for starting and running a business
-Drawing up a business plan and Starting from scratch. Budgeting and calculation of profitability
-Interaction with trade and foreign trade departments and work with suppliers.
-Optimized CAPEX & OPEX, developed investment programs and attracted financing. Managed the Sales and Marketing departments.
-Recruiting, training, motivating staff. Controlled key financial indicators, cash flows on the Company's accounts.
-Developed a working capital management model. Participated in the development of the Investment and Credit Policy. Developed a methodology for the implementation of the Internal Audit system. . Adapted the implementation of the 5S system at the Plant in Ukraine. Responsible for operational management of the Holding Company - 5 subsidiaries (Poland, Romania, Czech Republic, Slovakia, UAE).
-Ensured 100% fulfillment of the company's annual financial goals. Monitored and implemented the latest operational processes and technologies. Directed financial analysis to improve operational efficiency. Hedged operational and currency risks, oversaw budgeting, developed investment programs and raised financing.
-Implemented a system of Financial and Interest Rate Analysis to find hidden reserves and increase profits.
-He developed a system of control over accounts receivable and payable. During his tenure, he increased the Return on Sales (RoS) by 35% by increasing the customer base and optimizing inventory."
+c++,"Розробка соціального пакету для працівників компанії з поділом працівників на категорії; супровід соціального пакету; супровід корпоративного зв'язку для оптимізації витрат компанії; супровід виплати заробітної плати; розрахунок та подача на виплату бонусу працівників компанії ( 1000+ працівників); підготовка частини квартального звіту; формування ресурсного плану; співпраця з кадровою службою в частині узгодження назв посад та відділів; заповнення опитувальників стосовно оглядів ринку заробітних плат і компенсацій; Комунікація з працівниками в частині пояснення виплачених сум; формування звітності в 1С та інше
+Розробила пакет компенсації та пільг з поділом на категорії, менеджу і здійснюю розрахунок бонусу для all працівників компанії ."
+c++,"Операційний та Фінансовий Директор в компанії Hewlett Packard Ent.
+Підготовка всіх нормативних документів для відкриття та ведення бізнесу
+Складання бізнес-плану та Відкриття з ""0"" . Бюджетування та розрахунок рентабельності
+Взаємодія з відділами торгівлі , ЗЕД та робота з постачальниками.
+Оптимізував CAPEX & OPEX, розробляв інвестиційні програми та залучав фінансування. Здійснюва управління Продажами та Маркетинговим відд.
+Підбор, навчання, мотивація персоналу. Проводив контроль по ключовим Фін.показникам, по руху грошових потоків на рахунках Компанії.
+Розробив модель керування Оборотним капіталом. Приймав участь в розробці Інвестиційної та Кредитної політики. Розробив методологію щодо впровадження системи Внутрішнього Аудиту. . Адаптував впровадження системи 5S на Заводі в Україні. Відповідальний за операційне керування Холдинговою компанією – 5 дочірніх компаній (Польша, Румунія, Чехія, Словакія, ОАЕ).
+Забезпечив 100 % виконання річних фінансових цілей компанії. Відстежував і впровадив новітні операційні процеси і технології. Спрямовував фінансовий аналіз для підвищення операційної ефективності. Хеджував операційні і валютні ризики, контролював бюджетування, розробляв інвестиційні програми та залучав фінансування.
+Впровадив систему Фінансового та Коефіцентного аналізу діяльності задля пошуку прихованих резервів та збільшення прибутку.
+Розробив систему контролю за Дебіторською та Кредиторською заборгованістю. За час роботи збільшив Рентабельність Продаж (RoS) на 35 % шляхом збільшення Клієнтської бази та Оптимізації запасів."
 c++,"I have over 14 years of experience in software development, working as a full-time developer in major IT companies. I have contributed to complex projects in the automotive industry, including low-level logging and the development of head unit components, utilizing ASPICE and MISRA/AUTOSAR standards. I am proficient in C/C++ programming languages and Agile/Scrum and TDD methodologies, with a strong understanding of SOLID principles. My experience encompasses working with low-level systems, Linux, and QNX, enabling me to effectively address complex technical challenges for large-scale clients."
 c++,"The current project is the TCU for an automotive provider. The technologies stack was based on C++11/14, CMake and Embedded Linux. Also, CI/CD processes were involved with CppUnits/GTest for unit testing of the firmware and Python Robottest framework for integration testing.
 I'm looking for a C/C++ development position. With 3.5 years of experience, a focus on performance optimization, and a knack for problem-solving, I'm ready to contribute to your team."
@@ -1022,6 +991,15 @@ Strong knowledge C, base knowledge GNU assembler (x86/64), perl,python, shell.
 Basic knowledge Linux Kernel and userspace, writing network sniffers on C with
 libpcap library, basic POSIX, multithreading, UNIX daemons, creating static and dynamic libraries
 Linux Development"
+c++,"Образование: Высшее
+LINUX, Windows, MacOS
+Machine Learning
+TCP/IP,
+STL / Boost,
+WT Tools  C++,
+QT,
+GSoap,
+SQL"
 c++,"C++ Software Developer with 5 years of commercial experience in Automotive and DLP domains is seeking new opportunities for professional growth.
 Skilled in Windows and Linux development using C++, CMake, GTest, Docker, Yocto, curl, etc. Also had experience using a variety of different languages such as C#, Java, Python, etc. Had experience in Android development, Unity, WPF, and SQL.
 I would be happy to work on any project on which the core language is C or C++.
@@ -1051,10 +1029,10 @@ I work both as part of team, and self immediately ones, and as team leader.
 Soft skills:
 Leadership, team management, interpersonal skills, teamwork, conflict resolution, public speaking, tolerance, cultural sensitivity, adaptability, creative thinking, troubleshooting, problem-solving, innovative solutions, organization, problem identification, risk management, critical thinking, prioritization, positive attitude, initiative, continuous learning, reliability, self-awareness, professionalism, strategic planning, scheduling, critical observation, workflow management,
 implementing change, problem analysis, risk assessment, hypothesis testing, systematic thinking, contextual understanding, boldness, honesty, responsibility, reliability, sociability. I write high-quality, well-documented (if enough time was provided) and easily readable code."
-c++,"Tell us about your work experience
-Tell us what projects and tasks you have completed, what technologies you have used, your role in the team now, and where you want to develop
-Tell us about your work experience
-Tell us about the projects and tasks you have completed, the technologies you have used, your role in the team now, and where you want to develop"
+c++,"Розкажіть про ваш досвід роботи
+Розкажіть, які проекти та задачі виконували, які технології використовували, ваша роль у команді зараз, і куди бажаєте розвиватися
+Розкажіть про ваш досвід роботи
+Розкажіть, які проекти та задачі виконували, які технології використовували, ваша роль у команді зараз, і куди бажаєте розвиватися"
 c++,"I’ve done various projects for the university and what’s important every one of those that offered the freedom to choose any desired programming language I’d do with C or C++. Other include some projects with C# and JavaScript (+MySQL).
 Also I’ve had 2 team projects there. One was to develop an app and another was to model an architecture for a specified needs of a project.
 Also I have some personal projects made with C++.
@@ -1069,8 +1047,8 @@ Trainee C++ Developer (October 2021 - March 2022, SoftServe)
 Junior C++ Developer (April 2022 - July 2022, SoftServe)
 I dealt with the development of client-server applications.
 During this period I worked with C++ (stl 98, 17, Poco), PostgreSQL, Linux (Red Hat), Unit Tests (Google Test) and so on. All applications had been written according to design patterns (most MVC) and SOLID principles."
-c++,"If your company has any relation to the Russian Federation or Belarus, please do not disturb.
-I am interested in the position of C\C++ developer. Please pay attention to this. I am not interested in PHP."
+c++,"Якщо ваша фірма має хоч якесь відношення до РФ чи РБ прохання не турбувати.
+Мене цікавить позиція С\С++ розробника. Будь ласка, звертайте на це увагу. РНР не цікавить."
 c++,"Software developer with more than 5 years of commercial experience. Experienced in development of
 desktop lesson creation and delivery tool under multiple OS(Windows/Linux/MacOS), C++(17) development
 of desktop application(Windows) for supply chain planning solution, ‘from scratch’ development of streaming
@@ -1176,16 +1154,14 @@ I am eager to tackle the most pressing challenges in product development, levera
 •	Driving projects that push the boundaries of technology while prioritizing secure design principles, fostering innovation, and excellence in the development of cutting-edge security solutions.
 •	Engaging in roles that seamlessly integrate software development and optimization with a strong focus on cybersecurity, allowing me to leverage my unique expertise in blending advanced software engineering practices with robust security frameworks.
 •	Collaborating with dynamic teams dedicated to creating secure, innovative products while cultivating a culture of continuous improvement, proactive security awareness, and shared growth in the rapidly evolving field of security product development."
-c++,"Implementation of strategic planning, development of strategies and a strategic management system, and its cascading to the operational level. Leadership development in the company, development of motivation systems.
-Management of the financial and legal component of the business. Development of a management accounting system. Corporate and tax structuring of the business. Implementation of a budgeting system, plan-factual analysis. Financial modeling. Risk management, etc."
+c++,"Впровадження стратегічного планування, розробка стратегій, системи стратегічного менеджменту, каскадування її на операціійний рівень. Розвиток лідерства в компанії, розробка систем момтивації.
+Управління фінансовою та юридичною складовою бізнесу. Розробка системи управлінського обліку. Корпоративне та податкове структурування бізнесу. Впровадження системи бюджетування, план-фактного аналізу. Фінансове моделювання. Управління ризиками etc."
 c++,"Thanks a lot for checking my profile.
 My journey in embedded development began six years ago, and it's been an ongoing marathon that I’m determined to excel in. I believe that staying at the top requires relentless effort, and I am fully committed to going all in. I’m a hard worker with a proven ability to quickly master new concepts and technologies.
 I manage the entire product development cycle, from initial analysis and defining software requirements to software design, architecture, development, and testing. Let's create innovative solutions together!
 Passionate Project Ownership
 End-to-End Development
 Advanced Problem-Solving"
-c++,"I have worked with ATMEGA , STM32 , ESP32 and PIC microcontrollers. I am also an electronics engineer, I am designing hardware with the help of Autodesk Eagle or KiCad.
-After designing hardware if necessary I am designing mechanical parts with Autodesk Fusion360 CAD/CAM program."
 c++,I'm JavaScript/Node.js developer with over 10 years experience. I worked in startups and product companies. Capable of working fully remotely and on my own. I was a team leader in different teams. My main purpose is to provide the 100% quality work and help your business grows up
 c++,"C/C++ developer with professional experience in Networking (TCP/IP stack, L2/L3/L4 layers), REST API, Linux (OpenWrt), Bash/Python scripting, GIT, CMake. Great expertise in UI/UX & Design (Qt/QML), STL, Multithreading Development. GOF Design Patterns & OOP proffesional."
 c++,"- Bachelor degree in Computer Engineering
@@ -1214,18 +1190,18 @@ Junior Salesforce Full-Stack developer
 SyneboMedical project for location in emergency,
 Key responsibilities: Development, administration, testing and documentation.
 Technologies: Apex, SQL/SOQL, Windows, Salesforce, SFDX, Workflow, Validation Rules, Proces Builder."
-c++,"- Participated in the development of a platform for training neural networks based on reinforcement learning. The platform was written in Python3 using such libraries as:
+c++,"- Принимал участие в разработке платформы для обучения нейронных сетей по принципу обучения с подкреплением (reinforcement learning). Платформа была написана на Python3 с использованием таких библиотек как:
 Python 3.5 : tqdm, termcolor, h5py, keras, gputil, ujson.
-- After the development was completed, due to insufficient speed of neural networks training (the reason is the specific algorithm), it was decided to adapt one of the existing solutions (written in C++ in conjunction with Python), originally written for 1 environment (observation - a concept from reinforcement learning). Technologies we had to work with during the platform adaptation:
+- После завершения разработки, ввиду недостаточной скорости обучения нейронных сетей(причина в специфическом алгоритме), было принято решение адаптировать одно из существующих решений(написанное на С++ в связке с Python), изначально написанное под 1 окружение(observation - понятие из reinforcement learning). Технологии с которыми пришлось поработать во время адаптации платформы:
 C++ : concurrentqueue, cppzmq, googletest, json, pybind11, spdlog, tbb.
 Python 3.6 : pytorch.
-- Also had non-commercial experience developing C/C++ applications using:
+- Так же был некоммерческий опыт разработки приложений на С/С++ с использованием:
 sfml, sdl, glfw.
-- Other skills are described below (some of them I know in general).
-- Opportunity for growth.
-- Clearly defined tasks.
-- Metnor support.
-- Adequate management."
+- Остальные навыки описаны ниже(некоторые из них знаю в общих чертах).
+- Возможность роста.
+- Четко поставленные задачи.
+- Поддержка метнора.
+- Адекватный менеджемент."
 c++,"Working as iOS Developer from 2016. Skilled in development from scratch.
 Languages: Objective-C, Swift, Flutter.
 Frameworks: UIKit, Auto layout, CoreData, Realm, Google Maps SDK, Firebase, AWS, etc."
@@ -1307,21 +1283,21 @@ c++,"• FinTech Professional with 5+ years experience (Bank + Card + Crypto Pro
 • Working with Domestic (ACH, SEPA, FasterPayments, CHAPS), International (SWIFT) and Wallet (Skrill/Neteller, PayPal, ePay) payment systems;
 • Сompliance & Risk Management background;
 • People Management (up to 6 Financial Officers)."
-c++,"Graduated from Advanced C++ and Low-Level Programming courses
-I have completed tasks on EOlymp and CodeWars websites.
-I have level 7 on Codingame.
-Pet project Media Streaming Playback
-Service which is a client-server application for playing music
-Completed Advanced C++ and Low-Level Programming courses
-I have completed tasks on the EOlymp and CodeWars websites.
-I have level 7 on Codingame.
-Pet project Media Streaming Playback
-Service which is a client-server application for playing music
-To find a job and start a career as a developer. I have the inspiration to work and learn new things. I am interested in system programming, interprocess and network interaction, multithreading, cybersecurity, computer architecture."
-c++,"Worked in a team of freelancers
-Helped to implement parsers, telegram bots, admins, API connections
-We used relational databases (PostgreSQL), non-relational databases (MongoDB), parsing libraries (BeautifulSoup, Selenium), RestAPI technologies, frameworks (Django, FastAPI, Aiogram)
-I have two public projects:
+c++,"Закінчив курси Advanced C++ and Low-Level Programming
+Виконував завдання на сайтах EOlymp та CodeWars.
+Маю 7 рівень на Сodingame.
+Пет-проект Media Streaming Playback
+Service який являє собою клієнт-сервер додаток для відтворення музики
+Закінчив курси Advanced C++ and Low-Level Programming
+Виконував завдання на сайтах EOlymp та CodeWars.
+Маю 7 рівень на Сodingame.
+Пет-проект Media Streaming Playback
+Service який являє собою клієнт-сервер додаток для відтворення музики
+Знайти роботу та почати кар'єру девелопера. Маю наснагу працювати та вивчати нове. Цікавлюсь системним програмуванням, міжпроцесною та мережевою взаємодією, багатопотоковістю, кібербезпекою, комп'ютерною архітектурою."
+c++,"Працював в команді фрілансерів
+Допомагав реалізовувати парсери, телеграм боти, адмінки, підключення по API
+Використовували реляційні бази даних (PostgreSQL), нереляційні (MongoDB), бібліотеки з парсингу (BeautifulSoup, Selenium), технології RestAPI, фрейворки (Django, FastAPI, Aiogram)
+Маю два публічних проєкта:
 - Django
 - FastAPI
 - TelegramBot
@@ -1458,10 +1434,10 @@ Graphics.
 Team size: Solo
 Used technologies: SFML, C++, Cmake.
 It has to be interesting."
-c++,"I have no commercial experience. I did projects for myself, to get started.
-I developed the backend part in Python (and now I'm developing it with FastAPI). I am currently studying the frontend.
-He used CMSIS, LL, SPL, HAL to program STM32 and AVR MCUs.
-He has knowledge of C++, OOP principles for C++, and everything you need to understand: basic libraries vector, algorithm, stiring and others, what is a stack and heap, memory leak and more."
+c++,"Комерційного досвіду немає. Виконував проекти для себе, для начнання.
+На Python розбробляв (і зараз також) бекенд частину за допомогою FastAPI. Наразі вивчаю фронтенд.
+Для програмування МК STM32 i AVR використовував CMSIS, LL, SPL, HAL.
+Має знання С++, принципів ООП для С++ ну і усього, що потрібно розуміти: базові бабліотеки vector, algorithm, stiring та інші, що таке стек та купа, витік пам'яті  і інше."
 c++,"I am a quick learner with a proactive mindset, eager to absorb new concepts and apply them to real-world scenarios. My dedication to writing clean and maintainable code aligns with my goal to become a proficient C++ developer.
 I am excited about the opportunity to contribute as a Junior C/C++ Developer and am confident that my academic background, skills, and enthusiasm make me a valuable candidate for this position.
 C/C++, OOP, STL, Algorithms, Data Structure, MultiThreading , Qt, Linux, Networking, OSI,  TCP/IP, DRY / KISS, JSON/XML,  Python, WinForms, Git/GitHub, SQL, CMake, Makefile, gdb, valgrind, GTest, OpenWrt, Wi-Fi"
@@ -1494,7 +1470,7 @@ During trainee training, I wrote on a C/C++ mix HTTPS server for Linux, a WiFi s
 On the first project, I worked with cable modems. Updated modules for it, implemented new features, like distinguishing speed of Ethernet port. Improved read/write mechanism when BadBlocks are present on the dedicated partition. Worked with WiFi Mesh extender. Fixed pairing problems after migration to the latest kernel.
 The latest project work involves porting existing OpenWRT-based firmware to the OpenSource hardware platform BananaPI BPI-R3. Researching existing build systems, hardware-specific points, and boot systems. Created configuration for the new platform and investigated and updated image creation for the new platform.
 Current project. Work as C/Python software engineer. Working on the implementation of API for automating the test of the hardware. In this case, we have equipment that is connected to the router and uses AT commands to communicate with it. Creating an API that allows the use of Python code to autotest this equipment."
-c++,"I have extensive experience in UAV development, namely flight controller for FPV. I also worked with student projects and on freelance basis. I worked in a team of 5 people, now I am looking for a job at Embedded."
+c++,"Маю багатий досвід в сфері розробки БПЛА, а саме польотного контролеру для FPV. Також працював зі студентськими проектами та на фрілансі. Працював в колективі з 5 людей, зараз шукаю роботу в Embedded."
 c++,"C NETWORK DEVELOPER - GLOBAL LOGIC
 JUNE 2023 - NOW
 I worked half a year  in the development and enhancement of software solutions tailored for OpenWRT-based platforms. My key responsibilities involve implementing networking functionalities, customizing OpenWRT firmware to meet specific client requirements, and ensuring the resilience of networking protocols. I actively collaborate with cross-functional teams to optimize system performance and deliver high-quality software solutions.
@@ -1577,3 +1553,351 @@ Managed to establish testing, release and bug triage processes, significantly de
 Possibilities to make decisions and take responsibility for consequences, discuss, improve product and processes, hear opinions of others and be heard.
 Work with hardware is a plus.
 I like work with leader who can mentor, share knowledge and provide fair feedback to give me possibility of personal growth."
+c++,"Software Embedded developer
+Technical Skills
+Programming Languages: C (Advanced), C++11 (Advanced), c# (Beginer), Shell scripting, Python (beginer)
+Operating System: QNX, Linux, WSL, RTOS: MQX, ThreadX, FreeRTOS, uCOS-III
+Technologies: DDS, gRPC + protocol buffers, MQTT, OpenWRT, Design Patterns, UML, TCP/IP, Posix, Wi-Fi/3GPP, LVGL, Uncrustify
+Wireshark/tcpdump, GCC, Git, SSH, GDB, HTTP/REST/JSON,
+GTest/GMock Framework, Cortex-M4, Eclipse, WinAPI, USB, oscilloscope, Hg, IMU, ModBus,
+Wireless communications (GSM, Bluetooth), Multithread Application Development, Jenkins/JIRA/Confluence"
+c++,"C/C++/Python teacher - I provide online tutoring in C, C++ and Python. I've been teaching for about a year and a half
+Freelancer UvoCorp - I perform various tasks, such as application support, bug fixes, writing algorithms, improving program perfomance, etc.
+""Introductory C programming"" Coursera
+""Programming fundamentals"", ""Writing, running, and fixing code in C"", ""Pointers, arrays, recursion"", ""Interacting with the System and Managing memory"" - Duke University
+Programming in C++ (2 courses) - Computer Science Center
+Bachelor, Computer engineer
+Kyiv Polytechnic Institute
+2022 - current"
+c++,"2024-1,5 months 43 hours certificate of “Mobile Network” TelecomGo program of LifeCell
+2024-embedded self practice projects
+2023-UpWork projects
+2023-C/C++ create a simple projects:
+Arduino simple practice projects(LED, motor, motion sensor temperature, electric valve etc.)
+- ESP32 Wroom - test programming
+- Write for ODrive Controller program to motor control
+- C++ System of test any microcontroller,
+- C++ WarehouseManagementSystem,
+- C++ System of railway reservation,
+- C++ Security system.
+ROS2- self practice.
+2023- Wrote a Java framework using Selenium webdriver. The test code automatically cleaned the database from irrelevant and outdated data and their bindings instead of manual deletion. Currently a technical support engineer. I want to develop in the direction of automated testing.
+C++ - self-practice
+C++ -  online courses
+AQA Java framework for clean database with old dates. (Selenium Webdriver )
+AQA Java courses at Nikos LTV
+Create the testing Framework Page Object model, selenium, webdriwer for www.podkapot.com website
+Global Logic AQA Java course.
+Work in a team to create a testing framework for the learn Ukrainian website. Selenium webdriver selenide was used."
+c++,"Translator from MyLanguage to Assembly Language
+Technologies used:
+C, C++
+Assembly Language
+Git/GitHub, Debugger
+Stack/Heap
+File-Searching app: The app gets a file name and returns you a complete path of the file on your PC.
+Wrote course-work of programming with C++ in university on max mark 100."
+c++,"Розрбка та впровадження розподіленої системи сбору, обробки данних та керування в сфері енергетики. Керівник проекту. Програмування серверної частини (Windows services). Embedded-программування (Fastwell, Octagon). Робота з сокетами (серверними ти клієнтськими). Основна среда розробки Qt 4.5.
+Маю великий досвід в розробці систем диспетчерського керування, вбудованного програмного забезпечення, розподілених систем збору та обробки даних. Маю досвід роботи з СУБД MySQL. Основна мова програмування С++ (Qt 4.5). Також маю досвід роботи з Pascal та assembly 8086. На теперішній час маю бажання відновити свої навички кодування, бо останні 6 років цим майже не займався."
+c++,\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+c++,"My first experience was regarding C++ Qt development. I was working with GUI for IP phones. After that I was relocated to another one project. I was working with firmware for Wi-Fi routers. On this project my skills in computer networking have increased a lot as well as skills in Linux. On this project I faced many technologies. Several times I had to write some Bash and Python scripts. Sometimes I had to debug the Linux kernel to understand where the bug was. Often, I had to explore how some network protocol works and made changes in our software according to standards. After that I changed project on financial tech and still working here. Here I got experience to write abstract and safe code, using a lot of design patterns, unit testing and third party utils to improve code quality. I got very wide general experience in computer science. My general skill is C/C++ so I want to find work in this area.
+I participated in a hackathon which was related computer networking. I developed a script which automates the tagging version process which was taking about 1 hour. Now it take about 5 minutes. I reworked open source isc-dhcp server for customer requirements.
+Good team and interesting projects, possibility for development, responsible managers"
+c++,"10+ years of experience in С/С++ (STL, Boost)
+10+ Embedded Linux programming
+5+ years of experience in Qt/C++ and Qt/QML
+Good knowledge of Python
+Some experience in Java, JavaScript, Lua, Rust, Ruby
+Some experience in OpenCL"
+c++,"I have been working as a Software Engineer (Backend) for more than 7 years. I have commercial experience of designing, developing and optimizing cloud-based applications. I specialize in creating cost-effective, scalable systems that are reliable, flexible and secure.
+My Software Engineering experience lies in implementing scalable distributed systems with high performance. I have a strong foundation in Data Structures and Algorithms by developing optimized code aimed at reducing complexity. Reviewing existing code for better efficiency has become second nature.
+Throughout my career, I have focused on developing features that directly improve key business metrics like revenue and ROI. The end goal is always to build systems that are maintainable, testable and help drive business value. My Engineering skills facilitate solving complex problems and delivering technical solutions that meet client needs.
+Languages: Python, JavaScript, C, C#, PHP, SQL
+Technologies: Django, Flask, FastAPI, Selenium, Appium,
+NumPy, Pandas, React, Next.js, Node, Express, Redux Toolkit, Webpack, Apache
+Kafka, RabbitMQ, REST, GraphQL, RPC, Authentication, Authorization, Realtime, WebSockets
+Testing: Doctest, Unittest, Vite, Eslint, Pytest, Selenium, Postman
+Databases: SQL, MySQL, PostgreSQL, SQLite, ORM, SQLAlchemy, NoSQL, MongoDB, Redis, Firebase, Elasticsearch
+DevOps: Git, Docker, Kubernetes, Vercel, AWS Lambda, Kibana, Grafana, Jenkins, Google Cloud, Nginx, Apache, GNU Linux bash, Cron Tools & Methodologies: SOLID principles, Object Oriented Design Pattern, Architecture Pattern, Asynchronous
+New challenges in interesting project with a motivated team"
+c++,"Actively developing as a C/C++ software engineer. I have more than 1.5 years of C/C++ programming experience in the field of telecommunications.
+I also have 7+ years of experience in PLC programming and industrial automation software development.
+Possess excellent problem-solving skills and a strong ability to work independently and as part of a team."
+c++,"- Languages: C,  C++, Go, Python
+- Linux: daemons, services, systemd, boot, rules, access, openssl etc.
+– DB: MongoDB, Postgresql
+- Integrating: WiFi, modem modules, Network-manager service
+- Developing Thermal manager for Qualcomm (SA415m, SA515m)
+- Ti: CC1310, OAD, Rf section,
+- RTOS, OSEK
+- CAN, CAN-TP, Tp-on-Tp, MQTT protocols
+– HMI (Qt,Qml, Populus)
+- Build systems: Make, CMake, Yocto, PTXdist
+- Vector: CANoe, CANdela, CAPL programming, AutoSar, DaVinci
+- IBM Rational Change, Rhapsody
+- SVN, GIT, Jira, Gerrit, Bitbucket, ALM
+– Jenkins (configurating, start scripts)
+Embedded projects ( as smarthouse systems, thermostats, commercial device for paint) and Automotive domain:
+General workflow with telematic units, but also working with HMI, cluster, modem
+Remote work
+Embedded is main, but would be greate to try as Middle backend developer ( Go )"
+c++,"XXX-company
+Software Engineer
+Project description: Development and integration of an advanced cloud solution for car navigation.
+Main achievement:
+-Implemented the possibility of engine operation with different types of maps.
+-Adapted the routing mechanism for customers’ navigation software
+-Created a convenient guide for compiling and debugging projects, which has allowed for a 2x acceleration in the
+onboarding of new employees.
+Technologies used: C++17, C, Python, Git, Jenkins, Bash, Linux, GDB, Conan
+YYY-company
+Software Engineer
+Project description: Development of the first Augmented Reality Electronic Control Unit (ECU) for a Tier 1
+automotive supplier with headquarters in Japan. My team is responsible for the software design and development
+for the Board Support Package (BSP) part of the graphics processor
+Main achievement:
+-Developed the infrastructure of a data provider responsible for delivering and parsing data in userspace to the
+graphics block
+-Integrated my components and open-source ones into Yocto image
+-Created SWAD (Software Architecture Document) and SWDD (Software Design Description) documentation for
+the data provider infrastructure
+Technologies used: C++, C, Yocto, Bitbake, Python, Git, Jenkins, Bash, Linux, Networking, Multithreading,
+IPC, Enterpsrise Architect (EA), User-space software development, MARS,
+ZZZ-company
+Software Engineer
+Project description: Development of CAD solutions for architects. CAD engine development.
+Main achievement:
+-Fixed a floating bug that had been occurring for 6 months.
+-Corrected an error in a custom shortest path search algorithm, resulting in a 6x speed increase in the algorithm’s
+performance.
+-Increased code coverage from 30 percent to 85 percent with tests.
+Technologies used: C++, Python, GLFW, CAD API, Boost, .Net, Git, Jenkins,
+Development of first Augmented Reality ECU for a Tier 1
+automotive supplier with HQ in Japan
+Get the position of c++ developer"
+c++,"Junior C /C++ Developer | Milli Majlis of the Republic of
+Azerbaijan - Baku, Azerbaijan
+Mid-level C++ Developer (team leader) | IDRAK Technology
+Transfer - Baku, Azerbaijan
+Senior C++ Developer (head of the computer vision
+laboratory) | IDRAK Technology Transfer - Baku, Azerbaijan
+Full Stack Developer (remote) | SANAT Technologies Minsk,
+Republic of Belarus
+Project manager (team leader) | Bus payment and monitoring
+system
+Project manager (team leader) | online b2b shop – platform
+CTO (team leader) | iSAP Solutions Ltd –
+Germany (remote)
+many government and social projects that I have completed
+I want to be able to build project architectures, maybe even manage a project or a team"
+c++,"Hi!
+To obtain a С/С++ position within a company that values teamwork and professional growth. Utilizing my expertise in C/C++ , Python, Qt, and AWS, I aim to deliver high-quality software solutions while continuously enhancing my technical skill set."
+c++,"Senior Software Developer (Engineer) Embedded more when 10+ years experience.
+Deep theoretical knowledge and significant practical experience in C, embedded, ThreadX RTOS, HAL, electronic circuits development and complex algorithms;
+Good experience in usage of C#, Python, HTML, PHP, Linux;
+Developing new and updating Unit and Integration Tests using UTF, EmbUnit, Ceedling, Ranorex;
+Strong knowledge of Smoke testing, pump simulation software NATS and PSIM, sensor and mobile emulation software CETS;
+Strong knowledge of automation server Jenkins for automatic building and running of Unit and Integration tests using Python and Groovy scripts;
+Experience in creating test plans, test reports, test cases, bug reports, SOUP analyses reports, verification plans, verification reports;
+Experience in creating of software GUI for PlantUML and software for control USB-relay using C#;
+Experience in mentoring GL Embedded ProCamp group of eight students;
+Experience in communication with customers;
+Experience in creating presentations;
+Head of organization committee of several international conferences in which foreign participants took part (one of them was held in Turkey);
+Ability to study quickly, responsible and hardworking a team worker, creative and resourceful scientist, polite and articulate person with good communication skills, high level of technical English
+C/C++, Assembler, Linux, FreeBSD, ThreadX, RTOS, Windows, ARM, AVR, ADSP, MSP,  STM32, JTAG, Eclipse, IAR, Keil, Visual Studio C/C++/C#, SVN, Git, Scrum, PTC Windchill RV&S, Redmine, Surround SCM, CodeCollaborator, JIRA, Confluence, UART, I2C, SPI, QP, Python, GitLab, GitHub, Visual Studio Code, UML/PlantUML, EmbUnit/UTF/Ceedling, CedeCoverage, BullseyeCoverage, Jenkins, Power BI, Ranorex"
+c++,"I'm currently working on a processing project. My tasks include developing new features, maintaining CI/CD pipelines, and integrating a monitoring system.
+The current tech stack includes Postgres, Grafana, and Boost."
+c++,"I'm working on an automotive project.
+Responsibilities include: writing new application functionality, testing on bare metal, writing documentation, writing unit tests, testing at all levels, support for existing code."
+c++,"• Developing (full cycle) a ground station software for satellite
+• Python prototyping, Unity3D desktop client (forecast, planning)
+• Developed C server for antenna rotation system control, data acquisition and storage
+• Developing a carrier rocket software with C/C++ core and services
+• MATLAB & Simulink upper-level logic and math modeling and integration, testing and fixing
+• Configuring a CD pipeline with Jenkins CI
+• MATLAB/Node.js source code and additional files generation
+• Developing a MIL/HIL system tests.
+• C/Simulink for a “plant” (a model of controlled object and environment);
+• Using MATLAB for test automation
+• C/SQL/Simulink for telemetry
+• Developing a similar system software for a different hardware (FreeRTOS controller instead
+of BusyBox Linux SBC)
+A complete and MIL/HIL tested carrier rocket control system along with the testing system itself.
+No gambling, no advertisement, no weaponry"
+c++,"Документування проекту та створення онлайн багатомовної документації за допомогою зв'язки GitHub Actions, doxygen та bash скриптів.
+Впровадив у поточний проект використання розподіленої системи контролю версій
+MilTech Пілотовані безпілотні наземні, підводні апарати.
+Embedded Linux
+AVR, Docker, Raspberry, cmake, make, Linux(Debian),PCBdesing, Circuit design"
+c++,"Freelance years:
+Backup server.
+client/server
+TCP/IP sockets;
+IPC;
+Data collecting server and firmware for arduino based HW.
+client/server  MySQL server;
+Multithreading;
+Async IO;
+TCP/IP sockets;
+QT;
+embedded; firmware for different arduino boards.
+Brewery controller
+Embedded
+NMEA devices tracker
+Embedded/ raspbery pi
+Python
+Person Presense Detection
+embedded
+algorithms
+Azure cloud
+Wirless battery management system
+Embedded/ Freescale mcu
+Wireless lib(bare metal driver)
+Developed custom communication protocol
+client/server
+HMI (Human machine interface):
+automotive
+embedded
+QT/QML
+Software for artists:
+Qt
+Vector computation optimizations (intel compiler, SSE, AVX)
+UI Framework
+Graphical suite(vector/rasrt editor)
+UI Framework (custom framework based on QT, Cocoa, WPF)
+ML (WindowsML, CoreML, ONNXRuntime)
+WiFi Routers:
+OpenEmbedded
+Bitbake
+Automake
+Embedded
+Fitness device
+Embedded
+Bluetooth
+HVAC
+develop  firmware for multiple devices in HVAC domain using both c and c++ lang
+Good debug skils,
+Fast learning,
+Basic unerstanding of ML.
+Worked with multiple MCU like STM32, ESP32, Qualcom, ATMEL
+Have own debugging tools like Oscilloscope, Logic analizer, JTAGs, Precision multimetr, Different soldering equipment, microscope, etc
+Проект який зміцнить обороноздатність України.
+Friendly team,
+Embedded domain, preferable bare metal/FreeRTOS."
+c++,"I was a java backend engineer in a team of 5 developers
+and i effectively used all my skills of software engineering to build a quality REST-API on Spring Boot and documentation for that. We are designed and created an information system for tracking volunteer hours.
+For my development i decided to apply for the Baza Trainee that provides students with commercial experience. On this project i mastered some incredible technologies and participated in the development of real projects such as textract and multiwork.
+Also i created a few pet-projects by my own and had experience of creating project for my course work.
+I am also familiar with JavaScript, HTML, CSS.
+BEST HACKat0n Lviv • May 27 — 28, 2023
+I would like to gain experience in different interesting projects and work in a communicative and friendly team."
+c++,"- Experience in PoC with success сustomer involving.
+- Partial development team leading.
+- The key integrator role.
+- Implementing the software for indoor climate automation for multi-room buildings.
+- Finding and solving device communication problems or lack information in software implementation.
+- Sensors firmware implementation for production testing.
+- Implementation of a software and hardware solution for synchronizing mobile testing and testing with
+a PC using an external SIM card reset.
+- Investigating and implementing of a solution with Android and iPhone to capture a video from a
+specific ""Smart Нome"" control panel.
+- Implementing the algorithm of automatic development board connection when ""Smart Home"" server
+for devices comunication starting.
+- Investigation of methods for precise synchronization of threads in the software implementation of
+""Smart Home"" devices communication server .
+- Implementing the software and hardware solution of resetting and reconnecting the video capture
+device from the ""Smart Home"" control panel.
+- Implementing a hardware solution with a timer relay delay to eliminate the malfunction of motion
+sensors in a ""Smart Home"".
+- Implementing a hardware solution to eliminate the development board damage during the stress and
+load testing.
+Want to learn the QA in real workprocesses and start the way to official Team Lead.
+An engineer
+An Embedded software developer.
+Have an experience in STM32 TMS320 CC2592 MCU's software developing.
+Have an experience in HDL models designing (VHDL/SystemVerilog).
+Have an experience in freelance on the systems development based on microcontrollers and FPGA, such as:
+- An Intelligent Traffic Light Based on Microcontroller ESP-12E Wi-Fi Module.
+- An Automatic Staircase Lighting System in Private Residential Building.
+- Software system for hardware control of PC monitor external LED illumination.
+- A Built-in Device for FSM Diagnosis on Remote Area (Gas Allocation System).
+- A Logic Control System Models Based on Microcontroller Devices.
+- A Microcontroller Device for Color Climate Control.
+- A Microcontroller Device for Solar Tracker Control.
+Open to part-time vacancies.
+Small or big project or projects.
+Language and skills improving courses appreciate well.
+Social packet (insurance,vacation,etc)."
+c++,"2003 - embedded C/C++ developer in Odrex R&D (Odessa) where I was responsible for gambling machines firmware development
+2008 - 2009 embedded C/C++ developer in Monada (Kherson) where I was responsible for harvester ECU's firmware development
+2009 - 2010 remote mobile developer in WEPRO where I was responsible for Windows Mobile and Android development.
+2022.06 - remote C++ developer at Adapt Framework Solutions.
+2022.08 - Senior C++ / Python developer at Global Logic."
+c++,"12+ years overall experience.
+Last 8+ years working on Embedded Telecom/Networking 4G/5G related project.
+С/C++, STL, Multithreading, Linux, RTOS, AT-commands, Porting, Safe refactoring of Legacy code.
+Debugging, Profiling, problem solving skill.
+Focus on code quality/efficiency
+Mathematical and physics background"
+c++,"Once graduated I worked at BugartGames startup as Game Client Developer. I developed games using Objective-C and C#/Unity.
+Then I used to work as a freelancer for 4 years developing huge amount of mobile apps (iOS and Android). During freelance I developed sqlite_orm - a popular C++ ORM library for SQLite.
+Then I went to Wargaming to be a C++ Game Client Developer. I developed World of Tanks Blitz - mobile + desktop tank shooter written with our custom game engine written with C++.
+Then I went to Playtika to be a Game Client Developer also.
+Them I went to sabbatical to practice Rust and my own projects.
+Now I am looking for new opportunities.
+Development of a popular open source C++ project on github
+Adequate team, clear processes, pros as colleagues."
+c++,"Back-end, after COVID restriction, remotely:
+- cryptocurrency/fiat exchange (Golang);
+- low latency trading platform refactoring (C);
+- request-response RPC API on the base of libp2p for blockchain project, simple pallet in scope of substrate framework (Rust), ESP32 (ESP8266) Web3 libraries (C++, crypto++, mbed-tls) to submit extrinsics and ethereum transactions and smart contracts (Solidity) to blockchain;
+- build and set up Yocto Linux and vxWorks images for virtualization/containerization;
+- Requirements engineer, HMI scope, Polarion, ASPICE (Java/C++);
+- HTTP REST API for Windows based distributed video editing & CMS (C++);
+- REST API for POS terminal (C++11);
+- R&D IoT for gps navigation (Python, K8S, Docker);
+- Yaml parser & API mapper for LLM GenAI based car platform (C++17, Kotlin, Android NDK, cmake);
+Embedded systems, before COVID restrictions:
+- IoT (Azure IoT Edge, AWS Greengrass), telemetry;
+- multimedia streaming, SIP, VoIP, ffmpeg, RTSP;
+- automotive, AUTOSAR Adaptive;
+- Linux, RTOS and bare metal (ARM, STM32, AVR, DSP, etc.);
+- mostly C, less C++/Qt, time by time: Rust, Python, bash, Golang, Java, D, Perl, Lua;
+- microservices over Redis, MQTT, ZeroMQ, nng, D-bus, libp2p, raw sockets;
+- CAN bus, SPI, IIC, RS232, USB, ETH, BLE, TCP, UDP, SOME/IP etc.;
+- buildroot, Yocto, OpenWRT, make/cmake, das U-Boot.
+Versions control:
+- git, mercurial, SVN
+Other:
+- Docker, K8S
+- Redis, SQLite, PostgreSQL, MongoDB
+- CI/CD: GitHub Actions
+- Web3, Solidity
+Tech Lead, Architect
+system and/or low level programming (C, С++, Rust, Golang)
+Office: +$1K5,  crypto +$2K5 to base monthly rate"
+c++,"I am a second-year Software Engineering student with a good understanding of C/C++, algorithms, data structures, STL and object-oriented programming. My primary development environment is Linux. I have hands on experience with personal projects, including a custom traceroute tool that utilizes ICMP packets and TTL manipulation to trace network paths. I am eager to apply my skills to real project
+I have successfully completed a 3-month Basecamp program focused on Linux and Networking. During this time, I gained hands on experience with Linux command-line tools, shell scripting, and core networking concepts such as IP addressing, routing, DNS,DHCP and firewall configuration."
+c++,"Software Engineer C++, SoftServe Ukraine –January 2021 – Present
+Blackberry – developing and implementing android applications/libraries using JNI
+Logitech – developing servises for hardware calls with AIDL, developing AOSP alterations for new features.
+C++ Developer, chameleon soft Ukraine – September 2020 – January 2021
+Developing self-checkout devices. Implementing features to work with cash registers, scanners, customers features.
+C/C++ Developer, DonetskGorvodokanal Ukraine – September 2018 – January 2020
+Fixing electronic devices. Managing telemetry software. Desining pressure sensors. Desining and developing data monitoring system.
+Developed custom pressure sensor for company needs. Alterating android for specific device"
+c++,"BSH Drives and Pumps s.r.o(Košice) from 07.2022 -now. Junior software developer C++, Part-time
+PCklub J13 (Košice) from 07.2021 - now. Chairman
+4Cubes s.r.o. (Košice) 06.2021-06.2022, Junior system Administrator, Part-time
+Certificated Service Center DIANT (Kyiv)
+12.2019 - 08.2020, Service Engineer
+Kyiv college of computer technologies and economics of National Aviation University
+02.2019 - 11.2019, Database Operator"
+c++,"As a dedicated student at the 42 coding school in Abu Dhabi, I have immersed myself in software development with a focus on the C programming language. Although I haven’t had formal work experience, my academic projects speak volumes about my capabilities.
+As a proactive student at 42 coding school in Abu Dhabi, I’ve successfully completed multiple challenging projects that are designed to simulate real-world software engineering tasks. Among my achievements is the completion of the ‘Minishell’ project, which required a deep understanding of UNIX system calls and process management. I’ve also tackled the complexities of multithreading in the ‘Philosophers’ project, mastering mutexes and semaphores to prevent deadlocks.
+Additionally, I have consistently maintained a high academic performance, balancing my commitment to both individual and group projects.
+Beyond academics, I actively engage in the school’s coding community, sharing knowledge and learning from my peers, further enriching my programming skills and collaborative abilities.
+As an aspiring Software Engineer and a dedicated student at 42 coding school in Abu Dhabi, my expectations for an internship are both clear and ambitious. I am seeking a remote position that allows me to apply my expertise in C programming to real-world projects. I’m eager to contribute to the team while also broadening my own skill set in a setting that fosters innovation and encourages problem-solving.
+I anticipate opportunities to tackle challenges that will allow me to grow as a developer. I’m particularly interested in roles that offer a blend of individual and team responsibilities, echoing the collaborative and self-driven learning experience I’ve had at school. I look forward to utilizing tools like Git in a professional context and am keen on mastering new technologies and methodologies.
+Overall, my expectation is to find a remote internship that offers a balanced combination of mentorship and independence, enabling me to contribute meaningfully while continually advancing my software engineering skills."

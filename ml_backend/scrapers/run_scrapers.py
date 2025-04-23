@@ -16,18 +16,18 @@ ml_backend_dir = script_dir.parent
 DATA_PATH = ml_backend_dir / "data" / "raw"
 
 CATEGORIES = [
-    # "frontend",
-    # "backend",
-    # "full stack",
-    # "devops",
-    # "qa engineer",
-    # "ux",
-    # "designer",
-    # "data engineer",
-    # "data analyst",
-    # "business analyst",
-    # "data scientist",
-    # "product manager",
+    "frontend",
+    "backend",
+    "full stack",
+    "devops",
+    "qa engineer",
+    "ux",
+    "designer",
+    "data engineer",
+    "data analyst",
+    "business analyst",
+    "data scientist",
+    "product manager",
     "project manager",
     "ios",
     "android",
@@ -46,7 +46,7 @@ CATEGORIES = [
     "software engineer"
 ]
 
-SCRAPERS = [DjinniScraper]
+SCRAPERS = [DjinniScraper, PostJobScraper]
 
 
 def main():
