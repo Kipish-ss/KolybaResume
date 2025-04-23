@@ -1,8 +1,9 @@
 import time
 import logging
-from scrapers import DjinniScraper, PostJobScraper
-
-
+from pathlib import Path
+import os
+from djinni_scraper import DjinniScraper
+from postjob_scraper import PostJobScraper
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(
@@ -10,23 +11,27 @@ logging.basicConfig(
     format="[%(asctime)s] %(name)s - %(levelname)s - %(message)s"
 )
 
-DATA_PATH = "ml_backend/data/raw/"
+script_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+ml_backend_dir = script_dir.parent
+DATA_PATH = ml_backend_dir / "data" / "raw"
+
 CATEGORIES = [
-    "frontend",
-    "backend",
-    "full stack",
-    "devops",
-    "qa engineer",
-    "ux",
-    "designer",
-    "data engineer",
-    "data analyst",
-    "business analyst",
-    "data scientist"
-    "product manager",
+    # "frontend",
+    # "backend",
+    # "full stack",
+    # "devops",
+    # "qa engineer",
+    # "ux",
+    # "designer",
+    # "data engineer",
+    # "data analyst",
+    # "business analyst",
+    # "data scientist",
+    # "product manager",
     "project manager",
     "ios",
-    "android"
+    "android",
+    "flutter",
     "marketing",
     "hr",
     "recruiter",
@@ -37,11 +42,11 @@ CATEGORIES = [
     "sales manager",
     "java",
     ".net",
-    "python"
+    "python",
     "software engineer"
 ]
 
-SCRAPERS = [PostJobScraper]
+SCRAPERS = [DjinniScraper]
 
 
 def main():

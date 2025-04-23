@@ -5,16 +5,16 @@ import pandas as pd
 import time
 import logging
 from pathlib import Path
-from .scraper import Scraper
+from scraper import Scraper
 
 logger = logging.getLogger(__name__)
 
 
 class PostJobScraper(Scraper):
-    def __init__(self, category: str, path: str, max_pages: int | None = 5,
+    def __init__(self, category: str, path: Path, max_pages: int | None = 5,
                  delay: float = 2.0):
         super().__init__(category, max_pages, delay)
-        self.file_path = path + f'postjob/{self.category}.csv'
+        self.file_path = path / 'djinni' / f'{self.category}.csv'
         Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://www.postjobfree.com"
         self.search_url = f'{self.base_url}/resumes?t="{category}"&r=100'

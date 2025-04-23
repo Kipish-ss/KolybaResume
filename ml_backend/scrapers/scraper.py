@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-from deepl import DeepLClient
 
 
 class Scraper(ABC):
@@ -16,5 +15,5 @@ class Scraper(ABC):
         pass
 
     @abstractmethod
-    def scrape(self):
+    def scrape(self) -> None:
         pass
