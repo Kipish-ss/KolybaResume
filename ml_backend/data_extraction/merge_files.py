@@ -127,6 +127,7 @@ def main():
         "hr": ["hr.csv", "recruiter.csv"],
         "mobile": ["mobile.csv", "android.csv", "flutter.csv", "ios.csv"],
         "marketing": ["marketing.csv", "seo.csv"],
+        "c++": ["c++.csv", "rust.csv"]
     }
 
     backend_keywords = ['backend', 'back-end', 'back end']
