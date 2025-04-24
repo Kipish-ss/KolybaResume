@@ -17,7 +17,10 @@ class PostJobScraper(Scraper):
         self.file_path = path / 'djinni' / f'{self.category}.csv'
         Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://www.postjobfree.com"
-        self.search_url = f'{self.base_url}/resumes?t="{category}"&r=100'
+        if category in ["frontend", "backend"]:
+            self.search_url = f'{self.base_url}/resumes?q=title%3A"{category}"+-full&r=100'
+        else:
+            self.search_url = f'{self.base_url}/resumes?t="{category}"&r=100'
         self.locations = [
             "", "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
             "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky",

@@ -18,7 +18,7 @@ class DjinniScraper(Scraper):
         Path(self.file_path).parent.mkdir(parents=True, exist_ok=True)
         self.base_url = "https://djinni.co"
         if category in ["frontend", "backend"]:
-            self.search_url = f'{self.base_url}/developers/?keywords="{category}"-full-stack&options=skip_skills'
+            self.search_url = f'{self.base_url}/developers/?keywords="{category}"-full&options=skip_skills'
         else:
             self.search_url = f'{self.base_url}/developers/?keywords="{category}"&options=skip_skills'
 

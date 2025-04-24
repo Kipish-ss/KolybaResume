@@ -1,10 +1,72 @@
-Category,CV
+Category,Resume
 data scientist,"- ASR system with WER (word error rate) ~34% in the wild (noisy data)
 - TTS models for Kazakh and Russian languages
 - Custom Voice Activity Detector written in PyTorch
 I am an expert in Machine/Deep Learning and Speech Technologies (ASR, TTS, VAD, etc.) with more than 5 years of experience. I am working with conventional Machine Learning and Deep Learning on a daily basis.
 I also have an experience in Computer Vision, Natural Language Processing, Machine Learning, and Statistical Analysis.
 It would be nice to have a research side along with development."
+data scientist,"
+1. Green White Solutions: ML Engineer| 2022.02 ~
+        I.SKU Object detection YOLO
+2. Tidesquare: Data scientist | 2021.11 ~ 2022.10
+        I. Spearheaded cutting-edge projects on deep learning-based recommendation, harnessing the power of data to deliver personalized and highly accurate recommendations.
+        II. Implemented collaborative filtering techniques to enhance user experiences by providing relevant and targeted content.
+        III. Leveraged listwise ranking algorithms to optimize content presentation and improve overall user engagement.
+           
+3. Autosemantics: Research Engineer | 2019.8 ~ 2021.11
+        I. Pioneered advancements in computer vision, excelling in tasks such as object detection, keypoint detection, image segmentation, and image classification.
+        II. Developed an expertise in NLP through successful implementations of entity recognition systems, contributing to the extraction of valuable information from unstructured text data.
+        III. Leverage the power of reinforcement learning techniques, specifically DDPG and DQN, to optimize energy consumption, highlighting a dedication to sustainable practices.
+        IV. Applied data-driven approaches to wind turbine data analysis, identifying patterns and insights to optimize performance.
+        V. Demonstrated proficiency in web crawling using popular frameworks such as Selenium, Scrapy, Splash, and Beautifulsoup, facilitating data acquisition from online sources.
+        VI. Showcased skills in creating intuitive UI applications using Builder C++ and PyQt5, delivering seamless user experiences.
+        VII. Spearheaded Flask-based web development projects with a focus on efficient database management, ensuring robust and scalable solutions.
+        VIII. Leveraged time series data analysis and prediction methods to extract valuable insights and inform strategic decision-making.
+        IX. Developed an innovative Android application, Watereyes, for anomaly detection, combining mobile technology with cutting-edge algorithms to address real-world challenges.
+"
+data scientist,"I have Bachelor's degree in Artificial Intelligence and Master's degree in Data Science. I have 3 years of experience in AI, stay on top of new technologies and use them in production, pre-sales and researches. I also have an article on Defect Detection In Manufacturing With Unsupervised Learning.
+PROFESSIONAL EXPERIENCE
+
+• Deep Learning, Data Science, Computer Vision, NLP
+• Models integrating and creating ML apps
+• Communication with project stakeholders, demonstration of results
+• Knowledge sharing, mentorship, tech leading, pre-sale activity
+
+
+Project: Sentiment Analysis of Reviews
+Role: AI Engineer
+Description: Reviews come through data cleaning and formatting stages, then are processed with
+models and algorithms to extract keywords, sentiments and opinions.
+Applied technologies and skills: PyABSA, NLTK, SpaCy.
+
+Project: Skin Features Detection
+Role: AI Engineer
+Description: User provides photo of the face. API returns visualization of detected skin features and
+calculated scores.
+Applied technologies and skills: OpenCV, MediaPipe, Segment Anything, Docker, AWS, Fast API.
+
+Project: Body Measurements Application
+Role: AI Engineer
+Description: User provides photos and height as a reference. Circumference measurements are
+predicted using linear measurements.
+Applied technologies and skills: Scikit-learn, Regression models, MediaPipe.
+
+Project: Virtual Wardrobe
+Role: AI Engineer, Tech Lead
+Description: User provides their photo and selects outfit for virtual dressing room. Application is
+based on custom diffusion models.
+Applied technologies and skills: Stable Diffusion, Streamlit, MediaPipe.
+
+Project: Watermark Detection
+Role: AI Engineer
+Description: Application for detecting watermarks on images.
+Applied technologies and skills: PyTorch, Docker, WandB, Streamlit.
+
+Project: Hand-Written Diagram Recognition
+Role: AI Engineer
+Description: Application for recognition of hand-drawn content including diagrams.
+Applied technologies and skills: PyTorch, Docker, Flask.
+"
 data scientist,"* Winner of Odessa Computer Vision Hackathon (2017).
 * Former ^_^ speaker at JavaScript conferences as JS Frameworks Days, OdessaJS, KharkivJS and other technical events
 Have 7+ years of experience in Software Engineering. 
@@ -51,6 +113,50 @@ Development of AI-based applications, e.g.:
 * friendly and nice team
 * interesting and exciting tasks
 * long term partnership"
+data scientist,"Educational Accomplishments:
+- Graduated Summa Cum Laude with GPA 4.44/4.5 (rank 1/115 students)
+- Class valedictorian
+- Best Student award
+- President award
+- Top Academic Excellence Award
+- Global Vision Scholarship (South Korea)
+- Master's degree CGPA: 4.5/4.5
+- Obtained Ph.D. in computer science and engineering
+
+Professional Accomplishment:
+- AI-Connect contest winner
+- Winner of ML contest by National IT promotion agency (NIPA)
+- ACM-ICPC winner
+
+Work accomplishment:
+- reduced CNN computational and memory cost by 21-30% 
+- achieved 2.8x CNN training speed-up with 6-10x fewer parameters
+- designed a new face liveness detection model to prevent spoof attacks
+- optimized ML system pipeline to reduce each user request (1000+ per minute) under 400ms on CPU for iOS, Android, and web services
+** AI researcher at DeltaX, Seoul, Korea
+  •  Led team of engineers for the X-Cabin project (computer vision-based solution for in-cabin control system)
+  •  Developed hand gesture recognition solution for a futuristic hologram-based car infotainment system.
+  •  Developed left-item detection, seat-belt detection, driver monitoring system, and occupant monitoring system using in-cabin fisheye camera and deployed the solution to low-power embedded devices.
+
+** Head ML Engineer at UZINFOCOM LLC
+  •  Designed and trained DL-based liveness detection models to prevent face spoof attacks using Keras, PyTorch, Tensorflow, OpenCV
+ •  Implemented a new face spoof artifact detection model and converted Keras and PyTorch models to ONNX runtime
+ •  Designed system’s overall workflow and built a central data processing pipeline: face detection, blurriness detection, head pose estimation, artifact filter, occlusion detection, liveness detection, and face recognition
+ •  Optimized vision backend pipeline to reduce each user request (1000+ per minute) under 400ms on CPU.
+
+** Core ML Researcher at Intelligent Mobile Lab
+ •  Researched and led various ML projects and provided end-to-end solutions by modeling, experimenting, designing, optimizing, and troubleshooting new and state-of-the-art methods; developed novel learning algorithms for CNN and DBN models
+ •  Authored and co-authored prestigious SCI(E) journal publications
+ •  Optimized large solutions and pruned large networks to improve inference time and memory costs and deployed them onto embedded devices with limited computational resources, e.g., Jetson Nano, AGX, Raspberry Pi (pruning, ONNX, ROS, TensorTR)
+
+** Head AI Engineer at ITMED LLC - Ministry of Health of the Republic of Uzbekistan
+ •  Developed DL models for breast cancer diagnosis and implemented the system for Radiology-Oncology PACS and RIS systems
+ •  Built APIs and workflow to get DICOM data from SYNAPSE, then process, inference, and prepare diagnosis results for Radiologists
+
+My technical skills: proficient in Python, Tensorflow, Keras, Pytorch, ONNX, OpenCV, ROS, GitLab, Linux; previously used C++, MATLAB
+
+Soft skills: project management, teamwork, technical writing, task organization, meeting deadlines, problem solving
+Friendly environment and a fantastic team"
 data scientist,"•	Have realized project which has already saved ~1 mio EUR for our company;
 •	Have implemented two cross-functional projects with classification and clustering methods of machine learning. As a result, it was possible to significantly improve the quality of SAP master data and reduce the load of specialists on ~ 1,6 FTE;
 •	Have applied best practices from data science to implement 5 big cross-functional projects using time series regression, classification, clustering methods of machine learning. Also, using Python has significantly sped up the processing of data sets (over 2.5 million records) and improved the quality of statistical analyses, visualization and increased the efficiency of business decisions.
@@ -141,6 +247,26 @@ The Data Scientist's work is to analyse and to mining collected data and to deve
 
 For foreign companies and developers teams ready to establish your IT Development Department in Ukraine (Kharkov).
 Something challenging in IT development and (or) Data Science (AI, Machine Learning, Deep Learning, Time Series). Ready to raise your any business to higher level by Data Science (AI) for Business and Modern Business Management (AI + Strategy + Business Model + Business Processes + Orgstructure-Teams + Business Metrics). And expect long lasting projects, preferably at product company."
+data scientist,"Experience of successful commercialization of the product that I was developing for the international markets.
+Creating an internship program in the company where were participating nearly 20 interns.
+I am a Project Leader at the product company. I am running a team of Data Scientists and Software Engineers. We are developing state-of-the-art Computer Vision solutions for different platforms with computational restrictions. I have experience of successful product commercialization for the international markets.
+The main scope of my responsibilities:
+ Leading and managing a team of data scientists and software engineers in the development of system and application software that enables users to receive relevant services.
+ Communication with stakeholders, coordination of project requirements, preparation of project proposals, and PoCs.
+ Engineering and development of the Computer Vision modules. 
+ DL models optimization for different platforms with strict computational restrictions.
+Previous responsibilities:
+ Managing an internship program with 20 interns.
+ Developing computer vision and tracking software for robots.
+ Developing a DL solution of story building for images.
+ Developing Augmented Reality solutions.
+
+Skills:
+Project managing and leading, Agile/Scrum, Jira, Confluence, TeamCity, etc.
+Solid experience in Computer Vision and Deep Learning. Knowledge of Machine Learning and NLP.
+Programming languages: Python(OpenCV, Keras, Tensorflow, PyTorch, etc.), C++.
+Instruments and technologies: Linux, Git, Docker, CMake, ROS(Robot Operating Systems), Bash, etc.
+I am working as a manager in the Data Science sphere and I want to continue to develop myself in team management and leading along with improving my skill in Data Science technologies."
 data scientist,"I consider myself a passionate and disciplined individual, thus these traits always bring success to me. I got accepted to the world-class Charles University with a special scholarship.
 As a computer vision engineer, I have a strong background in researching, designing, and implementing innovative algorithms for a variety of projects, including license plate recognition, vehicle make-model detection, and face recognition. My expertise in Python programming and PyTorch deep learning framework has been crucial in developing scalable, robust, and accurate computer vision systems for large-scale datasets.
 
@@ -178,6 +304,10 @@ PHP Developer
 January 2005 - July 2021
 Mostly remote work for different companies creating web projects
 Interesting tasks that require artificial intelligence"
+data scientist,"
+Experience working on real projects (6 month): 
+I worked with solutions that take of GPU processing using CUDA. I have experience with image processing using OpenCV, PyTorch, TensorFlow. For example SLAM, recognition of store logos in a mall using YOLO, image deblurring, text to speech (""talking head"").
+"
 data scientist,"Earlier winner of few Republican Olympiads in Ukraine in Physics and Math and Master of Science in Physics.
 Now motivated computer vision enthusiast.
 I'm computer vision engineer so I'm able to process image & video data with segmentation, object detection & tracking, pose estimation and so on with further analysis. As well I'm working with deep learning models and their tuning & training, so want to develop myself in DL/ML/CV fields.
@@ -185,6 +315,84 @@ I'm interested in data science field so I'm inspired to participate in Computer 
 data scientist,"Successful graduation from the Ukrainian Catholic University with an average score of 4.5/5
 I am an alumnus of Computer Science at Ukrainian Catholic University with a specialization in Data Science. I was primarily involved in projects in the field of Computer Vision and statistics.
 I have a solid background in 3D Machine Learning and Engineering, cherish being involved in both research and business.
+"
+data scientist,"- completed several courses for Computer Vision, Machine Learning, and SQL competence
+- English (IELTS - overall 7.5 С1)
+- created stable solutions for CV tasks that showed stable performance in different environments
+- suggested a process optimization inside team workflow that was successfully implemented and used on a daily basis
+- conducted risk assessments of credit portfolios with over 100 000 entities
+- automated a significant portion of the evaluation process
+I am an experienced Computer Vision Engineer with a track record of creating safety-checking modules using object detection, pose estimation, segmentation, and classification approaches. I am proficient in both classical CV techniques and Deep Learning for object tracking and segmentation and have worked extensively with remote servers to set up environments for training and inferencing deep learning models. I have a strong interest in research and continuously strive to improve the performance of my modules, implementing the latest approaches into production-ready products. Additionally, I have experience in leading a small team of developers, integrating processes for testing models, and ensuring proper data storage. My key toolset includes PyTorch, YOLO, OpenCV, MMPose, norfair, numpy, git, and dvc.
+
+Previously, I worked as a Junior Data Analyst, where I wrote advanced SQL queries to extract data from data warehouses, conducted risk assessments of portfolios, evaluated potential returns with statistical analysis, and automated the data preparation process and exploration analysis for new portfolios using Python (pandas, numpy, matplotlib). I have experience building operational analytical reports using Excel and visualizing results in PowerPoint. My key toolset for this role includes SQL, pandas, numpy, matplotlib, and other data manipulation libraries.
+I am preferably looking for a challenging project in the Computer Vision area (interested in discovering and applying not only Deep Learning approaches but also classical ones). 
+
+Also, I would gladly discuss opportunities for Machine Learning projects in varying domains."
+data scientist,"
+Data Scientist (Team Lead)/   Kaspi Bank JSC - Almaty, Almaty   /   02.2019 - Current 
+•	Trained the model for detecting objects on the face . (hats, masks, glasses)
+•	Trained a device detection model (phones, tablets, etc.)
+•	Developed a decision-making system for a photo-verification that shows phenomenal results. The quality of the system strives for 100% (FRR <0.01, FAR=0.00001)
+•	*Developed a facial recognition system that will allow the company to save up to $50,000 per year. Not put into operation yet.
+•	30 percent of Kazakhstanis received social benefits online during the period of COVID-19 . This is thanks to our facial recognition service
+•	Rebuilt the structure of the team, which now has more productivity (there are 7 projects in the work now, instead of 2)
+•	With the help of our projects, the company opens up huge opportunities to provide services to customers online.
+
+DWH Engineer With Big Data  /   BeCloud - Almaty, Almaty   /   09.2018 - 02.2019 
+•	Took part in a national scale project
+•	Got into the administration and logging of ETL processes for 3 days.
+•	After a couple months fluently I used Clickhouse since I heard about it.
+•	Saved a month of team work by coming up with an innovative data transfer solution.
+•	Built ~ 90 percent of the project data lake.
+
+DWH Engineer  /   PrimeSource - Almaty, Almaty   /   07.2017 - 08.2018 
+•	Participated in the development and support of data warehouse for 3 banks . 
+•	After 6 months of work, I have accumulated enough trust to get the data warehouse of a bank for support alone. 
+•	The job briefing took a day , even though I hadn't even heard about the main tool of the job. 
+•	Within a week after starting work, mastered 50% of the functions of the Informatica Data Integration ETL-tool. 
+Teacher  /   Novosibirsk Academy Of Design And Programming - Almaty, Almaty   /   09.2016 - 08.2017 
+•	Set a record for the number of students who completed the entire course.
+"
+data scientist,"
+Worked with various tracking algorithms based on classical CV (OpenCV, Ceres + 3D linear algebra) with help of some neutral networks, like MediaPipe, OpenPose, Yolo. Also, worked with some artistic AI models using python API, like Stable diffusion, interpolation models, ext.
+My technical skills are complemented by excellent problem-solving abilities, effective communication skills, and a strong work ethic. I am a quick learner who enjoys working in a dynamic and challenging environment and am always eager to learn new skills and technologies.
+"
+data scientist,"
+4+ months of commercial experience in computer vision.
+1.5+ years of non-commercial experience in data science.
+1.5+ years of commercial experience in web development.
+  
+Currently Master student Data Science UCU
+
+Strong in programming, CV/ML/DL, math, statistics and problem solving.
+
+- Calibrated cameras, stereo calibration. Experimented with different checkerboard patterns
+- Created pipelines for computing a disparity maps
+- Worked with Intel® RealSense™ Depth Camera D415
+- Public speeches about scientific papers
+- Worked on panorama stitching project
+- Had an experience with Python libraries like Tensorflow (+keras), Pytorch, OpenCV, numpy etc.
+- Participated in Kaggle and Hackathon challenges
+- Had an experience with different modern networks architectures
+- Completed several courses in DS, ML and deep learning
+Looking for a job in interesting projects. It would be great to have mentor."
+data scientist,"
+Now I am working on models to optimize advertising costs in Amazon Ads. At the same time, I take over the duties of a data engineer as needed, I am engaged in the deployment of solutions. I have experience in solving computer vision problems, in particular segmentation and object detection.
+
+
+Languages: Python, C++
+ML Frameworks: PyTorch, TensorFlow, Keras,scikit-learn,sktime
+Computer Vision: YOLO, Faster-RCNN, Semantic segmentation, Classification
+Technologies: AWS, Docker, Git, GNU/Linux, Lightning, OpenCV, Flask, SQL
+Background: Linear Algebra, Probability Theory, Mathematicalstatistics, Machine and Deep Learning
+English: Upper intermediate (B2)
+I've worked a lot with tabular data and classic ML, and I want the new project to focus primarily on tasks related to Deep Learning. Interested in projects related to satellite images and geodata (but not required)"
+data scientist,"
+Work experience - fifteen months as Data Scientist and Computer Vision Engineer. My responsibilities included developing tools for the data process (cleaning, preparation, visualization), researching and developing ML models (regression, prediction, clustering), and deploying models; Image processing.
+Technology stack: Python and its libraries (NumPy, scikit-learn, pandas, matplotlib, seaborn, flask, dash), Jupyter Notebook, Keras, Tensorflow, PyTorch.
+Databases: MySQL, PostgreSQL
+Other: GIT
+Preferences for developing: CV/Deep Learning
 "
 data scientist,"Achievements
 • IT Olympiad’s winner 
@@ -612,6 +820,19 @@ I'm looking for
 - challenging project in the team of professionals
 - I expect the company / team to have solid work culture (collaboration, feedback culture, healthy environment)
 - growth opportunities"
+data scientist,"Algorithmic contests participation with high achievements. Has gone up to 1⁄2 world finals at ACM ICPC contest as part of a team.
+Worked as android developer (2.5 years) for a company in the transportation and logistics field. Was responsible for android application development and maintenance. Now as a developer with math and competitive programming background want to put knowledge into Data Science/ML field.
+Challenging tasks, active career growth
+Also I'm looking for mentoring by experienced colleague"
+data scientist,"Not interested in data engineering positions
+I am a Data Scientist with over 3 years of experience in Data Science, Data Analysis and BI positions. I have worked with the next domains: computer vision, recommendation systems.
+"
+data scientist,"PhD in Physics and Math Science
+Hillel IT school - Machine learning:
+classification tasks, neural networks, ensembles of methods. 
+
+Math Lecturer in State University of Intelligent Technologies and Communications. I teach higher mathematics.
+I would like to work on a real project"
 data scientist,"Patents US10223616B1, US10296552B1 ML-based system for detecting advertisements on a web page. Participated in the full cycle of creating a system from scratch - from searching for ideas to introducing the system into the processes of an existing product (adblocker).
 6 years as a Data Scientist experience, previous 5 years as a Software Engineer (on both server and client-side). Worked the whole time in product companies or startups in domains: finance (derivatives, trading strategies), betting, adblocking, e-commerce. 
 Participated in Design Thinking teams - searching for new directions/products for the company. Love to work with high-level business problems like 'Hey guys we need competitive advantage for our product"" and successfully solve it. 
@@ -17756,6 +17977,10 @@ I analyze data on the state of the environment and ecological systems. I underst
 At the expert level I know the programming language R and the stack of free geographic information systems QGIS + SAGA GIS + GRASS.
 I interested in works related to the processing and analysis of environmental data (including geospatial data), the creation of maps and digital models. Not interested: land cadastre, drawings, digitization of maps and plans.
 I am more inclined to work where slow pace, careful data verification, creation of multivariate decisions are required."
+data scientist,"MLOps pipeline. The MLOps pipeline is a framework for ml engineers to be able to integrate any models or tools into pipeline, simple words to give it to artists hands. VFX companies don’t really use ML, artists do everything manually. So I created the project with full ci/cd stack like testing, building, deploying, transfer into air-gapped production environment, etc. And most important, that models can be integrated even by data scientists, without any engineering experience. Tools require engineers because it’s more complicated of course.
+With over 5 years of experience as an ML Engineer, I have a proven track record of managing cross-functional teams and generating significant revenue, as evidenced by recent projects that have generated approximately $25 million. My career is marked by persistent innovation, involving the discovery and integration of cutting-edge tools and solutions to enhance both existing and new systems. I have not only successfully integrated these enhancements into the process 
+ of several companies but also mentored teams to make efficient use of these new technologies.
+"
 data scientist,"
 Head of AI, ML solution architect, Team leader, ML engineer and Data Scientist in Computer Vision, NLP, tabular data assessment with experiences in IT-related products from small startups to big enterprises. Domains: FinTech, Medtech,
 Telco, Marketing, Fashion, Robotics and Retail.
@@ -19293,6 +19518,46 @@ Familiar with Git, Docker, AWS, GCP and Azure.
 
 Currently not actively look for work, only monitor market. If you want to have me on board — it has to be something interesting, preferably part-time.
 I am always curious about new and interesting projects. Love to work in a team, yet I find it best to not bloat the google calendar. Love to speak with clients, managerial area is of big interest to me as well."
+data scientist,"My main achievement is developing a neural network system that can generate musical spectrograms in different genres based on the emotion class contained in a user request. This project was difficult and interesting to develop, due to advanced technology as GAN.
+This project was developed as a diploma and published in two scientific conferences.
+Projects (Kaggle) in NLP (text classification by emotions, translation), deep learning (image classification, music generation with GAN, fraud detection) and predictive analysis (stoke price prediction, house price and energy consumption). 
+Technologies: Tensorflow, PyTorch, OpenCV, Keras, scikit-learn and base math library.  I used R&D approach for almost all projects to achieve highest result. 
+I am interested in working at R&D or product fields.
+Skills: 
+Language: Python, SQL, basic knowledge: C++, C#, HTML, CSS, JavaScript.
+Database: PostgreSQL, MySQL.
+General: probability theory, statistics.
+ML and AI models: Time-Series Forecasting, Convolution, Recurrent( LSTM), Dense, Attention models and base ML models (Bayes, XGB, RFC, LR, Lasso, DT).
+ML approaches:data mining, error analysis, feature extraction, metrics selection and evaluation, data preprocessing and analysis, techniques for prevent overfitting.
+Education: Bachelor degree at Dnipro National University, faculty of Applied math.
+"
+data scientist,"Successfully implemented a data automation program using Python, resulting in significant time savings and improved efficiency for the company.
+Completed advanced courses in Data Science and Machine Learning, gaining in-depth knowledge of algorithms, statistical modeling, and predictive analytics.
+Developed and deployed neural networks for various tasks, including Natural Language Processing, image classification, regression, and Generative Adversarial Networks (GANs).
+Participated in Kaggle competitions, consistently ranking in the top percentile and demonstrating strong problem-solving and data manipulation skills.
+Mentored junior data scientists, providing guidance and support in understanding complex algorithms and implementing machine learning models effectively.
+I have worked as a Middle L2 Support Engineer at Nakivo for 2 years. My role involved supporting client infrastructures worldwide and writing Python programs for automation.
+
+I have also completed Data Scientist and Machine Learning courses. Over the course of a year, I have worked on various projects involving neural networks for tasks such as NLP, classification, regression, and GANs.
+
+Future Development:
+I am eager to apply my knowledge and skills in practical applications. I aspire to work on challenging projects that allow me to further explore and expand my expertise in areas such as deep learning, computer vision, and natural language processing. Additionally, I am open to collaborating with teams that are at the forefront of research and development in the field of artificial intelligence.
+I have a broad interest in various aspects of information technology and artificial intelligence. I would be interested in working in a team where I can apply my skills and knowledge in the field of machine learning, deep learning, and data analysis. I am also interested in exploring cutting-edge technologies and developing new methods and algorithms to improve results. However, I do not wish to be involved in routine administration and technical support without opportunities for skill development and the use of advanced technologies."
+data scientist,"1/2 Final of The 2021 ICPC Southeastern Europe Regional Contest. 
+Facebook Hacker Cup 2021 top 33% in Round 2.
+KPI OPEN 2021 Final Contest - 15th out of 80+ teams.
+ITalent 2019 Final Contest - 2nd place out of 50+ contestants.
+Winner of local, regional and research works competitons.
+Volunteering in Google Developer Student Club 2021 - shared experience through hands-on workshops, events
+and articles.
+My experience as a Deep Learning Intern at DataRoot Labs and a Data Science Intern has given me hands-on experience in building and training neural networks and working with data science libraries. I have also worked with various NLP models, such as RNN, LSTM, and Transformers, and have implemented projects to classify and analyze text data.
+
+As a Junior Software Developer at Micro Focus, I have worked on the ALM Octane project, where I have designed and implemented new backend features and contributed to CI/CD plugins. I have also attended a Software Engineering School where you have learned about design patterns, SOLID & GRASP principles, DB optimizations, scaling, and caching. (Java, TypeScript)
+
+My experience as a participant in the ideasLab Accelerator for Student Startups program has given you an opportunity to develop my startup idea and gain valuable business skills.
+
+I have completed several projects, including ToxicBot, a Telegram chatbot that uses NLP and machine learning to detect hateful and offensive messages (TypeScript, ML), CookingPro, a web application that allows users to search for recipes (Python, FastAPI), and Mobile Robot, a research problem on robot navigation and object  collection (Python)
+I hate doing boring projects :("
 data scientist,"I have completed Python 3 Specialization from MIT at Coursera.
 Also have been busy completing courses at Kaggle.
 I do not have working experience as I am a freshly graduated student. But I am extremely passionate with math and programming and looking for the opportunities to learn and grow in the field of Data Science and ML/AI.
@@ -19425,6 +19690,25 @@ Data Science Fundamentals course (DataRoot Labs):
 - Dispersion/Bias problem
 I don't have any working experience for now. All of the projects I've been done were connected to learning process: small desktop messenger on sockets with connection to database (Java), game of live on Python, game ""Dots"" on C++, digit recogniser application on Python and so on.
 "
+data scientist,"- Created and launched AI products from scratch
+- Grew and managed R&D teams
+- Managed a successful acquisition process
+Management of R&D teams and delivering Artificial Intelligence products.
+
+- AI-based Product Development
+- Research Planning
+- Implemented state of the art AI algorithms
+- Delivered MVP and PoC products
+- Planning product development
+- Building the team
+
+Worked with research and business projects in Computer Vision and Natural Language Processing fields:
+
+- Implemented ML algorithms for business
+- Worked on Deep Learning & Computer Vision research projects
+- Worked with data: exploration, preparation and building pipelines
+- Deployed models to production
+Manage a team of AI Engineers to create AI solutions for business."
 data scientist,"
 Developing data science projects from data digestion to production release and monitoring, experience building and growing data science teams from 1 person to up 7.
 "
@@ -19707,6 +19991,28 @@ Model evaluation steps:
 - Checking on Data preparation steps(EDA, missing data issues, data quality issues, train test split proportion ) and requirements according to chosen ML model's requirement 
 - Assessing model's outcome based on applied algorithm (for example in classification precision, accuracy, recall, etc.
 "
+data scientist,"
+My name is Taras Sereda, and I am an ML researcher and software engineer with over 8 years of experience in projects related to ML for audio, Computer Vision, and Natural Language Processing.
+
+Back in 2017 I was the first employee at Ring Ukraine, hired to build and grow a deep learning lab in Ukraine. I led my team to successfully deliver object detection models deployed on embedded devices.
+
+In 2019 I co-founded Vocalics.AI and took the role of Director of Research. My team created what was, to our knowledge, the first demo of speaking-style transfer from English to Spanish.
+
+These days, I am continuing to work on cross-lingual speech generation. At the moment, my focus is on developing high-quality speech generation in Spanish. 
+
+I'm a visiting scholar at UCU, where I give lectures and workshops on various deep learning topics.
+
+I'm good at building and leading research teams. My background is in mathematical modeling and my interests span topics of human perception and how it can be modeled and grasped by modern deep learning algorithms.
+"
+data scientist,"
+I delivered profitable AI solutions for Banking, E-Commerce, Primary Research, built robust and efficient data pipelines.
+
+I'm especially experienced in developing personalization, recommender systems, search engines, forecasting systems. Solved problems in martech (LTV, churn, demand forecasting, audience segmentation, uplift modelling), time series & natural language processing.
+
+Reach me out if you're ready to build solid AI product and need somebody who set up processes, data pipelines, research and squeeze value from your data.
+I want to be able work remotely.
+
+I want to work together with strong and motivated engineers."
 data scientist,"•McKinsey Alumni
 •Lead of successful segmentation project for major FMCG company 
 •Customer’s churn prediction enforced by NLP analysis 
@@ -20475,6 +20781,25 @@ As a Data Scientist and ML Researcher/Engineer I worked on time series analysis,
 
 I am a former experimental physicist. I have extensive experience in the manufacturing business. From 2014 to 2017, I was engaged in statistical testing of psychological rehabilitation methods. Since 2017, I have been working in an IT company primarily on finding profitable trading models on cryptocurrency exchanges. I also solved some tasks related to the analysis of e-commerce data.
 significant research component"
+data scientist,"For half a year, I successfully combined work with service in the Armed Forces of Ukraine.
+After switching to ML field, immediately started working on separate features, assigned to me, and successfully implemented them.
+---
+Curently fulfilling my duty at Armed Forses of Ukraine, therefore temporaly not avaliable for cooperation. 
+Profile is on passive search so I can be aware of tendencies and requirements in ML/DS field and keep up with them.
+---
+I am looking for opportunities to apply both my developer experience and new knowledge and admiration in data science / ML in practice with a good and experienced data science team.
+
+• Strong background in statistics, probability theory, neural networks
+• 1 year of commercial experience as cv/ml engineer. Full cycle development from feature idea to trained model, including research of existing models and datasets, paper research and implementation, dataset enhancement, building pipelines for model  training, testing, metrics analysis and visualization, model training and improvement.
+I have worked on development of ""smart"" features for photo-editing software. Technologies and methods used are:
+- Semantic segmentation, object detection
+- GANs
+- FBA-mating, filters, various enhancement methods.
+- Creating custom model architectures, custom loss-functions
+• 1 year of python non-commercial experience, with focus on data science and ML fields. Participated in Kaggle competitions, contributed to open-source projects with the Udemy course community.
+• 7+ years of commercial experience in c# development, including building complex document management systems from scratch, supporting and adding new features over years, implementing integration with other PDM and CAD systems, developing SQL server databases. Worked both in team and as a self-dependent software engineer, engaged in communication with customers to define features details and architecture. Obtained knowledge of energetic and engineering domains.
+• Master’s degree in computer science with a degree project in neural networks field.
+Not gambling, microcredits, russia-affiliated business."
 data scientist,"Full stack development of score system in AC.
 Developed my own program in R(Shiny) for using machine learning algorithms.
 Developed my own program in R(Shiny) for building score cards.
@@ -20741,6 +21066,41 @@ Projects:
 - Creating Web services;
 - Chat bots;
 - Long-term position"
+data scientist,"
+I am a data scientist with over 3 years of experience in the field. I have worked on various projects involving classical machine learning models and deep learning models. I also have experience in data engineering, analysis, visualization, and predictive modeling. I strongly understand the data science workflow, from data collection to model deployment. All these qualities gave me an opportunity to successfully tech leading on projects. I am passionate about continually learning new technologies, methods, and techniques.
+I am looking for new exciting challenges that we will overcome together with a reliable team. Looking forward to long-term cooperation."
+data scientist,"• (ongoing) Ph.D. student - Lviv Polytechnic National University
+• M.Sc. in Computer Science - Ilmenau University of Technology
+• M.Sc. in Computer Engineering - Lviv Polytechnic National University
+• 3+ years of overall experience in IT industry with a primary focus on AI, machine learning and software engineering.
+• 2+ years of successful mentorship experience in teaching and managing student teams. 
+• Successfully developed several data science and machine learning related projects.
+• M. Sc. in Computer Engineering, Ph. D student and author of 3+ academic papers.
+• Main research interests include machine learning, software engineering, speech recognition, text-to-speech, diarization, data processing, computer vision.
+• Hands-on experience in modern machine learning algorithms and tools, software engineering and development of microservices with best practices.
+
+Projects I have worked on:
+• Speech tempo correction service.
+    --- Develop and train duration models.
+    --- Development of a microservice.
+    --- Research and experiments. 
+• Diarization and speaker identification
+    --- Develop pipelines for supervised diarization.
+    --- Develop an algorithm for speaker identification using diarization.
+    --- Development of a microservice.
+    --- Research and experiments. 
+• Domain adaptation for Speech Recognition
+    --- Develop pipeline for ASR models and fine-tuning.
+    --- Data collection and synthesis for domain adaptation.
+    --- Research and experiments. 
+• Face recognition system
+    --- Develop and train face identification models.
+    --- Research and experiments. 
+• Brain Computer Interface for robot control
+    --- Develop data collection and processing pipelines.
+    --- Develop and train a neural network to process EEG signals.
+• Contract back-end development
+Looking for a job with a great team and with an environment where I could grow professionally and personally."
 data scientist,"- Managed and mentored a team of data scientists.
 - Developed the service for analysis and monitoring of financial entities using telecom data, which was sold to 5 biggest local banks.
 - Managed development of ML models aimed to predict a churn among new
@@ -20856,6 +21216,270 @@ I am an experienced ML/Data Science engineer with a strong background in researc
 Throughout my career, I have acquired additional skills, including experience in data collection using motion capture technology, video editing and composing for creating captivating demos to engage customers, and proficiency in Blender software for visualizations and animations.
 I am seeking a new opportunity to apply and further enhance my skills in a challenging and collaborative environment. I am particularly interested in joining a small team where I can contribute to interesting projects and continue to grow professionally."
 data scientist,"
+Analysis of user behavior, construction of machine learning models, analysis of model data in order to improve the performance of already working solutions. Development of convolutional neural networks for recognition of English texts and images. Data visualisation and presentation of model results to the team.
+"
+data scientist,"1. Diploma with honours (bachelor's program in Applied Mathematics at Kyiv-Mohyla Academy). I also completed a certificate program ""Mathematical Foundations of Machine Learning"".
+2. I was accepted to multiple prestigious American and Europian univeristies for Master's studies in Computer Sceince. Although I was unable to take those programs since I was unable to leave Ukraine, I still consider this an achievement. Most notably, I was accepted to Carnegie Mellon University and Brown University (Ivy League).
+3. Olympiads.
+  a) Gold Honour in International Youth Math Challenge
+  b) 20th place in All-Ukrainian ICPC
+4. Conferences. I participated in 3 scientific conferences: XXI International Scientific – Practical Conference «Shevchenkivska Vesna – 2023», International Conference of Young Mathematicians, and XI All-Ukrainian Scientific Conference. In all cases I gave talks in graph theory.
+5. I passed a TOEFL test (result: 118/120). This proves that my English is on Advanced level.
+Everything is evidenced by certificates or other means.
+First, I participated in a research project conducted by students from Kyiv-Mohyla Academy and University of Toronto ""Continual Learning in Medical Imaging"". Within the project I researched different techniques of continual learning and applied them to the specific problem in order to estimate their efficiency. 
+Second, I passed Deep Learning and Tensorflow specializations on Coursera learning platform.
+Third, I successfully worked on an internship ""Advanced C++ and low-level software development"".
+I see my development in the sphere of Artificial intelligence, more specifically machine learning. To this end I took a Master's program in Computer Science at Kyiv-Mohyla Academy.
+My preferences concerning my future occupation are the following: I want my job to require creativity rather than purely technical abilities, and I want to apply deep learning in my work. At present though my foremost goal is to obtain experience, after which I may tweak my wishes."
+data scientist,"
+I have extensive work experience as an AI Engineer with a fast-paced startup team. In this role, I designed and developed several natural language processing projects including named entity recognition and sentiment analysis. I also created predictive models and was responsible for some MLOps activities. Additionally, I have some experience with front-end development.
+
+Prior to my work as an AI Engineer, I worked as a Robotics and Programming Teacher. In this role, I developed excellent communication and explanation skills, which helped me to effectively teach complex concepts to students.
+Challenging tasks, new experience"
+data scientist,"During study practice I had to write a script that converts csv file into pandas data frame, clears the DF and save data in DB. First of all I had to look at data in csv file in order to decide which technique use to create a DF. The DF was created, after that it had to be cleaned. There were a lot of cells with missed values. All rows with missed values had to be deleted except if cell is not in admissible column. There weren’t any ""dangerous"" NA values, so I could continue. But one column had wrong format of data, so I had to delete rows with wrong format. One column had urls and not all of them were responding. So I had to delete rows with the urls weren’t responding. And finally the DF was clean. Every URL is a way to download file, I had to download all of them, extract HTML content from them and save HMTL in MySQL db. 
+I you want to see code I could show it at the meeting or we can have a calling. For writing script I used Python and libraries such as numpy, pandas, requests, bs4, pathlib, os, shutil, aspose-words, re, mysql and json.
+I have no commercial experience. I have only experience in my university, include study practice. I also had certificates from DL.ai. During studying in university I had study projects: Paint in PyQt, Library App in PyQt and an experiment to show how regular expressions make life easier for programmers in C/C++.
+"
+data scientist,"Cources:
+Machine Learning Engineer 
+Mathematics and Statistics for Data Science
+Python for data development and analysis.
+Links to diplomas are in resume.
+QA Engineer 10 years experience. 
+Working in banking software, health, gamedev projekts.
+2 years of xperience as SCRUM-master.
+QA role in development and deployment processes, users technical support.
+"
+data scientist,"
+9 months as Data Scientist / Quantitative researcher at an algorithmic trading company
+9 months as Big Data Engineer at outsource project with GCP stack
+Current position as ML engineer
+"
+data scientist,"- performed end-to-end ML pipeline for vehicle test assistance in automotive
+- proven recommendation from Project Manager at Google
+- proven as an independent combat unit at complex projects, which I handled for clients myself only
+- developed a promotion algorithm which still serves the company faithfully for 3 years already
+- AI Engineering for voice processing
+- End-to-end ML Engineering in automotive (vehicle test assistance app)
+- AWS Ecosystem (Glue, SageMaker, Lambda etc.)
+- GCP (BigQuery, GCC, 
+
+
+Python Stack: Pandas, NumPy, Flask, BeautifulSoup, Scrapy,
+Selenium, Matplotlib, Seaborn, SQLAlchemy
+ML Stack: Tensorflow, Keras, Scikit-learn, SciPy, XGBoost,
+LightGBM
+Dashboarding Stack: Tableau, Google Data Studio, Niche
+Dashboarding
+Databases: Oracle SQL, PostgreSQL, SQLite, BigQuery, MySQL
+Notebooks: Jupyter Notebook, Google Colab
+DevOps Stack: Docker, Google Cloud Composer, Terraform
+Orchestrators Stack: Apache Airflow
+AWS: SageMaker, Glue, Lambda, S3, SNS/SQS, ECR, ECS, RDS, EventBridge
+"
+data scientist,"
+Computer Vision, Natural language processing
+Object detection, classification
+Recommendation systems
+Photos reconstruction (increasing quality, HDR)
+"
+data scientist,"**Education**
+Master and Bachelor degrees in Computer Science (both finished with honors)
+IASA, NTUU KPI
+(copypasted from CV)
+***COMMERCIAL EXPERIENCE***
+**GRID DYNAMICS (June 2022 - Present)**
+ML Engineer contractor for Apple Inc., majorly handling
+full-stack software engineering (Aug 2022 – Feb 2023)
+1. Application for drift detection in manufacturing data:
+- Backend development | internal platform, Python
+- Frontend development | internal UI library, Vue.js
+- Data visualization | Tableau
+- Statistical algorithms for time-series data development | Pandas, NumPy, Alibi Detect
+2. Application for production line optimization:
+- Frontend development | Vue.js, Chart.js, Cytoscape.js
+3. Other small projects on POC phase:
+- Backend development | Flask, Python
+- Frontend development | internal UI library, Vue.js
+
+***PERSONAL PROJECTS***
+**AUDIO EDITOR WITH ML-BASED INHALE FILTERING**
+- Audio files dataset markup
+- YOLO features engineering
+- YOLO model design and training | TensorFlow, Python
+- Desktop app implementation | Jetpack Compose, Kotlin
+
+**STUDY PROJECTS**
+- Device classification based on their text description in NLP course | FCNN, LSTM, Transformers
+- PageRank algorithm implementation using Spark in BigData cource
+- Viola-Jones algorithm training parallelization using CUDA in AI cource
+
+**ALTMOBFOGSIM**
+(MASTER THESIS)
+- Framework extension development | Kotlin
+- Parallel simulations design and execution
+- Library source code debugging
+- Paper preparation and publishing in academic journal
+"
+data scientist,"
+Developing, testing, and deploying Computer Vision models for a cutting-edge robotic-assisted medical platform focused on in vitro fertilization procedures. The platform integrates state-of-the-art technologies to enable real-time detection, tracking, and morphological classification of spermatozoa and oocytes, along with event detection from microscope camera feeds. 
+Responsibilities:
+Orchesttrated the complete lifecycle of Computer Vision models targeting diverse objectives (object detection and tracking, instance segmentation, video classification)
+Optimized model performance for real-time execution, considering computational efficiency and resource constraints
+Fostered dynamic collaboration with other members of the R&D team to ensure seamless integration of newly developed modules into the existing system architecture
+Engaged in continuous R&D activities to pioneer innovative solutions in the field
+Environment and Tools: C++, QT, Python, PyTorch, OpenCV, ONNX, TensorRT, CUDA
+"
+data scientist,"*  In the short time I made a simple MLops solution that was able to prove the value of the project
+*  Then made a system for ML development in full, which still successfully performs its tasks
+* I constantly showed stress resistance and leadership
+Hello, I'm Andrew, an MLOps engineer with two years of experience (2021-2023). Throughout my career, I have been involved in the entire project lifecycle, from initial development to deployment. I have experience developing ML pipelines for video processing and have been involved in web development as well. During a challenging time, I stepped up to take responsibility for another part of the project.
+
+In my role, I have used various technologies, including Python (for ML with PyTorch, NumPy, Pandas, etc.), K8s, Docker, GCP, MongoDB, and SQL. Not only I developed myself as an MLOps engineer, but also as an ML engineer and manager, and leader.  I have also participated in several ML, MLOps, and innovative management courses to continuously improve my skills.
+
+I am now seeking new opportunities in either ML engineering or management positions within the AI industry. I am flexible with compensation(but I need to pay for the flat in Kyiv:)) and eager to learn and take on new challenges. Thank you for considering my application.
+
+Hope to hear from you soon!
+non-toxic workflow. 
+honesty. 
+and have the opportunity to grow, and take the initiative.
+You(as a company) don't have any connection with russia and belarus."
+data scientist,"- Brought Deep Learning into existing ML solution in a ML-oriented product and increased quality metrics for ~10%.
+- Developed a custom ML solution for a B2B product, that was the most useful feature for 70% customers.
+- Moved 80% projects from PoC stage to production.
+- Worked in a full-cycle pipeline of ML product, was involved in stages from data gathering to deployment.
+Hi there!
+
+I'm a T-shaped specialist with a major expertise in Deep Learning, passionate about Computer Vision and everything new in Machine Learning in general. 
+
+EXPERIENCE
+- Developed a system, that recommends the best photos from the given album of photos. Solution is based on image analysis and includes such approaches like photo aesthetic estimation, object detection, face detection and emotion recognition, image embeddings extraction, clusterization etc. 
+- Fully developed a startup Automation of Job Interview Process. Developed all ML algorithms + web part. Integrated NLP - text classification and NER with BERT-based nets, graph similarity, text readability etc.
+- Built and deployed product category text generation task on 4 languages: English, French, Italian, Spanish with GPT-2, mt-5 models.
+- Developed custom OCR project with math symbols recognition using OpenCV, CRAFT, PSENet etc.
+- Developed solution for PII Extraction in unstructured multilingual text using BERT-based nets.
+- Developed a project that detects bad photo quality (blur, bad lighting, bad object angles etc.) using OpenCV, ResNet, YOLO etc.
+- Developed classic ML solutions like medical data classification.
+- Developed Proof of Concepts for such tasks like: Clothes 3D Reconstruction, Clothes Segmentation, Audio and Video Emotion Detection etc.
+- Managed 5 developers as a Team Lead.
+
+Also strongly experienced with AWS, Azure, Git, Docker, SQL.
+I expect to work with ML/DL tasks with emphasis on Computer Vision. 
+Now, I want to grow further in my career and embark on a new adventure, mostly I'd like to work in ML-oriented product. Therefore I'm interested in positions of a ML Engineer with higher level of ownership and responsibility for the product results."
+data scientist,"
+I am a first-year Computer Science and Mathematics student at Columbia University. I am interested in Natural Language Processing, Machine Learning, Data Analysis, and Software development.
+
+I have co-founded and led Pravopysnyk, a project to create AI-powered grammatical error correction for Ukrainian, akin to Grammarly. As part of this project, I built custom NLP models for sequence generation and classification. I also developed the beta version of a real-time text editor web application using AWS, Flask, and Docker. The grammatical correction model we developed achieves a score of 66.3 on the UA-GEC benchmark by Grammarly and outperforms all existing models.
+
+I also have extensive experience in data analysis and mathematical modeling. I competed at Columbia Mathematical Modelling Competition and International Competition in Mathematical Modelling to solve real-world problems. I also worked on data analytics as an intern at both Reply.io and CHCKR.io. Additionally, I have published research in Applied Physics and Mathematics in 11th grade.
+
+I am excited to work on projects that leverage machine learning and data to achieve social impact or create new technologies.
+"
+data scientist,"
+I have been working on different kinds of computer vision projects using cnn and other ml models during ACA Bootcamp such as object detection, object segmentation, face detection, digit recognition, car parking app, etc. 
+Everywhere I were developing and using my own models of cnn.
+Best fit for me is ML in computer vision"
+data scientist,"Certificates:
+Convolution Neural Networks
+Structuring Machine Learning Project
+Improving Deep Neural Networks: Hyperparameter
+tuning, Regularization and Optimization 
+Neural Networks and Deep Learning
+Machine Learning: Classification
+Machine Learning: Regression
+IELTS: C1
+
+In addition I have multiple publications in IEEE, Scopus.
+
+Some of them:
+Ivan Hahanov, Wajeb Gharibi, Igor Iemelianov and Tamer Bani Amer. QuaSim – Cloud Service for Digital Circuits Simulation. // Proceedings of IEEE East-West Design & Test Symposium.– 2016.– Yerevan, Armenia.– P. 141-158.
+
+Ivan Hahanov, Tamer, Irina Hahanova, Sergey Demen]ev. Automaton MQT-model for Virtual Computer Design. Proc. CADSM, Polyana, Ukraine, 2015. P.27-31.
+I'm an ML Engineer with about 4 years of experience. During my practice I've successfully implemented and delivered various projects to international customers all around the world. The domains were diverse including Computer Vision, NLP, 3D models processing and Big Data. I've acted as a main researcher and decision maker responsible of how to approach each problem. Also I've had an experience of leading distributed teams whose members were located in Canada and Russia.
+"
+data scientist,"
+I've made a part of a research project in the Computer Science and System Engineering Department (U2IS) in ENSTA Paris. 
+My task was to develop deep learning models to directly predict vessel movements from images of the sea surface. In this work, in order to predict ship motion from images, nine deep neural network models were created and tested. Such variety of models is caused by the complexity of the problem. Empirical results show that models with LSTM parts and using additional information such as the current ship motion improve the pitch and roll prediction accuracy. The best result was achieved by a [CNN LSTM encoder-decoder images PR] model. The best combination of parameters was found using the Hyperband algorithm.
+"
+data scientist,"
+ML Engineer and Data Scientist with more than 8 years in the industry
+
+Experience in various technical domains:
+	
+	- Deep learning
+	- Classic ML algorithms
+	- Computer vision
+	- Signal processing
+	- Structured/Unstructured data algorithms
+	- Supervised and Un/Self/Semi-supervised ML
+	- General Computer Science
+
+and business domains:
+
+	- Medical imaging
+	- Augmented reality
+	- Automatic speech recognition
+	- Speech conversion
+	- Fintech
+	- AI on mobile devices
+	- Marketing
+
+High level results working independently as well as in the team
+
+Good communication skills (fluent English) and mentoring experience (was a Data Science and programming lecturer for years)
+
+Experience in designing and building ML solutions from scratch
+"
+data scientist,"Maintained full ML production lifecycle for text generation model, including automated data updates, versioning, model storage, deployment, and quality assessment by external team 
+Researched and implemented image inference optimisation with quantisation, measuring and documenting performance/accuracy trade-offs, and building a pipeline for training-optimising-deploying on a mobile device (Android)
+NLP: managing pipeline for chat dialogue models (data collection and management, training/fine-tuning, deploying, quality assessment); conditional text generation; performance optimisations;
+Comp. vision: inference optimisation for edge devices (ONNX runtime, TFLite, quantisation methods)
+Credit risk predictions"
+data scientist,"
+Over the past 8 years, I have been involved in several research and development projects requiring NLP solutions. From 2015 to 2017, I worked as a research assistant at the ISP RAS Institute (I created a Russian part-of-speech tagger and contributed it to the NLTK library). In 2017, after completing my Software Engineering bachelor's degree. I worked as the lead of a newly established NLP laboratory by ISP RAS. At the laboratory, our work focused on problems of text classification, morphological, syntactic and semantic analysis, using word embeddings (e.g. fastText), language models (such as BERT, GPT) and their task-specific fine-tuning. These results have been published in international computer science journals and conferences.
+One significant achievement of our team was the development of software tools for plagiarism detection in Armenian texts. These later became the foundation of my PhD thesis, which I defended in 2021 , and the resulting software system is now deployed in several higher education organizations in Armenia. Since 2022, we extended this research to also assess other aspects of text quality (structure, semantic coherence,etc.) apart from originality, and the results are currently used in RANEPA academy. The implementation of these projects required a wide range of NLP and ML technologies (from rule-based methods and smaller statistical approaches to LLMs, model fine-tuning, quantization, etc.).
+In the meantime, I also supervised relatively smaller projects such as the collaboration with the INALCO institute’s DALiH project to collect from the web and classify Armenian
+texts in various dialects; the addition of NER support for Armenian language to Stanford’s stanza library; collaboration with the National Library of Armenia to OCR their catalog of books and articles, etc. All of these projects helped gain specific knowledge and expertise in various text processing areas, including also data collection and preprocessing, annotation guidelines development, annotation automation and quality verification.
+As the team supervisor, I mentored and facilitated the professional growth of
+newcomers, overseeing the recruitment and development of the team from 5 members in 2018 to 15 members in 2023. Guiding the professional growth of my colleagues has been one of the most rewarding aspects of my work.
+"
+data scientist,"I am a  highly motivated Junior Machine Learning Engineer with 1-year of experience as a Speech Data Processor and a strong passion for technologies. I consider myself a quick learner and ready to work hard.
+Looking for an interesting position in a nice team, while upgrading my skills. Ready to start as a Trainee and prove myself to get a permanent position.
+Salary can be discussed.
+Speech Data Processor in an AI startup - 1 year 1 month
+- Data Processing (preparing data to train, feature extraction, and so on)
+- Training and debugging ML models
+- Designing and conducting ML experiments
+- Onboarding newcomers in my team
+Experience with:
+Python, Bash, Linux, PyTorch, TensorFlow, various ML libraries for python, AWS, Azure, Docker, Git.
+
+I have a strong passion for technologies and want to grow as ML/DL Engineer or Data Scientist. I'd like to work on AI technologies and solutions.
+Ready to start with Junior/Trainee position.
+No gambling, bookmakers, and microloans, please."
+data scientist,"Created several trading strategies based on Momentum and Statarb. 
+
+Masters thesis S&P and VIX Option Pricing with Long Memory: FIGARCH(1, d, 1) and LSTM vs Neural Network
+Worked mostly in FinTech related to portfolio construction and entry signals using Deep NN and particularly LSTM.
+I have an academic background in Finance and ML/DL and I'm seeking the continuation of this track in the industry."
+data scientist,"
+Data Scientist at Microsoft (vendor)
+Nov 2018 - Present · 3 yrs 5 mos
+• Led the development of the NLP System to analyze clients' demands and behavior, availability of products through different stores, and salespeople performance
+• Led the development of an algorithm to identify Microsoft / Azure / Skype accounts that are associated with criminal activities that violate terms of use
+• Led a project in finding relationship between a group of phishing kits by clustering them by developing Machine Learning pipeline based on Unsupervised Deep Learning algorithm
+• Decreased time spent on manual daily processes by 80% (from 50mins to 10mins) by fully automating Machine Learning (running classifiers, false-positive analysis and etc.) and data off-boarding processes using Python
+• Decreased the number of false-positives of Image and Text classifiers by 80% and time spent on false-positive analysis by 50% by developing a new filter for false-positives based on Python script
+• Mentored junior data scientists
+• Designed, developed and delivered Multilingual Text classification pipeline (for 9 languages) based on NLP algorithms from scratch (with 97% of F1 Score) 
+• Increased numbers of identified Tech Support Frauds by developing new Multilingual Text classifier (a 7x increase)
+• Decreased time spent on manual daily processes by 58% (from 2hrs to 50mins) by automating Machine Learning (running classifiers, false-positive analysis and etc.) and data off-boarding processes using Python
+• Played a key role in preventing criminal activities that violate terms of use by detecting data, analyzing it and sending reports to special teams
+"
+data scientist,"
+Experienced in developing and deploying advanced machine learning models. Skilled in data preprocessing, feature engineering, and model training. Collaborative team player delivering robust ML solutions. Up-to-date with latest advancements.
+"
+data scientist,"
 I started out as a nuclear physicist who know how to code. I have experience with computer vision.  Project work:
 *Developed MVP Integration of advertising into a real-time video stream stack (OpenCV, C++, SQL). 
 *OCR for mobile application(FastTextScan). 
@@ -20923,9 +21547,118 @@ Participation in commercial projects in field of machine learning and data analy
 
 I have a solid mathematical background and the ability to learn new technologies and subject areas.
 R&D. Challenging and complicated projects, ability to learn and use state-of-the-art algorithms and techniques with focus on major CS. Professional growth. Server side development."
+data scientist,"
+Built a recommendation system for banking products that cut down on marketing expenses.  
+Developed a credit scoring model to reduce the number of defaulted loans. 
+Utilizing supermarket receipts, predicted customer income groups with a high level of accuracy.  
+Created visuals for digital banking to show potential bottlenecks and speed up the process.
+"
+data scientist,"2019 - GCP Professional Data Engineer Certificate
+2020-2023 - numerous certificates from Cousera and deeplearning on CNN, NLP, ML in production (MLOps), Attention models.
+Software Engineer with 7 years of experience. Last 2 years I have been developing my skills in ML discipline, especially in NLP with Transformers (translation, Sentiment Analysis, TextToCode GPT model), Image Recognition. Prior to this, I gained valuable experience as a Lead Test Automation Engineer.
+Programming languages: Python, JS/TS, basic Golang, basic Rust.
+
+Throughout my career, I have contributed to building ML systems and web apps, mobile apps, setup CI infrastructure on clouds, verify system performance and quality, AI models accuracy, worked with BigData
+
+My tech skills currently include: 
+- building ML solution with sklearn, PyTorch
+- training models with Accelerate, Pytorch Lightning
+- preprocessing data with PySpark, pandas
+- Docker, Kubernetes, ArgoCD
+- orchestration with MLflow
+- model inference with Nvidia Triton, FastAPI
+- testing: great-expectations, chispa, pytest
+
+Beyond my technical skills, I have proven leadership experience and a track record of mentoring engineers. I conducted tech interviews of potential candidates and have experience as a assessment expert. I take an active role in public and community speaking engagements, where I share my knowledge and insights.
+"
+data scientist,"Building  big web project (CRM/search/parsers) from scratch
+Management team of several peoples.
+Finished UCU (Master Degree in Data Science).
+I am software developer using python/php. I have experience in building backend services/parser. But currently I interesting in Machine Learning, NLP and deep learning.
+I took part in several competitions in Kaggle.
+I finished Master Degree in UCU. Currently I work in master degree diploma (NLP, summarization task)
+I passet Stanford NLP course (CS224n).
+complex projects
+interesting peoples"
+data scientist,"
+- Classification;
+- Clustering;
+- Recommendation systems;
+- Predictive analytics;
+- Time series;
+- NLP;
+- Writing data pipelines, CI/CD;
+- Working at all stages of the DS pipeline.
+- NOT supporting genocide by paying taxes to russian government;
+- Medicine/Life Science domains;
+- NOT CV;
+- Machine Learning positions (NOT backend, frontend, etc);
+- Research position (with engineering <=50% of time);
+- Non-trivial tasks/algos/ideas;
+- Existing ML/DS team (NOT first ML person in the company);
+- Flexibility/personal growth and development;
+- Responsible AI."
+data scientist,"- Presented my research on quantum computing at three conferences in local universities and was awarded the Jury prize for an outstanding presentation.
+- Won a special jury award as a part of a team at Empowering Women 2018 hackathon.
+- Presented my project - an AI-based system for detecting heart pathologies - at Intel ISEF 2018 science fair and was awarded three independent Special awards.
+Education:
+- B.Sc. in Computer Science at Ukrainian Catholic University
+- Internship and exchange studies at Czech Technical University
+
+Relevant working experience:
+- Machine Learning Researcher at Rossum AI, Czech Republic
+- Computer Vision Research Engineer at UA/USA startup DressX
+- Research Intern at Center for Machine Perception at CTU, Czech Republic
+- Teaching assistant at Ukrainian Catholic University, Ukraine
+
+Key responsibilities and tasks:
+- domain research, problem analysis, and proposal of solution architecture
+- data pre-processing, implementation of classical mathematical methods for data pre-processing, and results enhancement
+- implementation and/or recreation of SoTA approaches, adapting and/or fine-tuning the models for a given task
+- maintaining project documentation
+- presenting main findings during demos, seminars, presentations, etc.
+
+You can find more details on each specific working experience in my CV.
+- Only full-time positions
+- I would prefer a younger project with research opportunities rather than a fully technical role for maintaining existing solutions"
+data scientist,"- Boosting retention KPIs with churn prediction ML model with high AUC; 
+- Transforming market strategy in time via causal inference analysis;
+- Time series forecasts were within 5% MAPE for few months in the row; 
+- Prototype of Kaldi speech recognition system in Ukrainian language with low WER etc;
+- Customary parallelized AutoML system with best data processing / engine selection and hyperaparameter tuning for time series and tabular data;
+- Approximation of real-world business process in healthcare system with simulation on simpy and RL optimization of key actors decision making.
+Relevant projects as Data Scientist (2017-2022):
+- ML classification model on customer churn via decision trees and MLP;
+- Cluster analysis on customers;
+- Causal inference analysis to detect effects of market interventions on trend change;
+- Forecasting time series revenue via ARIMA, LSTM and FBProphet; 
+- Forecasting sales: hierarchical time series with zero-inflated data;
+- Regression analysis and data visualization on customer satisfaction KPIs;
+- Google Analytics automated reporting and integration with BI tools;
+- Speech Recognition system in Ukrainian language with Kaldi framework;
+- Speaker diarization for operator-client dialogue;
+- Retraining Credit Scoring system;
+- AutoML pipelines deployment: 1) DataProcessing / FeatureEngineering / FeatureSelection; 2) Engines: h2o, autogluon, autokeras, tpot, optuna 3) Back-end: elasticsearch / redis / celery
+- AutoML customary Time Series Forecasting functionality with best engine selection and transformations;
+- Creating Simulation environment and RL optimization: 1)TicketingSystem with multiple nodes; 2)Simpy-based; 3)UI and backend configuration.
+- Synthetic Data Generation via Bayesian networks / GANs
+"
 data scientist,"Drastically reduced the company's expenses for text analysis services.
 4 years of experience as a machine learning engineer with a specialization in NLP. At work, I developed solutions for various machine learning problems using deep learning and classic approaches. For example, sequence labeling, text classification, text segmentation, semantic similarity, word similarity, and others. Implemented and integrated SOTA solutions for solving business problems.
 To find a position as a Machine Learning Engineer with a specialization in NLP."
+data scientist,"
+I have a PhD.
+I Investigated Voice Emotion Recognition. I Developed an approach to sociology that collects and labels emotional data.
+Worked with NLP, Computer Vision, DNN
+
+There is an experience of a team leader in projects related to the aggregation of large amounts of data and visualization. Stack (Flask, React, PostgreSQL, Docker, git)
+
+At the moment I teach at the university and do research in the field of deception detection in video
+
+Good skils in Python and ML/DL libraries(Keras, TensorFlow, Scikit, Pandas, Numpy...)
+
+I can write in Java, I know C++ syntax
+"
 data scientist,"Development state-of-the-art method of paraphrase detection and name entity recognition algorithm
 5+ years in education, PhD
 Development of algorithm for paraphrase detection
@@ -21082,6 +21815,48 @@ MSc in Computer Science.
 Full-remote possibility
 Efficiency is measured by results, not hours of work
 Friendly team ;)"
+data scientist,"
+I’m a deep learning / AI Engineer with Bachelor’s degree of Applied Science in Learning technologies with successful background in delivering end to end solutions that address customer pain points, across domains like Recommender Systems, Anomaly detection, NLP, chatbot, Machine Vision, Collaborative Filtering, Clustering, Classification, Regression.
+Expert in statistical programming languages like R, SPSS, SAS, Dashboard Apps and python(Pandas, Numpy, Scikit-Learn, Beautiful Soup) for implementing machine learning algorithms in production environment. Strong Experience using OpenCV, TensorFlow, Keras, PyTorch, MXNet, Theano, Caffe and other open source frameworks.
+I have applied my skill in Machine Learning, Deep learning, Computer Vision, Natural Language Processing through various internships and projects.
+I graduated from Tsinghua University and received Bachelor's degree of Artificial Intelligence.
+$4000"
+data scientist,"Combination of Life Sciences (including Genetics, Bio- and Cheminformatics) and Computer Sciences (including Machine Learning, Data Science, AI). Architecting and implementing solutions from scratch. Proven track of successfully solved complex scientific tasks.
+
+Certifications:
+1. Google Cloud Professional Architect
+2. Google Cloud Professional Data Engineer
+3. AWS Certified Solutions Architect
+4. TensorFlow Developer
+5. Certified in Python Programming
+6. Certified in Java Programming
+7. TOEFL Upper-Intermediate
+8. Deep Learning Specialization
+9. Reinforcement Learning Specialization
+
+Publications in peer-reviewed scientific journals
+Worked at Google X
+Extensive experience, more than 12 successful projects in Data Science and Machine Learning
+AWS, GCP, Python, Java, C++
+Presales
+Team technical leadership
+
+Some topics:
+
+1. Genetics - Architecting and implementing end-to-end cloud service for genotypic and phenotypic data preprocessing and analysis
+2. Cheminformatics - small molecule generation, chemical reactivity prediction, quantum, and molecular mechanics simulations
+3. Bioinformatics - affinity prediction, molecular docking, microscope image recognition
+4. Computer Vision - semantic segmentation, image classification, video recognition, object detection
+5. NLP - text classification, topic summarization, smart chatbots
+6. Time series - prediction and classification using Deep Learning
+7. Reinforcement Learning - optimization of drug dosage (healthcare)
+8. Architecting on-premise and cloud solutions (GCP and AWS)
+9. Presales, work breakdown structure (WBS), POC design and implementation
+10. Team technical leadership
+11. Research leadership
+Wanted: new solutions in Life Science. Preferably dealing with genetics.
+
+Examples could be Google Genomics, Human Longevity Inc, ThermoFisher Scientific, etc."
 data scientist,"* Published a paper in brain science on arXive
 * Optimized a Python algorithm x1000 times in CUDA
 * Coordinated a group of 10+ students in technical skills
@@ -21976,12 +22751,60 @@ Big Data & Cloud Technologies: Spark, Spark Streaming, Spark MLlib, HDFS, Hive, 
 Other: Git, Bitbucket, Jira, Trello,  Scrum.
 "
 data scientist,"
+- Audio signal processing: classification (gender recognition, emotion detection, language recognitiion, etc), speaker verification/identefication, speech-to-text, voice conversion
+- NLP: intent classification, dialogue system modeling, ChatGPT prompt engineering
+
+- Experience with real-time streaming systems and latency optimization
+- Delivery models to production environment
+- Data engineering, SQL queries optimization
+- Backend development, microservises architecture
+- Cloud: AWS
+- Looking ONLY for a part-time job (20hrs/week)
+- Looking for Audio/Speech ML or MLOps-related positions
+- Projects/Companies with asynchronous communication are preffered (minimum calls, flexible working day)"
+data scientist,"
+Product-oriented Machine Learning Engineer
+
+As most of my commercial experience is related to the NLP, I have deep expertise in this field. Covered a variety of directions such as:
+- sentiment classification;
+- domain adaptation;
+- dialog intent retrieval;
+- aspect extraction;
+- text ranking;
+- text query clustering;
+- topic modeling;
+- information retrieval;
+- cross-language transferring as well as multilingual learning;
+- multitask learning;
+
+In addition to the data science experience, worked as a developer integrating my models and think that it's an essential skill for any ML engineer, thus focus on the quality of development a lot.
+
+Believe that one more crucially important skill of the data scientist - the ability to understand the business task and purpose just efficient approaches.
+
+My stack is:
+- PyTorch (experienced with the conversion from TensorFlow to PyTorch and vice-versa, TF-JS conversion), Transformers, Weights&Biases, MLFlow, SpaCy, FastText, Gensim, Scikit-Learn, etc.
+- Flask, Docker, Linux, Git.
+- Certified AWS Solution Architect.
+The job where I can use my experience to solve business problems impacting product development and company growth as well as gain new experience and learn new areas."
+data scientist,"Top 3 on globalhack weekend hackathon.
+1 Patent
+Many experience
+Passionate Computer Vision Developer. Worked on various projects with computer vision, drones, and dozen of hardware. Used team collaboration, Git, Trello.
+Strongly interested in computer vision and data science
+"
+data scientist,"
 Highlights:
 - helped design, establish and automate processes for data science teams (multiple ecommerce companies)
 - introduced personalized real-time recommender system for US e-commerce client
 - created from scratch churn modeling/nlp for US telecom company
 - performance improvements on analytical dashboards for Scandic oil and gas company
 Wanna join a team as an engineer (not a data scientist) and be responsible on data infrastructure, automations, model deployment and other engineering tasks. Ready to take a responsibility and grow to lead role"
+data scientist,"1. Architecture of Confidence Calibration of model’s predictions using documents in production.
+2. Architecture of Continuous Learning (Model Update) Process using user feedback
+At the current moment I am mainly working on PDF documents processing and understanding with ML and deep learning.
+I have an experience with different NLP tasks, such as POS tagging, NER, summarization and have a strong experience working language. NLP is what I’m passionate about
+I also have team leading skills and experience in leading a small team (3-5 people) and mentoring.
+I would like to work with NLP or in medical domain. I prefer research over pure ML engineering. I like to build architectural designs of ML training pipelines and design experiments"
 data scientist,"
 Building E2E analytical infrastructure to support product decisions for new and existing products on Web and Mobile:
 • Setting up product analytics infrastructure: defining BI events, user data flows, data aggregations, main product metrics;
@@ -22022,6 +22845,29 @@ Created a web application system that can be able to distinguish movie reviews a
 either positive or negative using a convolutional neural network model. The model
 used was through transfer learning. It is a pretrained model developed by google
 "
+data scientist,"-	Optimized ML model in 24 times (from 1 day executing to 1 hour) by using multithreading and optimizing a code.
+-	Reduced client processing time by 25% by automating data processing.
+Software ML Developer, Quantitative Developer 						2021 – Present
+-	Optimized ML model in 24 times (from 1 day executing to 1 hour) by using multithreading and optimizing a code.
+-	Worked directly with traders and senior management, collected requirements to design, model and generate algorithm ideas.
+-	Created and implemented ML models for forecasting and predicting market moves. 
+-	Performed data mining and researching.
+-	Created date reports and dashboards in Tableau.
+
+Data Analyst 									                             2020 – 2021
+-	Reduced client processing time by 25% by automating data processing.
+-	Worked with the International engagement team on daily basis.
+-	Performed ETL process for different data types (PDF, CSV, XLS, XLSX, PNG, etc.)
+-	Analyzed data using Python, Alteryx and SQL.
+-	Shared results with Quick.
+-	Implemented ML technics for data recognition of hard to parse (complex) data.
+
+
+Skills
+Languages: Python (Pandas, NumPy, SciPy, Sklearn, etc.), C++, SQL, Java
+Other: BigQuery, Tableau, Git, SourceTree, Alteryx, cmd, Linux / Unix Systems
+Math: Probability Theory and Math Statistics, Mathematical Analysis, Linear Algebra, and Analytic Geometry, Discrete Mathematics, (Bayesian) statistics
+I am looking for an interesting Machine Learning job, where I can use my skills and knowledge and grow as a professional."
 data scientist,"- Implemented a highly accurate predictive system for user targeting and segmentation (the system have been achieving all the financial goals for two years)
 
 - Created data-product development standards and procedures that optimized product development time by 3 to 4 times and increased efficiency of ML models by up to 20 times.

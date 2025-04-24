@@ -1,4 +1,4 @@
-Category,CV
+Category,Resume
 full stack,"Certifications:
 Adobe Certified Expert-Adobe Commerce Front-End Developer
 Adobe Certified Expert-Adobe Commerce JavaScript Developer
@@ -171,23 +171,6 @@ full stack,"
 I don't have any formal work experience, I've had the opportunity to work with Laravel through a personal project I started as a student. This project allowed me to explore and apply various concepts such as:  MVC Architecture, Routing and Controllers, Blade Templating Engine, Database Migrations and Seeders and helped me to create functional and dynamic applications.
 Although my experience is limited to personal projects, I am enthusiastic about further expanding my knowledge and skills in development. I am eager to take on more complex projects and collaborate with experienced professionals to gain a deeper understanding of best practices and advanced techniques in the field."
 full stack,"
-Participated in variety of projects as a back-end developer
-(Node.js, Typescript, etc...) & full-stack developer (Node.js,
-Typescript, React, etc...).
-Worked on improving databases and workow with them
-(MongoDB and MySQL, etc...).
-Used Modbus protocol and worked with Pi to accomplish the
-project tasks, such as creating communication with the PLC of
-greenhouses.
-Implemented and improved analytical part of projects.
-Creation of Content Management System for websites (React-
-admin).
-Working in cross-cultural environment.
-Working with SCRUM methodology.
-Worked with architecture of microservices.
-Unit test implementation (jest).
-"
-full stack,"
 I have two years plus of work experience, I mainly use the MERN stack and Jamstack sometimes. I have built ecommerce websites for different clients all specifically tailored to the desires and requirements of the client. I do give advise on the best ways to achieving what the client wants. Its been wonderful.
 "
 full stack,"Wide range in development from scratch. Transforming old code base to new stack/concept. Ability to work both independatly and in a team. 
@@ -297,9 +280,6 @@ Technologies:
 - Solidity / Smart contracts
 - Web3 API
 "
-full stack,"
-.Net developer with more than 4 years of experience in development of back end and partially front-end parts of application. I have taken part in full life cycle of software development projects of various sizes, including gathering requirements and analysis, application design and usage of design patterns, defining project scope and planning project tasks, client communication, performance analysis and improvements, code reviewing and re-factoring, writing unit tests and bug fixing.
-Open just for projects from scratch"
 full stack,"Completed Epam Java course and Git versioning control course Developed a demo project on UnrealEngine 4 - Action RPG ____________________________________________
 KhPI - Computer informational technologies department - 2017 - now OOP System progarmming Mathematics Databases MySQL
 "
@@ -462,16 +442,6 @@ Cloud: DigitalOcean, AWS.
 OS: Linux, MacOS, Windows.
 Deployment & VCS: Github Actions, Bitbucket Pipelines, Docker.
 Other: Jira, YouTrack.
-"
-full stack,"
-I am looking for full time job as Full-stack developer or Back-end developer for working in team.
-I was working as PHP developer more then 10 years. Last 5 years with popular frameworks like Symfony and Laravel.
-I was working on React projects last 2 years.
-Projects list:
-- Forms manager
-- Questionnaires
-- Loads tracker
-- Products tracker
 "
 full stack,"На данный момент занимаюсь разработкой проектов на Python/Django, Angular
 Software Engineer at IVA Software, Kazan
@@ -8154,18 +8124,6 @@ Interesting projects, horizontal management model(open communication), official 
 full stack,"Grew up in English last year. Learned ReactJS and implemented a chat app in a real project.
 Last five years I worked as a full-stack developer on projects using ASP .Net MVC and .Net Core on the backend side and JQuery, bootstrap on the front end. Last half year, I worked with ReactJS + Material UI components to develop a custom chat application using SignalR. Experienced in the ERP business domain.
 I want to grow up in the implementation of complex systems using modern technologies of architecture like microservices, message queues, AI, CI/CD."
-full stack,"Designed and developed a high speed  teaser networks with SEO functionality. Designed and developed a back-end part of food sales mediator mobile application. Have a rich experience in developing scalable hi-load applications, experience of non-commercial development using Angular2.
-Managing team for 3 years (back-end, iOS, Android, React SPA, Flutter, design, testing, Kubernetes, CI).
-
-PHP+OOP,  MySql, Javascript
-Highload, Client-Server arch., REST, JSON API, caching
-
-Symfony, Yii, Yii2, ReactJS, Angular2,
-Elasticsearch, RabbitMQ, Redis
-
-Linux, Composer, Vagrant, Ansible, Kubernetes
-GIT, SVN, Redmine, Jira, MongoDB, OrientDB, Cassandra, Java
-"
 full stack,"High-Performance API Implementation:
 Developed a RESTful API using PHP that successfully handled over 10,000 requests per day, with an average response time of under 50 milliseconds.
 Implemented caching strategies and optimized database queries, resulting in a 50% reduction in API response times and a 60% decrease in server load.
@@ -8220,68 +8178,6 @@ Ignoring Feedback: Disregarding feedback from colleagues, users, or stakeholders
 Ignoring Trends: Not staying updated with the latest trends and technologies in web development, leading to outdated skills and techniques.
 
 Over-Engineering: Over-complicating solutions with unnecessary abstractions and layers of complexity, which can hinder maintainability and understanding."
-full stack,"
-I can consider both Back-end or Full-stack work. Apart from my freelance work, I worked as a backend developer in two local web agencies and SASS product statup. In the first, I started as a web development team lead, and in the second, I started as a backend developer and promoted to the position of web development team lead. Rigth now, I am working in a software solutions company and working on a big startup project which is SASS application.
-
-I will talk about the three most interesting projects that I have come across.
-
-First, we rewrote the website of the Azerbaijan National Academy of Sciences on Laravel, which was developed in 1995 and was renewed many times. It was an interesting project, because we couldn't interfere too much with the database structure so that the old data would not be lost and we had to code everything according to the old structure. To be honest, I didn't like the new design of the website very much, but since I was working as a back end developer on the project, the fun was on back side for me.
-
-The second project I will talk about is AzalClub, owned by the world-renowned company Azal(Azerbaijan Airlines). AzalClub is actually an ordinary project, except that the data comes from the api, which itselft, it isn't big deal. However, the project is a project that many different developers have worked on in different time periods, as there were some disruptions due to the covid period. That's why when I got involved in the project, the project was a jungle. In general, proper technologies were not chosen for the project. Laravel was used as the back end, but no framework was used on the front end side. That's why the data was pulled directly using only Laravel and Ajax, and since many developers were working, not all of them wrote everything in the right way. So there is a huge refactoring story in the middle. That's why this project has been very interesting for me.
-
-The third project is a module of startup at my current company. The name of the startup is MagicPort: A platform that brings together many maritime sass applications. Apart from this module, I also provide support for other modules. Module's name is Digital Daily Reports. It digitize daily reports of vessel workers. It has functionalies of taking daily reports, calculating specific units about maritime, visualising data as charts, importing and exporting data and etc.
-"
-full stack,"<b>Google Hash Code Competition</b>
-Participated in a hackathon as a part of a 4-person team, where we collaborated to develop a framework for data structuring and a unique solution. Our dedicated efforts and innovative approach earned us an impressive 850th place out of 9,000 participants.
-
-<b>JS Core Course</b>
-Played a pivotal role in the in-company learning program for trainee developers by creating and delivering engaging JS Core course lectures. I have developed slides, interactive testing, and homework to ensure a comprehensive learning experience for students.
-memoryOS
-An award-winning client-oriented startup mobile application focused on memory improvement.
-Oct 2022 - Jul 2023
-Back-end Developer
-- 3D payment service integration
-- developing and maintaining a robust server, ensuring compatibility with the live mobile app client
-- expanding and maintaining database structure
-- handling and maintaining the internal admin panel, dealing with legacy JS code
-
-LTD FIVEWALLS
-Built bots for Slack messenger that served as the bridge between various 3rd party APIs, including Jira, and Confluence.
-May 2021 - Oct 2022
-Back-end Developer
-- developing microservices responsible for processing authentication, validation, and cross-system event messages and requests
-- participated in code reviews and actively contributing to projects documentation.
-- conducted functionality testing
-
-Webcenriq
-As a member of Odora.io's developer team, I have taken a part in the development of a cross-platform application for cashback enrollment and exchange.
-Nov 2020 - May 2021
-Frontend Developer
-- solo implementation of the front-end side of the administration board
-- developing the client-side logic of the Odora mobile app
-- assumed responsibility for deploying and managing licenses for the App Store and Google Play Market
-- actively participated in requirements specification, ticket creation, and documentation maintenance
-
-Freelancehunt
-Working with Health Tech projects, collaborating with a team of QA, and Designer under mentorship of experienced Back End developer. Throughout my tenure, I've developed several projects from scratch.
-Full-stack developer
-Aug 2019 - Nov 2020
-- Fifth Step Clinic | Front-end Developer
-Multi-page website for a cell therapy clinic in Kharkiv. 
-Presentation and detailed description of stem cell 
-treatment in Kharkiv.
-- Nutrition by Baby Doctor | Front-end Developer
-Developed a hybrid PWA web application, presenting a series of informative articles from paediatricians on artificial feeding.
-- Travel Aid | Full-Stack Developer
-Cross-platform mobile app offering travel recommendations from medical professionals. Ensured that the content was fully cached and accessible offline to provide a seamless user experience.
-- Medical Reminder | Full-Stack Developer
-Automated the process of sending SMS reminders to clinic patients, providing personalised configurations for each recipient. Leveraging REST API integration, I facilitated efficient communication and automated balance monitoring for newsletter distribution.
-Aspiring developer with 4 years of experience building scalable, extendable web, and mobile services and applications. Throughout my career, I have relished gaining versatile experience, actively participating in all stages of development, from feature investigation and architecture planning to implementation, testing, and documentation writing.
-As a self-taught engineer, I take immense pride in compensating theoretical knowledge gaps with my ability to find creative solutions and notice intricate details and nuances. My high level of responsibility for my work drives me to ensure quality and precision in everything I deliver.
-Thriving in high-stress environments with limited resources and management, I adapt quickly to project code-styles and have honed the skill of fast learning through hands-on experience.
-
-My aspiration is to join a team of professionals with strong management and a flexible work schedule. 
-I prefer to work in start-ups or product-oriented companies."
 full stack,"Was engaged in the development of projects from scratch and support for existing projects.
 Technical Lead with 18+ years of commercial experience in C#.Net development, cloud technologies, containerization technologies, relational databases. Solid expertise in requirements gathering and analysis, solution architecture design, deployment process setup. Highly motivated, enthusiastic, open-minded, and easily adaptable to any company culture and work approach. Able to work through the details of a problem applying simple and effective solutions, successfully meet deadlines, and deliver high-quality code. Has leadership skills and experience in mentorship. Worked on multiple projects in different domains including - Banking and Finance - Investment Data Management - Property Management - Content Management - Recruitment Software Management- Healthcare - Share Ledger.
 Interested in a stable company and high-skilled team.
@@ -23999,12 +23895,6 @@ Before 1.5 years I worked on startup project as frontend developer on Angular 2 
 I have 3 years of professional (and two more years of recreational) experience in developing websites and web applications based on technologies like HTML5, CSS3. some experience as freelance developer, working with Wordpress from PSD creation and mobile adaptation parttime. I understand databases (SQL / NoSQL).
 I'm interesting and ready to fast self-improvement, many intensive  learning and hard work, have very good physical condition, high responsibility. I am a good team player.
 Professional improvement, a bit of mentoring to guide a better way to grow. Ready to hard learning of new thing."
-full stack,"I've developed card board game on first aid, then implemented in as a web-quiz. 
-Integration of payment system via public domain into CRM on a private domain
-I have 2+ years commercial experience of Full Stack development using React, PHP, Laravel, MySQL, Docker and AWS. Worked with Health Care projects and Documentation Generating Software developing both front-end and back-end, planning database structure, normalizing entities, etc.
-- Best of all I'd like to be a part of friendly supportive team. 
-- Also I want my boss/curator to be a person who can support, guide, give a hint.
-- Would especially like to work in a project which deals with health care and researches"
 full stack,"
 SUMMARY
 I have 4.5 years of experience in software development of commercial projects. My main responsibilities were requirements analysis, writing programming code(including the basic architecture of the project), fixing bugs and investigation of new technologies to implement tasks that go beyond the standard requirements (for example, collecting token data using opengraph and other resources with only the token address, or processing photos using software code to make them look like bills). I am experienced with different databases (MySQL, PostgreSQL, MongoDB), hi-load systems with scaling and caching, have a good understanding of OOP, REST, MVC. Capable of working in a team environment or working independently. I am continually seeking new challenges and a desire to expand my knowledge and experience.
@@ -26052,64 +25942,6 @@ Strong C#/.NET, ASP.NET (MVC), JavaScript, angular, react
 less frequent use: SQL Server
 Basics: WPF, WinForms, WCF, Git, BI (OLAP, MSRS, MSAS), ADO.NET, machine learning etc.
 Strong team, well organized development/delivery processes, opportunities for growth, challenges"
-full stack,"Implemented and supported Lift Relation platform
-Implemented and supported Helios platform for 9 years
-Implemented and supported Brandero project based on MicroServices
-Participated in supporting Sitecore customers 
-Participated in opening Danish Sitecore branch in Dnipro, Ukraine
-Search for 
-Web back-end developer job ( no JavaScripts) 
-Preferably: product company, remote job. 
-- Web Services  
-- Rest API  Services
--  MicroServices  (async tasks programming)
--  SOLID
--  Functional programming
-- Sitecore CMS back-end ( 2 certificates) 
-----------------------------------------------------------
-Experience:
-Web application at LIFT Relations company, Azure.
-Programming languages: C#, MSSQL 
-Development tools: Visual Studio 2019, SQL Management Studio 
-----------------------------------------------------------
-Database system: MSSQL, Elastic (only client) 
-Object modeling, Design Patterns, SOLID. 
-I like functional programming in C#. Inspired by Pluralsight Zoran Horvat, Vladimir Khorikov lectures and others.
-Version control system:  GIT, TFS
-Sitecore CMS: worked with Sitecore 8.2 , 9.2 (and older)
-Passed for 
-- Sitecore Developer Certificates 8.2
--  Sitecore 9.0 Certified Platform Associate Developer (94%)
-
-Areas: MVC 5, WebAPI, IoC, DI, CQRS, xUnit, .Net 5.0,   async tasks programming, EF 
-----------------------------------------------------------
-Projects/Jobs:
-— implementing new features 
-
-MatchWork company (via Ciklum):
-— participated in the development of Brandero job board platform. Brandero provided
-services for creating job board sites, posting & publishing jobs, applying for jobs.
-—implemented Company Microservice, Candidate Microservice, JobAd Microservice partially, ItemsDraft Microservice partially. Services contained API and Windows Service parts and RabbitMQ. 
-— implemented simple caching service based on Redis server
-— ~ 40 sites have been built based on Helios platform for customers in Denmark, Greenland, United Kingdom, Holland, Norway, Swedish, USA and Germany. 
-— participated in development of Helios job board platform. Supported Helios platform during last 9 years. 
-
-Sitecore company: 
-fixed bugs in RSS Sitecore module 
-developed sites for different companies 
-Zoozity demo site
-Norriq company site
-... etc 
-migrated project from Sitecore 4.3.2.13 to Sitecore 5.3.1 from Pentia
-possibility to work remotely 
-possibility to work with .Net Core or .Net 5(6) 
-possible to work with Sitecore CMS back-end ( 2 certificates) 
-(preferable with C# 8/9)
-possibility to apply the functional programming based on latest fashion trends in C #  (I like Linq )
-possibility to work more as back-end developer. 
-communicate more with technical people rather than with pure managers
-do not want to work with 100% support tasks 
-do not want to work as front-end developer"
 full stack,"I am young self-taught developer that always continue to study new. I study really fast and like to communicate with others. I was involved in big projects and have experience in working with clients. I won a local Olympiad in computer science and was the best in my school in coding.
 When I started to learn coding, I was making front-end sites, got familiar with HTML, CSS and JS, but then I realised that I don't love HTML+CSS and started learning NodeJS, Vue, NestJS to become Backend/Fullstack developer. 
 
@@ -26285,36 +26117,12 @@ NodeJS, JavaScript, MongoDB, C#, AWS, MapReduce, ReactJS, Backbone, Angular, Lin
 I'm a fan of functional and reactive programming.
 Eager to learn new technologies. Looking for an interesting project."
 full stack,"
-I have 6 months of commercial experience in outsource company, working as main backend developer, but also worked as full-stack when was needed to write backend + admin panel, developed projects from zero till release.
-
-My responsibilities:
-- Project time estimation
-- Bug fixing
-- Refactoring existing code
-- Mentoring trainee developers
-- Setup project and database architecture
-"
-full stack,"
 I work as a full-stack developer with main focus on back-end part. My responsibilities include working with highload, development of micro services, queues on kafka, code quality, code review, refactoring and team support. I also developed data separation using a cyclic function between different databases (sharding). Also I worked on file saving to AWS S3, authorization, recommendation system and (searching,  pagination, aggregation) in elasticsearch.
 I prefer to work in a team that follows Agile flow, such as Scrum or Kanban, and highly organised environment."
 full stack,"-
 I'm a FullStack developer with more then 2.5 years of production experience, with orientation in backend, I have participated in building various kinds of projects like ECommerce, Business showcase, Business automation, Q.A platform, and others.
 using latest technologies such as Node.js, Typescript, Nest.js, Koa, typeORM, Sequelize, PostgreSQL and many more.
 "
-full stack,"> Described and provided an infrastructure for the front-end part of a new project
-> Developed a style guide for the project. Moreover, it was cloned and used along with the further related projects 
-> Initiated and provided a tech debt backlog across all the customer's team
-> Successfully mentored two junior developers along playing the team lead role
-> I took part in the JavaScript mentoring program as a mentor
-> Accomplished highly intensive hard skills educational course with honor
-> Won company's internal hackathon with a bronze medal
-JavaScript (primary skill), NodeJS, VueJS, Angular, Unit Testing, TDD, HTML/CSS
-
-I have participated in numerous projects in different domains. These domains include retail, shipment, travel, internal UI libs, audit, warehouse, and accounting. The projects vary in size (from 2 up to 100+ developers), in the workflow approach (Kanban, Scrum), with extreme programming (TDD, pair programming, etc) or without it.
-My most recent role is a team lead of the sub-team as a part of the customer's team. Regarding the role, I am responsible for the team to have a well prepared and clarified sprint backlog; mentoring of the junior developers and providing the team to be eager for new challenges; development of both back-end and front-end part of the project; providing a code review; looking for what can be improved and providing that;
-I'm interested to be involved as part of a highly motivated team in a project with edge technologies.
-I'm willing to develop applications that bring value to people.
-The best option that fits my expectations for the future is a project where I make a difference and continue to develop my technical skills."
 full stack,"
 JS/Node/React/Full-Stack Developer -
 PrismateQ - Armenia/Yerevan
@@ -27438,17 +27246,6 @@ Experience:
 - Other tools/solutions: MySQL, REST; Git, Linux, Docker, Continuous Integration/Delivery systems (GitlabCI, CircleCI, TravisCI)
 - Leaded small team
 "
-full stack,"With a 7-year career in PHP and web development, including 4 years specializing in Magento, I've successfully launched a range of digital projects such as e-commerce platforms, payment gateways, and auction systems. While I'm an Adobe Certified Master Magento Commerce Architect, my expertise also extends to core PHP and JavaScript technologies. I've built three Progressive Web Apps from scratch, upgraded legacy PHP websites, and implemented custom functionalities for large online stores. My experience highlights my ability to manage full-stack projects and deliver solutions that meet business objectives.
-I'm a backend-focused, full-stack PHP and JavaScript developer with over 7 years of experience, including 4+ years specializing in Magento. 
-
-Core Skills:
- Full-Stack PHP and JavaScript Development
- Magento 2.x.x specialization
- React.js, Vue.js
- Progressive Web Apps & Adobe Commerce Cloud
-
-I'm actively looking for new opportunities in both Magento and general PHP/JavaScript roles, eager to contribute to dynamic projects that fit the unique needs of your business.
-I seek to join a collaborative team working on stimulating projects. I value mutual trust and responsibility in the workspace and prefer an environment where developers aren't excessively monitored through tracking tools, encouraging autonomy and innovation."
 full stack,"
 Web stack:
 

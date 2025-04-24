@@ -1,4 +1,4 @@
-Category,CV
+Category,Resume
 data engineer,"Industrialized an existing scikit-learn prototype using Spark (Scala) to deploy a system for predictive maintenance of trains. 15 binary models predicting the probability of failure of each type of physical equipment of 200 Paris regional trains. This allows French railways to detect potential failures and proactively replace a train, which is more cost-effective than fixing a train failing during a passenger circulation.
 
 Deployed an image classification system, based on satellite images (100 megapixel, 1 meter resolution) from Sentinel satellite of EU Copernicus program. System is used for ice segmentation in the Arctic Ocean, improving safety of ships navigation.
