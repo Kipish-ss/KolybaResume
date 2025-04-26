@@ -51,7 +51,7 @@ def map_position(row: pd.Series) -> str:
         return 'customer support'
     elif 'c++' in pos and keyword == 'c++':
         return 'c++'
-    elif 'rust' in pos:
+    elif keyword == 'rust':
         return 'rust'
     elif 'sales manager' in pos and keyword == 'sales':
         return 'sales manager'

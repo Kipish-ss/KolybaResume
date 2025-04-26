@@ -53,6 +53,8 @@ def main():
     logger.info("Starting scraping process...")
     for ScraperClass in SCRAPERS:
         for category in CATEGORIES:
+            if ScraperClass == PostJobScraper and category == 'c++':
+                continue
             logger.info(f"Running {ScraperClass.__name__} for category: {category}")
             scraper = ScraperClass(
                 category=category,

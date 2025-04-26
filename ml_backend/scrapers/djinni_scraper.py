@@ -19,6 +19,8 @@ class DjinniScraper(Scraper):
         self.base_url = "https://djinni.co"
         if category in ["frontend", "backend"]:
             self.search_url = f'{self.base_url}/developers/?keywords="{category}"-full&options=skip_skills'
+        elif category == "c++":
+            self.search_url = f'{self.base_url}/developers/?keywords="c%2B%2B"&options=skip_skills'
         else:
             self.search_url = f'{self.base_url}/developers/?keywords="{category}"&options=skip_skills'
 
