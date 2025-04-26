@@ -2,8 +2,7 @@ import time
 import logging
 from pathlib import Path
 import os
-from djinni_scraper import DjinniScraper
-from postjob_scraper import PostJobScraper
+from ml_backend.scrapers import DjinniScraper, PostJobScraper
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(

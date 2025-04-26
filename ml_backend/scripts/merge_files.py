@@ -138,7 +138,8 @@ def main():
 
     CATEGORIES_TO_CHECK = ['java', '_net', 'python']
 
-    merge_all_categories(base_path, output_file,CATEGORIES, SPECIAL_CASES, backend_keywords, frontend_fullstack_keywords,
+    merge_all_categories(base_path, output_file, CATEGORIES, SPECIAL_CASES, backend_keywords,
+                         frontend_fullstack_keywords,
                          CATEGORIES_TO_CHECK)
 
 

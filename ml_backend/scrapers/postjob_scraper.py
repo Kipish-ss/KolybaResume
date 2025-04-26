@@ -5,7 +5,7 @@ import pandas as pd
 import time
 import logging
 from pathlib import Path
-from scraper import Scraper
+from .scraper import Scraper
 
 logger = logging.getLogger(__name__)
 

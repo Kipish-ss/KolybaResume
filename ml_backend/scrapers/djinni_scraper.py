@@ -1,5 +1,5 @@
 import requests
-from scraper import Scraper
+from .scraper import Scraper
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
