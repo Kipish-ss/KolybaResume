@@ -1,0 +1,5 @@
+<mat-card>
+    <h2>Upload your resume</h2>
+    <input type="file" (change)="onFileSelected($event)" accept=".pdf,.doc,.docx" hidden #fileInput>
+    <button mat-raised-button color="primary" (click)="fileInput.click()">Choose File</button>
+</mat-card>

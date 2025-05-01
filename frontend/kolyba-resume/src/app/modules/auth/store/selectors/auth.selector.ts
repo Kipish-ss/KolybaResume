@@ -18,3 +18,8 @@ export const selectEmailVerified = createSelector(
     selectAuthFeature,
     state => state.emailVerified
 );
+
+export const selectHasResume = createSelector(
+    selectUser,
+    user => user?.hasResume
+);

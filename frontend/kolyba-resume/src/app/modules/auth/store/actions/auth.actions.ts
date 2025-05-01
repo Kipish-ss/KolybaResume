@@ -28,3 +28,7 @@ export const setEmailVerified = createAction('[Auth] Set Email Verified', props<
 export const loadCurrentUser = createAction('[Auth] Load Current User');
 export const setCurrentUser = createAction('[Auth] Set Current User', props<{ user: User }>());
 export const loadCurrentFailure = createAction('[Auth] Load Current User Failure', props<{ error: Error }>());
+
+export const uploadResume = createAction('[Auth] Upload Resume', props<{ resume: File }>());
+export const uploadResumeSuccess = createAction('[Auth] Upload Resume Success');
+export const uploadResumeFailure = createAction('[Auth] Upload Resume Failure', props<{ error: Error }>());

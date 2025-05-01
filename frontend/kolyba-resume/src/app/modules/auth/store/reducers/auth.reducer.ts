@@ -18,4 +18,11 @@ export const authReducer = createReducer(
         ...state,
         emailVerified: action.emailVerified
     })),
+    on(authActions.uploadResumeSuccess, (state) => ({
+        ...state,
+        user: {
+            ...state.user!,
+            hasResume: true
+        }
+    }))
 );

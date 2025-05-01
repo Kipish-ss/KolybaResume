@@ -82,7 +82,7 @@ export class AuthEffects {
     public readonly setCurrentUser$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.setCurrentUser),
-            tap(({user}) => localStorage.setItem(userLocalStorage, JSON.stringify(user)))
+            tap(({ user }) => localStorage.setItem(userLocalStorage, JSON.stringify(user)))
         ),
         { dispatch: false }
     );
@@ -90,7 +90,7 @@ export class AuthEffects {
     public readonly setAccessToken$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.setAccessToken),
-            tap(({token}) => localStorage.setItem(accessTokenLocalStorage, token))
+            tap(({ token }) => localStorage.setItem(accessTokenLocalStorage, token))
         ),
         { dispatch: false }
     );
@@ -98,7 +98,7 @@ export class AuthEffects {
     public readonly setEmailVerified$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.setEmailVerified),
-            tap(({emailVerified}) => localStorage.setItem(userLocalStorage, JSON.stringify(emailVerified)))
+            tap(({ emailVerified }) => localStorage.setItem(userLocalStorage, JSON.stringify(emailVerified)))
         ),
         { dispatch: false }
     );
@@ -134,6 +134,18 @@ export class AuthEffects {
             )
         )
     );
+
+    public readonly uplaodResume$ = createEffect(() => this.actions$.pipe(
+        ofType(authActions.uploadResume),
+        switchMap(({ resume }) => this.userApiService.uploadResume(resume))
+    ));
+
+    public readonly uplaodResumeSuccess$ = createEffect(() => this.actions$.pipe(
+        ofType(authActions.uploadResumeSuccess),
+        tap(() => this.router.navigateByUrl(''))
+    ),
+        { dispatch: false }
+    )
 
     public readonly signOut$ = createEffect(() =>
         this.actions$.pipe(

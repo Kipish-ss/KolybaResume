@@ -11,6 +11,7 @@ export class AuthStoreService {
     public user$ = this.store.select(authSelectors.selectUser);
     public accessToken$ = this.store.select(authSelectors.selectAccessToken);
     public emailVerified$ = this.store.select(authSelectors.selectEmailVerified);
+    public hasResume$ = this.store.select(authSelectors.selectHasResume);
 
     public constructor(private readonly store: Store) { }
 
@@ -36,6 +37,10 @@ export class AuthStoreService {
 
     public resetPassword(email: string): void {
         this.store.dispatch(authActions.resetPassword({ email }));
+    }
+
+    public uploadResume(resume: File): void {
+        this.store.dispatch(authActions.uploadResume({ resume }));
     }
 
     public signOut(): void {

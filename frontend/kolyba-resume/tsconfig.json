@@ -22,7 +22,8 @@
     "paths": {
         "@env/*": ["src/environments/*"],
         "@core/*": ["src/app/modules/core/*"],
-        "@auth/*": ["src/app/modules/auth*"]
+        "@auth/*": ["src/app/modules/auth*"],
+        "@vacancies/*": ["src/app/modules/vacancies*"]
     }
   },
   "angularCompilerOptions": {

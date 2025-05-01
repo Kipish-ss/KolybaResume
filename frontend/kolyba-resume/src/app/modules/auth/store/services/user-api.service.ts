@@ -32,8 +32,11 @@ export class UserApiService {
         );
     }
 
-    public editUser(request: UpdateUser): Observable<User> {
-        return of({} as User);
+    public uploadResume(file: File): Observable<Action> {
+        return this.httpService.postRequest<void>(`${this.routePrefix}/resume`, file).pipe(
+            map(() => authActions.uploadResumeSuccess()),
+            catchError(() => of(authActions.uploadResumeFailure({ error: new Error() }))),
+        );
     }
 
     public checkExistingEmail(email: string): Observable<boolean> {

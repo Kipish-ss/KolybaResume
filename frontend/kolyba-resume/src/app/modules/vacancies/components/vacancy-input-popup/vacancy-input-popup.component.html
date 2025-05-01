@@ -1,0 +1,18 @@
+<h2 mat-dialog-title>Enter Vacancy Details</h2>
+<mat-dialog-content>
+    <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Vacancy URL</mat-label>
+        <input matInput [formControl]="urlControl" placeholder="https://...">
+        <mat-error *ngIf="urlControl.invalid">Enter a valid URL</mat-error>
+    </mat-form-field>
+    <button mat-button (click)="loadByUrl()" [disabled]="urlControl.invalid">Load Description</button>
+    <mat-divider></mat-divider>
+    <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Or Paste Description</mat-label>
+        <textarea matInput [formControl]="descControl" rows="6"></textarea>
+    </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-button (click)="close()">Cancel</button>
+    <button mat-raised-button color="primary" (click)="submit()" [disabled]="!descControl.value">Submit</button>
+</mat-dialog-actions>
