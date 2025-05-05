@@ -20,9 +20,9 @@ public class MachineLearningApiService(IConfiguration configuration, HttpClient 
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }
 
-    public async Task<VacancyScoreResponse[]> GetVacancyScores(long[] vacancies)
+    public async Task<VacancyScoreResponse[]> GetVacancyScores(long resumeId)
     {
-        var response = await httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies/score", vacancies);
+        var response = await httpClient.PostAsync($"{_apiUrl}/vacancies/score/{resumeId}", null);
         
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }

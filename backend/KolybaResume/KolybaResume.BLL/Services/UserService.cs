@@ -86,6 +86,12 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
         await apiService.NotifyResumeCreated(resume.Id);
     }
 
+    public async Task<long> GetResumeId()
+    {
+        var user = await GetCurrentInternal();
+        return user.Resume.Id;
+    }
+
     private async Task AddClaims(string? uid, long? id)
     {
         if (uid is null || id is null)
@@ -115,6 +121,6 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
     }
 
     private async Task<User> GetCurrentInternal()
-        => (await _context.Users.FirstOrDefaultAsync(u => u.Uid == GetCurrentId())
+        => (await _context.Users.Include(u => u.Resume).FirstOrDefaultAsync(u => u.Uid == GetCurrentId())
             ?? throw new KeyNotFoundException("User doesn't exist"))!;
 }

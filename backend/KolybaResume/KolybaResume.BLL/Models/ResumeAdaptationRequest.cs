@@ -2,6 +2,6 @@
 
 public class ResumeAdaptationRequest
 {
-    public int ResumesId { get; set; }
+    public long ResumesId { get; set; }
     public string VacancyText { get; set; } = string.Empty;
 }
