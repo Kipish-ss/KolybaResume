@@ -3,6 +3,7 @@ using KolybaResume.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KolybaResume.DAL.Migrations
 {
     [DbContext(typeof(KolybaResumeContext))]
-    partial class KolybaResumeContextModelSnapshot : ModelSnapshot
+    [Migration("20250505090949_AddVacancyModel")]
+    partial class AddVacancyModel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,38 +23,6 @@ namespace KolybaResume.DAL.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("KolybaResume.DAL.Entities.Resume", b =>
-                {
-                    b.Property<long>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("bigint");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
-
-                    b.Property<int?>("Category")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ClearedText")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Text")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<long>("UserId")
-                        .HasColumnType("bigint");
-
-                    b.Property<byte[]>("Vector")
-                        .HasColumnType("VARBINARY(MAX)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("UserId")
-                        .IsUnique();
-
-                    b.ToTable("Resumes");
-                });
 
             modelBuilder.Entity("KolybaResume.DAL.Entities.User", b =>
                 {
@@ -65,6 +36,10 @@ namespace KolybaResume.DAL.Migrations
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("ImagePath")
+                        .HasMaxLength(300)
+                        .HasColumnType("nvarchar(300)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -94,9 +69,6 @@ namespace KolybaResume.DAL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
 
-                    b.Property<int?>("Category")
-                        .HasColumnType("int");
-
                     b.Property<int>("JobType")
                         .HasColumnType("int");
 
@@ -122,23 +94,7 @@ namespace KolybaResume.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Vacancies");
-                });
-
-            modelBuilder.Entity("KolybaResume.DAL.Entities.Resume", b =>
-                {
-                    b.HasOne("KolybaResume.DAL.Entities.User", "User")
-                        .WithOne("Resume")
-                        .HasForeignKey("KolybaResume.DAL.Entities.Resume", "UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
-            modelBuilder.Entity("KolybaResume.DAL.Entities.User", b =>
-                {
-                    b.Navigation("Resume");
+                    b.ToTable("Vacancy");
                 });
 #pragma warning restore 612, 618
         }

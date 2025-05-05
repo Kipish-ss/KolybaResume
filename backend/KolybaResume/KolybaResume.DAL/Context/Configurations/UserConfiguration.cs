@@ -15,14 +15,16 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         builder.Property(u => u.Email)
             .IsRequired()
             .HasMaxLength(50);
-
-        builder.Property(u => u.ImagePath)
-            .HasMaxLength(300);
         
         builder.HasIndex(u => u.Email)
             .IsUnique();
         
         builder.HasIndex(u => u.Uid)
             .IsUnique();
+        
+        builder.HasOne(u => u.Resume)
+            .WithOne(r => r.User)
+            .HasForeignKey<Resume>(u => u.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }
