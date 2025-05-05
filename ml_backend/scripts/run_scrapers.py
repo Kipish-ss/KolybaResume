@@ -42,7 +42,8 @@ CATEGORIES = [
     "java",
     ".net",
     "python",
-    "software engineer"
+    "software engineer",
+    "cloud engineer"
 ]
 
 SCRAPERS = [DjinniScraper, PostJobScraper]

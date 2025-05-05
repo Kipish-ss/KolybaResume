@@ -71,7 +71,7 @@ def augment_backend(base_path: str, categories_to_check: list[str],
                 df = pd.read_csv(file_path)
                 backend_resumes = filter_backend_resumes(df, backend_keywords, frontend_fullstack_keywords)
                 if not backend_resumes.empty:
-                    backend_resumes['Category'] = 'backend'
+                    backend_resumes['Category'] = 'web'
                     all_augmented.append(backend_resumes)
 
     if all_augmented:
@@ -115,19 +115,19 @@ def main():
     base_path = str(ml_backend_dir / "data" / "raw")
     output_file = 'resumes.parquet'
 
-    CATEGORIES = [
-        "frontend", "backend", "full stack", "devops", "qa engineer",
-        "ux", "data engineer", "data analyst", "business analyst",
-        "data scientist", "product manager", "project manager",
-        "marketing", "hr", "customer support",
-        "c++", "sales manager", "mobile"
-    ]
+    CATEGORIES = ["web", "devops/cloud", "qa engineer",
+                  "ux", "data", "business analyst", "product/project manager",
+                  "marketing", "hr", "sales manager", "mobile"
+                  ]
 
     SPECIAL_CASES = {
+        "web": ["backend.csv", "frontend.csv", "fullstack.csv"],
         "hr": ["hr.csv", "recruiter.csv"],
         "mobile": ["mobile.csv", "android.csv", "flutter.csv", "ios.csv"],
         "marketing": ["marketing.csv", "seo.csv"],
-        "c++": ["c++.csv", "rust.csv"]
+        "product/project manager": ["product manager.csv", "project manager.csv"],
+        "data": ["data analyst.csv", "data engineer.csv", "data scientist.csv"],
+        "devops/cloud": ["devops.csv", "cloud.csv"]
     }
 
     backend_keywords = ['backend', 'back-end', 'back end']
