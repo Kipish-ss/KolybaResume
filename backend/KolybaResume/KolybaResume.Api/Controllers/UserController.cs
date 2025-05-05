@@ -19,7 +19,7 @@ public class UserController(UserService userService) : ControllerBase
 
     [HttpPost]
     [AllowAnonymous]
-    public async Task<ActionResult<UserDto>> CreateUserPreferences([FromBody] NewUserDto user)
+    public async Task<ActionResult<UserDto>> Create([FromBody] NewUserDto user)
     {
         return Ok(await userService.Create(user));
     }
@@ -39,5 +39,40 @@ public class UserController(UserService userService) : ControllerBase
         var updatedUser = await userService.Update(user, currentUser.Email);
 
         return Ok(updatedUser);
+    }
+
+    [HttpPost("resume")]
+    [Consumes("multipart/form-data")]
+    public IActionResult ExtractText([FromForm] IFormFile file)
+    {
+        if (file == null || file.Length == 0)
+        {
+            return BadRequest("No file uploaded.");
+        }
+
+        string text;
+        var ext = Path.GetExtension(file.FileName).ToLowerInvariant();
+
+        using (var stream = file.OpenReadStream())
+        {
+            switch (ext)
+            {
+                case ".pdf":
+                    text = TextExtractorService.ReadPdf(stream);
+                    break;
+                case ".docx":
+                    text = TextExtractorService.ReadDocx(stream);
+                    break;
+                case ".doc":
+                    text = TextExtractorService.ReadDoc(stream);
+                    break;
+                default:
+                    return BadRequest("Unsupported file type.");
+            }
+        }
+        
+        userService.AddResume(text);
+
+        return Ok();
     }
 }

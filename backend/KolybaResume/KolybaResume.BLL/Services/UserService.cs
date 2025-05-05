@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KolybaResume.BLL.Services;
 
-public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAuth firebaseAuth, IHttpContextAccessor httpContextAccessor) : BaseService(context, mapper)
+public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAuth firebaseAuth, IHttpContextAccessor httpContextAccessor, MachineLearningApiService apiService) : BaseService(context, mapper)
 {
     public async Task<UserDto> GetCurrent()
     {
@@ -69,6 +69,21 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
     {
         var userId = httpContextAccessor.HttpContext.User.GetUid();
         return userId;
+    }
+
+    public async Task AddResume(string text)
+    {
+        var userId = GetCurrentInternal().Id;
+        var resume = new Resume
+        {
+            Text = text,
+            UserId = userId
+        };
+        
+        _context.Resumes.Add(resume);
+        await _context.SaveChangesAsync();
+        
+        await apiService.NotifyResumeCreated(resume.Id);
     }
 
     private async Task AddClaims(string? uid, long? id)

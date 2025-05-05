@@ -28,7 +28,9 @@ public static class ServiceCollectionExtensions
     public static void AddServices(this IServiceCollection services)
     {
         services.AddHttpContextAccessor();
+        services.AddHttpClient();
         services.AddTransient<UserService>();
+        services.AddTransient<MachineLearningApiService>();
     }
     
     public static void AddAutoMapper(this IServiceCollection services)
