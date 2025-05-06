@@ -52,3 +52,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.env
+/.idea
+/test.py
+__pycache__/
+*.py[cod]

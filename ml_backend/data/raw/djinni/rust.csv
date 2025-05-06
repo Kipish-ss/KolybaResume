@@ -1,0 +1,772 @@
+Category,Resume
+rust,"I have enjoyed 10+ years of R&D experience across various projects and systems, utilizing lightweight frameworks, message queues, application and web servers, microservices and SQL/NoSQL databases.
+- Rust projects: logistics ERP, crypto-trading subsystems development
+- Axum, Tokio, ActixWeb, Tonic, Tungstenite, Sea-ORM, GraphQL
+- Core Java (6–17), Spring, Quarkus, CDI, Web containers, J2EE stacks, .NET, Rust
+- Open-source contributions – maintaining a CLI Rust, personal Rust project
+• R&D in commercial products by customer requirements and achiving goals during 20+ years
+• Took part in many startups at domains like telecom, gambling/lottery, social network, sport events, health, fintech.
+Took part in several projects like:
+• Rust projects like logistics ERP, stock exchange interaction subsystem,
+• private open source blockhchain,
+• 'Distributed File Subsystem', 'Crypto Keys Management Subsystem',
+• social network with messaging/audio/video conference calls between web/mobile network users, used media server+webRTC protocol,
+• Production release national Sweden geo lottery project
+• Supporting legacy j2ee system for Danish insurance company
+• other...
+• Knowledge on Object Oriented Analysis and Design(OOA, OOD), UML
+• Good knowledge on ‘Agile Technologies’, SCRUM, eXtreme Programming
+• Code Pefromance profiling (JProfiler, YourKitProfiler, MC)
+• Quarkus, Spring framework family (Core, Security, MVC, WebFlow, Rest, Batch, Data, Mongo, Social),
+• JPA, Hibernate (1-6 versions),
+• Gradle, Maven, Ant, JUnit/5, Mockito, Testcontainers
+• J2EE, JDBC, EJB, JMS, JSP/Servlet api
+• JMS, RabbitMQ
+• Profilers: JProfiler,YourKitProfiler, MC
+• CI/CD env: GitHub actions, GitLab, TeamCity, Jenkins
+• Struts, Stripes, MVC web frameworks
+• XML, XSLT,
+• Spring.NET, NHibernate, JQuery/JQuery-UI
+• Git, SVN, CVS
+• GitHub actions, GitLab CI/CD, TeamCity, Jenkins
+• noSQL: MondoDB, Cassandra, RocksDb
+• SQL: DB2, MS SQL, Postgresql, MySql, sqlite, Borland Interbase, FireBird
+• IBM WebSphere 4.0/7.0/8.0, IBM MQSeries, BEA Weblogic 5-6, Jboss 2.x-3.x, Borland AS, Glassfish, SOLR/Lucene server, TomCat, Jetty, Resin web containers
+Meet a good team to continue doing interesting and funny back-ends using Rust"
+rust,"Software engineer with over 8 years of experience developing scalable and reliable backend systems using Rust, Node.js, and cloud-native technologies. Extensive engineering background combined with hands-on leadership in guiding teams, shaping architecture, and delivering impactful solutions across e-mobility, healthcare, and e-commerce.
+I am diligent and open-minded, passionate about creating innovative and intricate products. I am committed to continuous learning, and consistently refining my skills. I embrace challenges calmly and composedly, never settling for mediocrity, and always focusing on making well-informed, high-quality decisions.
+Core System Redesign: Rewrote a core system in Rust, significantly improving performance and reducing operational costs by 3 times.
+Effective Technical Leadership: Provided technical leadership and mentorship, enhancing team skills and driving project efficiency.
+Scalable Systems Architecture: Architected backend services handling 1M+ requests daily, supporting global growth and operational efficiency.
+Part-time/Freelance job in the second half of the day (CET).
+I relocated to the Netherlands in 2021, looking for an interesting partnership."
+rust,"I'm a Rust / Python Software Engineer with more than 7 years of experience. I worked in different domains such as gambling, crypto trading, health, advertising, production auto-testing. I have experience in product development both from scratch and will support the development of existing functionality.
+Key points:
+• 7 years of experience of Software Engineering;
+• had experience working as an IT department manager;
+• worked with 5 Products in different areas;
+• successfully released 3 products (from zero to production);
+ETL for Crypto Exchanges: Developed ETL processes to gather data from 7 crypto exchanges, significantly expanding data coverage.
+Migrated HFT services from Python to Rust.
+CI/CD: Configured CI/CD pipelines, optimizing product delivery.
+Transition to Microservices: Rewrote a monolithic system into asynchronous microservices to enhance scalability.
+High-Load Backend: Successfully implemented a backend handling up to 700 requests per second.
+Automated Monitoring: Created an automated monitoring system for ad click tracking with external service integration.
+I will can work with large volumes of data, analyze them, and uncover valuable insights. I'm particularly drawn to working with time series data, as I see immense potential in applying it to forecasting and optimization. With my experience in crypto trading, I would love to join a company or startup actively involved in this space. Receiving my salary in cryptocurrency would be a welcome bonus, allowing me to immerse myself even deeper in this dynamic ecosystem and contribute meaningfully to its growth."
+rust,"Experienced Rust and Golang Backend Developer | Scalable & High-Performance Solutions
+As a backend developer specializing in distributed systems, I bring expertise in designing scalable, high-performance architectures for IT product companies and outsourcing firms. With a passion for optimizing systems and leveraging cutting-edge technologies, I deliver robust solutions tailored to meet complex challenges.
+Core Skills & Expertise:
+Backend Development: Proficient in Rust and Golang for building scalable, distributed systems and high-performance applications.
+Data Engineering: Implemented Elasticsearch from scratch, optimizing full-text search, filters, and aggregations for superior performance. Developed reputable, robust pipelines ensuring fault tolerance and data consistency.
+Database Optimization: Deep expertise in PostgreSQL, MongoDB, Redis, and ScyllaDB, delivering fast, reliable data solutions.
+Cloud & Containerization: Advanced skills in Docker, Kubernetes, and cloud-native architectures, streamlining workflows and deployments.
+Observability: Practical experience with the ELK stack for log aggregation, monitoring, and diagnostics.
+Microservices & Messaging: Skilled in microservice architecture, gRPC, RabbitMQ, NATS, and real-time messaging systems.
+CI/CD Pipelines: Proficient in GitLab CI/CD, Travis CI, and Jenkins to automate build, test, and deployment workflows.
+Key Achievements:
+Boosted API response times by 25% through query optimizations.
+Reduced system crashes by 40% with advanced debugging and memory management.
+Improved SQL query efficiency, cutting execution times by 40%.
+Architected and implemented scalable microservices to support enterprise-level operations.
+Designed and implemented Elasticsearch pipelines, improving search accuracy and performance.
+What I Bring to the Table:
+Problem-Solving Focus: Strong track record of solving complex technical problems, from scaling backend systems to enhancing reliability.
+Systems Architecture Expertise: Passionate about clean, maintainable code and scalable system design.
+Cross-Team Collaboration: Adept at aligning technical efforts with business goals, ensuring deliverables meet stakeholder needs.
+Continuous Learning: Actively exploring game engine development and interactive systems to expand my technical horizons.
+Certifications:
+Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Rust, Golang.
+Designed and implemented backend features for a medical enterprise system, focusing on reliability and maintainability.
+Built core systems including pagination, ElasticSearch pipelines, filtering, ordering, and query helpers to streamline data retrieval and processing.
+Reduced crash rates by 40% through efficient debugging and proactive system improvements.
+Optimized database queries and service interactions, improving API response times by 25% and enhancing end-user experience.
+Collaborated with cross-functional teams to deliver scalable and modular solutions aligned with client requirements.
+Developed modular backend services using Golang, ensuring scalability and adaptability for future system expansions.
+Increased test coverage from 75% to 95%, ensuring a robust and maintainable platform for financial transactions.
+Resolved critical system discrepancies, improving transaction accuracy and minimizing errors by 30%.
+Open to remote opportunities worldwide to contribute to innovative and impactful projects."
+rust,"Education
+Graduated from KTKC ChNTU College and Chernihiv National University of Technology (ChNTU).
+Technology Stack
+I have experience working with the following technologies:
+Back-end: Node.js, Express.js, NestJS, PHP, Symfony, Rust, Go (currently learning)
+Front-end / Mobile: Angular, Flutter
+Databases: PostgreSQL, MySQL, Redis
+Other: RabbitMQ (basic experience)
+I have mainly worked with server-side applications — maintenance, development, and architecture design. In the future, I aim to grow as a back-end developer with a focus on Node.js, Rust, and Go.
+English Language
+Somewhere between A2–B1. Currently studying with tutors.
+Work Experience
+Early Years (1–2 years)
+Maintained a CMS built on Kohana.
+Developed a custom CMS for a company based on Symfony.
+Created websites and online stores using the custom CMS.
+Gained experience with WordPress and OpenCart.
+Following Years (2–6 years)
+Developed and maintained an educational website using Symfony.
+Built a server-side application with Node.js (Express.js) for student bio-authentication and data management.
+Created a Node.js (Express.js) application for collecting and displaying real-time data in a local network.
+Worked on a cloud-based Node.js (NestJS) application for collecting and visualizing data in real-time.
+Developed microservices: report generation, messaging, video streaming, and more.
+Recent Period (4–6 years)
+Developed mobile applications using Flutter with real-time system integration.
+Software Development for Emergency Service Vehicles using Node.js.
+Migrated a server-side application from Node.js to Rust."
+rust,"I'm currently a SWE building low level systems with Rust. I've built a Postgres proxy, implementing the Postgres Wire Protocol, as well as network application all built in Rust. In my current role, I'm building an extendable filesystem among other things."
+rust,"I have no commercial experience yet, but worked with axum, actix, sqlx, diesel, teloxide. Understand RESTful API principle. Keen on learning new things, eager to develop in fullstack development and development of high-performant systems.
+I've completed Ukrainian Rust Bootcamp and taken certification. Now I have General Rust programming and Backend Rust programming certifications.                                                                 Developed Telegram bot using teloxide library and Postgres DB."
+rust,"I've worked on a variety of projects as a full stack Rust developer, freelance Coda docs builder, and web content writer. The following is a summary of my work:
+Projects & Tasks Completed:
+- I developed multi-bot high-frequency trading engines using Rust, leveraging Solana's OpenBook V1 and V2 programs for efficient crypto trading.
+- After winning the Coda Hackathon, I created and implemented automated systems for clients, collaborating with companies like Imaginary Space and TriviaLAB using tools such as Zapier and Make.
+- I built and optimized web-based APIs with FastAPI, Django, and ReactJS. I also set up continuous integration and deployment systems with Github and Docker, improving development speed.
+- I authored technical books and articles on Rust topics such as Rust Polars and data analysis, simplifying topics like machine learning for a wider audience.
+Technologies I've Used:
+Frontend: Rust, EGUI RS, Leptos, Yew, ReactJS, Wasm Web Socks, Solana Wasm Client
+Backend: Rust, FastAPI, Django, Axum, OpenBook DEX, Python, Nginx, MySQL
+Automation: Zapier, Make, Coda, Gmail Automation
+DevOps & Infra: Docker, Docker-Compose, Railway, Redis, Celery, Github Hooks, CI/CD
+Networking & Protocols: HTTP, DNS, TCP/IP, Zenoh, NDN, CoAP, DDS, MQTT, IoT/IoE
+My Role in the Team:
+In my current roles as a full stack Rust developer and freelance Coda docs builder, I handle both frontend and backend development, creating scalable solutions and enhancing workflows for global clients. I also contribute to open-source projects and collaborate with clients to meet their goals.
+What I Want to Improve:
+I aim to further develop my skills in blockchain and smart contract development, particularly in decentralized apps and layer-2 solutions. I also want to enhance scalability in Rust projects and explore more advanced automation systems, potentially integrating AI-based solutions for real-time data processing.
+I'm proud of my diverse skill set and always looking for new opportunities to improve and innovate in both freelance and full-time roles.
+I've successfully developed high-performance multi-bot trading engines using Rust for crypto trading on the Solana blockchain, leveraging OpenBook V1 and V2. After winning the Coda Hackathon, I collaborated with over 10 global clients, implementing automated systems with tools like Zapier and Make, which streamlined workflows and improved productivity. Additionally, I created secure web-based APIs using FastAPI and Django, and optimized deployment processes by implementing CI/CD pipelines with Github and Docker. My technical writing has simplified complex topics such as Rust data analysis and machine learning for a broader audience.
+I'm looking for opportunities that allow me to continuously innovate, particularly in blockchain and decentralized technologies, with a focus on Rust. I value creative, challenging work where I can contribute both frontend and backend expertise, especially on scalable and high-performance systems. A collaborative environment that fosters growth and encourages knowledge-sharing is important to me.
+However, I prefer to avoid rigid, overly bureaucratic environments where innovation is stifled. I also want to avoid roles that focus purely on maintenance work without opportunities for learning or development."
+rust,"- 10+ experience with C++/Qt.
+- 2 years with Rust.
+- 2+ years of C++ team lead role.
+- 7+ years of experience with embedded applications (STM32/STM8/AVR/ESP/nRF, linux-based, yocto, etc.).
+- Good experience with development electronic schematics, PCB.
+- Experience with network protocols (development, debug).
+- Professional in Linux.
+- Experience and big interesting with UAV, drones, aviation, etc.
+- Experience in 3d-modeling (fusion 360 preferred), milling.
+- Experience with blockchain.
+- Several interesting pet-projects.
+Would like to try Golang.
+I want to take part in an exciting project as a Rust or C++ developer.
+Preferred domains: UAV (drones, etc), modern vehicles, and other hardware projects"
+rust,"Current Role: Senior Software Engineer at NZXT
+Project: NZXT CAM (Rust)
+Implemented core features for PC Monitoring and integration with upcoming hardware products.
+Developed a Rust library for seamless communication between frontend and hardware using HID and WinUSB protocols for such devices like Mouse, Keyboard, Micro, Capture Card, Kraken coolers.
+Utilized Windows APIs to handle low-level operations, enabling reliable backend functionality.
+Built scalable APIs consumed by a TypeScript/React frontend, ensuring smooth UI integration.
+Improved data processing efficiency, reducing latency and improving real-time monitoring capabilities.
+Enhanced NZXTCorp/enunion to optimize Rust-to-TypeScript enum translations.
+Wrote TypeScript test scripts for each device, ensuring accurate validation and smooth functionality.
+Refine CI/CD pipelines, streamlining build and release processes.
+Worked closely with firmware and frontend teams to deliver synchronized, high-quality product features.
+Past Projects & Roles:
+Senior Software Engineer at TAIT
+Designed and optimized backend systems for stage controllers (Rust).
+Migrated legacy systems to modern C++ standards.
+Developed features for dynamic lighting and complex automation.
+Development Team Leader at SToFU Systems
+Led a team of 6 for MacOS antivirus and identity protection solutions (Rust/C++).
+Improved cross-platform system libraries.
+Mentored team members and conducted technical interviews.
+Senior Software Engineer at SToFU Systems
+Developed client-server and P2P file-sharing solutions (C++) with real-time protection drivers and multithreading apps.
+Created adaptive systems for threat detection and notifications, improving user security.
+Refactored codebases and built reusable libraries to enhance efficiency and maintainability.
+Software Engineer at SToFU Systems
+Built client-server and P2P apps with security focus.
+Created Win32 drivers and hooks engines.
+Enhanced exploit protection with real-time features.
+Technologies Used:
+Languages: Rust, TypeScript, C/C++, Python, Swift, Bash, Assembler.
+Frameworks/Libraries: Tokio, Actix-web, NAPI, OpenSSL, Diesel, Qt, SwiftUI, Vapor.
+Tools/Platforms: Docker, WinAPI, MacOS API, CI/CD pipelines, PostgresSQL.
+Areas for Improvement:
+Enhancing Leadership: Building larger-scale team management capabilities.
+Deepening Systems Knowledge: Expanding expertise in low-level optimizations, hardware communication via USB."
+rust,"Worked for 4 months as a Blockchain developer at 727 ventures, and developed smart contracts and features for Openbrush. I would like to develop further in any field, even if it is not Blockchain development. Also worked as Fullstack developer on Flutter and Dart, writing both backend and frontend at Horda inc. and Improvs. Recently, worked as an HR manager in
+a Ukrainian company, ensuring a high level of selection of potential
+candidates and their further familiarization with the company.
+I have participated in many Ukrainian Olympiads in Informatics and reached expert with rating 1639 on Codeforces. Therefore, I have experience in solving analytical and conceptual problems using data structures and mathematical and programming algorithms.
+I want a plan to introduce me to the company, its priorities and my tasks as soon as possible. I would also like to have a conditional mentor who could be contacted for unclear details of my tasks"
+rust,"Prefer *nix-specific projects(macos is also fine). Love system development. Good at cross platform projects. Prefer to work on product.
+Area of development: cross platform development, embedded/backend/desktop linux, system development for OS X(kext development, system extensions), GUI(Qt widgets), network applications, full cycle of application development(from technical specification to deployment)
+Languages: C, С++(including modern standarts), Rust, basic Objective-C, bash, basic python, dockerfiles(adept of docker environments)
+Fan of CI/CD - CircleCI, Github Actions
+Libs: boost(asio, thread, filesystem, ...), qt4/qt5, libcurl, libprotobuf, log4cplus, jsoncpp, rpclib, libsqlite3, freeimage,  a lot of them...
+Performed smooth/iterative transition from C/C++ codebase to mostly Rust codebase with regular public releases. As result much more stable application/service was obtained.
+Implemented RDP File System Virtual Channel Extension support in a custom RDP server, integrated it with virtual filesystem functionality on macOS.
+Developed a comprehensive Bluetooth subsystem for the STB MAG424, from kernel module to userspace bindings; provided support for HID and A2DP using bluez5 and alsa/pulse-audio.
+Established an efficient developer's environment by dockerizing it for multiple platforms/boards. Set up a private Docker registry, it significantly reduced deployment and update times for developers.
+Engineered a self-contained interactive ebook compiler. This custom tool compiles HTML, JavaScript, CSS, and other resources into a single executable file. It guides users along a specified path defined by the editor and provides a level of data protection against activities like screenshots. Windows only.
+Developed the initial version of a desktop cross-platform VPN client based on OpenVPN, showcased at www.vpnunlimited.com
+B2B contract only!
+Product is desirable - it is where I can maximize benefit for all.
+It is important for me what impact have product to work on.
+I have a quite big experience of interacting with international teams from all over the world and had/have regular english communication, so I wish to continue this practice.
+And it is important for me to keep work/life balance:)."
+rust,"Currently, my experience is limited to my own projects, participation in trainings, and small contributions to open-source projects.
+However, I continue to actively learn and acquire new knowledge and skills, applying them in practice.
+So far, my biggest achievement is the development of my own project: Embroiderly, a free, open-source, cross-platform desktop application for designing cross-stitch patterns that already has a large community of active users.
+In general, the field of embroidery software is not very evolved and is mostly obsolete (both technically and practically). There are also not enough open resources in this area that could help develop new solutions.
+So I am focusing a lot on developing open specifications for cross-stitch pattern file formats and parsers so that anyone can also use my work and develop better solutions."
+rust,"I'm a Software Engineer with over five years of experience. Since 2019, I have been working on a cloud-based service for remote monitoring and control of MODBUS protocol-based industrial equipment. The platform establishes connections with customer devices, reads and collects their data, provides dashboards and graphs for visualization, generates downloadable PDF reports, processes alerts configured by customers, sends SMS/email notifications, and offers many other features.
+My work involves backend development with Rust and TypeScript, frontend development with React, and infrastructure management using Docker and GitHub Actions.
+Key achievements on my current position:
+- Implemented a new billing system: Each organization now has a balance from which funds are withdrawn daily based on service usage. Balance top-up is available via PayPal and Sense Bank acquiring.
+- Quickly implemented integration with another SMS-sending gateway to prevent service interruption and customer loss when, at the beginning of the war, the previous provider stopped operating in Ukraine, causing customers to stop receiving notifications.
+- Implemented a large number of features of different complexity (500+ pull requests on GitHub).
+I am equally interested in working on a project being developed from scratch as well as on something that is in a support state. However, among my responsibilities I would like to see more often the implementation of server functionality."
+rust,"Pinta Software | Web and Desktop Software Developer (Rust, Python, JavaScript)
+2024 – Present
+Key Responsibilities:
+- Develop and maintain web and desktop applications using Rust (Tauri), focusing on cross-platform functionality and robust user experience.
+- Implement JavaScript and React(also WebAssembly ) in client-facing applications to enhance interactivity and user engagement.
+- Collaborate with team members to design and execute software solutions, ensuring high-quality standards and efficient performance.
+- Handle full-stack development tasks, from backend logic to frontend design, optimizing for scalability and reliability.
+- Participate in agile development cycles, providing technical expertise and feedback to drive project progress.
+Achievements:
+- Successfully delivered multiple cross-platform applications, meeting both client requirements and industry standards.
+- Played a key role in developing and deploying solutions that enhanced user experience and operational efficiency.
+Bright Kids Ukrainian | Python, Roblox teacher
+2022 – 2024
+Key responsibilities:
+- Teach children and adults Python programing language
+Python course details:
+- Basic: Fundamentals, Syntax, Practical Examples.
+- Intermediate: Tkinter, Pygame, OOP.
+- Advanced: Flask, Docker, Web Development.
+Successfully instructed and mentored over 40 students with diverse skill sets, across various
+groups
+Teach children how to create own Roblox game (Lua)
+Instruct children in Lua programming language, focusing on Roblox game development.
+Teach essential concepts and syntax specific to Roblox Lua scripting.
+Facilitate hands-on projects and assignments to encourage creativity and practical
+application of learned skills.
+Code Club Lviv | HTML/CSS teacher (volunteer)
+2022
+Key responsibilities:
+- Conduct lessons with children groups
+- Created Time tracking app
+- Created SEO parser
+- Integrated WebAssembly to projects
+- Improved servers by Rust and Rust based DBs
+- Help a lot off people to go in IT community
+- Created some working Rust servers
+- Created web shop that is in use
+Great team work with cool projects connected with backend development. Good mentor support for skill up and chance to grow up in the company. I look forward to long-term cooperation"
+rust,"I have worked on various projects, primarily working on the backend of web projects. Technologies that I have primarily used consist of
+Python with FastAPI or Django for backend, along with Pydantic and SQLAlchemy (or used raw sql queries), but also have used Pandas, Numpy and Scipy.
+Rust with actix-web or axum for backend, along with diesel-orm/sqlx/tokio-postgres. I have created a project which supported websocket connections for realtime data exchange between clients and the server.
+I have some limited experience with building frontend using Typescript, and using Angular as a framework.
+And I have general experience using common developer tools and technologies - Git, SQL, Linux, Docker, Redis."
+rust,"Majored dev languages:
+JavaScript TypeScript Python Rust Ruby Go C++/C# Dart
+9 years as a software engineer
+2 years as a lead developer in full-stack dev
+5 years as a senior developer
+Delivered 30+ projects successfully
+Specialized in
+Developing/Integrating/Maintenance/Deploying/CI/CD/Refining:
+Full-stack web services
+Desktop/Mobile apps
+AI solutions
+eCommerce
+2-3D games
+I've already achieved Master's degree in Software Engineering from Chernivtsi National University.
+I'm a Senior Software Engineer with 9 years of experience.
+I completed 30+ projects successfully including:
+Full-stack web services
+Mobile/Desktop Apps
+eCommerce
+AI Solutions
+2-3D games
+I'm well versed at Agile/Scrum methodologies and good at Asana/Jira and Git platforms for software development life-cycle.
+I led 6+ projects as a lead developer that's why I'm familiar with logical/DB design, technical mentoring, and so on.
+I hope to work as a software developer/engineer."
+rust,"I had experience on several projects as a Python Backend developer.
+First project - VPN company. We were moving their backend from Perl to Python. (It begun with reimplementing their PKI infrastructure, but they switched the task to backend migration).
+I've got a chance to learn a bit about PKI and Certificates, DNS, Detection services. Partially rewrote some Perl package, that i could not find as part of Python ecosystem.
+- ~7 months
+- The second one was a company that worked with ads, which needed a software to recalculate bids by special algorithm  and update values on remote services through API, such as Ironsource. There was one another service(which i dont remember) which had slightly different API.
+I made a CLI app for this purpose.
+~ 2months
+- the last was analytical service , we build backend from scratch. But there was already some work done in Go (Kafka event sourcing). I, personally worked on Python backend. Unfortunately we haven't launched till i worked there.
+Here i've got some experience with Clickhouse(though not the best one), Kubernetes, Docker, Documenting API, GitLab CI."
+rust,"I’m a backend engineer with over 5 years of hands-on experience, specializing in backend, blockchain, and AI tech. My skill set spans a wide range of tools and frameworks, enabling me to tackle complex and non-trivial business logic challenges. While my core focus is backend development, I’m also proficient in DevOps and have enough frontend chops to integrate APIs when needed. In short, I specialize in building end-to-end server-side solutions—from architecture design to deployment.
+# Experience on projects with the main stack on Rust:
+### Dinomail
+- Overview: A marketing platform for email campaigns, leveraging analytics and AI to boost personalization and campaign efficiency.
+- Role: Lead Backend Developer. Built APIs, data pipelines, analytics, external integrations, and AI models for content analysis and generation.
+- Tech Stack: Rust, ScyllaDB, Redis, Kafka Queue, AWS S3, KrakenD (API Gateway), Travis CI, Docker, ChatGPT API.
+### Magic-Mail
+- Overview: A user-friendly service for generating and sending emails using AI.
+- Role: Lead Backend Developer. Built infrastructure for AI model integration, email generation, and processing logic.
+- **Tech Stack**: Rust, Actix-Web, ScyllaDB, Azure Blob Storage, Docker, Google API, OpenAI API, Ideogram API.
+### ICC-Validator
+- Overview: A startup focused on protecting blockchain vulnerabilities against quantum computers. The primary goal is to create a second layer of protection over the blockchain using stronger encryption keys.
+- Role: Lead Backend Developer. Developed the entire logic infrastructure, from smart contracts to server-side implementation.
+- Tech Stack: NodeJS, Rust, Solana, Ethers, Actix-Web, Docker.
+### Revolt Vortex
+- Overview: A chat messenger similar to Discord or Slack.
+- Role: Backend Developer. Improved the existing project by optimizing performance and refactoring it into a microservices architecture.
+- Tech Stack: Rust, Rocket, MongoDB, Redis, Docker.
+- Strong skill in neural networks and extensive experience in Prompt Engineering, enabling effective automation of tasks using AI, like ChatGPT.
+- Diverse experience with a wide array of technologies, APIs, and programming languages, empowering the ability to select optimal solutions and seamlessly implement micro-tasks with precision and efficiency.
+- Expertise in designing robust architectural solutions that are both scalable and maintainable, ensuring seamless future support. Specializes in crafting microservice architectures that facilitate efficient inter-service communication.
+I am looking for companies that provide opportunities for career growth to the level of an architect or technical lead, as I am more interested in technical solutions rather than organizational matters."
+rust,"Getting degree of bachelor at Software Engineering.
+Independent immersion in such languages ​​as Rust Typescript.
+- Contributor at NEAR ecosphere(namely near-workspaces-rs, near-workspaces-js etc.): solved design problems, small enhancing. Used Rust and Typescript there.
+- Wrote my own pet project while figuring out REST and webSockets. Used Java
+- Designed and realised telegram bot for cafe. Used typescript.
+Good understanding of developming flow."
+rust,"Codify (2018 - 2021)
+Projects:
+Booking: As You Stay
+Job search: Joblaco (closed)
+Codify website Codify website
+Crypto Exchange: An exchange platform with reach UI
+Used Technologies:
+Vue.js
+React
+d3
+AG Grid
+rx.js
+My Role:
+I was a frontend developer.
+Implemented UI based on the provided design
+cooperated with designer to achieve beauty on our websites
+Reviewed the code of other people.
+Participated in meetings.
+Contributed to open source
+Knowledge sharing with coworkers
+(NDA) (2021 - now)
+Blockchain protocol is currently under development.
+Projects:
+mchain node (Rust)
+PoW miner (Rust)
+Explorer (Frontend + Node.js)
+Web Wallet (Frontend + Node.js)
+Investments Dashboard (Frontend)
+Wallet Chrome Extension
+wasm smart contracts (Rust)
+Company Website (Frontend)
+JS SDK
+Technologies:
+Rust
+rocksdb
+triedb
+tokio
+jsonrpsee
+wasmer
+wasmtime
+wasmparser
+etc
+Node.js
+Nest.js
+zod
+etc
+Frontend
+React (Next.js)
+Three.js
+gsap
+Wasm
+etc
+My Role:
+I am a Rust developer + Frontend developer in our team.
+My work was:
+to implement JS SDK library for our blockchain
+to update and write new code in different parts of the node
+to update and write new code in wasm system smartcontracts
+to participate in meetings
+to plan future sprint
+to share knowledge with coworkers
+to receive knowledge from coworkers
+to investigate and provide necessary context for technical solutions
+what should be the gas price of the wasm op codes?
+transaction validation approaches in different blockchains
+to review other's code and specifications
+to write tests
+to discuss and propose some ideas
+to write code styleguide
+to contribute to open source
+to write CBOR library for JS
+implemented wasm instrumentation (modification of the passed wasm to ensure determinism and finite execution)
+implemented JS SDK for our blockchain
+created CBOR library for JS
+wrote system smart contracts
+used Taylor series and integration for improving UI performance
+Successfully participated and supported Advent of Code
+I expect:
+- effective and smart team to work on the exciting projects that will be helpful to society
+- respectful and productive communication
+- difficult tasks to solve
+- to see results of my work and how it is helpful to our customers
+I don't expect:
+- Family-like approach of company culture
+- Any kind of projects with unclear moral status(gambling, adult content, ...)"
+rust,"Rust Developer with 4 years of commercial experience building systems using Rust.
+• Developed backend for a travel application focused on safety and reliability. Specialized in crafting resourceintensive algorithms and managing large datasets from multiple external APIs.
+• Rewrote an existing CMS and other existing services from Python/React to
+Rust/HTMX, for Marketing company. That includes Mailing System, Telegram
+Bots, web data Scrapers, gRPC and Websockets, 13+ microservices,
+deployment using Docker, Kuberneetes and NGINX on VPS servers.
+• Developed backend for LMS, that includes: an HLS video player, with straming
+from server, JWT/oauth, Protected OpenAPI's, CMS for admins, and a few
+dosen crud operations for users to use aa learning platform
+• 3 Similar Ecommerce projects including an admin panel, that was written in
+Rust and HTMX, with Bootstrap for frontend I used different frameworks: Vue,
+React and HTMX.
+• ~ 20 small projects, including: Telegram / Instagram Bots, and small websites"
+rust,"Switching to Rust Developer with 15y background in QA/Automation and Java Development.
+Mostly worked with Java 6-22, Spring, Selenium, Gatling, GitHub/Gitlab, Jira+Confluence.
+Recent projects:
+- actively switching to Rust for the last few months
+- QA fullstack (manual, automation, performance) at Ultra.io
+- QA fullstack (manual, automation, testops) at Habafamilygroup
+- QA Automation/SDET (automation, testops) at Straighterline
+- QA fullstack (manual, automation, performance) at Newstore
+- Java dev (OSGi, microservices) at Please
+- Java dev (Spring, JAX-RS, microservices) at Simplifia
+- QA Automation Lead at TD Ameritrade
+- Some experience as QA, SRE, Integration Engineer at Nokia Siemens Network and Sicap Telecom"
+rust,"Senior Software Engineer / Team Lead (2022-2025)
+- Working on several decentralized trading applications (DEX & Futures trading)
+- Working with Arbitrum Stylus, Near, MultiversX, and Concordium blockchains
+Middle Software Engineer (2020-2021)
+- Working on a blockchain layer-2 technology.
+- Developing a virtual machine for smart contract execution (Rust).
+- Developing smart contracts for Ethereum (Solidity).
+- Working with international team.
+Middle Software Engineer (2019)
+- Working on a financial/trading modelling and simulation software.
+Junior C++ Developer (2018 - 2019)
+- Working on a cross-platform desktop client (Qt) and server (C++) application.
+- Working on a web client (ReactJS).
+Looking for a position as a Rust engineer."
+rust,"Summary:
+10+ years of professional expertise in the Information Technologies (IT) industry;
+Rich experience in software architecture, knowledge of a wide range of programming languages, technologies, and platforms (C, C++, Rust, JavaScript, PHP);
+Experienced in development of web and network-related applications;
+Development & expertise highlights:
+Web development;
+Object-Oriented design;
+Recently Completed Projects:
+Solana Indexer
+Description:
+Indexer is a set of utilities and services which allows to gather, transform, storage and analyze the information stored on Solana Blockchain.
+Languages:	Rust, SQL
+Position:	Middle Rust developer
+Role:  Project architecture developing, coding, debugging and support.
+Solana smart-contracts (Metaplex)
+Customer:	people around the world
+Description:
+Metaplex is a protocol built on top of Solana that allows:
+Creating/Minting Non-Fungible Tokens;
+Starting A variety of auctions for primary/secondary sales;
+and Visualizing NFTs in a standard way across wallets and applications.
+Languages:	Rust
+Position:	Middle DAPP developer
+Role:		Solana contracts developing, debugging and support. Off-chain tools developing
+Pulse Oximeter (pet-project)
+Customer:	me and my family
+Description: 	Pulse-Oximeter is the device for monitoring a person's pulse rate and oxygen saturation. The core of the device is STM32F030 MCU
+Languages:	Rust, RTIC
+Position:	Projec
+Analog Trunk Multiplexer “Cascade - 120”
+Customer:	Luhansk Telephone Company
+Description:	The goal of the project: development and organization of production, installation and maintenance of a series of the Analog Trunk Multiplexers ""Cascade-120"". The multiplexer ""Cascade-120"" is designed to connect coordinate PBX to the public telephone network by E1 digital streams.
+Languages:	C
+Position:	Software Developer
+Role:		I was performing / responsible for following task:
+development of CDR system
+- Designed an architecture and implemented a system for collecting and indexing on-chain information stored in the Solana blockchain.
+- Developed a component for analyzing staking operations on Solana, which includes both retrospective analysis and real-time analysis on the fly.
+The propositions of the projects with Rust as a primary programming language are preferred."
+rust,"CMS project 1: HTML, CSS, JS, React.js, Jest, SCSS, Storybook
+Creating components, unit tests (jest). Created own library for themes.
+CMS project 2: React.js, TypeScript, GraphQL, Apollo, Tailwind (JS-in-CSS), styled-components
+UI Developing with different modern libraries, writing queries and mutations with Apollo GraphQL, TS, writing code with formulas for generating SVG diagrams.
+HMI Project 3: React.js, Docker, WS
+Authorization, rendering big tables with virtual scroll, communication with a client in English, mentoring.
+Projects 4, 5: Rust, postgreSQL.
+Project 6: Tauri (Rust + TS)
+Rendering maps in OS app.
+Role: front-end developer / back-end developer / fullstack developer.
+reduced bundle size and improved performance"
+rust,"Commercial experience:
+- Rust/C++ developer at Top Enlightenment (01/06/2023-15/09/2023):
+1) copyrights for digital media (C++/OP-TEE/openSSL).
+2) backend (Rust/Yew/axum/Diesel/REST/).
+- Software Engineer at LYNX Capital (20/09/2023-01/04/2024):
+1) maintenance of the time-series language for quick real-time data manipulation (Rust)
+2) order management tool for brokers (Rust/backend/KDB)
+3) some parts of logging tool for stock market events (Allocation-free Java)
+- Blockchain Engineer at K.R.O.K (01/04/2024 - now)
+1) Rust: tokio + actix for backend
+2) Solana: Anchor for contracts, solana-sdk (Rust) RPC for backend
+3) Flow: Cadence for contracts, flow-sdk (Rust) HTTP/RPC for backend
+4) Ethereum: alloy (Rust) for backend.
+Open-source contributions:
+Maintainer of textplots crate (24/08/2023-now): I was involved in the maintenance and development of textplots crate - a Terminal plotting library for CLI applications. The work process includes adding new features, fixing bugs, and writing documentation. (Rust/no-std)
+- have an experience of working at a startup
+- won a first place at national startup tournament (Ecosoft)
+- worked both alone and in the team of professionals
+- have solid soft skills and high standards to my code
+- competitive salary
+- career growth opportunity
+- understanding and friendly atmosphere"
+rust,"In my current role as a Blockchain Integrator at Continuum DAO, I design Solana and Soroban (Stellar) smart contracts and integrate cross-chain protocols, enhancing blockchain interoperability using Rust, Solidity, and TypeScript. I’ve also contributed to the Helius Solana Rust SDK, building tools for the Solana ecosystem. Previously, I developed a WhatsApp bot with Node.js at Withmoja.io
+Product. Team. Growth"
+rust,"The most impactful projects:
+- previously PHD student in Estonia
+- 3D space, finance, construction web and mobile applications
+- lot of experience in purescript, haskell, nix
+- self-taught category theory, deep learning"
+rust,"CHM Software Ltd:
+Software Developer:
+Full-time June 2023 - May 2024 · 1 year.
+implementation of new functions, working with the terminal, fixing errors (client and server), developing integrations with other applications.
+used technology: C++, QT/QML, API, gRPC, OOP, STL, Linux, Cmake, SQL, WebSocket, Networking
+SoftReqwest:
+Software Developer:
+Full-time March 2021 - August 2022 · 1 year 6
+implementation of the core poker logic, writing unit tests, fixing bugs, working with databases, customer support
+used technology: C++, QT/QML, API, Protobuff, OOP, STL, Linux, Cmake, SQL, WebSocket, Networking, GTests
+participation in a startup, gambling (poker)
+Boolat Games
+Software Developer C++:
+Full-time August 2022- April. 2023 · 9 months
+implementation of mobile game logic
+used technology: C++, Windows, OOP, STL, Cocos2d, Git
+Full-time June 2024 - August 2024 · 5 months
+implementation of the core poker logic, writing unit tests, fixing bugs
+used technology: Rust, OOP, Linux, WebSocket, Networking, Tests
+standard 5/2 schedule, preferably without crunches) timely payment of salaries"
+rust,"Had experience in:
+Qt framework
+OpenGL(+glfw, +glsl)
+WinApi(sockets, windows services)
+C++14/17/20
+CMake
+gcc/clang
+Also worked with Entity framework, C# with MySql server DB. Had experience with MongoDB, Postgress
+Have been envolved in debuging, developing and testing software, that uses Qt, Vtk, OpenCascade, CMake.
+Had experience in developing viewer for stl files using openGL.
+Worked on developing server part of client/server app, using WinApi Sockets and Windows Services.
+Have experience working with Microsoft APIs, data processing, optimisation, debuging and writing API integration.
+Aquainted with MQTT/HTTP protocols in IoT devices work.
+It is interesting for me to work with C++ Software releated to Finance, Blockchain, miltech, data processing etc. Also it will be great to improve existent skills, but I'm open to opportunities like miltech projects to learn new technologies.
+Apart from the above, interested in learning Rust language.
+Some time ago completed a BA course, so I know a bit about gathering and managing requirements for the software.
+Розглядаю Part-Time позиції в miltech проектах. Не маю багато досвіду в роботі з електронікою але дуже хотів би розвинутися в цьому напрямку.
+Маю досвід збірки fpv дронів та польотів, тож з роботою компонетів, та їх налаштувань знайомий."
+rust,"•	Java, Spring, REST
+•	Cloud: AWS (Lambda, DynamoDB, S3, SES, EC2, API GW, etc.), Terraform
+•	Microservices
+•	Kafka (messaging, Streams API, Connect API)
+•	Databases: MySQL, PostgreSQL, DynamoDB, MongoDB, Redis
+English level - Advanced (C1).
+Team lead experience.
+Experience of driving meetings and demos with customers.
+Successfully delivered many features for several modern companies practicing micro-services and cloud tech.
+Шукаю можливість попрацювати з Rust."
+rust,"More than 2 years of non-commercial experience in software engineering. Numerous pet-project and keen interest in Rust and all related. Also volunteering as mentor at Ukrainian Rust Bootcamp, furthering student's knowledge in Rust.
+Led a group of 10 students to graduation in the strict Ukrainian Rust Bootcamp program. Additionally, several successful contributions to open-source projects, which were merged and are now in an excessive use."
+rust,"SoftServe Academy
+Project Description: Developing a cross-platform SMTP-server in both C++ and Rust according to RFC 821. All
+the client-server communication is TCP-based and secured with SSL; AAA is also overseen.
+The server uses PostgreSQL database for storing mails and users and provides a scalable
+framework for managing and scaling the set of server’s database commands and queries.
+A well-performant, multy-threaded logger is integrated to server and is utilized to store its
+logs in JSON format locally. The project follows C++/Rust best practices, incorporates GoF
+Design Patterns and adheres to SOLID, DRY and KISS principles.
+Customer: SoftServe
+Involvement Duration: 3 months
+Project Role: Rust/C++ developer
+Responsibilities:  Establishing database connection
+Developing a scalable interface for database usage
+Creating some SQL queries
+Choosing a consistent style for CMake files and library structures
+Exploring and selecting tools to integrate Rust code with C++ code through the FFI
+Developing SMTP server in Rust
+Code review and bug fixing
+Documentation and testing
+Project Team Size: 8 team members
+Tools & Technologies: Rust, C++, Docker, SMTP, Diesel, Serde, Tokio, FLTK, Boost, CMake, PostgreSQL, Bash, Jira,
+Confluence.
+Bonefire
+Project Description: 2D isometric game of genre: shooter, indi-game, casual game; for PC (steam) platform.
+Customer: Genesis
+Involvement Duration: 4 months
+Project Role: Unity Developer
+Responsibilities: • Designing a flexible game architecture
+• Developing an upgrade system
+• Code review and bug fixing
+• Testing
+Project Team Size: 6 team members
+Tools & Technologies: Unity, C#, Trello, Git, GitHub
+• “Rust Programming Language” course held at Kyiv-Mohyla Academy by Kostyantyn
+Mysnyk (github) – Leader of Ukrainian Rust Community.
+• “Unity-based Gamedev” course by Genesis (certificate)."
+rust,"Worked in the Student Council of my faculty (FICE KPI) as a Python Telegram bot developer. Took part in Rust Bootcamp courses from Ukrainian Rust community as a mentor. After that I took a part-time job as Web technologies tutor. Worked for a year in Out of the Box Systems as a Rust developer, mainly coding 3D graphics.
+Achieved x2 increase in web 3D strategy game loading times via parallelization utilizing web-workers and WASM.
+I want my job to be engaging and have prospects for growing my skills and competencies."
+rust,"2020-2022 Embedded C/C++ dev at Global Logic
+Was working with OpenWrt and have a decent understanding of networking.
+2023 - now, C++/Rust dev of high performance HTTP server focused on advertisement.
+Lot's of uncommertial experience with Python and JS
+Have written (fully in rust) and integrated into CI a testing solution for one of the components. In a process of porting such component from perl to rust."
+rust,"Profile:
+Highly skilled software developer and architect with over 20 years of experience in developing, optimizing, and reengineering workflow processes and automation. Proven success in integrating disparate computer systems into unified information spaces. Seeking to leverage my expertise in software architecture and development to take on new challenges and contribute to the growth of innovative organizations.
+Skills:
+Technical: PHP (Back-end, API), Rust (Safe and fast WEB), PostgreSQL, MSSQL, Linux, FreeBSD, UML, Aris.
+Management Tools: Redmine, Jira.
+Soft Skills: Leadership, problem-solving, conflict resolution, communication, coaching, mentoring, organization, prioritization, time management, and creative thinking.
+Languages:
+English: Intermediate
+I am deeply committed to improving my language skills and have made it a priority to reach a higher level of fluency by the end of next year.
+Professional Experience:
+Chief Technical Officer, Privatinvest LLC (itbox.ua), Kyiv - (January 2023 - Present)
+Head of the Software Development Department / Software Architect / Team Leader, Komel LLC, BRAIN Computers™, Kyiv - (December 2011 - December 2022)
+Head of the Business Process Automation Department / Deputy Head of the Information Technology Department, State Joint Stock Holding Company ARTEM, Kyiv - (2001 - 2011)
+Key Achievements:
+Developed and optimized business processes in product manufacturing, resulting in increased efficiency and cost savings.
+Led the design and implementation of a corporate network based on FreeBSD and Linux.
+Oversaw the development of a comprehensive software solution for the full sales cycle of goods and services, leading to significant improvements in business operations.
+Initiated and currently leading a private start-up with the goal of mastering the Rust language and creating a high-speed, secure web application system.
+Education:
+Master's Degree in Computer Science (Honors in Information Management Systems and Technologies), National Aviation University, Kyiv - 2002
+Interests:
+Research & Development, Software architecture, Rust for WEB.
+Successfully managed a cross-functional team of developers and analysts, leading to the effective development and deployment of various software solutions.
+Designed a system to streamline operations between over 200 suppliers and 3000 dealers, improving sales and logistics efficiency.
+Developed an online pricing system capable of assessing the availability of over 200K products based on the sales branch and delivery timeline.
+Created and integrated a product content system (descriptions, features, photos, videos), enhancing product visibility and understanding.
+Implemented a system to automate content generation for products from over 5K+ sources, reducing manual intervention and improving accuracy.
+Designed a system to automate procurement and delivery of goods and services, increasing operational efficiency.
+Automated various business processes, enabling the company to manage a 20-fold increase in product range over a decade without increasing staff count.
+In my new role, I anticipate working on diverse, intricate, and fascinating projects. I look forward to employing and advancing the most recent technical solutions. My goal is to acquire new knowledge and contribute my expertise.
+I am excited about the prospect of collaborating with talented individuals who share my passion. I aim to be a driving force within the team, leading it toward continuous improvement and mitigating technical risks.
+Furthermore, I aspire to make a positive impact on my team, partners, and clients through my work."
+rust,"Qualified engineer with extensive experience in solving user problems. My goal is to be valuable player wherever I go.
+Priority areas of interest: Fintech, Healthcare, AI, Web3(crypto), green sector.
+I'm passionaited about web3 space, during my recent contract I've built an MVP of the marketplace on Bitcoin L1.
+The best way to win everyone over is to say nothing at all. It takes courage to share how you think and what you stand for."
+rust,"I’m a Ukrainian Full-Stack Software Engineer with 6 years of commercial experience in development of high-performance web applications.
+I specialize in Vue, Svelte and Rust and have fully managed products,
+from idea generation and development to launch and support, for medium-sized businesses and government.
+In my work, I prioritize preventing problems before they begin instead of trying to fix them when they occur. Good collaboration is a must to limit the number of unknowns and mismatches in my understanding of the task.
+JavaScript / Front-End: SvelteKit, Vue, Nuxt.js, Vuex, Pinia, React, Next.js, Redux, Redux Toolkit
+Databases / Back-End: Rust, GraphQL, AWS, Firebase, Nest.js, MongoDB, PostgreSQL, Redis, Axum
+Miscellaneous: Linux, TypeScript, Git, WebSockets, Storybook, GSAP, Docker, CircleCI, Tailwind, Figma
+I've created a bilingual offline fuzzy search engine, reducing response time by 35x and server costs by 4x. By using it, my customer could replace specialized devices with standard tablets, saving over $1,000/device for his entire network of stores.
+I've developed dozens of specialized interfaces, from bar code scanners to complete replacements for specialized hardware, which have saved my clients' staff over 25,000 hours of manual work in total during my career.
+I have extensive experience in problem solving and algorithm solving, thanks to extensive training and over 350 solved tasks on LeetCode.
+The *ideal job* for me would be a long-term role where I can grow professionally and apply my project management skills with a friendly and professional team.
+As an analytical person, I prefer working on tasks where I can give feedback and optimize the plan for a better result. I don't like working in a strict environment where activity is monitored by tools like Upwork Tracker. It takes away from the actual work and puts too much focus on achieving good stats."
+rust,"I work at a company specializing in crypto asset trading, where I develop trading software solutions. My key responsibilities include:
+- Setting up and optimizing trading infrastructure
+- Integrating external data sources via WebSockets
+- Managing fund routing within the system
+- Connecting and maintaining exchange APIs
+- Enhancing system performance and execution speed
+This role requires a strong focus on efficiency, reliability, and real-time data processing to support high-frequency trading operations."
+rust,"In university: C++, Java, Python(numpy, pandas, pytorch, ...), R, some practice in Matlab and Wolfram Mathematica;
+Aside of university: microsoft/google office application tools, and Tex(Latex). And now learning Rust: completed rustbook and rustlings.
+During university practice I did a small project of binary classificaation of messages(toxic/ not toxic)."
+rust,"Work Experience
+I am a Software Engineer with over 9 years of experience in backend and frontend development, SDKs, libraries, distributed systems, and DevOps. I have worked in AI-powered visual testing, fintech, air quality monitoring, and video streaming.
+Key Responsibilities:
+•	Supporting and improving multi-language SDKs.
+•	Developing test automation frameworks and designing CI/CD pipelines.
+•	Debugging and fixing platform-specific issues.
+•	API design, code refactoring, and SDK maintenance.
+•	Implementing business logic and designing GraphQL & database schemas.
+•	Conducting R&D to improve infrastructure using event-driven architecture.
+•	Developing and maintaining SDKs across multiple programming languages.
+•	Leading feature development, mentoring junior developers, and performing code reviews.
+•	Developing REST APIs for geodata, data processing, and visualization.
+Technologies:
+•	Backend & System Architecture: Python, Rust, SQL, CQRS, Event Sourcing, GraphQL, PostgreSQL
+•	Frontend & SDKs: TypeScript, JavaScript, Svelte, React
+•	DevOps & Cloud Infrastructure: Docker, Ansible, Terraform, GitHub Actions, Hetzner, AWS
+•	Video Streaming & Processing: Rust, FFmpeg, SRS, WebRTC
+Non-Commercial & Open-Source Work:
+•	Developed and maintained self-hosted video streaming systems with Rust, FFmpeg, and SRS.
+•	Created open-source libraries for API clients, annotations, and automation.
+•	Managed cloud infrastructure and deployed containerized applications with Docker Swarm.
+What I Want to Improve:
+•	Advancing expertise in distributed systems and high-performance backend architectures.
+•	Expanding knowledge of actor-based frameworks in Rust.
+•	Improving multi-platform development to unify backend, frontend, and mobile applications.
+•	Designed and implemented multiple SDKs for automation and AI-powered testing, improving efficiency in test automation.
+•	Built a self-hosted video streaming system integrating FFmpeg, Rust, and SRS, enabling custom audio mixing and multi-destination streaming.
+•	Maintained and contributed to several open-source libraries for automation, API clients, and infrastructure tooling.
+•	Successfully scaled and maintained distributed applications using Docker Swarm, optimizing performance without the complexity of Kubernetes.
+•	Led R&D efforts to enhance system architecture with DDD, CQRS, and Event Sourcing, improving scalability and maintainability.
+•	Challenging projects involving distributed systems, high-performance computing, and video streaming.
+•	Opportunity to work with Rust, Python, and cutting-edge backend architectures.
+•	A collaborative and innovative team that values technical excellence.
+•	Involvement in open-source contributions and mentorship opportunities.
+•	Remote-friendly work with flexibility in time management.
+•	Competitive compensation with a focus on long-term stability.
+What I Don’t Want:
+•	Overly bureaucratic environments with slow decision-making.
+•	Projects that rely on outdated, unmaintainable tech stacks with no room for improvement.
+•	A culture of micromanagement or excessive non-technical meetings."
+rust,"IT-Enterprise. Junior Backend Developer: 1 рік.
+Система ERP. C#, MSSQL
+Розробка ERP системи під замовника, впроваджував різноманітні комплексні бізнес-процеси, такі як: фотофіксація транспортних засобів на філіях компанії, регулювання світлофорів на філіях."
+rust,"Software engineer and open-source contributor, specializing in decentralized apps, blockchain integrations, and web3 infrastructure.
+My diverse career history includes collaborations with teams recognized by Gartner Research, The Global Outsourcing 100 List as well as VC-funded startups.
+- One of the co-organizers of the DApp DEV Conference 2018, the first Ethereum conference in Ukraine.
+- Contribution to a wide range of open-source projects.
+- The last project I contributed to raised 30+ million USD in VC funding
+Remote-friendly and asynchronous environment"
+rust,"My experience including building a production-grade applications for every day use using Ruby and Elixir for more than 6 years.
+The projects that I was involved in mostly used RoR 5 stack, modern Javascript frameworks on the front end, NoSQL data storage engines such as Elasticsearch, Algoliasearch, Redis, and heavy background jobs processing.
+Interested in trading applications and domain as a whole. Was working on one of the EU liquidity providers where I was developed high-freq trading algorithms described by professional trader.
+Have experience in dockerizing small applications for local development and testing purposes.
+Have experience with AWS services and infrastructure.
+Have extensive experience with third-party integrations.
+Love to test my code.
+- Scale delivery platform exponentially by introducing the integration framework, which directly impacts company revenue.
+- Built educational platform from scratch using Phoenix LIve View
+An interesting project with ambitious plans and a strong team."
+rust,був досвід у розробці на java. Спочатку стажування у німецькій страховій компанії. Після чого я вже пропрацював деякий час на позиції junior java developer де в мої обов'язки входило розробка месенжеру. Далі я спробував себе як розробник на rust
+rust,"Related Java experience:
+- Developing features & supporting big payroll system using (Spring, SAML, db-scheduler, Hazelcast, Elastic search, REST)
+- Development Spring-based back-end solution for configuration management
+- Developing extensions for Android applications
+- Working on HAL wrapper for Android (Java)
+Related non-Java experience:
+- Developing Cross-platform GUI applications using Rust (Tauri)
+- Developing IDE-like applications (Java/C++/Qt) for driver configuration management
+- Developing Android build system utilities (Python)
+- Writing parser for custom markup languages (Python)
+- Rabbit hole of C/C++ embedded experience
+- Took essential part in modernization of a legacy enterprise monolith project, achieving compliance with industry standards using Java 17, Spring Boot 3, Security 6, and JPA.
+- Integrated, customized and adopted database scheduling system, significantly enhancing both infrastructure management and business operations within the cluster.
+- Successfully integrated SAML SSO login, resulting in a notable increase in customer acquisition.
+- Effectively trained newcomers during a critical growth phase, ensuring swift adaptation and project continuity.
+- Led a product subdomain including managing a small team
+Domain: cloud, backend, networking.
+Team: well-balanced self-sustaining team with well-organized processes (Scrum-based)
+Project: healthy Work/Life balance, may consider business trips to the customer's facility
+DON'T propose russian speaking international teams. From 24.02.2023 I don't know russian"
+rust,"Experienced developer with over 2 years of commercial experience in software development, specializing in Rust. Possess additional experience in Node.js, around 1 year of commercial development, and a background in computer engineering spanning 6 years. Proficient in problem-solving and communication, with a strong aptitude for debugging complex issues. Demonstrated ability to work effectively within teams, lead team up to 5 engineers and drive innovation in software applications. Possess solid analytical skills and a dedication to creating efficient and reliable code."
+rust,"As a second-year Computer Science student at the University of Lodz, I am deeply passionate about systems programming and software development. Although I have no prior professional experience, I have dedicated myself to various self-initiated projects that showcase my technical abilities and enthusiasm for learning. My projects, driven purely by passion, have provided me with hands-on experience in Rust, C/C++ and systems security. I am eager to further develop my skills and contribute to impactful projects in a professional environment as I start my career in this field.
+* Mainlined the Linux kernel on an Android device, demonstrating my expertise in systems programming and hardware description.
+* Ported Sailfish OS to the Google Pixel 4, which required advanced debugging skills and deep Linux knowledge.
+* Rewrote an Android client app in Kotlin, transitioning it from Java, showcasing my adaptability and proficiency in multiple programming languages.
+* Successfully ported Rockbox firmware to a Sony Walkman player, reinforcing my skills in C programming.
+* Enhanced a Linux rootkit (Diamorphine) by adding new functionality, illustrating my growing interest and capability in security.
+* Developed a Rust-based cryptographic locker (for education purposes), reflecting my current focus and expertise in Rust programming and systems security.
+I am seeking a position that allows me to leverage my strong background in Rust and systems programming while continuously learning and acquiring new knowledge. I am eager to contribute to impactful projects, particularly those focused on systems security and low-level programming. I value an environment that encourages creativity, collaboration, and continuous improvement. Conversely, I aim to avoid roles that lack opportunities for professional growth or fail to challenge my technical skills. I thrive in settings where my enthusiasm for learning is matched by the team's commitment to innovation and excellence."
+rust,"2007-2021 Radiy Розробка ПЗ на С++ з використанням Qt, PostgreSQL (клієнт-сервера архітектура: отримання трафіку від обладнання, зберігання, малювання таблиць/графіків)
+2021-2023 Playrix розробка гри Township на С++ з використанням рушія компанії
+Також вивчав Python, JS, PHP.
+З 2023 року почав працювати з Rust.
+Bevy Contributor"
