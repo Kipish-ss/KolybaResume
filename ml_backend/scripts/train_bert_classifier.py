@@ -11,7 +11,7 @@ from joblib import dump
 
 file_path = "/content/drive/MyDrive/preprocessed_resumes.parquet"
 
-EPOCHS = 4
+EPOCHS = 2
 BATCH_SIZE = 16
 LEARNING_RATE = 2e-5
 MODEL_NAME = 'bert-base-uncased'
