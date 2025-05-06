@@ -1,5 +1,6 @@
 ﻿using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services;
+using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.Common.DTO.Vacancy;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -9,7 +10,7 @@ namespace KolybaResume.Controllers;
 [Authorize]
 [ApiController]
 [Route("[controller]")]
-public class VacancyController(VacancyService vacancyService) : ControllerBase
+public class VacancyController(IVacancyService vacancyService) : ControllerBase
 {
     [HttpGet]
     public async Task<ActionResult<VacancyDto[]>> Get()
@@ -28,8 +29,15 @@ public class VacancyController(VacancyService vacancyService) : ControllerBase
     [HttpPost("description")]
     public async Task<ActionResult<string>> GetDescription([FromBody] string vacancyUrl)
     {
-        var description = await vacancyService.ParseVacancy(vacancyUrl);
-        
-        return Ok(description);
+        try
+        {
+            var description = await vacancyService.ParseVacancy(vacancyUrl);
+
+            return Ok(description);
+        }
+        catch (Exception e)
+        {
+            return BadRequest(e.Message);
+        }
     }
 }

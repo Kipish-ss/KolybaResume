@@ -1,7 +1,7 @@
 ﻿using System.Net;
-using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using AutoMapper;
+using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
@@ -9,7 +9,7 @@ using KolybaResume.DTO;
 
 namespace KolybaResume.BLL.Services;
 
-public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper, HttpClient httpClient, MachineLearningApiService apiService) : BaseService(context, mapper)
+public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper, HttpClient httpClient, IMachineLearningApiService apiService) : BaseService(context, mapper), IDouVacancyAggregatorService
 {
     public async Task Aggregate()
     {

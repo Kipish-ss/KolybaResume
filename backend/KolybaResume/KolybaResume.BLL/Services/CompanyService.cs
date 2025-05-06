@@ -1,11 +1,12 @@
 ﻿using AutoMapper;
+using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
 
 namespace KolybaResume.BLL.Services;
 
-public class CompanyService(KolybaResumeContext context, IMapper mapper) : BaseService(context, mapper)
+public class CompanyService(KolybaResumeContext context, IMapper mapper) : BaseService(context, mapper), ICompanyService
 {
     public void Create(string[] links)
     {

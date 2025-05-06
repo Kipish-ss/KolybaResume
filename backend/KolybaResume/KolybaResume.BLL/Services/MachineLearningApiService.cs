@@ -1,10 +1,11 @@
 ﻿using System.Net.Http.Json;
 using KolybaResume.BLL.Models;
+using KolybaResume.BLL.Services.Abstract;
 using Microsoft.Extensions.Configuration;
 
 namespace KolybaResume.BLL.Services;
 
-public class MachineLearningApiService(IConfiguration configuration, HttpClient httpClient)
+public class MachineLearningApiService(IConfiguration configuration, HttpClient httpClient) : IMachineLearningApiService
 {
     private readonly string _apiUrl = configuration["MachineLearningBackendApi"]!;
 

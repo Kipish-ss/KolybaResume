@@ -4,6 +4,8 @@ using FirebaseAdmin.Auth;
 using Google.Apis.Auth.OAuth2;
 using KolybaResume.BLL.MappingProfiles;
 using KolybaResume.BLL.Services;
+using KolybaResume.BLL.Services.Abstract;
+using KolybaResume.BLL.Services.Scrappers;
 using KolybaResume.DAL.Context;
 using KolybaResume.Jobs;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -28,10 +30,11 @@ public static class ServiceCollectionExtensions
     {
         services.AddHttpContextAccessor();
         services.AddHttpClient();
-        services.AddTransient<UserService>();
-        services.AddTransient<MachineLearningApiService>();
-        services.AddTransient<CompanyService>();
-        services.AddTransient<DouVacancyAggregatorService>();
+        services.AddTransient<IUserService, UserService>();
+        services.AddTransient<IMachineLearningApiService, MachineLearningApiService>();
+        services.AddTransient<ICompanyService, CompanyService>();
+        services.AddTransient<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
+        services.AddTransient<IVacancyScraperFactory, VacancyScraperFactory>();
 
         services.AddHostedService<ScrapperJob>();
     }

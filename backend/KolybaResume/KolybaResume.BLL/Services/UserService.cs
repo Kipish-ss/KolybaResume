@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using FirebaseAdmin.Auth;
 using KolybaResume.BLL.Extensions;
+using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
 using KolybaResume.Common.DTO;
 using KolybaResume.DAL.Context;
@@ -10,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KolybaResume.BLL.Services;
 
-public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAuth firebaseAuth, IHttpContextAccessor httpContextAccessor, MachineLearningApiService apiService) : BaseService(context, mapper)
+public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAuth firebaseAuth, IHttpContextAccessor httpContextAccessor, IMachineLearningApiService apiService) : BaseService(context, mapper), IUserService
 {
     public async Task<UserDto> GetCurrent()
     {

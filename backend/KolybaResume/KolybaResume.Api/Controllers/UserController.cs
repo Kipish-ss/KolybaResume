@@ -1,4 +1,5 @@
 ﻿using KolybaResume.BLL.Services;
+using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.Common.DTO;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -8,7 +9,7 @@ namespace KolybaResume.Controllers;
 [Authorize]
 [ApiController]
 [Route("[controller]")]
-public class UserController(UserService userService) : ControllerBase
+public class UserController(IUserService userService) : ControllerBase
 {
     [HttpGet]
     public async Task<ActionResult<UserDto>> GetCurrentUser()
