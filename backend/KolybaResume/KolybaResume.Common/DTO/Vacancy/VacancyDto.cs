@@ -8,9 +8,7 @@ public class VacancyDto
     public string Title { get; set; } = string.Empty;
     public string Text { get; set; } = string.Empty;
     public string Url { get; set; } = string.Empty;
-    public double? SalaryMin { get; set; }
-    public double? SalaryMax { get; set; }
-    public JobType JobType { get; set; }
+    public string Salary { get; set; }
     public string? Location { get; set; }
     public int Score { get; set; }
 }

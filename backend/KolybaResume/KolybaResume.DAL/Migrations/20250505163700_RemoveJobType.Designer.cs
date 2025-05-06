@@ -3,6 +3,7 @@ using KolybaResume.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KolybaResume.DAL.Migrations
 {
     [DbContext(typeof(KolybaResumeContext))]
-    partial class KolybaResumeContextModelSnapshot : ModelSnapshot
+    [Migration("20250505163700_RemoveJobType")]
+    partial class RemoveJobType
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -117,9 +120,11 @@ namespace KolybaResume.DAL.Migrations
                     b.Property<string>("Location")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Salary")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<double?>("SalaryMax")
+                        .HasColumnType("float");
+
+                    b.Property<double?>("SalaryMin")
+                        .HasColumnType("float");
 
                     b.Property<string>("Text")
                         .IsRequired()

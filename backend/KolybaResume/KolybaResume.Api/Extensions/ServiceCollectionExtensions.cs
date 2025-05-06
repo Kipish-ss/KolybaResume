@@ -5,12 +5,11 @@ using Google.Apis.Auth.OAuth2;
 using KolybaResume.BLL.MappingProfiles;
 using KolybaResume.BLL.Services;
 using KolybaResume.DAL.Context;
-using KolybaResume.DTO;
+using KolybaResume.Jobs;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
+using Quartz;
 
 namespace KolybaResume.Extensions;
 
@@ -31,6 +30,10 @@ public static class ServiceCollectionExtensions
         services.AddHttpClient();
         services.AddTransient<UserService>();
         services.AddTransient<MachineLearningApiService>();
+        services.AddTransient<CompanyService>();
+        services.AddTransient<DouVacancyAggregatorService>();
+
+        services.AddHostedService<ScrapperJob>();
     }
     
     public static void AddAutoMapper(this IServiceCollection services)
@@ -56,8 +59,32 @@ public static class ServiceCollectionExtensions
                 };
             });
     }
-    
-    
+
+    public static void AddQuartz(this IServiceCollection services)
+    {
+        services.AddQuartz(q =>
+        {
+            var jobKey = new JobKey("DouJob");
+
+            q.AddJob<DouVacancyJob>(opts => opts
+                .WithIdentity(jobKey)
+                .StoreDurably());
+
+            q.AddTrigger(opts => opts
+                .ForJob(jobKey)
+                .WithIdentity("dou-trigger")
+                .WithSimpleSchedule(x => x
+                    .WithIntervalInHours(24)
+                    .RepeatForever()
+                )
+            );
+        });
+
+        services.AddQuartzHostedService(options =>
+        {
+            options.WaitForJobsToComplete = true;
+        });
+    }
     
     public static void AddFirebaseAdmin(this IServiceCollection services, IConfiguration configuration)
     {
