@@ -8,8 +8,6 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 import torch
 from joblib import dump
-from collections import Counter
-import numpy as np
 
 file_path = "/content/drive/MyDrive/preprocessed_resumes.parquet"
 
@@ -41,20 +39,16 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 train_dataset = ResumeDataset(train_resumes, train_labels, tokenizer, max_length=MAX_LENGTH)
 val_dataset = ResumeDataset(val_resumes, val_labels, tokenizer, max_length=MAX_LENGTH)
 train_dataloader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
-val_dataloader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=True)
+val_dataloader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
 num_classes = len(encoder.classes_)
 model = BertForSequenceClassification.from_pretrained(
     'bert-base-uncased',
     num_labels=num_classes)
 
-optimizer = AdamW(model.parameters())
-label_counts = Counter(train_labels)
-counts = np.array([label_counts[i] for i in range(num_classes)], dtype=np.float32)
-weights = 1.0 / counts
+optimizer = AdamW(model.parameters(), lr=LEARNING_RATE)
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-weights = torch.tensor(weights / weights.sum(), dtype=torch.float32).to(device)
-loss_function = torch.nn.CrossEntropyLoss(weight=weights)
+loss_function = torch.nn.CrossEntropyLoss()
 metric = F1Score(task='multiclass', num_classes=num_classes, average='macro')
 
 trainer = ClassificationTrainer(

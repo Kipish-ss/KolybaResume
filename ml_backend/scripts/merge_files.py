@@ -117,7 +117,7 @@ def main():
 
     CATEGORIES = ["web", "devops/cloud", "qa engineer",
                   "ux", "data", "business analyst", "product/project manager",
-                  "marketing", "hr", "sales manager", "mobile"
+                  "marketing", "hr", "sales manager", "mobile", "customer support"
                   ]
 
     SPECIAL_CASES = {
