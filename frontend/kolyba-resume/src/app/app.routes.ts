@@ -1,3 +1,4 @@
+import { AuthGuard } from '@core/guards/auth.guard';
 import { Routes } from '@angular/router';
 
 export const routes: Routes = [
@@ -8,5 +9,6 @@ export const routes: Routes = [
     {
         path: '',
         loadChildren: () => import('./modules/vacancies/resume.module').then((m) => m.ResumeModule),
+        canActivate: [AuthGuard]
     },
 ];

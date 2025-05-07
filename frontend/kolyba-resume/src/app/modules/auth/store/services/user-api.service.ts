@@ -16,7 +16,7 @@ import { User } from '../../models/user';
 export class UserApiService {
     public routePrefix = '/user';
 
-    constructor(private httpService: HttpInternalService, private notificationService: NotificationService) {}
+    constructor(private httpService: HttpInternalService, private notificationService: NotificationService) { }
 
     public getCurrentUser(): Observable<Action> {
         return this.httpService.getRequest<User>(this.routePrefix).pipe(
@@ -33,7 +33,10 @@ export class UserApiService {
     }
 
     public uploadResume(file: File): Observable<Action> {
-        return this.httpService.postRequest<void>(`${this.routePrefix}/resume`, file).pipe(
+        const form = new FormData();
+        form.append('file', file, file.name);
+
+        return this.httpService.postRequest<void>(`${this.routePrefix}/resume`, form).pipe(
             map(() => authActions.uploadResumeSuccess()),
             catchError(() => of(authActions.uploadResumeFailure({ error: new Error() }))),
         );

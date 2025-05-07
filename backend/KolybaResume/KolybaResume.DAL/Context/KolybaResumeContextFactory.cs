@@ -7,9 +7,9 @@ public class KolybaResumeContextFactory : IDesignTimeDbContextFactory<KolybaResu
     public KolybaResumeContext CreateDbContext(string[] args)
     {
         var optionsBuilder = new DbContextOptionsBuilder<KolybaResumeContext>();
-        var connectionString = "Server=localhost;Database=KolybaResumeDB;Trusted_Connection=True;";
+        var connectionString = "Host=localhost;Port=5432;Database=kolybaresumedb;Username=postgres;Password=kolyba2025;";
 
-        optionsBuilder.UseSqlServer(connectionString);
+        optionsBuilder.UseNpgsql(connectionString);
 
         return new KolybaResumeContext(optionsBuilder.Options);
     }

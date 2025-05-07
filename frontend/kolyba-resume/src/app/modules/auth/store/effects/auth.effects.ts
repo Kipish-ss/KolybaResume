@@ -30,7 +30,7 @@ export class AuthEffects {
                 from(signInWithEmailAndPassword(this.auth, email, password)).pipe(
                     switchMap(async (userCredential) => {
                         const token = await userCredential.user.getIdToken();
-                        localStorage.setItem('accessToken', token);
+                        localStorage.setItem(accessTokenLocalStorage, token);
 
                         if (!userCredential.user.emailVerified) {
                             return authActions.loadCurrentFailure({ error: new Error('email-not-verified') });
@@ -98,7 +98,7 @@ export class AuthEffects {
     public readonly setEmailVerified$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.setEmailVerified),
-            tap(({ emailVerified }) => localStorage.setItem(userLocalStorage, JSON.stringify(emailVerified)))
+            tap(({ emailVerified }) => localStorage.setItem(emailVerifiedLocalStorage, JSON.stringify(emailVerified)))
         ),
         { dispatch: false }
     );

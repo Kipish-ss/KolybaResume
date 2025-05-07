@@ -8,9 +8,9 @@ namespace KolybaResume.BLL.Services;
 
 public class CompanyService(KolybaResumeContext context, IMapper mapper) : BaseService(context, mapper), ICompanyService
 {
-    public void Create(string[] links)
+    public async Task Create(string[] links)
     {
-        _context.Companies.AddRange(links.Select(l => new Company { Url = l }));
-        _context.SaveChanges();
+        await _context.Companies.AddRangeAsync(links.Select(l => new Company { Url = l }));
+        await _context.SaveChangesAsync();
     }
 }

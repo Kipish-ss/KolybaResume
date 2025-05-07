@@ -28,21 +28,6 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
         return await _context.Users.AnyAsync(u => u.Email == email);
     }
 
-    public async Task<UserDto> Update(UserDto userDto, string currentUserEmail)
-    {
-        var userEntity = await Get(userDto.Id);
-        userEntity = _mapper.Map(userDto, userEntity);
-
-        if (userEntity.Email != currentUserEmail)
-        {
-            throw new ArgumentException("You don't have access to data of other users");
-        }
-
-        _context.Users.Update(userEntity);
-        await _context.SaveChangesAsync();
-
-        return _mapper.Map<UserDto>(userEntity);
-    }
 
     public async Task<UserDto> Create(NewUserDto userDto)
     {
@@ -58,33 +43,34 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
         }
 
         var newUser = _mapper.Map<NewUserDto, User>(userDto);
-        var user = _context.Users.Add(newUser).Entity;
+        var user = (await _context.Users.AddAsync(newUser)).Entity;
         await _context.SaveChangesAsync();
 
         await AddClaims(user.Uid, user.Id);
 
         return _mapper.Map<User, UserDto>(user);
     }
-    
-    public string? GetCurrentId()
-    {
-        var userId = httpContextAccessor.HttpContext.User.GetUid();
-        return userId;
-    }
 
     public async Task AddResume(string text)
     {
-        var userId = GetCurrentInternal().Id;
+        var userId = (await GetCurrentInternal()).Id;
+        var existingResume = await _context.Resumes.FirstOrDefaultAsync(r => r.UserId == userId);
+
+        if (existingResume is not null)
+        {
+            _context.Resumes.Remove(existingResume);
+        }
         var resume = new Resume
         {
             Text = text,
             UserId = userId
         };
         
-        _context.Resumes.Add(resume);
+        await _context.Resumes.AddAsync(resume);
         await _context.SaveChangesAsync();
         
-        await apiService.NotifyResumeCreated(resume.Id);
+        //TODO: Uncomment when endpoint is added
+        //await apiService.NotifyResumeCreated(resume.Id);
     }
 
     public async Task<long> GetResumeId()
@@ -114,14 +100,15 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
 
         await firebaseAuth.SetCustomUserClaimsAsync(uid, userClaims);
     }
-    
-    
-    private async Task<User> Get(long id)
-    {
-        return await _context.Users.FirstOrDefaultAsync(u => u.Id == id) ?? throw new KeyNotFoundException("User doesn't exist");
-    }
 
     private async Task<User> GetCurrentInternal()
         => (await _context.Users.Include(u => u.Resume).FirstOrDefaultAsync(u => u.Uid == GetCurrentId())
             ?? throw new KeyNotFoundException("User doesn't exist"))!;
+    
+    
+    private string? GetCurrentId()
+    {
+        var userId = httpContextAccessor.HttpContext.User.GetUid();
+        return userId;
+    }
 }

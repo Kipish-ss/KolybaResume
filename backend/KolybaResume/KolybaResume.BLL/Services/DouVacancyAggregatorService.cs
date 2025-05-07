@@ -6,6 +6,7 @@ using KolybaResume.BLL.Services.Base;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
 using KolybaResume.DTO;
+using Microsoft.EntityFrameworkCore;
 
 namespace KolybaResume.BLL.Services;
 
@@ -14,7 +15,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
     public async Task Aggregate()
     {
         var isFirstRun = !_context.Vacancies.Any();
-        var companyLinks = _context.Companies.Select(c => c.Url).ToList();
+        var companyLinks = await _context.Companies.Select(c => c.Url).ToListAsync();
         var addedVacanciesIds = new List<long>();
 
         foreach (var link in companyLinks)

@@ -32,19 +32,9 @@ public class UserController(IUserService userService) : ControllerBase
         return Ok(await userService.CheckExisting(email));
     }
 
-    [HttpPut]
-    public async Task<IActionResult> UpdatePreferences([FromBody] UserDto user)
-    {
-        var currentUser = await userService.GetCurrent();
-
-        var updatedUser = await userService.Update(user, currentUser.Email);
-
-        return Ok(updatedUser);
-    }
-
     [HttpPost("resume")]
     [Consumes("multipart/form-data")]
-    public IActionResult ExtractText([FromForm] IFormFile file)
+    public async Task<IActionResult> ExtractText([FromForm] IFormFile file)
     {
         if (file == null || file.Length == 0)
         {
@@ -72,7 +62,7 @@ public class UserController(IUserService userService) : ControllerBase
             }
         }
         
-        userService.AddResume(text);
+        await userService.AddResume(text);
 
         return Ok();
     }

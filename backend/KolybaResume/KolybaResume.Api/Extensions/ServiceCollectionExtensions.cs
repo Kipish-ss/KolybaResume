@@ -10,6 +10,7 @@ using KolybaResume.DAL.Context;
 using KolybaResume.Jobs;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.IdentityModel.Tokens;
 using Quartz;
 
@@ -21,20 +22,25 @@ public static class ServiceCollectionExtensions
     {
         var connectionsString = configuration.GetConnectionString("KolybaResumeDBConnection");
         services.AddDbContext<KolybaResumeContext>(options =>
-            options.UseSqlServer(
+            options.UseNpgsql(
                 connectionsString,
-                opt => opt.MigrationsAssembly(typeof(KolybaResumeContext).Assembly.GetName().Name)));
+                opt => opt.MigrationsAssembly(typeof(KolybaResumeContext).Assembly.GetName().Name))
+                .ConfigureWarnings(warnings =>
+                    warnings.Ignore(
+                        RelationalEventId.PendingModelChangesWarning
+                    )
+                ));
     }
 
     public static void AddServices(this IServiceCollection services)
     {
         services.AddHttpContextAccessor();
         services.AddHttpClient();
-        services.AddTransient<IUserService, UserService>();
-        services.AddTransient<IMachineLearningApiService, MachineLearningApiService>();
-        services.AddTransient<ICompanyService, CompanyService>();
-        services.AddTransient<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
-        services.AddTransient<IVacancyScraperFactory, VacancyScraperFactory>();
+        services.AddScoped<IUserService, UserService>();
+        services.AddScoped<IMachineLearningApiService, MachineLearningApiService>();
+        services.AddScoped<ICompanyService, CompanyService>();
+        services.AddScoped<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
+        services.AddScoped<IVacancyScraperFactory, VacancyScraperFactory>();
 
         services.AddHostedService<ScrapperJob>();
     }
@@ -76,10 +82,10 @@ public static class ServiceCollectionExtensions
             q.AddTrigger(opts => opts
                 .ForJob(jobKey)
                 .WithIdentity("dou-trigger")
-                .WithSimpleSchedule(x => x
-                    .WithIntervalInHours(24)
-                    .RepeatForever()
-                )
+                .WithCronSchedule("0 0 9 * * ?", cronOpts => {
+                    cronOpts.InTimeZone(TimeZoneInfo.Local);
+                    cronOpts.WithMisfireHandlingInstructionFireAndProceed();
+                })
             );
         });
 

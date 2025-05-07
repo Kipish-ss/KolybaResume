@@ -33,7 +33,7 @@ export class SearchResultsComponent {
             map(([results, title, remoteType, sortKey]) =>
                 results
                     ?.filter(r => r.title.toLowerCase().includes(title?.toLowerCase() ?? ''))
-                    .filter(r => (remoteType ? r.jobType === Number(remoteType) : true))
+                    // .filter(r => (remoteType ? r.jobType === Number(remoteType) : true))
                     .sort((a, b) => (b[sortKey as keyof Vacancy] as number) - (a[sortKey as keyof Vacancy] as number)) ?? []
             )
         );

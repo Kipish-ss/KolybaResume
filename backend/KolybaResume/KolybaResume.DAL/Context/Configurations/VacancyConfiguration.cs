@@ -16,6 +16,6 @@ public class VacancyConfiguration : IEntityTypeConfiguration<Vacancy>
 
         builder.Property(e => e.Vector)
             .HasConversion(vectorConverter)
-            .HasColumnType("VARBINARY(MAX)");
+            .HasColumnType("bytea");
     }
 }

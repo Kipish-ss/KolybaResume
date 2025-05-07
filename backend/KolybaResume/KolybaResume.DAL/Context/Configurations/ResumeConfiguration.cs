@@ -16,6 +16,6 @@ public class ResumeConfiguration : IEntityTypeConfiguration<Resume>
 
         builder.Property(e => e.Vector)
             .HasConversion(vectorConverter)
-            .HasColumnType("VARBINARY(MAX)");
+            .HasColumnType("bytea");
     }
 }

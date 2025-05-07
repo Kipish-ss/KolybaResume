@@ -2,5 +2,5 @@
 
 public interface ICompanyService
 {
-    void Create(string[] links);
+    Task Create(string[] links);
 }
