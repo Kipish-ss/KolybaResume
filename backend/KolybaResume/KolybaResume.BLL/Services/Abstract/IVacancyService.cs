@@ -5,7 +5,7 @@ namespace KolybaResume.BLL.Services.Abstract;
 
 public interface IVacancyService
 {
-    Task<string> ParseVacancy(string vacancyUrl);
+    Task<VacancyTextDto> ParseVacancy(string vacancyUrl);
     Task<VacancyDto[]> Get();
     Task<ResumeAdaptationResponse> AdaptResume(string vacancyText);
 }

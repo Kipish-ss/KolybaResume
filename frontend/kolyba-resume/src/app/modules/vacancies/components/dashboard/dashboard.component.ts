@@ -18,11 +18,15 @@ export class DashboardComponent {
         private readonly router: Router
     ) { }
 
-    onSearchVacancies() {
+    public onSearchVacancies(): void {
         this.router.navigateByUrl('search-results');
     }
 
-    onAdaptResume() {
+    public onAdaptResume(): void {
         this.vacanciesStoreService.openVacancyInput();
+    }
+
+    public onSignOut(): void {
+        this.authStoreService.signOut();
     }
 }

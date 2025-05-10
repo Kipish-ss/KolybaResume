@@ -1,4 +1,5 @@
 using KolybaResume.Extensions;
+using KolybaResume.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +42,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseDBContext();
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseCors(opt => opt
     .AllowAnyHeader()

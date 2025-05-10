@@ -3,7 +3,6 @@ import { FormControl, FormGroup, Validators } from '@angular/forms';
 
 import { AuthService } from '@auth//services/auth.service';
 import { AuthStoreService } from '@auth//store/services/auth-store.service';
-import { BaseComponent } from '@core/components/base-component/base.component';
 import { EmailValidator } from '@auth//validators/email-validator';
 import { Router } from '@angular/router';
 
@@ -13,13 +12,12 @@ import { Router } from '@angular/router';
     styleUrls: ['./forgot-form.component.sass', '../../shared-styles.sass'],
     standalone: false,
 })
-export class ForgotFormComponent extends BaseComponent implements OnInit {
+export class ForgotFormComponent implements OnInit {
     public recoveryCode?: number;
 
     public forgotPasswordForm!: FormGroup;
 
     constructor(private router: Router, private authService: AuthService, private readonly authStoreService: AuthStoreService) {
-        super();
     }
 
     public ngOnInit(): void {

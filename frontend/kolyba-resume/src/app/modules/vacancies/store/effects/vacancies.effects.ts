@@ -37,7 +37,9 @@ export class VacanciesEffects {
 
     public readonly loadJobDescription$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadJobDescription),
-        switchMap(({ url }) => this.vacanciesApiService.getDescription(url))
+        tap(() => this.spinnerService.show()),
+        switchMap(({ url }) => this.vacanciesApiService.getDescription(url)),
+        tap(() => this.spinnerService.hide()),
     ));
 
     public readonly loadVacancies$ = createEffect(() => this.actions$.pipe(

@@ -27,11 +27,11 @@ public class VacancyController(IVacancyService vacancyService) : ControllerBase
     }
 
     [HttpPost("description")]
-    public async Task<ActionResult<string>> GetDescription([FromBody] string vacancyUrl)
+    public async Task<ActionResult<string>> GetDescription([FromBody] VacancyDescriptionDto vacancy)
     {
         try
         {
-            var description = await vacancyService.ParseVacancy(vacancyUrl);
+            var description = await vacancyService.ParseVacancy(vacancy.Link);
 
             return Ok(description);
         }

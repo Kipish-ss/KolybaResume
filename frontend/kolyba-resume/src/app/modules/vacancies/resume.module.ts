@@ -6,9 +6,17 @@ import { ResumeAdaptationComponent } from './components/resume-adaptation/resume
 import { ResumeRoutingModule } from './resume-routing.module';
 import { SearchResultsComponent } from './components/search-results/search-results.component';
 import { UploadResumeComponent } from './components/upload-resume/upload-resume.component';
+import { VacanciesEffects } from './store/effects/vacancies.effects';
 import { VacancyInputPopupComponent } from './components/vacancy-input-popup/vacancy-input-popup.component';
+import { provideEffects } from '@ngrx/effects';
+import { provideState } from '@ngrx/store';
+import { vacanciesReducer } from './store/reducers/vacancies.reducer';
 
 @NgModule({
+    providers: [
+        provideState('vacancies', vacanciesReducer),
+        provideEffects(VacanciesEffects)
+    ],
     declarations: [
         UploadResumeComponent,
         ResumeAdaptationComponent,
@@ -22,4 +30,4 @@ import { VacancyInputPopupComponent } from './components/vacancy-input-popup/vac
         MaterialModule,
     ]
 })
-export class ResumeModule {}
+export class ResumeModule { }

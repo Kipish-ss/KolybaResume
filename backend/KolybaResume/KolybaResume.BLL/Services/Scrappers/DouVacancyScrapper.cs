@@ -20,8 +20,14 @@ public class DouVacancyScrapper : IVacancyScraper
             var vacancyDiv = wait.Until(d =>
                 d.FindElement(By.CssSelector("div.l-vacancy"))
             );
+            
+            var titleElement = vacancyDiv.FindElement(By.CssSelector(".g-h2"));
+            var descriptionElement  = vacancyDiv.FindElement(By.CssSelector(".b-typo.vacancy-section"));
 
-            return vacancyDiv.Text.Trim();
+            var title       = titleElement.Text.Trim();
+            var description = descriptionElement.Text.Trim();
+
+            return title + Environment.NewLine + description;
         }
         finally
         {

@@ -34,6 +34,7 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/azure-blue.css",
+              "src/styles/index.sass",
               "src/styles.scss"
             ],
             "scripts": []

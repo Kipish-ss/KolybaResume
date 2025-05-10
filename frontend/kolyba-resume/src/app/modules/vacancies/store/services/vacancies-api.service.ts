@@ -12,7 +12,7 @@ import { Vacancy } from '@vacancies//models/vacancy';
     providedIn: 'root',
 })
 export class VacanciesApiService {
-    public routePrefix = '/vacancies';
+    public routePrefix = '/vacancy';
 
     constructor(private httpService: HttpInternalService) {}
 
@@ -24,9 +24,9 @@ export class VacanciesApiService {
     }
 
     public getDescription(link: string): Observable<Action> {
-        return this.httpService.postRequest<string>(`${this.routePrefix}/description`, { link }).pipe(
-            map((description) => vacanciesActions.loadJobDescriptionSuccess({ description })),
-            catchError(() => of(vacanciesActions.loadJobDescriptionFailure({ error: new Error() }))),
+        return this.httpService.postRequest<{ text: string}>(`${this.routePrefix}/description`, { link }).pipe(
+            map((description) => vacanciesActions.loadJobDescriptionSuccess({ description: description.text })),
+            catchError((error) => of(vacanciesActions.loadJobDescriptionFailure({ error: new Error() }))),
         );
     }
 

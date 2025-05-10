@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 
 import { AuthStoreService } from '@auth//store/services/auth-store.service';
-import { BaseComponent } from '@core/components/base-component/base.component';
 
 @Component({
     selector: 'kr-sign-in-form',
@@ -10,13 +9,12 @@ import { BaseComponent } from '@core/components/base-component/base.component';
     styleUrls: ['./sign-in-form.component.sass', '../../shared-styles.sass'],
     standalone: false,
 })
-export class SignInFormComponent extends BaseComponent implements OnInit {
+export class SignInFormComponent implements OnInit {
     public hidePassword = true;
 
     public signInForm!: FormGroup;
 
     constructor(private authStoreService: AuthStoreService) {
-        super();
     }
 
     public ngOnInit(): void {

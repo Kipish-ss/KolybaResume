@@ -38,6 +38,7 @@ public static class ServiceCollectionExtensions
         services.AddHttpClient();
         services.AddScoped<IUserService, UserService>();
         services.AddScoped<IMachineLearningApiService, MachineLearningApiService>();
+        services.AddScoped<IVacancyService, VacancyService>();
         services.AddScoped<ICompanyService, CompanyService>();
         services.AddScoped<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
         services.AddScoped<IVacancyScraperFactory, VacancyScraperFactory>();

@@ -2,7 +2,6 @@ import { FormControl, FormGroup, Validators } from '@angular/forms';
 
 import { AuthService } from '@auth//services/auth.service';
 import { AuthStoreService } from '@auth//store/services/auth-store.service';
-import { BaseComponent } from '@core/components/base-component/base.component';
 import { Component } from '@angular/core';
 import { EmailValidator } from '@auth//validators/email-validator';
 import { PasswordsErrorStateMatcher } from '@auth//validators/passwordsErrorStateMatcher';
@@ -15,7 +14,7 @@ import { userNameRegex } from '@core/constants/model-validation';
     styleUrls: ['./sign-up-form.component.sass', '../../shared-styles.sass'],
     standalone: false,
 })
-export class SignUpFormComponent extends BaseComponent {
+export class SignUpFormComponent {
     public matcher = new PasswordsErrorStateMatcher();
 
     public hidePassword = true;
@@ -23,7 +22,6 @@ export class SignUpFormComponent extends BaseComponent {
     public signUpForm: FormGroup;
 
     constructor(private authStoreService: AuthStoreService, authService: AuthService) {
-        super();
         this.signUpForm = new FormGroup({
             email: new FormControl('', {
                 validators: [Validators.required, Validators.email],
@@ -44,12 +42,6 @@ export class SignUpFormComponent extends BaseComponent {
                 updateOn: 'blur',
             }),
         });
-    }
-
-    private setCredentialsIncorrect(): void {
-        this.signUpForm.get('email')?.setErrors({ incorrectCredentials: true });
-        this.signUpForm.get('name')?.setErrors({ incorrectCredentials: true });
-        this.signUpForm.get('password')?.setErrors({ incorrectCredentials: true });
     }
 
     public onSignUp(): void {

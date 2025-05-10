@@ -10,9 +10,14 @@ namespace KolybaResume.BLL.Services;
 
 public class VacancyService(KolybaResumeContext context, IMapper mapper, IMachineLearningApiService apiService, IUserService userService, IVacancyScraperFactory scraperFactory) : BaseService(context, mapper), IVacancyService
 {
-    public async Task<string> ParseVacancy(string vacancyUrl)
+    public async Task<VacancyTextDto> ParseVacancy(string vacancyUrl)
     {
-        return await scraperFactory.GetScraper(vacancyUrl).Scrape(vacancyUrl);
+        var description = await scraperFactory.GetScraper(vacancyUrl).Scrape(vacancyUrl);
+
+        return new VacancyTextDto()
+        {
+            Text = description
+        };
     }
 
     public async Task<VacancyDto[]> Get()

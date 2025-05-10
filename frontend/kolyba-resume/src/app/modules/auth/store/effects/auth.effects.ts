@@ -5,6 +5,7 @@ import { Auth, createUserWithEmailAndPassword, sendEmailVerification, sendPasswo
 import { accessTokenLocalStorage, emailVerifiedLocalStorage, userLocalStorage } from '@core/constants/local-storage.constants';
 import { catchError, from, map, mergeMap, of, switchMap, tap } from 'rxjs';
 
+import { AuthStoreService } from '../services/auth-store.service';
 import { Injectable } from '@angular/core';
 import { NotificationService } from '@core/services/notification.service';
 import { Router } from '@angular/router';
@@ -14,12 +15,13 @@ import { UserApiService } from '../services/user-api.service';
 @Injectable()
 export class AuthEffects {
     constructor(
-        private actions$: Actions,
-        private auth: Auth,
-        private userApiService: UserApiService,
-        private notificationService: NotificationService,
-        private spinnerService: SpinnerService,
-        private router: Router,
+        private readonly actions$: Actions,
+        private readonly auth: Auth,
+        private readonly userApiService: UserApiService,
+        private readonly authStoreService: AuthStoreService,
+        private readonly notificationService: NotificationService,
+        private readonly spinnerService: SpinnerService,
+        private readonly router: Router,
     ) { }
 
     public readonly signIn$ = createEffect(() =>
@@ -69,9 +71,8 @@ export class AuthEffects {
                     authActions.createUser({
                         user: {
                             uid: userCredential.user?.uid,
-                            userName: userCredential.user?.displayName ?? userName,
-                            email: userCredential.user?.email ?? '',
-                            image: userCredential.user?.photoURL ?? undefined,
+                            name: userCredential.user?.displayName ?? userName,
+                            email: userCredential.user?.email ?? ''
                         }
                     })
                 ]))
@@ -142,7 +143,8 @@ export class AuthEffects {
 
     public readonly uplaodResumeSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(authActions.uploadResumeSuccess),
-        tap(() => this.router.navigateByUrl(''))
+        switchMap(() => this.authStoreService.user$),
+        tap((user) => localStorage.setItem(userLocalStorage, JSON.stringify({ ...user, hasResume: true })))
     ),
         { dispatch: false }
     )
@@ -150,12 +152,13 @@ export class AuthEffects {
     public readonly signOut$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.signOut),
-            mergeMap(() =>
+            switchMap(() =>
                 from(signOut(this.auth)).pipe(
                     tap(() => {
                         localStorage.removeItem(userLocalStorage);
                         localStorage.removeItem(emailVerifiedLocalStorage);
                         localStorage.removeItem(accessTokenLocalStorage);
+                        this.router.navigateByUrl('auth/sing-in')
                     }),
                     map(() => authActions.signOutSuccess()),
                     catchError((error) => of(authActions.signOutFailure({ error }))),
@@ -167,7 +170,10 @@ export class AuthEffects {
     public readonly signInSuccess$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.setCurrentUser),
-            tap(() => this.notificationService.showSuccessMessage('Authentication successful'))
+            tap(() => {
+                this.notificationService.showSuccessMessage('Authentication successful');
+                this.router.navigateByUrl('');
+            })
         ),
         { dispatch: false }
     );
