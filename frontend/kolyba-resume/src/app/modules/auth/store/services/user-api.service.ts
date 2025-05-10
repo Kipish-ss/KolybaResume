@@ -20,14 +20,14 @@ export class UserApiService {
 
     public getCurrentUser(): Observable<Action> {
         return this.httpService.getRequest<User>(this.routePrefix).pipe(
-            map((user) => authActions.setCurrentUser({ user })),
+            map((user) => authActions.loadCurrentUserSuccess({ user })),
             catchError(() => of(authActions.loadCurrentFailure({ error: new Error() }))),
         );
     }
 
     public createUser(newUser: NewUser): Observable<Action> {
         return this.httpService.postRequest<User>(this.routePrefix, newUser).pipe(
-            map((user) => authActions.createUseruccess({ user })),
+            map((user) => authActions.createUserSuccess({ user })),
             catchError(() => of(authActions.createUserFailure({ error: new Error() }))),
         );
     }

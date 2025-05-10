@@ -10,6 +10,8 @@ public class Vacancy
     public string Url { get; set; } = string.Empty;
     public string Salary { get; set; }
     public string? Location { get; set; }
+    public string CategoryText { get; set; } = string.Empty;
+    public VacancySource Source { get; set; } = VacancySource.Dou;
     public double[]? Vector { get; set; }
     public JobCategory? Category { get; set; }
 }

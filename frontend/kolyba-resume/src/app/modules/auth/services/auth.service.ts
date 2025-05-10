@@ -1,6 +1,7 @@
 import { Auth, User, UserCredential, createUserWithEmailAndPassword, signOut as firebaseSignOut, onAuthStateChanged, sendPasswordResetEmail, signInWithEmailAndPassword } from '@angular/fire/auth';
 import { Observable, concatMap, defer, first, from, of } from 'rxjs';
-import { map, tap } from 'rxjs/operators';
+import { accessTokenLocalStorage, emailVerifiedLocalStorage, userLocalStorage } from '@core/constants/local-storage.constants';
+import { map, take, tap } from 'rxjs/operators';
 
 import { Injectable } from '@angular/core';
 import { NotificationService } from '../../core/services/notification.service';
@@ -34,8 +35,8 @@ export class AuthService {
             tap({
                 next: (userCredential) => {
                     if (userCredential.user) {
-                        from(userCredential.user.getIdToken())
-                            .subscribe(token => localStorage.setItem('access-token', token));
+                        from(userCredential.user.getIdToken()).pipe(take(1))
+                            .subscribe(token => localStorage.setItem(accessTokenLocalStorage, token));
 
                         if (!userCredential.user.emailVerified) {
                             const emailNotVerified = new Error('Email is not verified');
@@ -63,9 +64,9 @@ export class AuthService {
             first(),
             tap({
                 next: () => {
-                    localStorage.removeItem('user');
-                    localStorage.removeItem('email-verified');
-                    localStorage.removeItem('access-token');
+                    localStorage.removeItem(userLocalStorage);
+                    localStorage.removeItem(emailVerifiedLocalStorage);
+                    localStorage.removeItem(accessTokenLocalStorage);
                 },
                 error: (e) => this.notificationService.showErrorMessage(e.message),
             }),
@@ -73,7 +74,7 @@ export class AuthService {
     }
 
     public isLoggedIn(): boolean {
-        return JSON.parse(localStorage.getItem('email-verified')!) as boolean;
+        return JSON.parse(localStorage.getItem(emailVerifiedLocalStorage)!) as boolean;
     }
 
     public refreshToken(): Observable<void> {
@@ -84,7 +85,7 @@ export class AuthService {
     }
 
     public getAccessToken() {
-        return localStorage.getItem('access-token');
+        return localStorage.getItem(accessTokenLocalStorage);
     }
 
     private sendEmailVerification(): Observable<void> {
@@ -107,6 +108,6 @@ export class AuthService {
 
     private async setUserAccessToken(user: User) {
         const token = await user.getIdToken();
-        localStorage.setItem('access-token', token);
+        localStorage.setItem(accessTokenLocalStorage, token);
     }
 }

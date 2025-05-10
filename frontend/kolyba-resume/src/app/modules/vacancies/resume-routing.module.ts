@@ -1,5 +1,6 @@
 import { RouterModule, Routes } from '@angular/router';
 
+import { AuthGuard } from '@core/guards/auth.guard';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { NgModule } from '@angular/core';
 import { ResumeAdaptationComponent } from './components/resume-adaptation/resume-adaptation.component';
@@ -10,20 +11,12 @@ const routes: Routes = [
     {
         path: '',
         component: DashboardComponent,
-        children: [
-            {
-                path: 'search-results',
-                component: SearchResultsComponent,
-            },
-            {
-                path: 'resume-adaptation',
-                component: ResumeAdaptationComponent,
-            },
-            {
-                path: 'resume-upload',
-                component: UploadResumeComponent
-            }
-        ],
+        canActivate: [AuthGuard]
+    },
+    {
+        path: 'search-results',
+        component: SearchResultsComponent,
+        canActivate: [AuthGuard]
     },
     {
         path: '**',

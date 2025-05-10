@@ -25,12 +25,10 @@
 
 <div class="results-container">
     <mat-card *ngFor="let result of filteredResults$ | async" class="result-card">
-        <mat-card-title><a [href]="result.link">{{ result.title }}</a></mat-card-title>
+        <mat-card-title><a [href]="result.url" [target]="'blank'">{{ result.title }}</a></mat-card-title>
         <mat-card-content>
-            <p *ngIf="result.text">{{ result.text }}</p>
             <p>Salary: {{ result.salary }}</p>
             <p>Location: {{ result.location }}</p>
-            <p *ngIf="result.location">Location: {{ result.location }}</p>
             <p>Relevance: {{ result.score }}</p>
         </mat-card-content>
     </mat-card>

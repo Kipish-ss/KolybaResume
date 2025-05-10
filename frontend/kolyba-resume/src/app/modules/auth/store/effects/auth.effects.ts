@@ -49,16 +49,17 @@ export class AuthEffects {
     public readonly loadCurrentUser$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.loadCurrentUser),
-            switchMap(() => this.userApiService.getCurrentUser())
+            tap(() => this.spinnerService.show()),
+            switchMap(() => this.userApiService.getCurrentUser()),
+            tap(() => this.spinnerService.hide())
         )
     );
 
     public readonly loadCurrentUserSuccess$ = createEffect(() =>
         this.actions$.pipe(
-            ofType(authActions.setCurrentUser),
-            tap(() => this.router.navigateByUrl(''))
-        ),
-        { dispatch: false }
+            ofType(authActions.loadCurrentUserSuccess),
+            switchMap(({ user }) => [authActions.setCurrentUser({ user }), authActions.signInSuccess()])
+        )
     );
 
     public readonly signUp$ = createEffect(() =>
@@ -169,7 +170,7 @@ export class AuthEffects {
 
     public readonly signInSuccess$ = createEffect(() =>
         this.actions$.pipe(
-            ofType(authActions.setCurrentUser),
+            ofType(authActions.signInSuccess),
             tap(() => {
                 this.notificationService.showSuccessMessage('Authentication successful');
                 this.router.navigateByUrl('');
@@ -194,7 +195,7 @@ export class AuthEffects {
 
     public readonly signUpSuccess$ = createEffect(() =>
         this.actions$.pipe(
-            ofType(authActions.createUseruccess),
+            ofType(authActions.createUserSuccess),
             tap(() => this.notificationService.showInfoMessage('Verification email has been sent'))
         ),
         { dispatch: false }
