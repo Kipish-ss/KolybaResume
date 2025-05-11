@@ -83,11 +83,11 @@ public static class ServiceCollectionExtensions
             q.AddTrigger(opts => opts
                 .ForJob(jobKey)
                 .WithIdentity("dou-trigger")
-                .WithSimpleSchedule(opt => opt.WithIntervalInHours(24).RepeatForever())
-                // .WithCronSchedule("0 0 9 * * ?", cronOpts => {
-                //     cronOpts.InTimeZone(TimeZoneInfo.Local);
-                //     cronOpts.WithMisfireHandlingInstructionFireAndProceed();
-                // })
+                //.WithSimpleSchedule(opt => opt.WithIntervalInHours(24).RepeatForever())
+                .WithCronSchedule("0 0 9 * * ?", cronOpts => {
+                    cronOpts.InTimeZone(TimeZoneInfo.Local);
+                    cronOpts.WithMisfireHandlingInstructionFireAndProceed();
+                })
             );
         });
 
