@@ -7,38 +7,54 @@ from ml_backend.api.services.model_service import get_embedding_model
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from collections import defaultdict
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int = 32) -> list[VacancyScoreResponse]:
     if not vacancy_ids:
         return []
 
-    model = get_embedding_model()
     stmt = select(Vacancy).where(Vacancy.Id.in_(vacancy_ids))
-    vacancies = db.execute(stmt).scalars().all()
+    all_vacancies = db.execute(stmt).scalars().all()
+    if not all_vacancies:
+        return []
 
-    vacancy_texts = []
-    for vacancy in vacancies:
-        text = translate(f"{vacancy.Title} {vacancy.Text}")
-        cleaned = clean_text(text)
-        vacancy.CleanedText = cleaned
-        vacancy_texts.append(cleaned)
-
+    model = get_embedding_model()
     vacancy_vectors = {}
-    for i in range(0, len(vacancies), batch_size):
-        batch_texts = vacancy_texts[i:i + batch_size]
-        batch_vacancies = vacancies[i:i + batch_size]
+    for i in range(0, len(all_vacancies), batch_size):
+        batch_vacancies = all_vacancies[i:i + batch_size]
+        batch_texts = []
+        successful_vacancies = []
 
-        encoded_batch = model.encode(batch_texts)
+        for vacancy in batch_vacancies:
+            try:
+                text = translate(f"{vacancy.Title} {vacancy.Text}")
+                cleaned = clean_text(text)
+                vacancy.CleanedText = cleaned
+                batch_texts.append(cleaned)
+                successful_vacancies.append(vacancy)
+            except Exception as e:
+                logger.error(f'Error processing vacancy {vacancy.Id}: {str(e)}')
 
-        for j, vacancy in enumerate(batch_vacancies):
-            vector = encoded_batch[j]
-            vacancy.Vector = vector.tobytes()
-            vacancy_vectors[vacancy.Id] = vector
+        if not successful_vacancies:
+            continue
 
-    db.commit()
+        try:
+            encoded_batch = model.encode(batch_texts)
+            for j, vacancy in enumerate(successful_vacancies):
+                vector = encoded_batch[j]
+                vacancy.Vector = vector.tobytes()
+                vacancy_vectors[vacancy.Id] = vector
 
-    categories = {v.Category for v in vacancies if v.Category is not None}
+            db.commit()
+            logger.info(f'Processed {len(successful_vacancies)} vacancies')
+        except Exception as e:
+            db.rollback()
+            logger.error(f'Error encoding batch: {str(e)}')
+
+    categories = {v.Category for v in all_vacancies if v.Category is not None}
     if not categories:
         return []
 
@@ -59,7 +75,7 @@ def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int =
         resume_vectors[resume.Id] = np.frombuffer(resume.Vector, dtype=np.float32)
 
     results = []
-    for vacancy in vacancies:
+    for vacancy in all_vacancies:
         vacancy_category = vacancy.Category
         if vacancy_category not in resumes_by_category:
             continue

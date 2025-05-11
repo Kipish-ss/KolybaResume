@@ -1,8 +1,10 @@
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
-from translators.server import TranslatorError
 import translators as ts
 import re
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 def remove_urls(text: str) -> str:
@@ -46,11 +48,14 @@ def translate(text: str, max_len=4500) -> str:
     except LangDetectException:
         lang = ''
     if lang != 'en':
-        if len(text) <= max_len:
-            text = ts.translate_text(text, translator='google')
-        else:
-            chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)]
-            translated_chunks = [ts.translate_text(chunk, translator='google') for chunk in chunks]
-            text = ''.join(translated_chunks)
+        try:
+            if len(text) <= max_len:
+                text = ts.translate_text(text, translator='google')
+            else:
+                chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)]
+                translated_chunks = [ts.translate_text(chunk, translator='google') for chunk in chunks]
+                text = ''.join(translated_chunks)
+        except Exception as e:
+            logger.warning(f"Google translation failed: {e}, returning original text")
 
     return text
