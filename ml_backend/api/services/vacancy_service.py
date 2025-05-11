@@ -20,10 +20,11 @@ def store_vacancy_vectors(db: Session, vacancy_ids: list[int]) -> list[VacancySc
     vacancy_vectors = {}
 
     for vacancy in vacancies:
-        vacancy_text = f"{vacancy.Title} {vacancy.Text} {vacancy.Location or ''}"
+        vacancy_text = f"{vacancy.Title} {vacancy.Text}"
         vacancy_text = translate(vacancy_text)
-        cleaned_vacancy_text = clean_text(vacancy_text)
-        vacancy_vector = model.encode(cleaned_vacancy_text)
+        vacancy_text = clean_text(vacancy_text)
+        vacancy.CleanedText = vacancy_text
+        vacancy_vector = model.encode(vacancy_text)
 
         vacancy_vectors[vacancy.Id] = vacancy_vector
         vacancy.Vector = vacancy_vector.tobytes()

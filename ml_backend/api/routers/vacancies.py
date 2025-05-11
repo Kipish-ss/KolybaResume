@@ -31,7 +31,6 @@ async def process_vacancies(request: VacanciesRequest, db: Session = Depends(get
         return results
 
     except Exception as e:
-        raise e
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=str(e)

@@ -34,15 +34,15 @@ def classify_resume(resume_text: str) -> int:
 def store_resume_vector(db: Session, resume_id: int) -> None:
     resume = db.get(Resume, resume_id)
     resume_text = resume.Text
-    translated_text = translate(resume_text)
-    cleaned_resume_text = clean_text(translated_text)
-    resume.ClearedText = cleaned_resume_text
+    resume_text = translate(resume_text)
+    resume_text = clean_text(resume_text)
+    resume.CleanedText = resume_text
 
     embed_model = get_embedding_model()
-    resume_vector = embed_model.encode(cleaned_resume_text)
+    resume_vector = embed_model.encode(resume_text)
     resume.Vector = resume_vector.tobytes()
 
-    category = classify_resume(cleaned_resume_text)
+    category = classify_resume(resume_text)
     resume.Category = category
 
     db.commit()

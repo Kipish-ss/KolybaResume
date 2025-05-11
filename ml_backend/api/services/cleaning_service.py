@@ -1,5 +1,6 @@
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
+from translators.server import TranslatorError
 import translators as ts
 import re
 
@@ -28,7 +29,7 @@ def normalize_whitespace(text: str) -> str:
     return re.sub(r'\s+', ' ', text).strip()
 
 
-def clean_text(text: str, min_length: int = 0) -> str | None:
+def clean_text(text: str) -> str | None:
     text = remove_urls(text)
     text = remove_emails(text)
     text = remove_phone_numbers(text)
@@ -36,18 +37,20 @@ def clean_text(text: str, min_length: int = 0) -> str | None:
     text = remove_special_characters(text)
     text = normalize_whitespace(text)
 
-    if len(text) >= min_length:
-        return text
-    else:
-        return None
+    return text
 
 
-def translate(text: str) -> str:
+def translate(text: str, max_len=4500) -> str:
     try:
         lang = detect(text)
     except LangDetectException:
         lang = ''
     if lang != 'en':
-        text = ts.translate_text(text, translator='google')
+        if len(text) <= max_len:
+            text = ts.translate_text(text, translator='google')
+        else:
+            chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)]
+            translated_chunks = [ts.translate_text(chunk, translator='google') for chunk in chunks]
+            text = ''.join(translated_chunks)
 
     return text
