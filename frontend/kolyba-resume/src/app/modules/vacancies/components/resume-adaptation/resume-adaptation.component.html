@@ -4,11 +4,7 @@
         <mat-card-title>Score: {{ rec.score }} / 100</mat-card-title>
       </mat-card-header>
       <mat-card-content>
-        <h3>Keywords you already have:</h3>
-        <mat-chip-listbox>
-          <mat-chip-option *ngFor="let kw of rec.presentKeywords">{{ kw }}</mat-chip-option>
-        </mat-chip-listbox>
-        <h3>Suggestions to add:</h3>
+        <h3>Here are some of keywords which will improve your resume if relevant:</h3>
         <mat-chip-listbox>
           <mat-chip-option color="warn" variant="outlined" *ngFor="let kw of rec.missingKeywords">{{ kw }}</mat-chip-option>
         </mat-chip-listbox>

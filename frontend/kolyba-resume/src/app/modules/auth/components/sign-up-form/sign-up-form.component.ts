@@ -45,7 +45,7 @@ export class SignUpFormComponent {
     }
 
     public onSignUp(): void {
-        if (this.signUpForm.errors == null) {
+        if (!this.signUpForm.invalid) {
             const email = this.signUpForm.value.email!;
             const password = this.signUpForm.value.password!;
             const name = this.signUpForm.value.name!;

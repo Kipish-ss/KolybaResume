@@ -30,6 +30,6 @@
         </mat-form-field>
     </div>
     <div class="form-actions flex-col h-align-center">
-        <button class="full-width" mat-flat-button color="primary" type="submit">Sign In</button>
+        <button class="full-width" mat-flat-button  [disabled]="signInForm.invalid" color="primary" type="submit">Sign In</button>
     </div>
 </form>

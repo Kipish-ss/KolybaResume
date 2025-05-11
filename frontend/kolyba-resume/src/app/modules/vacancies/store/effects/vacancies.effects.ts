@@ -1,12 +1,12 @@
 import * as vacanciesActions from '../actions/vacancies.actions';
 
 import { Actions, createEffect, ofType } from '@ngrx/effects';
-import { accessTokenLocalStorage, emailVerifiedLocalStorage, userLocalStorage } from '@core/constants/local-storage.constants';
-import { catchError, filter, from, map, mergeMap, of, switchMap, tap } from 'rxjs';
+import { filter, switchMap, tap } from 'rxjs';
 
 import { Injectable } from '@angular/core';
-import {MatDialog} from '@angular/material/dialog';
+import { MatDialog } from '@angular/material/dialog';
 import { NotificationService } from '@core/services/notification.service';
+import { ResumeAdaptationComponent } from '@vacancies//components/resume-adaptation/resume-adaptation.component';
 import { Router } from '@angular/router';
 import { SpinnerService } from '@core/services/spinner.service';
 import { VacanciesApiService } from '../services/vacancies-api.service';
@@ -31,9 +31,23 @@ export class VacanciesEffects {
         switchMap(description => this.vacanciesApiService.getRecommendations(description)),
         tap(() => {
             this.spinnerService.hide();
-            this.router.navigateByUrl('resume-adaptation')
+            this.matDialog.open(ResumeAdaptationComponent);
         })
     ));
+
+    public readonly loadRecommendations$ = createEffect(() => this.actions$.pipe(
+        ofType(vacanciesActions.loadRecommendations),
+        tap(() => this.spinnerService.show()),
+        switchMap(({ jobDescription }) => this.vacanciesApiService.getRecommendations(jobDescription)),
+        tap(() => this.spinnerService.hide())
+    ));
+
+    public readonly loadRecommendationsSuccess$ = createEffect(() => this.actions$.pipe(
+        ofType(vacanciesActions.loadRecommendationsSuccess),
+        tap(() => this.matDialog.open(ResumeAdaptationComponent))
+    ),
+        { dispatch: false }
+    );
 
     public readonly loadJobDescription$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadJobDescription),

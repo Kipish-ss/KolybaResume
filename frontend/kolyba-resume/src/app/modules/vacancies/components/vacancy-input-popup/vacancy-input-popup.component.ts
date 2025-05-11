@@ -13,7 +13,7 @@ import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 })
 export class VacancyInputPopupComponent {
     public readonly urlControl = new FormControl('', Validators.pattern('https?://.+'));
-    public readonly descControl = new FormControl('');
+    public readonly descriptionControl = new FormControl('');
 
     public description$ = this.vacanciesStoreService.jobDescription$;
 
@@ -21,7 +21,7 @@ export class VacancyInputPopupComponent {
         private dialogRef: MatDialogRef<VacancyInputPopupComponent>,
         private vacanciesStoreService: VacanciesStoreService
     ) {
-        this.description$.pipe(takeUntilDestroyed()).subscribe((description) => this.descControl.setValue(description ?? ''))
+        this.description$.pipe(takeUntilDestroyed()).subscribe((description) => this.descriptionControl.setValue(description ?? ''))
     }
 
     public loadByUrl(): void {
@@ -31,9 +31,9 @@ export class VacancyInputPopupComponent {
     }
 
     public submit(): void {
-        const desc = this.descControl.value;
-        if (desc) {
-            this.dialogRef.close();
+        const description = this.descriptionControl.value;
+        if (description) {
+            this.dialogRef.close(description);
         }
     }
 

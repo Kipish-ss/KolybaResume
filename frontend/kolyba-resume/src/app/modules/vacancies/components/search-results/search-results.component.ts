@@ -1,5 +1,6 @@
 import { Observable, combineLatest, map, startWith } from 'rxjs';
 
+import { AuthStoreService } from '@auth//store/services/auth-store.service';
 import { Component } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { VacanciesStoreService } from '@vacancies//store/services/vacancies-store.service';
@@ -20,7 +21,10 @@ export class SearchResultsComponent {
 
     public filteredResults$?: Observable<Vacancy[]>;
 
-    constructor(private vacanciesStoreService: VacanciesStoreService) {
+    constructor(
+        private readonly vacanciesStoreService: VacanciesStoreService,
+        private readonly authStoreService: AuthStoreService
+    ) {
 
         this.vacanciesStoreService.loadVacancies();
 
@@ -37,5 +41,10 @@ export class SearchResultsComponent {
                     .sort((a, b) => (b[sortKey as keyof Vacancy] as number) - (a[sortKey as keyof Vacancy] as number)) ?? []
             )
         );
+    }
+
+    
+    public onSignOut(): void {
+        this.authStoreService.signOut();
     }
 }
