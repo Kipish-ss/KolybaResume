@@ -10,7 +10,7 @@ android,"* Bank RBK *
 - Participated in team agile and engineering practices, contributing to their continuous evolution.
 * Relog *
 - Technical development and support of the Relog application with 3000+ active users.
-- Worked with the map (MapBox SDK) to track the location of users.
+- Worked with the map (MapBox SDK) to track the Location of users.
 - Implemented UI using Jetpack Compose.
 * ABM Co *
 - Development of applications and consideration of technical solutions, as well as planning the development process.
@@ -169,7 +169,7 @@ Freshcut and School Management App: Enhanced user experience in the Freshcut gam
 Remittance App Development: Led a team in developing a remittance app for the Ethiopian diaspora, focusing on GETX state management, HTTP connectivity, and multi-language support.
 Backend Development and IT Leadership: Managed backend development for a sales tracker app and a Flutter CRBT app, utilizing Laravel, GetX, HTTP library, and implementing efficient cloud solutions.
 Junior Mobile Engineer: Initiated my career developing Android apps with AdMob AdSense integration and MVVM architecture, achieving over 1.4 million users across all developed apps.
-On time salary payment, Online courses sponsorship"
+On time Salary payment, Online courses sponsorship"
 android,"В андроид разработке с 2011 года. Последние 2 года работал на проекте по разработке приложения для мобильного банкинга. Работал в компаниях Fintech Farm, Sigma Software, Epam, Blackberry. Есть опыт работы с GoolePay."
 android,"Android Developer,  Pin-Up, Full-time
 September 2022 - January 2024 · 1y 4m
@@ -246,7 +246,7 @@ Experience in:
 Almost my entire career was built at startups, that taught me to be able to both take responsibility, doing all the work on my own, and to feel perfectly, working in a team.
 • Challenging projects
 • Professional growth
-In terms of salary (net only):
+In terms of Salary (net only):
 - part-time (up to 4 hours per day): $2800
 - full time: from $4500"
 android,"Non-commercial experience:
@@ -304,7 +304,7 @@ android,"As an Android Developer with 8 years professional experience I have dev
 My latest project was a mobile banking application for corporate users for one of the big bank of Azerbaijan - Kapital Bank OJSC.
 Currently this application has more than 100k installations and 4.9 rate in play store.
 Stacks: Kotlin, MVVM, Coroutines, Work Managers, NFC, Hilt DI, Jetpack, Navigation, Notification, Firebase, Play Services
-Cue app (Health startup based on USA): tracks daily activities of users, sends multiple self-reports and gets answers. Batch uploads with Worker Manager, used device sensors like location, activity, steps and etc.
+Cue app (Health startup based on USA): tracks daily activities of users, sends multiple self-reports and gets answers. Batch uploads with Worker Manager, used device sensors like Location, activity, steps and etc.
 I was responsible for:
 - Leading Android Developers
 - Working closely with the customer to specify requirements
@@ -394,7 +394,7 @@ mobile network
 ability to modify it at any time
 Locality
 - A game that utilizes Google Maps; by looking at a photo, you choose
-the location on the map where the photo was taken and discover the
+the Location on the map where the photo was taken and discover the
 actual place
 - Single-player/multiplayer mode
 - Adding custom locations with photos
@@ -591,8 +591,8 @@ Senior Android Developer Remote
 Project: App for sport workouts
 Kotlin, Kotlin Coroutines, JetPack Compose, ViewModel, RxJava , koin, android clean architecture, SOLID, Firebase Cloud Messaging, firebase crashlytics.
 2024 Mar - 2025 Feb
-Learning Python language, Data Science/Analytics, Jupyter , libraries NymPy, Pandas, SciPy, mathplotlib, plotly, seaborn, SciKitLearn. Refreshing mathematics background skills in Math statistics , probability theory, vector algebra , etc.
-2022 Sep - 2024 Mar. Learning Spring Framework, Data, Rest, Security, Hibernate etc. Learning Vaadin framework .  Full Stack pet demo project on VPS Server Ubuntu 22.04 with Kotlin : Backend Spring Boot + Vaadin Flow + Android Client - Real time GPS location server .
+Learning Python language, Data Science/Analytics, Jupyter , libraries NymPy, Pandas, SciPy, mathplotlib, plotly, seaborn, SciKitLearn. Refreshing mathematics background skills in Math statistics , probability theory, Vector algebra , etc.
+2022 Sep - 2024 Mar. Learning Spring Framework, Data, Rest, Security, Hibernate etc. Learning Vaadin framework .  Full Stack pet demo project on VPS Server Ubuntu 22.04 with Kotlin : Backend Spring Boot + Vaadin Flow + Android Client - Real time GPS Location server .
 Developing core for my own next startups .
 2020 Sep - 2022 Sep. Lead Android Developer Remote
 Company: Svitla Systems
@@ -737,7 +737,7 @@ Clean Architecture, SOLID, Design patterns
 Material UI
 Data binding, View binding
 Worked in FinTech, 3D technology, B2B, B2C.
-1) Developed from the beginning and successfully published application - personal fitness trainer. Currently it's a top grossing application on Google Play in category Health Fitness.
+1) Developed from the beginning and successfully published application - personal fitness trainer. Currently it's a top grossing application on Google Play in Category Health Fitness.
 2) Created and released a box decision for user's and card verification, which is provided as an Android library and currently used by cryptocurrency exchanges (KYC).
 3) I participated in 6 different projects, All of them were successfully finished. Five of them were released on Play Market.
 4) I reanimated outdated and broken project, finished it, what allowed extend cooperation with client to another projects.
@@ -782,15 +782,15 @@ android,"I am an Android Developer with more than 7 years of experience with str
 I have entered university with a higher degree and studied Computer Engineering at Azerbaijan Technical University in Baku, Azerbaijan. In the last year of university, I started to work as a junior full-time Java Developer while studying, and with that my programming journey began.
 Delivering a delightful user experience while writing clean, testable, and maintainable code is very important for me. I like to keep up with new technologies either related to Android or Kotlin, Java."
 android,"Developed and maintained Android applications using Kotlin and Jetpack Compose.
-Implemented user authentication with email/password login, Firebase authentication, and deep linking for password reset.
+Implemented user authentication with Email/password login, Firebase authentication, and deep linking for password reset.
 Integrated Firebase Cloud Messaging (FCM) for push notifications, ensuring real-time updates in a chat application.
 Designed and developed a WebSocket-based chat feature, handling real-time message sending, delivery statuses (sent, delivered, read), and reconnection logic.
 Utilized Room Database to cache pending messages for offline support and synchronization when the device reconnects.
 Deployed the backend using Ktor and MongoDB, managing authentication, message storage, and API endpoints.
-Set up Android App Links to direct users to specific parts of the app from email verification and password reset links.
+Set up Android App Links to direct users to specific parts of the app from Email verification and password reset links.
 Used Hilt for dependency injection, improving code maintainability and testability.
 Worked on subscription-based premium features, ensuring smooth integration with Google Play Billing.
-Developed location tracking functionality using FusedLocationProviderClient for real-time location updates.
+Developed Location tracking functionality using FusedLocationProviderClient for real-time Location updates.
 Technologies & Tools:
 Kotlin, Jetpack Compose, Coroutines, Flow
 WebSockets, Firebase Cloud Messaging (FCM)
@@ -1042,7 +1042,7 @@ Primary developer for Theme Park Application
 Delivered an interface to pre-seat guests, accessible through both manual selection and QR code scanning. Responsible for the ongoing maintenance and enhancement of existing attractions, as well as the integration of pre-seat functionality for several new attractions.
 Stack: Kotlin, MVVM, Clean Architecture, Compose, Dagger 2, Flow
 Lead Developer, Product for the Energy Industry
-Spearheaded the development of the application, a robust application designed to provide both customers and engineers with secure, real-time access to drilling data, reports, and analytics from any location. The platform includes multiple custom views, data caching for enhanced performance, and push notifications to ensure timely updates and insights.
+Spearheaded the development of the application, a robust application designed to provide both customers and engineers with secure, real-time access to drilling data, reports, and analytics from any Location. The platform includes multiple custom views, data caching for enhanced performance, and push notifications to ensure timely updates and insights.
 Stack: Kotlin, Clean Architecture, Room, Firebase. RxJava
 Application Developer, Vacuum Cleaner App
 Provided ongoing support and developed new features for an established vacuum cleaner application, enhancing functionality and user experience. Collaborated closely with cross-functional teams to identify user needs, improve app performance, and integrate innovative features to maintain the app’s competitiveness in the market.
@@ -1073,7 +1073,7 @@ android,"I have 2 years of commercial experience in Android development. At my p
 - Built and released over 10 Android apps, including one with 1M+ downloads on Google Play
 - Developed features like real-time undo/redo, OCR integration, and complex analytics dashboards
 - Created a multilingual app with interactive UI and custom gestures
-- Took initiative by adding ML Kit text recognition to improve UX
+- Took initiative by adding ML Kit Text recognition to improve UX
 - Delivered apps under tight deadlines while maintaining code quality
 I’m looking for a company where I can grow professionally, work with modern technologies, and be involved in interesting and meaningful projects. I value clear communication, flexibility, and a healthy team atmosphere. I’d prefer to avoid outdated tech stacks and disorganized workflows."
 android,"4 years in android development.
@@ -1163,7 +1163,7 @@ I don't want to work in business domains like:
 - Games
 - Cryptocurrency
 - Bets"
-android,"Hello, my name is Dmytro, and I'm an Android developer with over 10 years of experience. I've worked on a wide range of projects, from large e-commerce platforms to complex VOD applications for TV platforms.
+android,"Hello, my Name is Dmytro, and I'm an Android developer with over 10 years of experience. I've worked on a wide range of projects, from large e-commerce platforms to complex VOD applications for TV platforms.
 I'm proficient in Kotlin and Java, have a deep understanding of the Android SDK and Jetpack Components, and I'm well-versed in architectural patterns like MVP, MVVM and Clean Architecture, ensuring robust and scalable code."
 android,"Skilled Android dev(12+ years in Android, total: 15+). Have several pet projects(including iot), like to work with various technologies. I know Java, Kotlin c++, c, Android, jni. Last 4 years working in Kotlin.
 Less experienced in unity 3d, js, opengl.
@@ -1311,10 +1311,10 @@ A part-time job at an IT company.
 Responsibilities: website administration, order processing, billing, and marketing.
 -       Rutexnet (2015 – 2022)
 The customer service manager at Canadian ISP.
-Responsibilities: communicating with Canadian customers by phone, chat, and email; checking service availability; verifying new customers; signing up new and disconnection of current customers; processing move requests/modem swaps; billing questions, and so on.
+Responsibilities: communicating with Canadian customers by phone, chat, and Email; checking service availability; verifying new customers; signing up new and disconnection of current customers; processing move requests/modem swaps; billing questions, and so on.
 -       Velcom Canada (2012 – 2022)
 Sales represantative at Canadian ISP.
-Responsibilities: communicating with Canadian customers by phone, chat, and email; checking service availability; verifying new customers; signing up new and disconnection of current customers; processing move requests/modem swaps; billing questions, and so on.
+Responsibilities: communicating with Canadian customers by phone, chat, and Email; checking service availability; verifying new customers; signing up new and disconnection of current customers; processing move requests/modem swaps; billing questions, and so on.
 -	Jobofer (2013 – 2020)
 Work and Travel coordinator at a recruiting company (part-time job). Responsibilities: Make cold calls to US businesses;  Consult employers regarding hiring students for the summer season; Maintain good relationships with current employers;
 Data entry, data management; Organization of interviews with students.
@@ -1338,7 +1338,7 @@ My Skills and Experience:
 - Some experience in App Subscription and Payment gateway(Stripe).
 - Other: Git, DataStore, Flow, Jira.
 My Projects
-Navigation Apps: The app is tracking current location and saves data to database. Another app can retrieve data and show it on the map. I was mainly working on map integration and tracking algorithms.
+Navigation Apps: The app is tracking current Location and saves data to database. Another app can retrieve data and show it on the map. I was mainly working on map integration and tracking algorithms.
 News App: The app is taking news from several RSS sources and desplays on the screen. My job included working with UI, API integration.
 Lifestyle App: A startup is related to tracking personal activities. The project is done from a scratch on jetpack compose. My job included working with UI, Firebase authentication, API integration and working with camera.
 I am a highly motivated professional with 1+ years of experience in Android development. I have deep expertise in Kotlin and the Android SDK, with my primary focus on Android app development. I continually sharpen my skills through practical experience and ongoing learning. Not only am I dedicated to developing my skills, but I am also a fast learner who is committed to bringing profit to a company by delivering high-quality, efficient, and innovative solutions."
@@ -1494,7 +1494,7 @@ Degree:
 Westminster International University in Tashkent, Bachelor of Science in Business Information Systems"
 android,"I'm a software engineer with math background. My main speciality is Android development with Java/Kotlin, but I also have a commercial experience of .NET development with C#.
 My job activities, apart from writing code, included performing code review, providing code coverage with tests, choosing suitable architectural solutions and tech stack, decomposing and estimating tasks, configuring feature delivery.
-As a part of my job, I successfully communicated with management, customers, and teammates of different origin, both verbally and in text.
+As a part of my job, I successfully communicated with management, customers, and teammates of different origin, both verbally and in Text.
 Other activities are optimizing development pipelines, contributing into knowledge sharing among team members, and also mentoring.
 I have experience both in developing apps from scratch and in adding new functionality to already present codebases.
 My most recent project is a cash back app with millions of active users, the leader in the US market. I drove the app's rebranding, optimized auth flow, implemented security features & worked on improving analytics and overall app's stability.
@@ -1582,7 +1582,7 @@ Working, but not finished pet project. By using popular technology."
 android,"I worked in both outsource and product companies. Was part of different sized teams (from one man army to 8 devs per stream). Have experience with Fin-tech, traveling, social networks, e-commerce, loyalty, streaming and entertainment projects. Had setup projects from scratch as well as working on already existing projects and complete refactoring of legacy ones. Setup CI/CD and quality gates depending on the project needs. Have experience in client facing suggesting best practices and possible approaches we can take prioritising business value of the product, sometimes even helping out as part time BA or scrum master. Implemented features of wide range of complexity and requirements (from simple lists and data fetching to complex custom layouts and behaviours). Speaking of technologies I used or am familiar with most of the popular ones and listing them here seems a little pointless :) But I'm hype-driven developer, I always prefer basics and don't like to depend on someone's else library. Most recent addition to my stack is Jetpack compose that my team and I were able to successfully integrate with live project. My current role in the team is android stream lead switching to team lead depending on the project I'm on.
 Most memorable achievements for me personally are a member of Google I/O and receiving Google's Android associate certification. Although that is not technically a great achievements or achievements at all they are just a pleasant memories :)
 Other achievements I think I may mention is writing a content capture module mimicking basic instagram functionalities: Photo, Video Capture, Add Text Labels, Drawings, Cropping, Scaling, Rotations and Giphy integration.
-Intersting project, good team, perks and salary. Preferably product company with up to date tech stack.  Preferably not fin tech :D (only if it's really intersting one ;) )"
+Intersting project, good team, perks and Salary. Preferably product company with up to date tech stack.  Preferably not fin tech :D (only if it's really intersting one ;) )"
 android,"Last company experience:
 - Working on Android projects (most of which are outsourcing ones, a couple of outstuffing projects and one company own product) using the next stack/technologies in the projects:
 Kotlin, MVVM, Clean Architecture, Modularization, Kotlin Coroutines + Flow, Dagger Hilt, Retrofit 2, Jetpack Compose and Material 3 for UI, Android Gradle plugin Kotlin DSL, Firebase (Analytics, Crashlytics, FCM, Remote Config), Kotlinx Serialization + Protobuf (for Datastore), Google Maps, Mapbox, libphonenumber, Jetpack Room/Paging/Navigation/WorkManager/CameraX/Splashscreen, Firebase ML Barcode, NFC, Gradle version catalogs, Pusher WebSockets (chats), Stripe, Biometric API, Push Notification, MPAndroidChart, SmsRetriever, PayCards-Tap-Android, NFC Card Scanner, Foreground Service, Fused Location Provider, Google Play Services Auth, Facebook Login for Android, Glide/Coil, Google Libphone, Google Places API, ID06 PKI Interface library, Lottie for animations, Unit/Instrumented tests, Mockito.
@@ -1597,7 +1597,7 @@ Apps’ short descriptions:
 - An app proposes the service which give possibilities to earn and exchange zero-emission miles to virtual medals which user can use to get discount, vouchers or even buy something in largest web of the app’s partners.
 - A library (SDK) to easily integrate monetization (in-app purchases, ads, premium page, exit dialog) to the projects.
 - MVP taxi app
-and more projects (limited text symbols)
+and more projects (limited Text symbols)
 Also have my own apps which I designed, developed and published on Google Play
 I'm an Android developer with 6+ years of professional experience.
 I was interested in Android development back in university and that's why I started to design and develop my own apps as well which are published on Google Play right now, and some of my apps have over 1 million downloads.
@@ -1765,7 +1765,7 @@ Built mobile departament for large tech holding.
 android,"I have 4 years of experience in android development. Started as a Trainee and worked my way out to Strong Middle. During this time I participated in projects(Kotlin, Java) with various sizes and complexities."
 android,"As a hardworking and highly proficient senior mobile developer with four years of experience, I am passionate about mobile application development. I have a strong track record of successfully developing and delivering high-quality apps on iOS and Android platforms. I am skilled in embracing cutting-edge technology and have a deep understanding of the main mobile platforms, including the subtle differences between each. I am now seeking a new opportunity to further expand on my skills and continue contributing to the success of a team as a senior mobile developer.
 As a Senior Android Developer, I have a strong track record of delivering high-quality Android applications. I have implemented innovative features and functionalities that greatly improved the user experience, and optimized code to improve performance and reliability. I have also led development teams and mentored junior developers, and have worked with clients and stakeholders to gather requirements and provide technical guidance.
-As a senior mobile application developer, my expectations for my new job include a challenging and engaging work environment, opportunities for professional growth and development, a positive and collaborative team culture, a competitive salary and benefits package, and clear career advancement opportunities."
+As a senior mobile application developer, my expectations for my new job include a challenging and engaging work environment, opportunities for professional growth and development, a positive and collaborative team culture, a competitive Salary and benefits package, and clear career advancement opportunities."
 android,"I worked on the Saudi Arabia mail project for 2.8 years using technologies such as
 Kotlin,
 RxJava2,
@@ -1880,7 +1880,7 @@ Throughout my career, I have:
 · Managed a development team of five people
 · Played an active role in the recruitment process.
 · Published applications in both the Play Store and the App Store and worked on optimization.
-* Coordinated a team of 4 people and participated in the development of platform with medical specialists (Android and iOS  applications). Where a specialist can create their profile and the user can find the right specialist, contact him via chat or book an appointment immediately Project location - USA.
+* Coordinated a team of 4 people and participated in the development of platform with medical specialists (Android and iOS  applications). Where a specialist can create their profile and the user can find the right specialist, contact him via chat or book an appointment immediately Project Location - USA.
 * Participated in the development of an Android application for market leaders in the production of smart beds. Developed the main functionality for an Android application to control a smart bed.
 * Converted couple projects from using RxJava to Coroutines
 Has pet projects:
@@ -2003,7 +2003,7 @@ Poor project management and frequent, unjustified priority changes.
 Insufficient Resources:
 Lack of necessary tools and support for task completion.
 Rigid Structure:
-Strict work schedules without flexibility in time and location.
+Strict work schedules without flexibility in time and Location.
 I seek a role that inspires and challenges me, offering growth and satisfaction in a supportive and dynamic team."
 android,"7+ years of experience with:
 Android Studio, Java Core, OOP, Material design,
@@ -2383,7 +2383,7 @@ daily needs.
 - Used Flutter, Dart, Android Studio, BLoC, Retrofit, Beamer, get_it for development purposes.
 Project team - 1 Backend Developer, 1 Mobile Developer, 1 UI/UX Developer, 1 Project Manager, 1
 Product Owner.
-Took 1st place in “Mobile Development” category in INT20H Hackathon in
+Took 1st place in “Mobile Development” Category in INT20H Hackathon in
 2023 and 1st place in “Hack4UA” Hackathon in 2022. Took part in organization of “Fresh AIR
 2023” and “Fresh AIR 2024” hackathons in Odesa. Head of student government of Odessa
 Polytechnic National University in 2022-2023."
@@ -2462,7 +2462,7 @@ Developed PlayMarket unseen Casino App using Kotlin and ViewBinding
 MIDDLE JAVA DEVELOPER
 Created advertising delivery server using Java, Spring Framework, Hibernate, Tarantool, PostgreSQL, ClickHouse, Redis, MessagePack Serialization, Apache Benchmark, and Postman
 Developed fraud detection service using Java and Spring Framework, Weka
-Conducted web page category detection for advertising delivery using Java and Spring Framework, Weka
+Conducted web page Category detection for advertising delivery using Java and Spring Framework, Weka
 ANDROID DEVELOPER
 Developed and implemented advertising SDK for RTB protocol usage
 Provided technical support for SDK integration
@@ -2500,7 +2500,7 @@ I am interested in new technologies and search for new challenges.
 1. Increasing app rate
 2. Developing and releasing of that banking app for Huawei app gallery
 Fully remote flexible time
-Net salary"
+Net Salary"
 android,"Я розробник з України з 18-річним досвідом розробки програмного забезпечення (з них 6й рік розробки під Android). Мною рухає постійне бажання розвиватися, вдосконалювати свої навички та створювати високоякісні програмні продукти.
 Працюю фанатично і відповідально. Мені подобається працювати в хорошому, згуртованому колективі. Маю великий досвід роботи з чужим кодом, а також створення клієнтського програмного забезпечення та мобільних додатків з нуля. Великий досвід написання технічної документації.
 Все описано в CV
@@ -2625,7 +2625,7 @@ August 2019 - January 2020
 Android developer
 An application in order not to stand in line for food. The ability to find the nearest food establishment on a map near you. Also the ability to pay via Google pay or Stripe. Remain only to come and pick up the order
 Technologies and Tools
-Java, Android, XML, Firebase, SQLite, DataBinding, Constraint Layout, Retrofit, Picasso, Stripe, GooglePay, GoogleMap, Google location, Google place, okhttp3, Bottom navigation, Room DB, Navigation
+Java, Android, XML, Firebase, SQLite, DataBinding, Constraint Layout, Retrofit, Picasso, Stripe, GooglePay, GoogleMap, Google Location, Google place, okhttp3, Bottom navigation, Room DB, Navigation
 Size of a team
 1 project manager, 1 Designer, Technical Lead, 1 Android developer, 1 IOS developer
 Upwork
@@ -2978,7 +2978,7 @@ InfoTraffic (5-6 months)
 Integrated Dagger-Hilt and MVVM architecture for scalability.
 Used Room Database for local caching and Firestore for cloud data storage.
 Implemented chat functionality with pagination using Firestore.
-Added MapBox for interactive maps and Geofencing for location tracking.
+Added MapBox for interactive maps and Geofencing for Location tracking.
 Youbelee (7-8 months)
 Developed in Java following the MVP architecture pattern.
 WhyTiTi (7 months)
@@ -3157,7 +3157,7 @@ the changing priorities.
 • Participated in the product design discussions.
 • Interacted with the external services and devices.
 Tools and technologies: Android Studio, Figma, Zeplin, Git, Firebase, Android SDK"
-android,"Hi! My name is Hikmet Qedirov.
+android,"Hi! My Name is Hikmet Qedirov.
 I am a Senior Software Engineer focusing on Android development.
 I graduated from Azerbaijan University with Bachelor's Degree in Computer Science.
 I have built and worked on applications that have been downloaded/used by millions of users.
@@ -3305,7 +3305,7 @@ Focused on rebuilding a video and audio streaming app under a new modular archit
 Android Developer (2021)
 Volunteered to build a news application for distributing important updates across Ukraine. Implemented modern UI with Jetpack Compose, navigation, and offline access to cached content. Focused on lightweight performance and fast delivery.
 Android Developer (2020 – 2021)
-Worked on both desktop and Android platforms. Designed app logic, implemented user interfaces, fixed bugs, and added analytics tools. Also built domain-layer models and relationships and worked with local persistence using Room and SQLite."
+Worked on both desktop and Android platforms. Designed app logic, implemented user interfaces, fixed bugs, and added analytics tools. Also built domain-layer resume_classifier and relationships and worked with local persistence using Room and SQLite."
 android,"Over the years, I have worked on a several Android Applications ranging from Banking applications, Transport and Booking apps, and Fintech applications
 The technologies uses include Android SDK, the Jetpack architectural libraries(Hilt for dependency injection, Jetpack Compose for UI development, WorkManager for managing long running background tasks, Livedata, ViewModel, Room for data storage), Retrofit, Ktor, OkHttp for integrating with rest APIs, Apollo client, Koin for dependency injection, Navigation library,  xml for ui design, and a host of other technologies required for building an Android Application
 Reduces the crash rate of the banking android app by 4%
@@ -3335,7 +3335,7 @@ Worked on a project with more than 1 million active users
 Supported applications in Google Play and AppGallery stores
 Had experience with IP telephony, Chromecast, POS terminals, VPN, AI
 Created an application with more than 100 thousand downloads (VPN-client)
-Interesting project, decent salary"
+Interesting project, decent Salary"
 android,"One of my biggest project was Globe one App, an app for one of the biggest telco in the Philippines. We worked on it for over 3 years and I was one of the lead Android developer there. We used multiple tools but mainly we used MVVM, Retrofit for Rest API, dagger 2 for injecttion, Kotlin and coroutine, Android Jetpack, Room for local storage, clean architecture and many more.
 Thengoogle play introduced a ""trial app"". So we created a mini version of the app with the same technology but we used Jetpack Compose.
 I have been an android developer for over 7 years and I have experience on both java and kotlin and both xml and jetpack compose.
@@ -3411,7 +3411,7 @@ Kotlin, Coroutines, Jetpack Compose, MVI, Clean architecture, Hilt, Room, Spek w
 Interesting projects with professional management and optimized workflow.
 Senior/Lead position in product company"
 android,"Taxi App Development:
-Developed a mobile taxi application with Google Maps integration and Firebase for real-time location tracking and data storage.
+Developed a mobile taxi application with Google Maps integration and Firebase for real-time Location tracking and data storage.
 Ensured seamless functionality of geolocation and ride-ordering features.
 Messaging App:
 Created a chat application written in clean code using the MVVM architectural pattern.
@@ -3490,7 +3490,7 @@ android,"- Kotlin, Java
 - OOP, SOLID, Design Patterns
 - Git
 - Agile, Waterfal
-The 1st place of Hackathon ""ITRevolution'22"" in mobile category
+The 1st place of Hackathon ""ITRevolution'22"" in mobile Category
 The team opened for sharing"
 android,"06.2019 – 11.2021
 ProCreations Development Group
@@ -3699,7 +3699,7 @@ During my IT career I was involved in many interesting and challenging projects 
 - Custom VPN with client-side traffic analysis;
 - Biometric verification SDK for banking;
 - AI integrations, Machine Learning and computer vision;
-- Indoor location on BLE beacons;
+- Indoor Location on BLE beacons;
 - Augmented reality with a camera, GPS, and motion sensors;
 - Apps with a very advanced UI customization;
 - Secure BLE communication with medical devices;
@@ -3757,7 +3757,7 @@ I excel in strategic planning, problem-solving, and optimizing development proce
 - Microservices and Cloud Solutions: Designed and implemented microservices architectures using .NET Core, PostgreSQL, and GCP, enhancing system scalability and performance.
 - Mobile Development Excellence: Delivered high-quality Android applications using Java, Kotlin, and Jetpack Compose, including apps for equipment maintenance, meter readings, and business process automation.
 - Technical Leadership & Team Management: Managed and mentored development teams, fostering a culture of innovation and excellence. Provided technical consultancy and ensured alignment with business goals across projects.
-- Proof of Concept & Innovation: Successfully developed proof-of-concept applications to validate new technologies and business models, driving innovation and strategic growth.
+- Proof of Concept & Innovation: Successfully developed proof-of-concept applications to validate new technologies and business resume_classifier, driving innovation and strategic growth.
 I am passionate about space and science. I am constantly learning and would like to apply my knowledge and experience to innovative solutions and socially impactful projects."
 android,"I have worked as help desk . I have developed mobile applications like budget management and notes app. Also created 2-d platform game in Pico-8 platform. My java project is Image filter desktop application.Now i work as Android developer in StartUp
 I have finished several courses related to android development successfuly. I think i have quite knowledge and experience in this field
@@ -3944,7 +3944,7 @@ Implemented RESTful APIs using Ktor to manage patient records, appointment booki
 Applied MVVM architecture to ensure code reusability, maintainability, and testability across Android and iOS."
 android,"I have hands-on experience working on a wide range of projects across various domains, having worked in outsourcing companies. These domains include healthcare, sports, education, taxi services, delivery services, and more.
 Additionally, I have practical experience with 3D modeling, gained through participation in a commercial project that utilized this technology.
-I have practical experience working with Google Play subscriptions and in-app purchases, as well as Google Maps and location tracking.
+I have practical experience working with Google Play subscriptions and in-app purchases, as well as Google Maps and Location tracking.
 However, my strongest skill lies in my deep understanding of app architecture and clean code principles."
 android,"• Development of e-commerce applications with mobile-first adaptation (PWA and hybrid apps)
 • Implementation of mobile development based on Nuxt.js (v2 & v3) and Capacitor.js (v4, v5, v6)
@@ -3958,7 +3958,7 @@ android,"• Development of e-commerce applications with mobile-first adaptation
 • Abandoned cart triggers based on navigation and analytics
 • API proxy setup for mobile builds using the BFF (backend-for-frontend) approach
 • Working with community plugins: speech recognition, analytics, push notifications, etc.
-• Voice search implementation using speech-to-text
+• Voice search implementation using speech-to-Text
 • CI/CD setup for mobile app builds in a separate Git branch with automated release preparation (App Store / Google Play)
 Released and maintained cross-platform apps for Compendium (100k+ downloads on Android, 35k+ on iOS) and Apteki.ua (10k+ Android, 6k+ iOS), both also available as responsive web apps.
 • Компендіум лікарські препарати – iOS app: 35,000+ downloads
@@ -4135,7 +4135,7 @@ Developed and maintained three major projects using Jetpack Compose and GraphQL.
 Implemented new features, custom UI components, and improved app stability.
 Debugged and optimized performance issues.
 Freelance Android Developer (2019 – Present)
-Built multiple applications with Google Ads, subscription models, and Play Console integration.
+Built multiple applications with Google Ads, subscription resume_classifier, and Play Console integration.
 Gained expertise in app monetization, performance optimization, and user engagement strategies.
 Technical Skills
 Programming Languages:
@@ -4164,7 +4164,7 @@ Android Developer, AVIRISE (Aug 2022 – Jul 2023): Optimized an Android app by 
 Middle Android Developer, Play Intent (Jan 2024 – Jun 2024): Developed a task management app using Jetpack Compose and Hilt, with Firebase for backend services. Focused on creating a scalable multi-module architecture with future support for Kotlin Multiplatform. Led collaboration with QA, PMs, and clients to ensure success.
 Middle Android Developer, Kontaq (Aug 2024 – Present): Optimized and refactored an existing QR code communications platform using MVVM and Koin. Integrated OpenTok SDK for video/call streaming and improved scalability for business solutions.
 Founder & Android Developer, ArtiFlow Studio (Mar 2024 – Present): Led the development of an AI-powered image generation app, handling both technical and managerial aspects. Designed the architecture using Jetpack Compose, Hilt, and Firebase, and started migrating the project to Kotlin Multiplatform. Assembled and managed a team, including onboarding a C++ developer for backend support.
-ArtiFlow (link is attached to this name in cv)
+ArtiFlow (link is attached to this Name in cv)
 - Developed Artiflow, an innovative Android app available on Google Play, from the ground up as the sole developer, managing all aspects from coding to project management and UI/UX design.
 - Utilized Kotlin, Jetpack Compose, and Multi-Module Architecture for a robust and scalable application, showcasing advanced Android development skills.
 - Integrated Hilt for optimized performance and scalability.
@@ -4234,7 +4234,7 @@ Senior Android developer. Luxoft.
 Jun 2021 - Jan 2022
 Project description
 SmartDeviceLink (SDL) is a standard set of protocols and messages that connect applications on a smartphone to a vehicle head unit. This messaging enables a consumer to interact with their application using common in-vehicle interfaces such as a touch screen display, embedded voice recognition, steering wheel controls and various vehicle knobs and buttons.
-The app library component of SDL is meant to run on the end user’s smart-device from within SDL enabled apps, as an embedded app, or connected to the cloud. App libraries allow the apps to connect to SDL enabled head-units and hardware through bluetooth, USB, and TCP for Android, and cloud and embedded apps can connect through web sockets, Java Beans, and other custom transports. Once the library establishes a connection between the smart device and head-unit through the preferred method of transport, the two components are able to communicate using the SDL defined protocol. The app integrating this library project is then able to expose its functionality to the head-unit through text, media, and other interactive elements.
+The app library component of SDL is meant to run on the end user’s smart-device from within SDL enabled apps, as an embedded app, or connected to the cloud. App libraries allow the apps to connect to SDL enabled head-units and hardware through bluetooth, USB, and TCP for Android, and cloud and embedded apps can connect through web sockets, Java Beans, and other custom transports. Once the library establishes a connection between the smart device and head-unit through the preferred method of transport, the two components are able to communicate using the SDL defined protocol. The app integrating this library project is then able to expose its functionality to the head-unit through Text, media, and other interactive elements.
 Responsibilities
 Worked on the proposal implementations to improve open source library. Developed demo apps to show and test new functionality. Fixed bugs and improved Ford's internal project.
 Public GitHub account
@@ -4371,7 +4371,7 @@ CI/CD: GitHub Actions.
 Operating systems: Windows, Linux (Ubuntu), macOS.
 Other software/tools: Apktool, MATLAB, MATLAB Simulink, DIgSILENT PowerFactory, Weka, Mathcad.
 Other skills: OOAD, touch typing: Cyrillic, Latin.
-Competitive salary, friendly team, interesting projects, well-built work process, flexible working hours."
+Competitive Salary, friendly team, interesting projects, well-built work process, flexible working hours."
 android,"I am an experienced Android developer with a strong foundation in Agile-SCRUM methodologies and a deep understanding of the Android SDK, MVVM architecture, Kotlin, and Java. With a proven track record of developing robust and scalable mobile applications, I have contributed to key projects in finance, healthcare, and communications. I excel in applying SOLID principles, design patterns, and modern Android technologies, such as Jetpack Libraries and dependency injection frameworks like Dagger2 and Hilt. Currently, I am advancing mobile banking solutions at the International Bank of Azerbaijan, where I lead feature development and mentor junior developers."
 android,"I am a student of Kyiv Polytechnic Institute, specializing in Software Engineering at the Faculty of Informatics and Computer Science, with two years of development experience, including over a year in commercial roles. My professional journey includes five months at Wild Wild Leads, where I collaborated as part of a five-member development team, working alongside designers, publishers, testers, and other developers to enhance my understanding of client-server architecture and teamwork within cross-functional groups. Additionally, I spent eight months at AppsBuilding, where I served as the sole Android developer for the FaceFit Pro healthcare application. Under the mentorship of a tech lead, I developed and implemented app features using technologies like Jetpack Compose, a multi-module structure, and a clean architecture approach. This blend of collaborative and independent experiences has shaped my approach to Android development, and I’m continually motivated to learn and contribute to impactful projects."
 android,"As a software developer specializing in Android, I have had the privilege of contributing to a variety of projects, each of which has expanded my skill set and deepened my understanding of mobile development.
@@ -4391,7 +4391,7 @@ android,"Guitar SongBook
 The application for guitarists where users can seamlessly explore their favorite musical bands, access chords with various songs, use auto-scroll functionality for convenient playing and create a personalized list of favorite tunes.
 Tools: Kotlin, MVVM, Firebase (Cloud Firestore, Realtime Database, Authentication), Room, Navigation Component, Coroutines, Flows, Hilt, ViewBinding, XML, GitHub
 Greenhouse
-The mobile app will help you take care of your plants. You can add photos from the gallery, specify a name and description for each plant, and schedule notifications for watering, pruning, and other types of care.
+The mobile app will help you take care of your plants. You can add photos from the gallery, specify a Name and description for each plant, and schedule notifications for watering, pruning, and other types of care.
 Tools: Kotlin, MVVM/MVI, Room/Realm, Preferences DataStore,
 AlarmManager, WorkManager, Content Provider, Jetpack Compose (Compose UI, Navigation, Paging), Coroutines, Flows, Hilt/Koin, GitHub
 My goal is to continue developing mobile applications, progress in this field and create useful products"
@@ -4531,7 +4531,7 @@ Axon, Project Native Voice
 - Responsible for the Native Voice Android IoT SDK and app.
 Technologies: Kotlin, Android, Coroutines,Jetpack Compose, Flow, Retrofit, Koin, Unit testing[JUnit, Mockk, Robolectric], ExoPlayer, WebSocket, AWS"
 android,"About my last work place:
-Project name: Under NDA
+Project Name: Under NDA
 Description: E-commers apps of famous sport brand. Eco-system included 4 app's and ~30
 feature modules, supported by 8-10 dev teams.
 Responsibilities:
@@ -4648,7 +4648,7 @@ android,"I have successfully completed several projects, including:
 Automatic Certificate Generator:
 Technologies: Vue.js, Node.js
 Role: Lead Developer
-Task: Developed a web application to automatically generate certificates, integrated with an Android app to distribute certificates via email.
+Task: Developed a web application to automatically generate certificates, integrated with an Android app to distribute certificates via Email.
 Moodle Learning Management System (Blue Health CPD):
 Technologies: PHP, MySQL, Moodle
 Role: System Administrator
@@ -4669,7 +4669,7 @@ Areas for Improvement:
 I am eager to enhance my skills in advanced Kotlin features, explore new Android Jetpack components, and deepen my understanding of MVVM and Clean Architecture patterns. Additionally, I aim to gain more experience with automated testing frameworks and continuous integration tools to improve code quality and deployment processes.
 Automatic Certificate Generator:
 Technologies: Webpack, Vue.js, Node.js, Express.js, MongoDB
-Details: Developed a web and Android app to generate and distribute training certificates automatically via email.
+Details: Developed a web and Android app to generate and distribute training certificates automatically via Email.
 Moodle Learning Management System (Blue Health CPD):
 Technologies: PHP, MySQL, MongoDB
 Details: Installed, customized, and managed a Moodle LMS platform, developing custom plugins to enhance functionality.
@@ -5100,9 +5100,9 @@ Interesting project, friendly team and flexible work schedule. Opportunity to wo
 android,I'm a mobile app developer with about 2 years of hands-on experience. Super stoked about merging my existing skills with new ones and taking on the exciting challenges that come with it. Always up for learning and adapting on the fly!
 android,"My passion for programming started in the fifth grade of school, when we started learning the basics of algorithms in computer science classes using Scratch block programming. Later we switched to Pascal, and it was then that I realized that programming was what I wanted to do and what I was really interested in.
 At university, I was introduced to low-level Assembler language, which allowed me to understand how a computer works at the machine level. After a while I started to actively learn C++, which became my main programming tool. Thanks to this language, I learned to understand algorithms written in most programming languages (except esoteric ones).
-In the process of learning, I realized many projects in different programming languages. These ranged from simple console applications, such as bubble sort and quick sort, to more complex programs on Windows Forms and web applications with databases. One of my accomplishments was creating a custom web application from the To Do category.
+In the process of learning, I realized many projects in different programming languages. These ranged from simple console applications, such as bubble sort and quick sort, to more complex programs on Windows Forms and web applications with databases. One of my accomplishments was creating a custom web application from the To Do Category.
 I then decided to try my hand at mobile development and chose native iOS development. I first created simple 1-2 screen projects in Xcode, and later I developed from scratch a contact management application with authoring solutions, fully integrated into the Apple ecosystem.
-I am willing to discuss salary at the start of the job as experience is paramount to me. All of my current skills are based on solving software related problems on my own. I strive to constantly update my own biological firmware, so I am open to new knowledge. It is very important for me to work in a friendly team where there will be friends, not just colleagues."
+I am willing to discuss Salary at the start of the job as experience is paramount to me. All of my current skills are based on solving software related problems on my own. I strive to constantly update my own biological firmware, so I am open to new knowledge. It is very important for me to work in a friendly team where there will be friends, not just colleagues."
 android,"8 years of experience working with Android.
 Last two years working at Lyft, leading projects from tech spec to production. RxJava, Coroutines, Compose, MVI, DDD
 Site lead, managing a team of 4 engineers, project timelines, gantt charts etc.
@@ -5141,7 +5141,7 @@ First year worked with team lead, now as a core android developer on the app tha
 android,"Android, Kotlin, Java, Retrofit, Flutter, FlutterFlow, Dagger, Hilt, Coroutines, JetpackCompose, AOSP, NDK, C#, JavaScript, Dart, MVVM, TDD, jUnit, mockk, jMock, coroutine tests, Glide, Room, Realm, SQLite, RxJava
 Expert in Android SDK, Kotlin, Java and Flutter (have an experience with FlutterFlow). With nearly two decades of experience in software development.
 I value clear and effective communication, which I believe is key to successful project outcomes. Excited to bring my skills and experience to new and challenging project"
-android,"I worked as a junior specialist in the Coltrans company. We created 2 android apps that work with user location and help dispatchers in their work. Also I created some study projects, like TMDB reader, and capturing photo on movement with OpenCV.
+android,"I worked as a junior specialist in the Coltrans company. We created 2 android apps that work with user Location and help dispatchers in their work. Also I created some study projects, like TMDB reader, and capturing photo on movement with OpenCV.
 I have Bachelour degree in National University of ""Kyiv-Mohyla Academy"" on specialty of Software Engineering.
 I have developed an Android application with the MVVM pattern that showcases popular films, movies, and TV shows. This app uses the TMDB API, leveraging various Android technologies such as Room, Dagger2, Retrofit, Coroutines, XML, and Git. In addition, I created a project on the Android platform that uses the OpenCV library. This program highlights changes in video frames, saves photos to storage, and shows the background subtraction model and the actual frame that has been remade. Also I have some other small pet projects on my GitHub account.
 My goal is to gain work experience as an Android developer. I want to take on new challenges, develop my technical skills, and work with people who share a passion for development."
@@ -5454,7 +5454,7 @@ Successfully created new application from scratch for healthcare organizations w
 Have an experience of ""white labeling"" applications based on advanced Gradle configuration to provide desired functionality with customised branding quickly.
 Have an experience with creating library modules for multi-module Android applications - from high-level architecture to implementation.
 Also have an experience in development of Android apps, which can use multiple secured storages for content and application data transparently (i.e. use secured storage for taking photos instead of default device storage)."
-android,"I have worked on several projects as a native Android developer, including an eCommerce app with Kotlin and Jetpack Compose, integrating Firebase authentication, dark mode support, and clean architecture; a parking lot locator app utilizing location services and Google Maps API; and an app that uses Bluetooth Low Energy (BLE) to unlock electronic units. I have experience with tools and technologies such as Jetpack Compose, XML UI, Retrofit, Room, Gradle build flavors, and integrating SDKs for hardware components like NFC and fingerprint scanners. Currently, I work remotely as a native Android developer, focusing on high-quality, scalable applications. I aim to improve my proficiency in advanced Gradle configurations, Kotlin Multiplatform development, and enhancing my English communication skills for more effective collaboration."
+android,"I have worked on several projects as a native Android developer, including an eCommerce app with Kotlin and Jetpack Compose, integrating Firebase authentication, dark mode support, and clean architecture; a parking lot locator app utilizing Location services and Google Maps API; and an app that uses Bluetooth Low Energy (BLE) to unlock electronic units. I have experience with tools and technologies such as Jetpack Compose, XML UI, Retrofit, Room, Gradle build flavors, and integrating SDKs for hardware components like NFC and fingerprint scanners. Currently, I work remotely as a native Android developer, focusing on high-quality, scalable applications. I aim to improve my proficiency in advanced Gradle configurations, Kotlin Multiplatform development, and enhancing my English communication skills for more effective collaboration."
 android,"I have spent 3 years to specialize in Frontend developing-Android(Kotlin).
 I am a team player and working with clever colleagues makes the work more enjoyable. I am open to gain new knowledge and skills, sharing and teaching my knowledge and skills.
 Working in my area means to reduce the problem solving way and create valuable.
@@ -5717,7 +5717,7 @@ android,"Developing Android apps for over 10 years,
 Also, I have experience with Flutter for almost 2 years. And small experience with Machine Learning.
 I have made a lot of projects from scratch to the final release and performed support for legacy projects. I also worked on complex projects with big teams.
 My main goal is to make the application performant and user-friendly for customers. I like to think about how one or another solution will influence the end user. And I feel happy when I see that the application I worked on makes people's lives easier and gives them pleasure.
-* Proud of my latest work, a cool German Radio app with a lot of functionality and services used, including work with Android Auto, and Chromecast, simple vector animation.
+* Proud of my latest work, a cool German Radio app with a lot of functionality and services used, including work with Android Auto, and Chromecast, simple Vector animation.
 * One more thing is a small Machine Learning project that is meant to solve the business card recognition problem on one of the current employer's products.
 * Also, another thing to be proud of is my personal Android project meant to help the local small businesses that uses Nova Poshta delivery service. It has a lot of good reviews in the Play Store and an average rating of 4.8 stars.
 Prefer new projects to old legacy ones. Open to new challenges.
@@ -5809,7 +5809,7 @@ Role: Mentor
 Accomplishments: I was part of the group that developed the program that teaches Android Development + Kotlin to people who have basic understanding of Java and takes them all the way to a good junior level Android Developer. I also prepared and gave 8 3-hour lectures on a variety of different topics and was responsible for checking all the homework assignments for those lectures and for another three big projects. At the end of the academy cycle I also participated as a Project Manager for one of the group projects that involved 13 people (3 Android, 3 iOS, 3 JavaScript, 3 .net core developers and 1 Product Owner).
 4. Project: IMSLP: An app for musicians that allows people to view pdf documents, draw on them, edit and create them.
 Role: Android Developer
-Accomplishments: Working with canvas, pdf documents, design for tablets, drawing lines, text annotations, symbols and other things. Implementing unique touch behaviors and zoom. A lot of work with PopupWindows.
+Accomplishments: Working with canvas, pdf documents, design for tablets, drawing lines, Text annotations, symbols and other things. Implementing unique touch behaviors and zoom. A lot of work with PopupWindows.
 Applied technologies and skills: Dagger2, Moxy, RxJava, ObjectBox, Jenkins CI.
 More projects (Social network, AR project) are described in my CV.
 - Hiring and leading a team of 5 people.
@@ -6037,7 +6037,7 @@ I consider positive feedback from my clients to be my main achievement. I also h
 First and foremost, I expect good management, no unnecessary bureaucracy, and clear communication within the team and the company as a whole."
 android,"With over 5 years of dedicated experience in Android development, I specialize in architecting high-performance mobile applications with a focus on user-centric design. My approach integrates Clean Architecture principles, utilizing MVVM, MVI, and MVP patterns to ensure modular and scalable codebases. I am proficient in leveraging advanced tools like Coroutines and RxJava for efficient asynchronous operations, and dependency injection frameworks such as Hilt, Dagger, and Koin for robust application architecture.
 In my current role, I lead teams in implementing RESTful APIs for seamless backend integration, while adhering to OOP principles, KISS, DRY, and S.O.L.I.D design patterns for maintainable code. I advocate for best practices like the Law of Demeter and apply Creational, Structural, and Behavioral patterns to optimize application performance and maintainability.
-I have successfully integrated Firebase for real-time data management, Picasso for image loading, and utilized Google Maps API for location-based services. My experience with data storage solutions includes MySQL and SQLite databases, with proficiency in handling XML and JSON for data serialization. I am adept at utilizing Android Jetpack components and have explored the latest advancements in UI development through Jetpack Compose and GraphQL.
+I have successfully integrated Firebase for real-time data management, Picasso for image loading, and utilized Google Maps API for Location-based services. My experience with data storage solutions includes MySQL and SQLite databases, with proficiency in handling XML and JSON for data serialization. I am adept at utilizing Android Jetpack components and have explored the latest advancements in UI development through Jetpack Compose and GraphQL.
 Looking ahead, I am enthusiastic about exploring advancements in machine learning integration within Android applications and staying at the forefront of emerging technologies that enhance user engagement and application scalability.
 I successfully integrated a third-party open-source application into an existing Kotlin-based Android application as a dynamic module, showcasing my ability to enhance and extend application functionality seamlessly.
 I developed an application from scratch in Kotlin, designed specifically for training and treating airline employees. This project allowed me to apply Clean Architecture principles and utilize MVVM, MVI patterns to ensure a robust and scalable application structure.
@@ -6146,7 +6146,7 @@ Mobile application allowing users to digitally receive and store medical prescri
 android,"The last project worked on was a mobile application that enables users to plan their vacations. They can search for properties, flights, car rentals and other activities. Registered users can create trips, to save favorite offers and invite friends. After saving user can see content cards and do with them such operations as delete, move to another trip, view property or book it.
 I was responsible for new features development, code reviewing and refactoring, release build verification, unit testing, bug fixing, tasks estimation and prioritisation.
 Technologies stack: Android Studio; IntelliJ IDEA; Insomnia; Android SDK; Kotlin; Jetpack Architecture Components; Coroutines; JUnit; Apollo GraphQL; Firebase; Git; Jenkins; Figma; JIRA; Confluence; Scrum.
-Another project I worked on was an online rental marketplace that allows users to book hotels and apartments. The user can search results by location, number of guests, price and many other additional filters. After entering the search parameters, the user sees a list of results with a property image, its name, rating and a brief description of the location. After clicking on any result, the user is taken to the details page where more useful information is displayed.
+Another project I worked on was an online rental marketplace that allows users to book hotels and apartments. The user can search results by Location, number of guests, price and many other additional filters. After entering the search parameters, the user sees a list of results with a property image, its Name, rating and a brief description of the Location. After clicking on any result, the user is taken to the details page where more useful information is displayed.
 On this project I was only responsible for code development, unit testing, bug fixing and tasks estimation.
 Technologies stack: Android Studio; Kotlin; JUnit; Apollo GraphQL; Git; Jenkins; JIRA; Confluence; Scrum.
 Also had experience with backend development while I was working on an open source project. That project was created to give users an ability to become more eco-friendly, acquire some good habits, track them, read eco-news and make friends with the same interests. Main idea of the project was to make people more respectful to ecology and reword them, if they are. Users gets points for tracking any good for ecology activities and could get discounts in partners stores using those points.
@@ -6374,7 +6374,7 @@ First application for User (pizza cafe), second one for pizza cafe kiosk. Main f
 technologies: Kotlin, Android SDK, Jetpack Compose, Kiosk Mode, Canvas, Retrofit + OkHttp, Coroutines, Kotlin Flow,  Hilt, multi-module project, MVVM + MVI architecture, Gradle conventions, Git.
 ---
 App for controlling electric bikes
-The application for a personal electric bike. The main functionality – to collect information about trip on bike (duration, speed, route, battery capacity, etc.), speedometer, charts with an analytist for each trip. Bike has a privacy mode, protected mode with a push messages for user about any bike activities. Functionality with Bluetooth, Camera scanning, User location check.
+The application for a personal electric bike. The main functionality – to collect information about trip on bike (duration, speed, route, battery capacity, etc.), speedometer, charts with an analytist for each trip. Bike has a privacy mode, protected mode with a push messages for user about any bike activities. Functionality with Bluetooth, Camera scanning, User Location check.
 technologies: Kotlin, Android SDK, Jetpack Compose, Retrofit + OkHttp, Coroutines, Kotlin Flow, Firebase, Hilt, multi-module project, MVVM + MVI architecture, Gradle conventions, Bluetooth, Camera, Android Location, MPCharts, Git.
 ---
 App for Insurance
@@ -6874,7 +6874,7 @@ Courses:
 - Udemy: The Complete Android 14 & Kotlin Development Masterclass
 Pet-Projects
 WeatherApp
-Description: Developed a mobile weather application that provides real-time weather updates based on the user's current location. Technologies/Skills: Kotlin, Jetpack Compose (UI framework), REST API consumption (for weather data), LiveData (for reactive updates), ViewModel (for UI-related data management), Android location services.
+Description: Developed a mobile weather application that provides real-time weather updates based on the user's current Location. Technologies/Skills: Kotlin, Jetpack Compose (UI framework), REST API consumption (for weather data), LiveData (for reactive updates), ViewModel (for UI-related data management), Android Location services.
 SplitPay
 Description: I create an expense sharing app that allows users to track total expenses and summarize the balance.
 Technologies/Skills: Nested Navigation Graphs (for complex navigation), LiveData, ViewModel, MVVM architecture, Authentication (user login/signup with Google/Email), DataStore (for persistent storage).
@@ -6956,7 +6956,7 @@ I am actively learning Kotlin and mastering Android Studio, focusing on mobile d
 Projects
 WeatherApp
 A weather application that provides essential weather data
-Search weather by location (city input or geolocation)
+Search weather by Location (city input or geolocation)
 Displays current weather conditions (temperature, humidity, wind speed)
 Multi-day weather forecast
 Technologies: Jetpack Compose, Room, Retrofit, Hilt, Coil, Gson
@@ -6975,7 +6975,7 @@ Technologies: Jetpack Compose, Room, JSON, Hilt
 Mykola Balan – Android Developer
 Key Achievements:
 WeatherApp – weather data retrieval with geolocation, forecast, and intuitive UI.
-TaskApp – task manager with full CRUD operations and category sorting.
+TaskApp – task manager with full CRUD operations and Category sorting.
 AndroidQuestionsApp – quiz app for Jetpack Compose knowledge assessment.
 Technical Skills:
 Jetpack Compose, Room Database, Hilt, JSON – modern Android development stack.
@@ -7041,8 +7041,8 @@ Furthermore, I have undertaken pet projects involving Kotlin Multiplatform Mobil
 - without Java
 - Kotlin
 - modern tech stack (compose , coroutine, flow, dagger/hilt/coin, room, mvvm/mvi etc)
-- salary from 4000$"
-android,"Writing a project that works with the CRM system, the application served to field support reports, sending financial reports, and viewing and completing tasks, and field service engineer location reports. The project uses the Java language, worked with httpurlconnection, webview, json, xml parcer, okhttp,
+- Salary from 4000$"
+android,"Writing a project that works with the CRM system, the application served to field support reports, sending financial reports, and viewing and completing tasks, and field service engineer Location reports. The project uses the Java language, worked with httpurlconnection, webview, json, xml parcer, okhttp,
 google maps api. Further authorization in the application was implemented by scanning a QR code using the rest. Additional setup, installing a personal F-DROID repository on a Linux server and support.
 Development of a mobile application for Android, iOS Kotlin Multiplatform,
 applications for a chain of stores, working with API 1C. Skills: kotlin,
@@ -7100,15 +7100,15 @@ Over 30+ Android apps created.
 Looking for an interesting project with a good team and modern technology stack."
 android,"• Huma (healthcare apps):
 Responsibilities: developing customizable SDK modules (profile, questionnaires, onboarding, remote storage, preferred units), developing custom patient apps, refactoring, implementing and maintaining various health modules, PR reviews, bug fixes, unit tests, automation scripts.
-SDK and patient apps for the pharmaceutical and healthcare industry. The apps contain modules which vary from simple input to integration with 3rd party devices or hosted AI models; configurable UI, plugins, widgets, onboarding and authentication flow. Maintaining multiple SDK versions for a set of apps.
+SDK and patient apps for the pharmaceutical and healthcare industry. The apps contain modules which vary from simple input to integration with 3rd party devices or hosted AI resume_classifier; configurable UI, plugins, widgets, onboarding and authentication flow. Maintaining multiple SDK versions for a set of apps.
 Interactive exercises with video recording, configurable questionnaires with branching logic, UI widgets and other plugins, integration with Google Fit and Fitbit, heart rate measurement, charts, reminders, media upload/download, telemedicine, bar code scanning. Some of the apps were developed specifically for patients with certain conditions in order to control how they take their medications. Third party clients can build a customizable and ready-to-use app using the SDK dependencies and one initializer file.
 • Image/video processing apps, premium mode SDK:
 SDK development for premium functionality with in-app purchases for various apps. Maintaining image and video processing apps (blurring, cutting, cropping, compressing media using FFmpeg).
 • Pixchange:
 Implementing private and group real-time chat functionality with offline mode, notifications, delivery status, custom in-app messages and media sharing,  implementing image and albums sharing with various access levels, In-App Review, refactoring, adding features to a custom keyboard, adding analytics and other monitoring tools, bug fixes, unit tests, automation scripts.
-• A dating app. Has a messenger (text, media, voice messages), phone/social auth, background location updates, places recommendations, searching for people nearby.
+• A dating app. Has a messenger (Text, media, voice messages), phone/social auth, background Location updates, places recommendations, searching for people nearby.
 • A tablet-only kiosk app for a market network, authentication and selection of a product with a customizable print (positioning, sizing).
-• A messenger app. Features private and group chats with text, media, voice messages, auth, profile.
+• A messenger app. Features private and group chats with Text, media, voice messages, auth, profile.
 • Various pet projects (messen
 Working on complex healthcare apps, implementing messaging / social networking apps, implementing automation scripts to make development more effective.
 • 7+ years experience in Android development, including working in large engineering teams (50+ people);
@@ -7228,7 +7228,7 @@ android,"Android, Android SDK, Java, Kotlin, Logical games AI programming
 Working experience with Android :
 - 	solid knowledge of Android OS, Android SDK, Android UI;
 -	work with HTTP, REST, JSON;
--	work with geo location, push-messages, application preferences;
+-	work with geo Location, push-messages, application preferences;
 -	object oriented programming.
 -	finished project in Google market.
 Working in R&D. The main tasks was the development applications for SmartTV’s:
@@ -7240,7 +7240,7 @@ CHI Software (2019.10-present)
 We have huge mobile team and strong personal development plan. We always stay in touch with new technologies and frameworks. I develop different applications from bank to social network with video calls. At the last project, I was Engineering lead of a middle size team.
 Wallpool (2019.05 – 2019.08) available on Google Play
 CtrlDO (2017.05 – 2019.10) available on Google Play
-Our team developing an application for managing your tasks and do it so simple as it could be like messaging. You don't need any more use email to invite someone, instead it uses your phone book, we sent SMS with link. I developed the app from scratch for android platform using clean architecture coupled with MVP approach.
+Our team developing an application for managing your tasks and do it so simple as it could be like messaging. You don't need any more use Email to invite someone, instead it uses your phone book, we sent SMS with link. I developed the app from scratch for android platform using clean architecture coupled with MVP approach.
 Also, I fix bugs and perform testing, besides this I optimize app in every way, to increase performance.
 Upwork
 I performed several types of tasks. The first one is a simple bug fixing, where sometimes need to find the NPE
@@ -7334,7 +7334,7 @@ Comprehensive learning of Android architecture and
 development, certified by Google.
 From work, I want transparency, clear communication, stable leadership, growth opportunities, and a supportive, respectful team culture that values work-life balance and low turnover—elements that foster trust, collaboration, and professional development. Conversely, I don’t want an environment marked by vague information, high employee turnover, or toxic team dynamics, as these issues signal poor management, unclear expectations, and a hostile atmosphere that hinder growth and satisfaction."
 android,"In my previous role, I participated in the full development cycle, building scalable solutions using Kotlin, Jetpack Compose, MVVM, Room, Dagger Hilt, and other modern technologies. Working in Agile teams, I consistently delivered high-quality functionality that met both user expectations and business goals"
-android,"Hello everyone! My name is Oleg and I'm from Lviv, Ukraine. I am a passionate mobile developer using Flutter. It will a pleasure to helping you with every project you want to build.
+android,"Hello everyone! My Name is Oleg and I'm from Lviv, Ukraine. I am a passionate mobile developer using Flutter. It will a pleasure to helping you with every project you want to build.
 Skills Summary :
 Backend : Core Data, Web service, JSON, XML, REST, SOAP, SQLITE, MongoDB
 3rd Party SDK: Facebook, LinkedIn, Google, Parse, Stripe, Braintree, Twilio , Instagram, Twitter and other Social APIs;
@@ -7498,7 +7498,7 @@ Mobile Application Development Team Lead
 Leading a team in creating user-friendly and high-performance mobile banking applications from scratch for iOS and Android platforms primarily using Flutter, resulting in a 40% increase in user engagement and a 25% growth in business revenue within the first year of launching the applications.
 Mentoring and provided technical guidance to junior team members, fostering their professional growth and resulting in a 30% reduction in bug counts and code refactoring.
 Implementing a continuous integration and delivery (CI/CD) pipeline, automating the build, testing, and deployment processes, resulting in a 50% reduction in deployment time and improved overall development efficiency.
-Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
+Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance Category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
 IT-RUN Kids
 Scratch & App Inventor course instructor
 Successfully instructed and guided kids in a Scratch and App Inventor programming course, resulting in a 50% improvement in their coding proficiency and problem-solving skills. Students demonstrated an average increase of 30% in project completion rates and a 25% boost in creativity and innovation within the course duration.
@@ -7531,7 +7531,7 @@ android,"Android development
 I am looking for an environment that offers exciting challenges and encourages me to push my limits while aiming for impactful results. I value a culture of dedication where everyone is committed to achieving shared goals, and I believe trustful, open communication is key to fostering collaboration and growth. My ideal workplace is one where I can contribute meaningfully, continue to develop my skills, and be part of a team that values both professionalism and mutual respect."
 android,"I have 5 years of commercial experience in Android.
 My skills: Android SDK, Git, Dagger 2, Databases(SQL, SQLite), RxJava, Retrofit, Glide, MVP, MVVM, MVI, Jetpack Compose. Experience with: Google Maps/Open Street maps, accissability service, material design.
-Competitive salary, interesting projects, friendly team, well-built work process, nice office."
+Competitive Salary, interesting projects, friendly team, well-built work process, nice office."
 android,"I've been doing Android programming for 3 years now, I'm working on a private farm, I also have an account on my personal Play Console where I have more than 20 apps, some of my apps have been downloaded over 200,000 times.
 I have actively used Dagger2, Dagger Hilt, Solid Principles, MVVM, Retrofit, Okhttp, and several other technologies in my applications."
 android,"Experienced Senior Android Engineer with over 9 years of expertise in Kotlin, Java, and Clean Architecture. Proven success in reducing crash rates, improving app performance, and increasing user retention. Adept at collaborating with cross-functional teams to develop high-quality mobile applications. Skilled in MVVM, Coroutines, Room, Retrofit, and Dagger Hilt, with hands-on experience in payment systems, ticketing solutions, and enterprise mobile applications. Passionate about tackling complex challenges and optimizing development processes. Open to global opportunities and eager to contribute to innovative projects."
@@ -7756,7 +7756,7 @@ In my work I’m oriented on result and happy user flow. I like to get feedback 
 I appreciate working in a team where everybody is involved in making the product better and supporting each other."
 android,"I am a passionate Android developer with 11 years of experience, specializing in building high-quality mobile applications that solve real-world problems. Last year I'm working as freelancer with different projects. Before that over the past 7 years, I have worked as a contractor for American Well Corporation (Amwell), where I developed telemedicine applications used by over 100,000 monthly active users. These applications are part of a larger ecosystem, integrating web, desktop, and medical devices to provide seamless healthcare experiences."
 android,"I'm an independent engineer but not bound to be challenged as a developer. I've worked with teams (Android) from 1 person, myself, to 10+ persons on greenfield projects so as on mature and aged projects. Being a tech-biased person is not about me. I've tried myself with C++\OpenGL\NDK\Java\Kotlin\SQLite for Android and with JS\React\Redux\HATEOAS\BA  for miscellaneous sub-projects.
-A great workplace encourages self-development, continuous growth, and permanent experimentation. The payback has not been solely about a paycheck. The necessity for rising self-awareness and self-realization has to be considered as well. But, nevertheless, a competitive salary is a vital part of the employer-employee relationship.
+A great workplace encourages self-development, continuous growth, and permanent experimentation. The payback has not been solely about a paycheck. The necessity for rising self-awareness and self-realization has to be considered as well. But, nevertheless, a competitive Salary is a vital part of the employer-employee relationship.
 Two is a reasonable value for achievements:
 - Evangelize Kotlin across two conservative teams
 - Fix obscurity in versioning of the inner streaming framework by further establishing CI for it
@@ -7850,7 +7850,7 @@ Marketing program from Google - a comprehensive program consisting of seven cour
 gallery - video editor, photo editor/filter, third-party SDK usage, design, password protection.
 dialer - rewrote the project from Java to Kotlin, encrypted communication, used a third-party SDK in C++ and configured and built it, design.
 contacts - display of contacts from the server, updating contacts.
-UserGuide - a library that displays a user guide that may contain usage instructions, text, video from the server, and images, with a refined and extensive functionality.
+UserGuide - a library that displays a user guide that may contain usage instructions, Text, video from the server, and images, with a refined and extensive functionality.
 2022
 SchoolQuiz2.0 - quiz app with 25 screens (chat, arena, ads, store, profile, etc.), used Firebase as the server, background loading, clean architecture, quests loaded from other APIs, mechanism for translating quests, and extensive Firebase functionality.
 file manager - PDF, archiving, design, strong password protection within the app.
@@ -7947,13 +7947,13 @@ I have a proven track record of delivering top-tier apps used by millions, alway
 My goal is to contribute to cutting-edge projects that make a difference in users’ lives, while working in a collaborative team environment where I can grow professionally and help others succeed.
 If you’re looking for a dedicated Android developer ready to take on challenges and drive innovation, let’s connect!
 I am looking for an interesting project, friendly team and an opportunity for professional growth
-Please, make your proposition message just with key details and without formality and redundant text - it's complicated and takes a lot of time to pay attention to every message and schedule a call for each. Please include:
+Please, make your proposition message just with key details and without formality and redundant Text - it's complicated and takes a lot of time to pay attention to every message and schedule a call for each. Please include:
 - Project description!
 - Tech stack
-- Real! salary proposition
+- Real! Salary proposition
 - Company description
 If you don't follow this, I will have to skip the message, sorry.
-Also, please don't forget to add the job title to the message!"
+Also, please don't forget to add the job Title to the message!"
 android,"Project Name: Imperium Lite
 Responsibilities: Added Custom views, black theme in the application, statistics, work with Google maps, adding markers, connecting the path traveled etc..
 Technologies: Retrofit2, google maps api, dagger2, butterknife, rxJava, sqlite
@@ -7963,7 +7963,7 @@ Technologies: Android Jetpack (view model, data binding, room etc), kotlin corou
 Projects: Own launcher, dialer, VPN client, messenger, made a logger from scratch, system integrity control.
 Responsibilities: Adding new functionality, creating new projects from scratch. Permanent problem solving
 Technologies: Android Jetpack, java, kotlin, retrofit2, butterknife, rxJava, realm
-My name is Aleksey. I like programming for android. My purpose is to find work to improve my knowledge and skills.
+My Name is Aleksey. I like programming for android. My purpose is to find work to improve my knowledge and skills.
 Read books on android:
 Android for Programmers: An App-Driven Approach,
 Android Programming: The Big Nerd Ranch Guide (2rd, 3rd Edition)
@@ -8085,7 +8085,7 @@ with hydration monitoring features.
 - Implemented Google and Facebook
 authentication for seamless login.
 - Created a user profile system to input
-personal details (name, age, weight).
+personal details (Name, age, weight).
 - Set up local notifications to remind users
 to drink water during specified hours, with
 an option to mute at night.
@@ -8121,7 +8121,7 @@ with hydration monitoring features.
 - Implemented Google and Facebook
 authentication for seamless login.
 - Created a user profile system to input
-personal details (name, age, weight).
+personal details (Name, age, weight).
 - Set up local notifications to remind users
 to drink water during specified hours, with
 an option to mute at night.
@@ -8197,7 +8197,7 @@ I have several Pet Projects and have 1.5 years of experience
 -Worked with MVC/MVVM
 -Used FirebaseAuth + FirebaseStorage + CustomView + Glide.
 1. I have several Pet Projects:
-1) Duma mobile application - a text quest, with an interesting, unique plot and design (team development), used: Java, MVVM, Firebase Lib: Glide, Picasso.
+1) Duma mobile application - a Text quest, with an interesting, unique plot and design (team development), used: Java, MVVM, Firebase Lib: Glide, Picasso.
 2) Football Manager 2024 - used FirebaseAuth + FirebaseStorage + RecyclerView + CustomView + Glide
 Football Manager v.0.3 mobile application for interacting with the database of football teams and players.
 Current functionality:
@@ -8221,7 +8221,7 @@ Release of this feature helped business to involve a lot of users by making  pro
 android,"Завдяки багаторічному досвіду у різних сферах — від розробки мобільних додатків до управління проектами та роботи з клієнтами B2B і B2C — я сформував унікальний набір навичок, які дозволяють ефективно вирішувати складні завдання та досягати високих результатів.
 Працюючи у ролі менеджера з обслуговування преміум-клієнтів та креативного менеджера, я набув досвіду у розробці індивідуальних рішень, організації процесів та впровадженні креативних концепцій. Мій технічний бекграунд як Android-розробника навчив мене системного мислення, уваги до деталей та адаптації до швидкозмінного середовища.
 Мені притаманний креативний підхід до роботи, здатність знаходити нестандартні рішення та високий рівень відповідальності. Я переконаний, що ці якості дозволять мені стати цінним членом вашої команди та сприяти розвитку компанії."
-android,"10+ years of Android development of big projects from scratch to production. Mostly thin but smart mobile clients for web services - dating service, family location tracker, volunteering platform, healthcare providers finder, payment and investment app.
+android,"10+ years of Android development of big projects from scratch to production. Mostly thin but smart mobile clients for web services - dating service, family Location tracker, volunteering platform, healthcare providers finder, payment and investment app.
 Platform features usage, material design, rich UI, maps, geolocation, camera etc. Keeping up with modern development approaches, reliable application architecture, and UX-oriented attitude.
 I'm used to being a part of a strong team with respectful communication between all members. Believing in listening to each other and not being a jerk is the key to success.
 Looking to become a part of a pretty decent project. Clean code, clear design and smart teammates."
@@ -8295,7 +8295,7 @@ In terms of localisation, our team used primarily AppLocalizations with json fil
 I have used Git (Bitbucket) for version control for 3 years now.
 I am a Strong Junior / Middle Developer. I dream of becoming a Senior one day. Although I was the only front-end developer on some projects, which meant my responsibilities were as of a Lead Developer.
 In terms of Databases, most of the time I used SQLite (sqflite), but I know GraphQL, Drift, and have test projects with Firebase
-In terms of RestAPIs, I have used it in the commercial environment, utilising Dio client(dio) and serialised models (json_serialisable), but some time ago our team used Mqtt for all networking, so I have experience with it too.
+In terms of RestAPIs, I have used it in the commercial environment, utilising Dio client(dio) and serialised resume_classifier (json_serialisable), but some time ago our team used Mqtt for all networking, so I have experience with it too.
 I have a good knowledge of DRY and SOLID/OOP principles, which I apply regularly to my code to ensure its readability and effectiveness. And I am also reviewing old libraries from time to time to get them up to the standards.
 I have shipped multiple mobile apps to Google Play and App Store, developed countless pet mobile projects, learned a dozen of platforms and technologies, and have a wonderful portfolio.
 I would like to work with a friendly team, a company with a purpose, to feel that my work matters, in the scale of a company, if not globally. A team with freedom to create and provide the best services to the customers."
@@ -8344,14 +8344,14 @@ Experience in FinTech, FoodTech and E-commerce apps.
 - Software design and development according to bank needs
 - 09/2020 to 03/2021 - SmartPost, Bishkek
 - Development of “SmartPost” application. System for automating delivery services. - Application for couriers and clients.
-- Used technologies: Kotlin, RxJava2, Dagger2, WebSockets (Scarlet), Working with location, Google Maps, MVP
+- Used technologies: Kotlin, RxJava2, Dagger2, WebSockets (Scarlet), Working with Location, Google Maps, MVP
 - 09/2019 to 09/2020 - Oracle Digital, Bishkek
 - Take part in the development of “EVEnt” application.
 - Developed mobile application “NZ.CLUB”. Application that allows users to watch ads and earn money.
 - Used technologies: Kotlin, Coroutines, MVP, Retrofit, Dagger2"
 android,"Android Engineer with over 10 years of practical experience in the development of various business applications such as big retail, health care, fintech, banking, transport and promo applications. Also have experience with IOS, Flutter and Android Wear.
 Lead team on a big e-comers project, provide architect solutions, take part on project presails as tech. expert.
-Competitive salary,  interesting project, challenging task, friendly team."
+Competitive Salary,  interesting project, challenging task, friendly team."
 android,"Java, Kotlin
 MVP/MVVM/RxPM, Dagger 2, RxJava 2, RxAndroid
 Retrofit, OkHttp, GSON
@@ -8564,7 +8564,7 @@ animations, building architecture, fixing errors, and extreme programming.
 There have been many projects from scratch, much work with legacy code, many refactorings, bug fixes, and deadline pushes. I also worked with nice architecture and prepared a lot of research, initiatives, and proposals. Have experience working with complex encryption, low-level drawing, custom views, etc. Shared experience of analytics research, system thinking product evaluation, team leading, user-based development, mentoring, PR reviews, Kanban, agile, planning poker, Jira task decomposition, Google Play publishing
 I want to work with involved people with clear processes and feedback, open to reasonable initiatives
 I don't want to work with simulated pressure and passing the buck and disrespect to work-life balance"
-android,"Hello! My name is Dima, and I'm an Android developer with over three years of experience. My passion lies in crafting innovative and user-friendly mobile applications for the Android platform. Throughout my career, I've actively contributed to various projects, from prototyping to launching fully functional products. My portfolio encompasses diverse apps with varying functionalities.
+android,"Hello! My Name is Dima, and I'm an Android developer with over three years of experience. My passion lies in crafting innovative and user-friendly mobile applications for the Android platform. Throughout my career, I've actively contributed to various projects, from prototyping to launching fully functional products. My portfolio encompasses diverse apps with varying functionalities.
 My skills and technologies include:
 -Android SDK
 -Kotlin, Java
@@ -8887,7 +8887,7 @@ Indoor Triangulation App, 2023-2024
 An application for enhancing user navigation inside buildings.
 Achievements:
 -Developed a robust project architecture for scalability and maintainability
--Developed Trilateration algorithm, Implemented RSSI filterings and Kalman filter which improved location accuracy by 30%
+-Developed Trilateration algorithm, Implemented RSSI filterings and Kalman filter which improved Location accuracy by 30%
 -Developed Custom Views which increased user experience
 -Researched and implemented advanced bluetooth interactions
 -Created a stable service workflow
@@ -9013,10 +9013,10 @@ Soft Skills: Team Leadership, Time Management, Effective Communication,
 Collaboration"
 android,"Develop and support android project with ~20k active users.
 android apps:
-- id=ua.soe.billing.android
-- id=com.soe.superbill
-- id=com.voe.superbill
-- id=com.choe.superbill
+- Id=ua.soe.billing.android
+- Id=com.soe.superbill
+- Id=com.voe.superbill
+- Id=com.choe.superbill
 - internal android app for inspectors && engineers
 - internal android app ekiosk"
 android,"--MEDSTARTECH 08/2023 - 10/2024
@@ -9768,7 +9768,7 @@ USA Visa B1 till the 2026 year
 Quality-oriented companies. It's OK to work with legacy and cutting-edge technologies at the same time.
 Preferably looking for remote opportunities.
 I'll take a closer look at Relocation to USA opportunities as well."
-android,"Hi,my name is Nil ,20 years old,I'm skilled in Android development,with MVVM,MVI,MVP architectures.
+android,"Hi,my Name is Nil ,20 years old,I'm skilled in Android development,with MVVM,MVI,MVP architectures.
 I enjoy managing existing features, leading projects, and collaborating with teams for best results in development. I'm passionate about continuous growth, always striving to deliver top-notch solutions.
 I have 8 months of experience in developing mobile applications in the company ""Wild Wild Leads"", 16 months in ""Arbitrage up"".Technologies I'm familiar with:
 Java/Kotlin,Clean Architecture,Jetpack Compose,Coroutines,Retrofit/OkHttp3,Postman,Hilt/Koin DI,Firebase ,UI Tests,Glide,Google Maps SDK,GraphQL,Shared preferences,Multimodule,Kotlin Multiplatform,ViewModel,MVVM/MVI,JUnit tests,Fragments,Facebook SDK,Github,SQLDelight
@@ -9784,7 +9784,7 @@ The apps I worked on include:
 - time-slot booking
 - goods tracking software for warehouses
 - info app for events"
-android,"I’m currently working in a company abroad and my duties are to support and develop a mobile version of the company product. This app aims to reduce the bureaucracy level in the working process and simplify itself. Here you can text your team members, post the result of your work, and do time tracking. Working as an Android developer, I touched all these processes and it was fascinating to participate in delivering such a product.
+android,"I’m currently working in a company abroad and my duties are to support and develop a mobile version of the company product. This app aims to reduce the bureaucracy level in the working process and simplify itself. Here you can Text your team members, post the result of your work, and do time tracking. Working as an Android developer, I touched all these processes and it was fascinating to participate in delivering such a product.
 The project was implemented with such a stack: Kotlin/Java, Koin, Fuel, Moshi, Realm, Room, Kotlin Coroutines, etc.
 Before that, I had the experience of working in a company that delivers apps for client purposes. It could be different applications and they were implemented with the same stack but sometimes it could be also a Ktor, Jetpack Compose, or Firebase.
 I will be very happy if I work on a project that will constantly challenge me and make me grow as a specialist."
@@ -9802,7 +9802,7 @@ Technical Skills:
 Long term interesting project
 Friendly team
 Modern technology stack.
-Competitive salary
+Competitive Salary
 Flexible working hours."
 android,"Bief summary:
 - 11 years of commercial android development with 4 years of as team lead experience
@@ -9811,7 +9811,7 @@ android,"Bief summary:
 - Writing documentation and Test cases for the whole app and its modules.
 - Strong knowledge of Kotlin programming and Java programming languages
 - Earned strong experience with Jetpack Compose custom UI components while working with complex mobile UI and rich animations.
-- Strong experience with Mobile vision, Augmented reality, location based and financial projects.
+- Strong experience with Mobile vision, Augmented reality, Location based and financial projects.
 - Good experience with AI based mobile apps.
 - Excellent knowledge of Software Architecture Principles and Test Driven development.
 - Strong experience of mobile SDK development and dealing with mobile app security issues.
@@ -9899,7 +9899,7 @@ android,"JYV Stream
 JYV Stream is a music streaming android application that uses the Spotify API to recommend songs based on the user's mood.
 I was responsible for building a sound enhancement feature within the app with Java.
 I designed and implemented a complex UI with Jetpack Compose and handled API integration.
-I implemented text to speech and speech to text features in order to enhance the user's experience."
+I implemented Text to speech and speech to Text features in order to enhance the user's experience."
 android,"Junior Java/Hybris Developer (November 2022 - April 2024)
 - Developing on the SAP Commerce/Hybris platform
 - Fixed frontend bugs (HTML/CSS/JS/JSP)
@@ -10170,7 +10170,7 @@ Development of various applications both from scratch and with an existing code 
 including applications for both mobile devices and Android TV.
 My own project published on Google Play Store:
 Weather Forecast App
-The application for current, hourly and daily weather forecast for any location in the world.
+The application for current, hourly and daily weather forecast for any Location in the world.
 Key technologies: Kotlin, MVVM, Room, Retrofit, RxJava, Fused Location Provider, Dagger 2
 Previous experience as an Embedded Software Engineer:
 Embedded Software Engineer at PLVision
@@ -10414,7 +10414,7 @@ I prefer a Lead Android Developer position.
 I look for remote positions only."
 android,"- Android Developer | November 2021 - Present (3 years 3 months)
 Refactored 70% of legacy code and optimized the UI in a video recording app for athletes. Migrated from RxJava to Kotlin coroutines and implemented a single-activity architecture with ViewModels.
-Development of a service for tracking physical exercises using camera and motion tracking models, with the integration of video instructions.
+Development of a service for tracking physical exercises using camera and motion tracking resume_classifier, with the integration of video instructions.
 Refactored UI and added features, including VPN connection, in a messenger app.
 - Android Developer | August 2021 – November 2021 (3 months)
 Refactored code and introduced new features for a media library application that supports audio and video playback.
@@ -10451,7 +10451,7 @@ Participated in fast-paced development cycles
 and fixed bugs,
 Developed new features: Maps downloader with download
 queue, error detection. Notes, E-reader, file manager with
-ability to move, copy, filter files. Timer, text-to-speech, push
+ability to move, copy, filter files. Timer, Text-to-speech, push
 notifications, light and dark mode interchange, Firebase data
 display on the screen, audio calls,"
 android,"November 2024 - March 2025
@@ -10468,7 +10468,7 @@ American clothes store application.
 Used technologies: Kotlin, Java Retrofit, MVP, custom view components, Hilt,  junit, robolectric, Espresso, Mockito, Firebase
 March 2020 - May 2021
 Evne Developers, Kropyvnytskyi, Ukraine - Android Developer.
-Internal product mobile application for android tablet. The application displays the state of the meeting room and schedule for it, and lets users reserve the room indicating their name, purpose and the duration for the meeting fast and comfortable.
+Internal product mobile application for android tablet. The application displays the state of the meeting room and schedule for it, and lets users reserve the room indicating their Name, purpose and the duration for the meeting fast and comfortable.
 Used technologies: Kotlin, MVVM, LiveData, coroutines, jwt, web socket, custom views, Glide, Retrofit 2.
 Video hiring platform. Used technologies: Firebase authentication and storage, Firestore, Glide, custom views, video view
 August 2019 - February 2020
@@ -10492,10 +10492,10 @@ Well, it doesn't matter to me where I need to work from the office or remotely. 
 android,"I was engaged in the development and supporting different android applications (including applications for traffic arbitration) based on Kotlin, Java, and Dart. I was responsible for developing new features and fixing issues in the Android applications."
 android,"Holub Yevhenii
 Kharkiv, Ukraine,
-Current location: Cluj Napoca, Romania
+Current Location: Cluj Napoca, Romania
 Jeckstar12_gmail.com
 Hello.
-My name is Yevgenii Holub, I am from Ukraine. Currently living in Romania. I have been working as an Android developer for over 5 years. I love my job and enjoy creating working solutions, creating new things and improving existing ones. I am not afraid to face difficulties and challenges. Because that's how I get better. I am sociable and happy to make new friends.
+My Name is Yevgenii Holub, I am from Ukraine. Currently living in Romania. I have been working as an Android developer for over 5 years. I love my job and enjoy creating working solutions, creating new things and improving existing ones. I am not afraid to face difficulties and challenges. Because that's how I get better. I am sociable and happy to make new friends.
 I have experience working with applications for Android mobile and also for Android TV, I have skills for working with the camera, maps, creating custom UI elements (views). I can easily create complex logical structures, connections that are then easy to maintain. I have full experience in creating SDK players for mob+tv, as well as media applications.
 Best regards, Yevgenii."
 android,"Android Developer with 5+ years of experience in designing, developing, and maintaining native mobile applications. Experienced in fintech, e-commerce, and social networking projects. Skilled in Kotlin and Java, with a strong understanding of architectural patterns like MVVM and MVI. Passionate about writing clean, maintainable code and optimizing app performance. Seeking opportunities to contribute to innovative projects and further enhance my expertise in Android development.
@@ -10576,7 +10576,7 @@ Built testing infrastructure.
 Contacts sharing app.
 Role: solo android developer.
 Three months project built from scratch by me.
-Alarm app (report your location in case of emergency)
+Alarm app (report your Location in case of emergency)
 Role: android developer and backend developer.
 Needed to create MVP for project, built my first backend in golang, client and policeman app.
 Taxi app.
@@ -10706,7 +10706,7 @@ legacy code and enhancing the user experience
 I am considering offers with the possibility of working remotely or in any big city of Poland. Also considering  the possibility of relocating. Ideally, a project from scratch, career growth, adequate management, and a friendly team are just as important."
 android,"Senior Android Dev
 I have experience in commercial development over than 7 years. I worked in different companies (big product, outstaffing, big outsourcing) and with clients from such countries: USA, Great Britain, Thailand, Israel. So I used to work with different teams, approaches, processes and structures of companies,  also easy to communicate with clients from different countries and cultures.
-Right now I'm working in startup. Technologies: Kotlin, MVVM, Hilt for DI, Navigation Component. Implementation of big features (conversion of text to speech, defining of language of the text; implementation of widgets with dynamic information on base of AppWidgetProvider; whole rewrite of login process and social login; redesign of whole app with changing of navigation of screens; etc.), making different investigation and tech-debt tickets, delivering builds on GooglePlay, etc.
+Right now I'm working in startup. Technologies: Kotlin, MVVM, Hilt for DI, Navigation Component. Implementation of big features (conversion of Text to speech, defining of language of the Text; implementation of widgets with dynamic information on base of AppWidgetProvider; whole rewrite of login process and social login; redesign of whole app with changing of navigation of screens; etc.), making different investigation and tech-debt tickets, delivering builds on GooglePlay, etc.
 Had small experience in Ukrainian mil-tec project.
 Also at a big outsource. Can not give a detailed description by reason of restrictions of NDA. Briefly: app like NovaPoshta but for foreign customers. The whole project is written in Kotlin; MVP; business logic is covered by unit tests.
 Previous experience-  big media product, that has more than 10 million downloads on Google Play. Also worked on Android TV. Project has a lot of modules, and product flavors. Features: video streaming, movies (with the usage of lib exoplayer 2); advertising; analytics; platform like YouTube.
@@ -10762,7 +10762,7 @@ Technologies: Flutter, Dart, Github, Firebase Database, Firebase cloud messaging
 - Built SDKs that several banks can connect to
 - Graduating with a first-class from the university
 - Good employer-employee relationship
-- Competitive salary
+- Competitive Salary
 - Nice benefits
 - Accommodation for learning and improvements"
 android,"- I have experience in Android development for more than 10 years
@@ -10832,7 +10832,7 @@ Would be great:
 - Code review from colleagues,
 - Medical support and insurance
 - Strong, good management of projects,
-- Regular skills and salary reviews,
+- Regular skills and Salary reviews,
 - Internal courses,
 - Sym and healthcare support,
 - Friendly atmosphere in a team,
@@ -10920,7 +10920,7 @@ An application for managing outsourcing company’s projects with the functional
 An application for buying cryptocurrency.
 Role: Implementation of complex screens, implementation implementation of notifications, chat features, improving application performance, writing unit and integration tests.
 Android: Clean Architecture, MVVM, Coroutines, RxJava, Native Concurrency, Dagger, Koin, Glide, Jetpack components, Compose, CameraX.
-An application for filming sports competitions with complex timeline for video editing, which allows insert various elements, add text, add audio.
+An application for filming sports competitions with complex timeline for video editing, which allows insert various elements, add Text, add audio.
 Role: Development the application from scratch, implementation of a complex timeline for video editing, implementation of video recording and editing, writing unit tests.
 Development of applications from scratch.
 Implementing a large-scale Canadian fintech/loyalty project with check recognition.
@@ -11035,7 +11035,7 @@ Java, Spring, Android, GNU/Linux, MySQL, Hibernate, SQLite, JUnit."
 android,"Android-разработка на Kotlin/Java. Опробованы и используются: Retrofit 2, Gson, Glide, Picasso, Android Jetpack (Room, LiveData, ViewModel, DataBinding, Navigation, ViewPager, Constraintlayout), Material Design (Material Components для Android). Самостоятельная проработка UI/UX.
 Разработки в большинстве имеют экономическую тематику в виде справочников и учебно-познавательных приложений."
 android,"Machine Learning / Data Science
-• Kaggle competitions: survival prediction (CatBoost, Optuna), NCAA outcome prediction (stacked CatBoost/LGBM/RF), text-to-SVG with LLMs
+• Kaggle competitions: survival prediction (CatBoost, Optuna), NCAA outcome prediction (stacked CatBoost/LGBM/RF), Text-to-SVG with LLMs
 • Tools: scikit-learn, LightGBM, CatBoost, Optuna, PyTorch (basic), MLflow (basic), pandas, NumPy
 • Certification: Supervised Machine Learning – DeepLearning.AI
 Android Development
@@ -11046,7 +11046,7 @@ Data Science & Machine Learning
 Kaggle Competitions:
 • Equity Post-HCT Survival Predictions: Developed a predictive model for allogeneic HCT survival using CatBoost, with Optuna tuning and a custom survival metric (Nelson–Aalen & Kaplan-Meier). Ranked 2235/3325 (top 67%).
 • March Machine Learning Mania 2025: Built a predictive stacked model combining CatBoost, LightGBM, and RandomForest, optimized with Optuna for NCAA basketball outcome prediction. Evaluation based on Brier score. Ranked 968/1727 (top 57%).
-• Drawing with LLMs: Built a text-to-SVG generation system using a quantized large language model (Gemma-2), custom prompt design, and SVG constraint validation. Ranked 363/801 (top 45%).
+• Drawing with LLMs: Built a Text-to-SVG generation system using a quantized large language model (Gemma-2), custom prompt design, and SVG constraint validation. Ranked 363/801 (top 45%).
 Certifications:
 • Supervised Machine Learning: Regression and Classification – DeepLearning.AI
 Android Development
@@ -11372,7 +11372,7 @@ Kotlin, MVVM, Room, Coroutines, Preferences DataStore, Navigation Component, Vie
 android,"Вже близько півроку я вивчаю та практикую створення мобільних додатків для Android. За цей період я навчився працювати з Android SDK, вивчав та використовував View Binding та Data Binding, активно застосовував архітектуру MVVM, використовував Room Library та Retrofit, а також мав досвід додавання до проєкту Google Ads. Звісно я так само добре ознайомлений з принципами ООП, роботою з системою контролю версії Git та маю добрі навички верстки XML. Я вмію працювати як самостійно, так і в команді. І маю досвід співпраці з дизайнером у Figma над особистим проєктом.
 Вже близько півроку я вивчаю та практикую створення мобільних додатків для Android. За цей період я навчився працювати з Android SDK, вивчав та використовував View Binding та Data Binding, активно застосовував архітектуру MVVM, використовував Room Library та Retrofit, а також мав досвід додавання до проєкту Google Ads. Звісно я так само добре ознайомлений з принципами ООП, роботою з системою контролю версії Git та маю добрі навички верстки XML. Я вмію працювати як самостійно, так і в команді. І маю досвід співпраці з дизайнером у Figma над особистим проєктом."
 android,"TayqaTech (On-site, Azerbaijan)
-Collaborated in an Agile team of 10 developers to design and build two applications for managing and tracking goods from the warehouse to market distribution points. Utilized Jetpack Compose and Kotlin MultiPlatform to develop apps for both iOS and Android. Implemented Google Cloud push notifications, location services, RESTful APIs, Google Maps, and specifically navigation and tracking functionalities.
+Collaborated in an Agile team of 10 developers to design and build two applications for managing and tracking goods from the warehouse to market distribution points. Utilized Jetpack Compose and Kotlin MultiPlatform to develop apps for both iOS and Android. Implemented Google Cloud push notifications, Location services, RESTful APIs, Google Maps, and specifically navigation and tracking functionalities.
 ApiBrothers (Remote, Ukraine)
 Contributed to a small team in developing over 45 mini iGaming projects featuring extensive animations and flexible mini-games. Employed various architectural patterns, including MVC, MVVM, and MVP, to build and maintain these games, ensuring quality by fixing bugs and optimizing performance.
 IATC (On-site, Azerbaijan)
@@ -11431,7 +11431,7 @@ Main stack used:
 Android Developer
 ConnectTo Communications [ 01/05/2018 – 31/07/2020 ]
 Country: United States
-Based in Los Angeles, ConnectTo Communications was specifically created to change the way you communicate. In a world that is becoming increasingly “connected,” managing the flow of information through voice mail, email, the fax machine, and telephone has become increasingly burdensome, complicated and prohibitively timeconsuming. Through its proprietary cutting-edge technology, ConnectTo consolidates all of these message types into a single interface, and provides a complete solution for managing your communications anytime, anywhere in the world.
+Based in Los Angeles, ConnectTo Communications was specifically created to change the way you communicate. In a world that is becoming increasingly “connected,” managing the flow of information through voice mail, Email, the fax machine, and telephone has become increasingly burdensome, complicated and prohibitively timeconsuming. Through its proprietary cutting-edge technology, ConnectTo consolidates all of these message types into a single interface, and provides a complete solution for managing your communications anytime, anywhere in the world.
 Main stack used:
 • Java and Kotlin
 • RxJava
@@ -11450,7 +11450,7 @@ android,"I have been developing Android applications for more than 4 years (3 of
 • Printoccino - an application for creating photo albums. Implemented login through Facebook and developed functionality for uploading photos from Instagram;
 • Hears - a social network for hearing-impaired people. Redesigned the main screen, implemented a BLE connection to the hearing aid;
 • UltraVPN - VPN connection app. Fixed several bugs;
-• Pick2Me - these are two apps, one for customers and one for delivery/taxi drivers. I worked on this project from September 2021 to April 2023, rewrote the code base from Java to Kotlin, fixed bugs, developed new functionality such as the water order flow, cashback system, updated the design, worked with sockets, binding service for tracking the driver's location, and integrated Google Maps. My overall contribution was about 40%-50%.
+• Pick2Me - these are two apps, one for customers and one for delivery/taxi drivers. I worked on this project from September 2021 to April 2023, rewrote the code base from Java to Kotlin, fixed bugs, developed new functionality such as the water order flow, cashback system, updated the design, worked with sockets, binding service for tracking the driver's Location, and integrated Google Maps. My overall contribution was about 40%-50%.
 From October 1, 2023, to June 7, 2024, I worked on Gubadoo, participating in the development of a mobile application:
 • Gubadoo - an application for managing finances during renovation and construction. I developed the application from scratch. Chose Compose as the UI framework, implemented a multi-module architecture, used RevenueCat for subscription tracking, Amplitude for logging, AppsFlyer for deferred deep links, OneSignal for push notifications, and WorkManager for background tasks.
 Apart from Android, I’m interested in Kotlin Multiplatform (KMP) and a bit of iOS development."
@@ -11845,7 +11845,7 @@ android,"Повний цикл розробки android застосунку з 
 Розробка крос-платформного застосунку на базі cocos2d з реалізацією нативних фіч на android та ios
 Розробка внутрішнього застосунку для компанії на Jetpack Compose"
 android,"Sr. Front-End React/React Native Developer with over 7 years of experience. Demonstrated proficiency in front-end development using languages such as JavaScript and TypeScript, and using modern technologies like React.js, Next.js, GraphQL, and Node.js (Express.js) for back-end solutions. Has solid experience in managing applications and databases in the cloud using AWS, GCP. Excels in working with various databases, including MongoDB/PostgreSQL. Experienced in integrating and managing Continuous Integration and Continuous Deployment (CI/CD) workflows using tools like GitHub Actions, GitLab CI/CD, and CircleCI to automate the build, test, and deployment process. In addition to technical skills, exhibits a deep understanding of modern development methodologies, including Agile and Scrum. Possesses excellent communication and collaboration skills, with experience in reviewing code, creating coding guidelines, and ensuring team adherence to best practices. Able to function effectively both as a strong team player and an independent contributor, streamlining processes and delivering solutions for various tasks. As a team lead, has experience working closely with project managers, onboarding new teammates, and overseeing project progress. Always focused on optimizing performance and fostering improvement for the team and self."
-android,"Hi, my name is Onur Barman. I am a Senior Software Engineer focusing on Android development and currently holding the role of Senior Android Developer at ScaleFocus. I graduated from Marmara University with an Associate Degree in Computer Programming. I have an extensive track record of applications used by millions of users. I have 7 years of experience and have worked at different levels (including senior and leading positions) at both startups and large international companies in the area of e-commerce, social media, banking, betting, and services. I am a fast learner, highly motivated, and confident person. I strongly believe that things are better when everyone works together and communicates well. Thank you for your time, I will be happy to have the opportunity to work with you.
+android,"Hi, my Name is Onur Barman. I am a Senior Software Engineer focusing on Android development and currently holding the role of Senior Android Developer at ScaleFocus. I graduated from Marmara University with an Associate Degree in Computer Programming. I have an extensive track record of applications used by millions of users. I have 7 years of experience and have worked at different levels (including senior and leading positions) at both startups and large international companies in the area of e-commerce, social media, banking, betting, and services. I am a fast learner, highly motivated, and confident person. I strongly believe that things are better when everyone works together and communicates well. Thank you for your time, I will be happy to have the opportunity to work with you.
 I want to work with an international company where I grow with it."
 android,"Experience with Android SDK, OOP, architectural patterns
 (MVP, MVVM, MVI), custom UI creations, animations, Lottie animations. RxJava, Coroutines, Retrofit, Room, Realm, EventBus, Paper, Timber, Picasso, Glide, Dagger 2, Koin, View Binding, Compose, Firebase Notification/Crashlytics/Dynamic Links"
@@ -11859,7 +11859,7 @@ I want to describe a few of my successful and interesting cases:
 - My first experience in non-commercial programming involved developing data compression algorithms and their implementation. At the beginning of my professional career in a department specializing in image recognition, I was charged with developing a proprietary barcode format and to be able to recognize and encode data in it (at that time, QR codes were not yet represented on mobile devices).
 - GrubHub project, which adhered to extremely high standards of code quality and control including tests of all types, stringent coding standards and very detailed code review processes.
 - Some of my own projects that I am currently working on. Without disclosing the details of the projects, I can say that a special emphasis was placed on design and a convenient, consistent interface. This required a very detailed study of the subject area and analysis of the last two versions of Material Design.
-Choosing a project the following criteria are important for me: Interesting project, good team, salary level."
+Choosing a project the following criteria are important for me: Interesting project, good team, Salary level."
 android,"Android: Java, InAppPayment, Android SDK,
 Multithreading, Dagger2, Koin, Hilt,
 RxJava, Retrofit2, Ktor, ExoPlayer2,

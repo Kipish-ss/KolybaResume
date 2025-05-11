@@ -3,7 +3,7 @@
         <mat-label class="outside-label bold" for="email">Email</mat-label>
         <mat-form-field appearance="outline">
             <input matInput id="email" type="email" formControlName="email" placeholder="email@email.com" />
-            <mat-error *ngIf="forgotPasswordForm.controls['email'].hasError('email')">Email format is invalid
+            <mat-error *ngIf="forgotPasswordForm.controls['email'].hasError('Email')">Email format is invalid
             </mat-error>
             <mat-error *ngIf="forgotPasswordForm.controls['email'].hasError('required')">Email is required field
             </mat-error>

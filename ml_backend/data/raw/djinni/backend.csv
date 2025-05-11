@@ -22,7 +22,7 @@ Senior Software Engineer Amazon Seattle, WA Aug-2019 - Present
 • Designed an API for log level adjustment in production, enabling on-the-fly debugging without deployments and reducing issue resolution time by 1+ hour per incident, especially in complex services.
 • Built an internal UI tool for decision service simulation, allowing stakeholders to visualize service behavior for incoming orders, improving design accuracy, reducing operational overhead, & empowering managers with self-serve insights, cutting deep dive time from hours to zero.
 • Designed a new service and deployed a Retrieval-Augmented Generation (RAG) pipeline on AWS to fetch real-time inventory data and enhance delivery promise predictions for out-of-stock ASINs—boosting global sales by 23% through improved availability forecasting.
-• Redesigned 37 email templates by integrating Amazon Bedrock with Anthropic’s LLM, using prompt engineering to dynamically personalize content—enhancing customer experience and reinforcing brand consistency across services.
+• Redesigned 37 Email templates by integrating Amazon Bedrock with Anthropic’s LLM, using prompt engineering to dynamically personalize content—enhancing customer experience and reinforcing brand consistency across services.
 • Orchestrated system readiness by performing stress test and load test for 90 different services during high-demand events, Prime Day & Black Friday, ensuring optimal performance & scalability.
 • Demonstrated a strong commitment to code quality and knowledge sharing by consistently contributing to code reviews, achieving the highest number of contributions on the team, almost double that of the next highest contributor.
 • Designed & implemented a cloud-native order optimization system using Java, Docker, and AWS Lambda, reducing processing time by 30%.
@@ -110,7 +110,7 @@ ROLE: BACKEND DEVELOPER, FRONTENDEVELOPER
 Key Features:
 • Built a responsive frontend with React.js, TypeScript, Bootstrap.
 • Implemented CRUD for products & categories.
-• Integrated JWT authentication, email verification, VNPay payment gateway.
+• Integrated JWT authentication, Email verification, VNPay payment gateway.
 • Developed a chatbot for customer support & order placement.
 • Enabled real-time notifications using SignalR.
 • Allowed product rating & reviews after purchase. TECHNOLOGIES:
@@ -384,7 +384,7 @@ Jan 2024 - Aug 2024
 BACKEND DEVELOPER
 Main responsibilities:
 • Developed and implemented RESTful APIs for various functionalities, ensuring seamless integration with front-end systems.
-• Collaborated in building validation logic for input fields based on established models and best practices.
+• Collaborated in building validation logic for input fields based on established resume_classifier and best practices.
 • Utilized Java, PostgreSQL, and IntelliJ IDEA to build scalable and efficient backend services.
 • Optimized API performance and monitored system reliability through continuous testing and debugging.
 PROJECTS
@@ -595,7 +595,7 @@ Plains Capital Bank, Dallas, TX Nov 2015 – Aug 2017
 J2EE Developer
 Responsibilities:
 Developed an application using Spring MVC, JSP, JSTL (Tag Libraries) and AJAX on the presentation layer, Spring MVC for the business layer, and Hibernate for the persistence layer.
-Used Spring IOC (Dependency Injection), Spring Transactions, and Spring security models to implement Java EE components.
+Used Spring IOC (Dependency Injection), Spring Transactions, and Spring security resume_classifier to implement Java EE components.
 Used Hibernate Framework for object relational mapping and persistence.
 Worked with WebLogic and MQ as the message servers.
 Implemented J2EE design patterns such as the Value Object Pattern, Session Façade, Singleton, Factory, and DAO.
@@ -754,7 +754,7 @@ Product offerings in Online Banking
 • Proposed and implemented a solution based on ARC Types for componentization of the GUI using a Content Management System, enabling a modular architecture that reduced future development time by 25%.
 • Optimized the “Welcome Page” performance by parallelizing processes, reducing load time from
 ~12.5s to ~4s, improving user experience by 68% and reducing bounce rates, contributing to a 15% increase in customer retention.
-• Developed a reusable Email Response System (ERMS), streamlining email handling and reducing development time for future email-related features by 40%, saving approximately $50,000 annually in development costs.
+• Developed a reusable Email Response System (ERMS), streamlining Email handling and reducing development time for future Email-related features by 40%, saving approximately $50,000 annually in development costs.
 EDUCATION
 Bachelor of Science in Computer Science, University of Pune 07/2009 – 07/2012 Diploma in Information Technology, Maharashtra State Board of Technology 06/2006 – 07/2009
 PROFESSIONAL & LEADERSHIP RECOGNITIONS
@@ -823,7 +823,7 @@ PERSONAL INFORMATION
 PROJECTS
 Online Food Ordering Management Website (25/07/2024) Features:
 - Food ordering and order information retrieval for customers.
-- User, category, product, and order management for administrators. Development Model: MVC (Model-View-Controller).
+- User, Category, product, and order management for administrators. Development Model: MVC (Model-View-Controller).
 Technologies: Java, Spring Framework, HTML, CSS, Bootstrap, Thymeleaf, MySQL. Project link: https://github.com/idiotman-2212/FoodOrder-KTTKPM Personal CRM Project (24/10/2023)
 Features: User management, project management, and task management. Development Model: MVC Architecture (Model-View-Controller) Technologies Used: Java, HTML, CSS, JS, Bootstrap, JSP-Servlet Github link: https://github.com/idiotman-2212/CRM_Project_BC02 Online Bus Ticket Management Website (03/06/2024)
 Features:
@@ -833,7 +833,7 @@ Technologies Used:
 - Frontend: HTML, CSS, JS, Bootstrap, ReactJS Library
 - Backend: Java, Spring Boot, Spring Data JPA, Spring Security
 - Database: MySQL
-Website Link: chauhuydien.id.vn
+Website Link: chauhuydien.Id.vn
 Project Link: https://github.com/idiotman-2212/BusTicketBooking-FullStack WORK EXPERIENCE
 Analyzed, designed, and developed projects following the supervisor's plan. Modified, updated, refactored, and debugged projects. Identified and fixed issues to ensure system stability. Conducted testing to guarantee error-free project execution. Deployed projects to servers and managed production environments. Internship at PTIT Ho Chi Minh City (06/2024 - 08/2024)
 "
@@ -1126,7 +1126,7 @@ July 2019 - December 2023 - Java Developer - Gamesys (then Roxor, then Gamesys a
 ● Support live issues. Root cause analysis and propose a definite solution if within scope.
 ● Technologies: Spring Boot, Spring Data, Docker, Kubernetes, Swagger, MongoDB, Kafka, GoCD.
 October 2016 - April 2019 - Team Lead - Velocity Partners (currently Endava) (Rosario, Argentina)
-● A Company based on Agile practices (hence the name) to deliver results to its clients as quick as possible (but not quicker)
+● A Company based on Agile practices (hence the Name) to deliver results to its clients as quick as possible (but not quicker)
 ● Responsible for coordinating the team members tasks and priorities with the client.
 ● Participate in the design of new features and other technical decisions along with the client.
 ● Perform code review for quality and adherence to standards.
@@ -1463,7 +1463,7 @@ Description:
 - Display AI scan results of documents, manage create, edit, update, delete through a dashboard
 - Connect the API results from TemplatelessAPI and AiScanRobo
 - Logged project activities, generated CSV files from documents
-- Sent email notifications to users
+- Sent Email notifications to users
 - Write Jest test for APIs
 Technologies: TypeScript, Node.js, Hapi framework, PostgreSQL, Sequelize, React
 093*******
@@ -1481,17 +1481,17 @@ Description:
 Technologies: TypeScript, Node.js, Hapi framework, PostgreSQL, Sequelize, React WorkNow project at ROCKSHIP
 8/2022 - 3/2023
 Description:
-- Managing location and workspace availability for booking,
+- Managing Location and workspace availability for booking,
 - Creating booking orders, and paying with bank transfer.
 - Features for sign up, sign in for business, workspace, member, referee user roles
 - Admin workspace when users create new orders booking
-- Sent email notification when orders booking
+- Sent Email notification when orders booking
 Technologies: Python, Flask framework, PostgreSQL, SQLAlchemy, GraphQL Justotter project at ROCKSHIP
 12/2022 - 3/2023
 Description:
 - Restaurant orders management, adding modifiers and variants for items
 - Setting up stores or locations, activating roles for store managers
-- Features for sign up and sign in with email or phone
+- Features for sign up and sign in with Email or phone
 - Features for refunds when items manager rejects an order
 - Features users earning points for redeeming vouchers, upgrading loyalty levels configuring points Technologies: Python, Flask framework, PostgreSQL, SQLAlchemy, RestAPI Work Experience
 Introduction
@@ -1854,7 +1854,7 @@ Brain Train Android Application (https://github.com/hongdangcs/DDQ-Brain-Train)
 ● Leveraged technologies such as Node.js, Pine Script, and Puppeteer for server management and data interaction.
 Blog Website (https://github.com/hongdangcs/go-back-end)
 ● Developed a blog platform that allows users to share ideas and publish blogs.
-● Implemented CRUD functionality, enabling users to create, edit, delete their posts, comment on other blogs, and customize their profiles. Provided a WYSIWYG editor for creating rich-text blog posts.
+● Implemented CRUD functionality, enabling users to create, edit, delete their posts, comment on other blogs, and customize their profiles. Provided a WYSIWYG editor for creating rich-Text blog posts.
 ● Utilized React JS for the frontend, Golang Gin for the backend, and MongoDB Atlas for the database. EDUCATION
 International University - VNU HCMC September 2019 - Present
 ● Engineer in Information Technology
@@ -2143,7 +2143,7 @@ PERSONAL PROJECTS
 Website for buying and selling household appliances 03/2023 - 05/2023 https://github.com/huunam66/goodshop2.git
 • Team size: 1
 • Role: Fullstack
-• Description: Build CRUD functions, add products to cart, pay from cart or buy now, comment and rate products, send email...
+• Description: Build CRUD functions, add products to cart, pay from cart or buy now, comment and rate products, send Email...
 • Technologies:
 Frontend: html, css, Javascript, Jquery
 Backend: Php
@@ -2204,7 +2204,7 @@ Project: Led the backend development for a financial analytics platform, creatin
 RESPONSIBILITY
 Used Python to build scalable backend services, optimizing code performance and improving data processing in distributed systems. Focused on efficient, high-performance solutions for complex applications.
 Expertly applied Python for high-performance backend applications, implementing complex business logic, managing API interactions, and driving data-intensive workflows in a cloud environment.
-Designed and optimized enterprise-level RESTful APIs using Django, enhancing performance, security, and scalability for critical backend systems integrated with data pipelines and machine learning models.
+Designed and optimized enterprise-level RESTful APIs using Django, enhancing performance, security, and scalability for critical backend systems integrated with data pipelines and machine learning resume_classifier.
 Developed custom SQL scripts to automate complex data transformations within ETL workflows, enhancing data quality and consistency.
 Coordinated the integration of SQL-driven data validation checks within ETL processes, ensuring that only clean and verified data is loaded into the target systems.
 Applied CSS for consistent styling and responsive design, enhancing the visual appeal of web interfaces and improving data visualization dashboards.
@@ -2226,7 +2226,7 @@ Engineered ETL pipelines to extract and transform unstructured data from NoSQL d
 Designed and implemented custom ETL solutions for scalable data storage and retrieval in NoSQL environments, supporting high-velocity data streams.
 Utilized HTML5 for responsive layouts and content structuring, ensuring cross-browser compatibility and optimized user experience for web applications.
 Utilized AWS S3 for secure, scalable storage solutions, setting up bucket policies, versioning, and lifecycle rules to manage data retention and archival.
-Employed MongoDB for NoSQL data storage, designing data models and indexes to efficiently handle unstructured data. Integrated MongoDB with backend services to support flexible data management and enhance application performance.
+Employed MongoDB for NoSQL data storage, designing data resume_classifier and indexes to efficiently handle unstructured data. Integrated MongoDB with backend services to support flexible data management and enhance application performance.
 Utilize Docker for containerization, encapsulating microservices and their dependencies to ensure consistency across different environment.
 Employed Unittest to create test cases for microservices built with Flask, covering API endpoints and backend logic. Integrated tests with Jenkins to automatically run tests during CI builds.
 Developed and optimized data pipelines using PySpark for processing large datasets and focusing on distributed data transformations.
@@ -2255,7 +2255,7 @@ Infosys Live Operations Java, Mysql, Apache Spark, Oauth2, SAML, Kafka, PostGreS
 • Developed Spark jobs for handling different capabilities in Infosys Live Operations which includes handling SLA’s of orders, pre-processing, and other product-specific capabilities.
 • Involved in R&D and contributed to the design and development of a framework named diagnostic module to run Ansible scripts from UI using technologies such as Java, Spring Boot, Ansible, and Hibernate and Microservices.
 • Developed and Integrated SAML authentication as a plugin to secure the APIs for Infosys Live Operations using Okta.
-• Developed an application that automatically sends escalation reports to relevant stakeholders based on user-defined configurations. The reports are formatted into Excel sheets and tables within email subjects for efficient communication and comprehension.
+• Developed an application that automatically sends escalation reports to relevant stakeholders based on user-defined configurations. The reports are formatted into Excel sheets and tables within Email subjects for efficient communication and comprehension.
 • Created an additional application tasked with comparing data across multiple databases to ensure synchronization between various data sources utilized within the product.
 • Created an additional application tasked with comparing data across multiple databases to ensure synchronization between various data sources utilized within the product.
 • As a part of the Digital Integration Layer team, contributed to the development of a template-based solution serving as an intermediary between clients and the product. This solution seamlessly accommodates different input types such as SOAP or JSON, automatically converting them to hit the respective APIs and retrieve results for our system.
@@ -2406,7 +2406,7 @@ Design and build a website about flight management
 MOBILE APPLICATION SHARE BUY : 7/2024 - 8/2024
 •
 • Technology: Python (Django Rest Framework), MySQL
-• Main API: Order information (GET, PATCH, POST), purchase group management (GET, PATCH, POST, DELETE), retrieve product list by tag or category, store information management (GET, POST, PATCH), order history
+• Main API: Order information (GET, PATCH, POST), purchase group management (GET, PATCH, POST, DELETE), retrieve product list by tag or Category, store information management (GET, POST, PATCH), order history
 (GET), sales product management (GET, POST, PATCH, DELETE), Stripe payment.
 save posts, update posts, update personal information,log in as employee, Link github: https://github.com/Tuan2906/ThuongMaiDienTu.git Build API for share journey mobile application
 Build API for share buy mobile application
@@ -2455,7 +2455,7 @@ ABOUT ME
 The client, an American leader in the Networking field, was dealing with an increased demand for more advanced instrument to manage access for internal engineers to their internal applications.
 • Decreased 90% of the time for setting up network devices for an organization by designing a solution that automatically applies devices settings.
 • Decreased 70% of the time for giving specific access to use a certain application by developing a single sign-on platform that gives permission to the user for every application.
-• Reduced 99% of the forbidden and unwanted words in Techzone articles by designing a custom- tailored module that analyzes article text provides an alerts in case of presence of specific words.
+• Reduced 99% of the forbidden and unwanted words in Techzone articles by designing a custom- tailored module that analyzes article Text provides an alerts in case of presence of specific words.
 • Led a team of 2 backend developers from the position of a Senior Developer.
 Skills: Django, Flask, API, MongoDB, SQLite, GitHub, GitLab, Web Scrapping, beautifulsoup.
 I am a passionate Python Backend Developer Consultant Contractor Freelancer with 6+ years experience.
@@ -2630,7 +2630,7 @@ Worked as an Executive at Optimus Global Service from Apr 2006 to Dec 2006
 Experience Summary:
 HUBGROUP, Inc, USA Oct/2020 – Till date.
 Role: Automation QA Lead
-Hub Group, Inc. is a transportation and logistics management company based in the USA that provides innovative and value-driven supply chain solutions to customers. Hub Group’s services include intermodal, truck brokerage, dedicated trucking, managed transportation, freight consolidation, warehousing, last-mile delivery, international transportation, and other logistics services. The company serves the retail, consumer products, and durable goods markets. Working with the following application name: Brokerage, HubConnect, OM, TPS (Rumba), and McLeod (ERP).
+Hub Group, Inc. is a transportation and logistics management company based in the USA that provides innovative and value-driven supply chain solutions to customers. Hub Group’s services include intermodal, truck brokerage, dedicated trucking, managed transportation, freight consolidation, warehousing, last-mile delivery, international transportation, and other logistics services. The company serves the retail, consumer products, and durable goods markets. Working with the following application Name: Brokerage, HubConnect, OM, TPS (Rumba), and McLeod (ERP).
 Responsibilities:
 Lead the design and development of scalable backend systems for various web and mobile applications.
 Analyzed the Business Requirements Document and system specifications and identified the test requirements.
@@ -2847,7 +2847,7 @@ Bootstrap: Responsive and modern UI design.
 MySQL: Relational database management system.
 AWS S3: Storage for user avatar images and media assets. Jakarta Servlet: Handling HTTP requests and responses. Maven: Project management and dependency management. Lombok: Reducing boilerplate code.
 Google Authenticator: Generating TOTP for 2FA.
-JavaMail: Sending email notifications for account activation, password recovery, and updates. Project Link: https://github.com/trthanhdo41/note-application CERTIFICATIONS
+JavaMail: Sending Email notifications for account activation, password recovery, and updates. Project Link: https://github.com/trthanhdo41/note-application CERTIFICATIONS
 Advanced Software Engineering Job Simulation (Credential ID: na8TZapkz35gDvoAN (Enrolment Verification Code)) by The Forage
 Jul 2024
 Java Spring Boot projects.
@@ -3085,7 +3085,7 @@ Role: Software Engineer
 • Develop API end points using FastAPI with internal teams ensuring seamless integration between frontend and backend systems
 • Introduce read only cache strategy using Oracle Coherence reducing web application data load time by 10%
 • Develop complex T-SQL stored procedure to identify financial products with similar legal entity, tenor and currency combinations required to fix front end errors improving trader profile processing time
-• Automate financial product reports reducing report generation and email effort every Monday using pandas, Unix and T-SQL
+• Automate financial product reports reducing report generation and Email effort every Monday using pandas, Unix and T-SQL
 • Enhance data visibility for better business decisions by adding additional trade data columns to Qlik view reports
 • Create interactive dashboards and reports using tools like Power BI to effectively communicate complex data insights to stakeholders and management
 • Migrate trader mandate application from legacy spring app to python reducing tech debt and thereby improving developer productivity
@@ -3102,7 +3102,7 @@ Role: Software Developer Intern
 • Created data visualizations in R studio using FMCSA data containing inspection data as part of exploratory data analysis
 • Performed data processing, removed null values, duplicate rows and normalized the datasets using python NumPy and pandas
 • Applied various statistical techniques, including regression analysis and hypothesis testing to uncover relationships within data
-• Improved crash prediction accuracy to 70% by stacking logistic regression, random forest and KNN models EDUCATION
+• Improved crash prediction accuracy to 70% by stacking logistic regression, random forest and KNN resume_classifier EDUCATION
 Master of Science in Management Information Systems December 2018 University of Delaware, USA
 Bachelor of Engineering in Production Engineering June 2016 Osmania University, India
 SKILLS
@@ -3128,7 +3128,7 @@ Software Engineer August 2020 - Present
 • Led the development team for Zlight Imperium, a subscription-based sales enablement CRM tool, anticipated to drive a 25% increase in revenue growth. INNODATATICS India
 Data Science Intern December 2019 - June 2020
 • Executed analytics projects including EDA, feature engineering, modeling, and deployment, delivering actionable insights that sped up client decision-making time by 25%.
-• Constructed boosted ML models, ensemble models, and regression models, improving predictive accuracy by 20%.
+• Constructed boosted ML resume_classifier, ensemble resume_classifier, and regression resume_classifier, improving predictive accuracy by 20%.
 • Applied Natural Language Processing (NLP) techniques for sentiment analysis, resulting in a 15% increase in accuracy.
 • Created and delivered data visualizations and reports in Tableau, improving data comprehension and communication by 35%.
 Skills
@@ -3247,7 +3247,7 @@ Senior Backend Developer,
 Worked on the Cosmos modernization project development process for BSH Company. After the conversion from VB to C#, the architecture was converted to .NET Core and created RestApi with Facade Layer method. Created Unit Test mehods for new RestApi. Performance-enhancing arrangement was made by merging methods.
 Software Technologies used:
 VS .NET, ASP.NET, C#, NET Core, Restful Web API, JavaScript, HTML5, PL/SQL, Jira, Git, Azure DevOps.
-Took part in ""Milk Run Project"" in logistics is a process that improves efficiency of short delivery routes for BSH company. Analyzed and implemented GPS module to digitize the process with real-time location tracking. Database-linked Notification system structure was established.
+Took part in ""Milk Run Project"" in logistics is a process that improves efficiency of short delivery routes for BSH company. Analyzed and implemented GPS module to digitize the process with real-time Location tracking. Database-linked Notification system structure was established.
 Software Technologies used:
 .NET Core, SQL Server, Restful Web API, Redis Cache, N-Tier Architecture, Unit of Work Pattern, Repository Pattern, Hangfire, SignalR, Git, Jira.
 Participated in development of “Succession project” for Koç Holding. Led a team of backend developers and held team meetings, prioritized work tasks and assigned coding tasks to various team members.
@@ -3255,7 +3255,7 @@ Software Technologies used:
 .NET Core, MongoDB, Restful Web API, CQRS, Hangfire, Git, Azure DevOps.
 Presidency of the Republic of Turkey Ankara/Turkey September, 2007 - February, 2022
 Senior Software Developer & Team Lead
-Participated in the complete Software Development Lifecycle including requirements analysis, design, implementation, testing and maintenance for scalable enterprise software projects. Developed several server-side RESTful services-based applications using Spring Boot. Created data models, worked with Databases, CRUD on the backend and manipulated data on the backend. Maintained documentation of workflows, policies and projects within Confluence and Jira. (1 years and 6 months)
+Participated in the complete Software Development Lifecycle including requirements analysis, design, implementation, testing and maintenance for scalable enterprise software projects. Developed several server-side RESTful services-based applications using Spring Boot. Created data resume_classifier, worked with Databases, CRUD on the backend and manipulated data on the backend. Maintained documentation of workflows, policies and projects within Confluence and Jira. (1 years and 6 months)
 Software Technologies used:
 Java(Spring Boot, Maven), Oracle, PL/SQL, GitHub, Git, Confluence, Jira, Rest APIs, Postman for API testing.
 Led and developed all stages of Software Development Lifecycle for enterprise software projects about HR management, document tracking system, electronic document management system, financial management and some decision-support systems.
@@ -3389,7 +3389,7 @@ Bolivar Drive
 https://www.linkedin.com/in/shrutisavardekar/ San Jose CA 95123 PROFESSIONAL EXPERIENCE
 Software Engineer Quintar, Santa Clara, CA May 2022 - Present
 ● As a Software Engineer at Quintar, I played a crucial role in developing and maintaining comprehensive data pipelines. My responsibilities encompassed designing the data pipeline architecture to gather real-time data from sports platforms. This involved transforming and archiving the data to create a view model, utilizing Azure tables, DynamoDB, S3 buckets, and RabbitMQ for efficient storage and transfer to end-users or applications.
-● I developed, optimized, and maintained REST APIs, leveraging cloud platforms such as Azure functions and AWS Lambda functions. My focus was on generating view models integral to Quintar products and ensuring an optimal data delivery architecture for consistency across various projects.
+● I developed, optimized, and maintained REST APIs, leveraging cloud platforms such as Azure functions and AWS Lambda functions. My focus was on generating view resume_classifier integral to Quintar products and ensuring an optimal data delivery architecture for consistency across various projects.
 ● One of my notable achievements was owning and constructing the entire data flow which also involved optimizing APIs to achieve low-latency responses, enhancing the overall user experience.
 ● In addition to my core responsibilities, I provided support for live events, including basketball, golf, and baseball games and tournaments. To ensure the reliability of our APIs, I implemented unit tests, guaranteeing the correctness of API responses. My tenure at Quintar was marked by a commitment to data excellence and a proactive approach to enhancing product performance. Software Engineer 63 Moons Technologies Limited, Mumbai Feb 2016 - Sep 2017
 ● Responsible for delivery of Exchange flagship product – OMS (Order management system).
@@ -3579,14 +3579,14 @@ RestAPI
 Roles & Responsibilities
 Developed Restful APIs for property creation,
 maintenance, and compliance management.
-Created dynamic email templates to facilitate
+Created dynamic Email templates to facilitate
 easy seamless communication between owners,
 tenants, and suppliers.
 Developed a command center enabled with CRUD
 operations.
 Developed a customized ticketing and task
 management system with Rest Framework.
-Integrated Outlook email with the ticketing
+Integrated Outlook Email with the ticketing
 system to enable easy communication.
 Environment
 Python, Django
@@ -3786,9 +3786,9 @@ High School Student - SMKN 2 Depok - (2020-2024)
 I went to high school at one of the best vocational schools in Indonesia, SMK 2 Depok. I entered the SIJA (Application Network Information Systems) major, I learned about networking, web development, and network security at this school.
 Fullstack Developer - PT. Gamatechno Indonesia - (2023-2024)
 ~ Creating backend api for vms.gamatechno.com application using gin gonic golang and mysql database.
-~ Creating some api service for digitalkie.id using Nest.js and mysql database.
-~ Slicing ui and create component app for backoffice digitalkie.id using Vuetify.js and Nuxt.js 2
-~ Main frontend developer for the 2023 Jakarta Golf League livescore website lgj2023.18hole.id using Nuxt.js 3
+~ Creating some api service for digitalkie.Id using Nest.js and mysql database.
+~ Slicing ui and create component app for backoffice digitalkie.Id using Vuetify.js and Nuxt.js 2
+~ Main frontend developer for the 2023 Jakarta Golf League livescore website lgj2023.18hole.Id using Nuxt.js 3
 "
 backend,"Manisha Kumari
 Portland, Oregon, USA
@@ -3803,7 +3803,7 @@ SOFTWAREDEVELOPMENT ENGINEERING INTERN January 2022 - July 2022
 • Interned as a backend developer for 6 months on supportApp, focusing on transitioning from REST-API to gRPC for the symptomWS microser- vice. Achieved a 1/3 reduction in data transfer rates using Protobuf. Leveraged gRPC and Protobuf to cut latency in half, minimize garbage collector time by 1/3, and enhance CPU efficiency by around 50 percent. Was one among top 5 percent performer.
 • Used Java, gRPC, Protobuf, and Spring boot.
 Cisco System (India) Private Limited Bangalore, India TECHNICAL UNDERGRADUATE INTERN May 2021 - July 2021
-• During my 2-month internship as a frontend developer in the Datacenter team, employed React Three Fiber to create 3D visualizations for 2D graphs of nodes and VMs. The resulting 3D models not only enhanced animation but also introduced a real-time context based search feature for various nodes and VMs within the Cisco network. Made visualizing complex networks of nodes easier and interactive with features like node expansion on click and display of all its internal features.
+• During my 2-month internship as a frontend developer in the Datacenter team, employed React Three Fiber to create 3D visualizations for 2D graphs of nodes and VMs. The resulting 3D resume_classifier not only enhanced animation but also introduced a real-time context based search feature for various nodes and VMs within the Cisco network. Made visualizing complex networks of nodes easier and interactive with features like node expansion on click and display of all its internal features.
 • Used React Three Fiber, Blender, Linear Algebra, Dgraph, and React. Education
 Portland State University Oregon, US
 M.S. IN COMPUTER SCIENCE (GPA: 4.0/4.0) Sep 2023 - May-2025 Courses: Machine learning; Internet, Web and Cloud; Introduction to Database Management System; Virtual Reality, and Data Mining. Indian Institute of Information Technoloy, Allahabad UP, India B.TECH IN INFORMATION TECHNOLOY (GPA: 8.2/10.0) Jul 2018 - June 2022 Courses: Data Structure; Algorithm; Operating System; Machine Learning; Deep Learning; Cryptography; Linear Algebra; Statistics; AI. Skills
@@ -3851,7 +3851,7 @@ Languages: Python, Java, Kotlin, C++, SQL, JavaScript, HTML/CSS Frameworks: Reac
 Baby Name Trends Mobile App JavaScript, CSS, HTML, Cordova, SQL
 • Developed a responsive Cordova mobile web application that dynamically displays top baby names based on selected state, gender, and year.
 • Established a dynamic interface allowing users to filter baby names, with real-time data fetching from a MySQL database.
-• Integrated interactive data visualizations using JavaScript to represent baby name popularity trends. Game Hacking Project Assembly, Visual Studio Code, IDA
+• Integrated interactive data visualizations using JavaScript to represent baby Name popularity trends. Game Hacking Project Assembly, Visual Studio Code, IDA
 • Reverse engineered a game to unlock hidden features that were originally behind a paywall (educational purposes, no pirating intentions)
 • Disassembled game executable into assembly using IDA and VSCode for code exploration
 • Successfully navigated the game’s code, bypassing the conditional statements associated with the paywall variable to unlock restricted features.
@@ -4105,7 +4105,7 @@ Design and develop a dynamic news website
 hzham.am
 Designed and developed a dynamic news website from scratch. Created Laravel-based website with role-based management. Front-end & back-end development
 Ani Plus Delivery
-Laravel, NodeJS, PostgreSQL, Redis, Firebase Cloud Messaging. Experienced in database design and dedicated to driving ongoing enhancements in system architecture. Deliver innovative solutions for previously unmanaged aspects of clients' businesses, enhancing automation and overall efficiency. Ani Plus Delivery is a versatile platform tailored for establishing and customizing various services (such as online taxi, delivery, and sober driver services) with autonomous capabilities, enabling order assignment to drivers based on factors like location, vehicle capacity, and rating.
+Laravel, NodeJS, PostgreSQL, Redis, Firebase Cloud Messaging. Experienced in database design and dedicated to driving ongoing enhancements in system architecture. Deliver innovative solutions for previously unmanaged aspects of clients' businesses, enhancing automation and overall efficiency. Ani Plus Delivery is a versatile platform tailored for establishing and customizing various services (such as online taxi, delivery, and sober driver services) with autonomous capabilities, enabling order assignment to drivers based on factors like Location, vehicle capacity, and rating.
 Create and maintain backend for a crypto exchanging project sawe.io
 NodeJS, NestJS microservice-based project with DDD architecture. This project focuses on facilitating the buying and selling of cryptocurrencies.
 Back-end development
@@ -4173,7 +4173,7 @@ June 2023 August 2023 Palo Alto, U.S.
 Ô Architected & executed end-to-end Cross-Origin Resource Sharing integration on Rubrik Security Cloud, project involving MySQL database design, gRPC, GraphQL APIs, HTTP filter, enabling organization-wise configurations & allowing whole company to upgrade to latest version of cloud, which requires support of CORS
 Ô Coded to schedule datastore migration with disk mapping immediately after instant recovery from snapshot using Scala, Go, Java, SQL; added REST APIs for customers MORNINGSTONE TECH MACHINE LEARNING INTERN
 June 2021 – September 2021 Beijing, China
-Ô Researched and constructed LSTM and random forest models to predict the futures market settlement price using PyTorch & scikit-learn, achieving 65% accuracy on average Ô Built infrastructures with Python for training, cross-validation, hyperparameter tuning, testing, and visualization, and incorporated in company’s web app using Django PROJECTS
+Ô Researched and constructed LSTM and random forest resume_classifier to predict the futures market settlement price using PyTorch & scikit-learn, achieving 65% accuracy on average Ô Built infrastructures with Python for training, cross-validation, hyperparameter tuning, testing, and visualization, and incorporated in company’s web app using Django PROJECTS
 PARALLEL PROGRAMMING PROJECT C++
 August 2023 Present
 Ô Exploited parallel fractal generation using pthreads & ISPC respectively with interleaved assignment of tasks, achieving 30x speedup; vectorized code using SIMD intrinsics; measured and reasoned about the performance of parallel programs UCHICAGO TRADING COMPETITION PYTHON
@@ -4415,7 +4415,7 @@ I thus confirm that all the details furnished above are authentic and accurate t
 "
 backend,"Post Applied: Secretarial - EA, PA
 SUMMARY
-As PA/EA, I had performed complex and advanced secretarial tasks for DIRs/MD/CEO’s/VP of different organizations. My skills as uniquely qualified support professional with ‘9 years’ progressive experience in the secretarial and administrative arena. I am well versed with MS Office and Internet applications and can manage and maintain CEO schedule, letter correspondences, email reviewing, prepare reports, keep records in excel sheets and file them, overall have good experience in working with professional environment. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well under pressure and adhere to strict deadlines. Assist executives and managers on multiple organizational levels. RELEVANT SKILLS
+As PA/EA, I had performed complex and advanced secretarial tasks for DIRs/MD/CEO’s/VP of different organizations. My skills as uniquely qualified support professional with ‘9 years’ progressive experience in the secretarial and administrative arena. I am well versed with MS Office and Internet applications and can manage and maintain CEO schedule, letter correspondences, Email reviewing, prepare reports, keep records in excel sheets and file them, overall have good experience in working with professional environment. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well under pressure and adhere to strict deadlines. Assist executives and managers on multiple organizational levels. RELEVANT SKILLS
 • Ms Office -– Word, Excel and PowerPoint
 • Long Hand with Typing Speed 40 WPM
 • Zoom & Google Meet, Google Sheet
@@ -4507,14 +4507,14 @@ Oracle (China) Software Systems Co., Ltd, China Jul 2020 -Aug 2020 Part-time Ass
 • Visualized and analyzed the online shopping customer behaviors using RandomForests of 83.09% accuracy
 • Applied CNNs and transfer learning to detect the cell images with pytorch with best accuracy of 84.74% Microsoft, Guangzhou office, China Aug 2019-Sep 2019 Part-time Assistant, Risk Management Department
 • Built a book recommender system using Azure Machine Learning Services API with user-based collaborative filtering algorithm in Python
-• Constructed an audio to text translation system with Azure Cognitive Services API in Python LATEST PROJECT EXPERIENCE
+• Constructed an audio to Text translation system with Azure Cognitive Services API in Python LATEST PROJECT EXPERIENCE
 Backend Fullstack Project – High Availability Flash Sale System Feb 2023 – Feb 2023
 • Developed a backend system with Springboot, Mybatis, MySQL, Redis and RocketMQ
 • Utilized snowflake generating distributed IDs to deal with high concurrency and large flow
 • Used sentinel to limit the rate and control the flow Backend Fullstack Project - Social Media Application(like Twitter) May 2022 - Jul 2022
 • Developed backend system by Django, MySQL, Hbase, Redis & Memcached
 • Utilized push model to fanout news feed and used Redis to cache all tweets and feeds
-• Applied Redis as Message Queue Broker to deliver asynchronized tasks like email delivery and feeds fanout My Covid Dashboard - an iOS covid monitor app Mar 2022 - Apr 2022
+• Applied Redis as Message Queue Broker to deliver asynchronized tasks like Email delivery and feeds fanout My Covid Dashboard - an iOS covid monitor app Mar 2022 - Apr 2022
 • Programmed the iOS application using Dart with Flutter in Android Studio IDE to conducted the basic logging of users’ trips, symptoms, take outs and so on
 • Connected firebase as the database and authenticated with firebase authentication
 • Synchronized with Apple Health data
@@ -5105,7 +5105,7 @@ The system uses python and libs that support crawling such as selenium, Beautifu
 + The technologies I have used: Python, Selenium, BeautifulSoup, Proxy FULLSTACK DEVELOPER
 2018 - 2018
 CHOTOT.COM DATA SCRAPING SYSTEM
-The system collects customer information on the website chotot.com to collect information such as: phone number, name, product, product category. Built with python, selenium and BeautifulSoup
+The system collects customer information on the website chotot.com to collect information such as: phone number, Name, product, product Category. Built with python, selenium and BeautifulSoup
 + The technologies I have used: Python, Selenium, BeautifulSoup SKILLS
 Technical Skills: Nodejs/Express, TypeScript, Python/ Django/ FastApi/ Flask, ReactJS, Golang, Javascript, Postgresql, MongoDB, SQL, Redis, Docker, Kubernetes, Git, gRPC, Kafka, ElasticSearch, AWS. Languages: English, Vietnamese.
 Soft skills: Research, Solving problems, Communicating, Teamwork, Self-taught.
@@ -5117,7 +5117,7 @@ PROFILE
 ***.**********@*****.***
 077*******
 https://www.facebook.com/pro
-file.php?id=
+file.php?Id=
 100************
 19/25 Street No. 8, Linh Trung
 Ward, Thu Duc, Ho Chi Minh
@@ -5394,7 +5394,7 @@ SOFTWARE DEVELOPMENT SKILLS
 PROJECTS
 Foodive-Github 15-Day Group Project
 Collaborated with 7 students in a 7-person team to develop an application using agile process and focusing on Service Oriented Architecture. The backend code was written in Python on Django.
-Developed an application to randomly select restaurants in the user’s area by clicking a button. A restaurant’s rating, price, and food category are displayed once selected.
+Developed an application to randomly select restaurants in the user’s area by clicking a button. A restaurant’s rating, price, and food Category are displayed once selected.
 Used continuous integration tools to build and automate the deployment of features. TheList-GitHub 10-Day Group Project
 Created a complete backend and frontend web application with a team of 6. Users can browse movies and books, recommend them to friends and store their recommendations.
 Utilized Bootstrap to create a user interface of production quality. Viewing Party Lite 5-Day Duo Project
@@ -5427,7 +5427,7 @@ Email: **********@*****.***
 LinkedIn: https://www.linkedin.com/in/tyvo/
 Skype: **********@*****.***
 Profile:
-My name’s Ty, I’m 26. I have 4 year experience with Python and other languages like Go, Nodejs, and Reacjs. My main skill is Python, I used to do some technology related to cloud and big data
+My Name’s Ty, I’m 26. I have 4 year experience with Python and other languages like Go, Nodejs, and Reacjs. My main skill is Python, I used to do some technology related to cloud and big data
 MAIN TECHNICAL SKILLS
 Languages: Python
 Framework: Django, Flask
@@ -5553,8 +5553,8 @@ Building a Recommendation System for Best Amazon Products
 • Constructed recommendation system based on past rating data using recommendation systems techniques. Analyzing Market Campaigns to Aid CMO Devise the Best Marketing Strategy
 • Analyzed marketing campaigns and sales data to address important business inquiries related to customer demographics, product preferences, and channel performances to help the Chief Marketing Officer find a stellar marketing strategy.
 Music Recommendation System
-• Utilized different models to construct recommendation system that proposes top 10 songs for the user based on the likelihood of user listening to those specific songs.
-• Achieved by indentifying best models and methods that could be used for dataset. Resulted in matrix factorization model being chosen due to best SVD performance.
+• Utilized different resume_classifier to construct recommendation system that proposes top 10 songs for the user based on the likelihood of user listening to those specific songs.
+• Achieved by indentifying best resume_classifier and methods that could be used for dataset. Resulted in matrix factorization model being chosen due to best SVD performance.
 TECHNICAL PROFICIENCIES
 Programming:: C#, .NETCORE FRAMEWORK, PYTHON, JAVA, GOLANG, ANGULAR, HTML AND CSS Artificial Intelligence/
 Machine Learning:
@@ -5577,7 +5577,7 @@ Education
 RMIT University Vietnam Ho Chi Minh City, Vietnam
 Bachelor of Information Technology Minor Artificial Intelligence Expected April 2023 Honors and Awards
 • ICPC Regional Round: Participated in ICPC Regional Round 2022
-• TensorFlow Developer Certificate: The certificate program requires an understanding of building TensorFlow models using Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies.
+• TensorFlow Developer Certificate: The certificate program requires an understanding of building TensorFlow resume_classifier using Computer Vision, Convolutional Neural Networks, Natural Language Processing, and real-world image data and strategies.
 Experiences
 •
 NLP Engineer Intern Jun 2022 - Oct 2022
@@ -5621,7 +5621,7 @@ INDIA
 Energetic, accomplished professional with more than 8 years of office and mortgage experiences. Reputation for effective team management, quality office administration, and strong organizational techniques. I am quick to grasp new ideas and concepts, and to develop innovative and creative solutions to problems. I am able to work well on my own initiatives and can demonstrate the high levels of motivation required to meet the tightest of deadlines. Even under significant pressure, I possess a strong ability to perform effectively.
 Aug 2014 to May 2020 Mortgage Loan Processor, Comnet Solution (CNS) Gurgaon, INDIA A mortgage processor, also known as a mortgage loan originator or loan processor, sets up the borrower with the proper documents for the loan program they want to use. They guide the borrower through the first step of loan processing.
 Audit Files for accuracy before ordering, closing Documents.
-Check HUD, Update title fees before sending Docs.
+Check HUD, Update Title fees before sending Docs.
 After Closing Check Funding Docs for signature, dates and notary.
 Review Payoff on existing loans, titles Commitments.
 Reviewed loan application and assist home buyers seeking mortgage loans.
@@ -5799,10 +5799,10 @@ In-house development with PHP, Custom PHP Development with CodeIgniter, API Deve
 - Currently Working Project:
 Project: “Directory listing project” (I am working on this project since 2014 when I am working at my previous company I.e., Enrich Web Technologies Pvt. Ltd)
 This is a directory listing project. This project is divided into 4 sections.
-a) User / Visitor: who will browse the site from the front-end, search business as per categories/requirements, get information via email or on phone via SMS
+a) User / Visitor: who will browse the site from the front-end, search business as per categories/requirements, get information via Email or on phone via SMS
 b) Client / Customer: who will register their business (shops, hotels, organizations, services)
 c) Agent / Admin: Who is working on behalf of the company, collecting information and updating the database, also works as a call center for the company.
-d) Super admin: manage all data and provide reports as per requirements. (Visitor log – category wise, search keyword wise, send and receive SMS / emails, etc.)
+d) Super admin: manage all data and provide reports as per requirements. (Visitor log – Category wise, search keyword wise, send and receive SMS / emails, etc.)
 This is an ongoing project, currently working on Maharashtra state, Plan for in next 2 years to work all over India.
 (I am responsible for all coding part / UI integration parts. For this project I have one Jr. PHP developer, One Tester who tests all functionality in various ways)
 We are following this process to finalize the work/coding.
@@ -6214,7 +6214,7 @@ Client description: The project was for a client in the UK, and this was using Q
 Business problem: The client wanted that analytical data in the digital dashboard and reports based on the data.
 Solution: We did modifications to the current dashboard according to their new requirement and did data analytics and generated reports accordingly. I was part of front-end development while creating HTML templates and data binding. Did a lot of animations and style related developments other than above.
 Technology stack: Python, AngularJs, Javascript, Jquery, HTML, CSS, Node js
-Client description: The project was for a client in the UK, this product consists of a base station with environmental sensing capabilities and a tablet interface, paired with a wrist-strap which provides heart-rate, and temperature measurements together with an accelerometer to detect falls, seizures, and to monitor tremor. It also provides range and location data. Client domain: HealthCare.
+Client description: The project was for a client in the UK, this product consists of a base station with environmental sensing capabilities and a tablet interface, paired with a wrist-strap which provides heart-rate, and temperature measurements together with an accelerometer to detect falls, seizures, and to monitor tremor. It also provides range and Location data. Client domain: HealthCare.
 Business problem: The clients wanted the there basic feature to be developed and release Solution: We have developed web projects and supported backend services. I was part of the frontend team, I had to work on mostly AngularJs and after Angular developments. While developing HTML and CSS things. Had some experiences in 3rd party libraries related to data populations (graphs and charts ..)
 Technology stack: HTML, CSS, JavaScript, Angular JS, Angular, JQuery, BootStrap, VS code, Git
 Associate Software Engineer
@@ -6274,7 +6274,7 @@ BACKEND DEVELOPER — bulletlink.com, Houston, Texas OCT 2021 – CURRENT
 • Worked with team to move from dedicated client/servers to new redundant cloud servers.
 • Pulled articles from SQL Server database, created static files and pushed them to cloud servers.
 • Setup hourly process to activate or inactivate articles depending on dates.
-• Setup daily process to generate invoices in PDF and email to customers.
+• Setup daily process to generate invoices in PDF and Email to customers.
 • Developed a script that detects DDoS, captures IPs, and black-listed IPs to be blocked by Web Servers.
 • Set up a set of 16 dual cloud servers, and a load balancer to provide a high availability environment.
 • Developed web scraping scripts to extract data from other content management systems for importing into a database.
@@ -6286,7 +6286,7 @@ BACKEND DEVELOPER — bulletlink.com, Houston, Texas OCT 2021 – CURRENT
 • Technologies used: Linux, MySQL, Flutter, Shell Scripting, REST API PROJECTS
 DENTAL CLINIC SOFTWARE — Mumbai, India FEB 2018 - JUL 2018
 • Created software for a local dentist to communicate between the receptionist and dentist using a MySQL database.
-• The software would maintain patients' records and print out/email a detailed treatment of the patients.
+• The software would maintain patients' records and print out/Email a detailed treatment of the patients.
 • Technologies used: Python, MySQL
 EDUCATION
 Bachelor of Computer Science GPA: 3.4 Deans List in Senior Year Graduation Date: DEC 2021 University of Houston - Houston, Texas
@@ -6767,7 +6767,7 @@ EXPERIENCE :
 (ROLES AND RESPONSIBILITES AS MORTGAGE UNDERWRITER:
 Reviewing and verifying loan documents and supporting documents and analysing loan risk.
 Reviewing Loan to Value, confirming down the payment and savings account information.
-Requesting additional information via email or through calls.( both inbound and outbound)
+Requesting additional information via Email or through calls.( both inbound and outbound)
 Making loan eligibility decisions and approving or rejecting the application based on eligibility criteria.)
 PERSONAL PROFILE:
 DATE OF BIRTH: 01-02-1995
@@ -6839,7 +6839,7 @@ PERSONAL DETAILS
 Name : R.V. Karthikeyan.
 Date of Birth : 12.05.1993.
 Gender : Male.
-Father name : K.R.Vasudevan.
+Father Name : K.R.Vasudevan.
 Mother tongue : Telugu.
 Religion : Hindu.
 Nationality : Indian.
@@ -6898,7 +6898,7 @@ Interest
 • Music
 • Travelling
 Personal profile
-• Father’s name : Sh. Manoj kumar
+• Father’s Name : Sh. Manoj kumar
 • Date of Birth : 05/09/1998
 • Gender : female
 • Marital Status : Unmarried
@@ -6936,7 +6936,7 @@ Web Developer (Internship)
 PIXIE TECHNOLOGY, IKEJA Jan 2021 – April 2021
 Integrated subscription module to a WordPress site
 Integrated custom menu to WordPress dashboard to manage subscribers
-Integrated counter to count the number of subscribers for each category
+Integrated counter to count the number of subscribers for each Category
 Integrated custom theme for the subscription module
 Customer Service Representative
 OUTCESS SOLUTION NIGERIA LTD,IKEJA. Nov 2019 – Nov 2020
@@ -7076,7 +7076,7 @@ New delhi 110012
 Contact No:
 920-***-****
 Personal Profile
-Father s name :Lt Shivram
+Father s Name :Lt Shivram
 Date of Birth : 22/03/1988
 Nationality : Indian
 Marital Status : Married
@@ -7228,7 +7228,7 @@ Address- GALI NO 17, D BLOCK MUKUNDPUR
 DELHI - 110042
 Contact –
 813*******
-Email id – nitinmahor614@gmailcom
+Email Id – nitinmahor614@gmailcom
 CAREER OBJECTIVE :-
 I can do everything which will help to establish a respective & meaningful career I want to work with a company/organization where I can prove myself with the help of my studies & innovative ideas.
 ACADEMIC QUALIFICATION:-
@@ -7312,11 +7312,11 @@ Worked as a Backend Executive cum Jr.Accountant in Varun Engineers from 8th Mar 
 Job Description:
 Preparing quotations as per the RFQ from purchase department, our sales engineers, online business portals like Indiamart and justdial.
 Online vendor registration with government companies in the websites and submitting the hard copies through couriers.
-Quotations follow up through email as reminders.
+Quotations follow up through Email as reminders.
 Placing purchase orders to our principal company in our principal company’s dealer portal.
 Making Invoices in tally ERP 9.
 Entering purchase bills, receipt and payment vouchers in tally.
-Preparing ledgers as per customer company name and address.
+Preparing ledgers as per customer company Name and address.
 Updating purchase and sale entry in excel sheet.
 Making delivery challans, warranty certificates etc.
 Personal profile:
@@ -7576,13 +7576,13 @@ INTERIOR DESIGN
 J.R.V.G.T.I 2001-2002
 (JAGANNATH RATHI VOCATIONAL GUIDANCE TRAING INSTITUTE) Pune.
 PERSONAL DETAILS:
-Husband name : Mr. Naresh Tyagi
+Husband Name : Mr. Naresh Tyagi
 Languages known : Hindi, English, Marathi & Sindhi
 Sex : Female
 Nationality : Indian
 Date of birth : 16th of OCT. 1980
 Marital status : Married
-E-mail id : ************@*****.***
+E-mail Id : ************@*****.***
 Permanent address: -
 Mrs. Bhavana N. Tyagi
 +919*********
@@ -7611,7 +7611,7 @@ Senior Software Engineer – Guggenheim Partners, Santa Monica, CA May 2018 – 
 ● Ported the legacy TradePost to C# with appropriate data model via re-factoring, re-design by adding numerous enhanced capabilities including: dynamic/configurable Bloomberg data pull, dynamic config-driven display, trade revision/change tracking/highlighting, HTML/CSS rendering and better performance and logging, while getting rid of ~30 Excel templates and numerous stored procedures with thousands of lines of inefficient SQL.
 ● Incorporated Data-Oriented Design, Transaction Script Pattern, Control Tables and Functional Programming approaches where possible, along with Scheduling, Queuing and State Machine, significantly reducing maintenance costs.
 ● This post-trade application service helps improve efficiencies across desks: by eliminating the error-prone manual emailing of trades/amends; improves accuracy and timeliness of the trade notifications with tested data/calculations and standardized display format; keeps analysts, traders, portfolio managers on the same page without effort so they can focus on what they do best. Tools & Technologies: C#, SQL Server, Dapper, Excel & HTML/CSS; Aladdin & Bloomberg Data. Freelance Developer – Region Technologies, Phoenix, AZ May 2016 – April 2018
-● Designed, developed and deployed an automated trading system to trade stocks, options, and futures using market data from multiple data providers and multiple brokerage APIs. The system has multiple modules that include data extract, transform and load, back-testing, risk monitor, trade management, order management, logging and alert via text or voice.
+● Designed, developed and deployed an automated trading system to trade stocks, options, and futures using market data from multiple data providers and multiple brokerage APIs. The system has multiple modules that include data extract, transform and load, back-testing, risk monitor, trade management, order management, logging and alert via Text or voice.
 ● Integrated Quandl Data API, Twilio API, Interactive Brokers, TradeStation and Tradier brokerage APIs Technologies: F#, SQLite, Azure SQL, Azure Serverless, JSON/REST API, C#, WinForms & WPF. Senior Data/Decision Support Engineer, LightStream/SunTrust Banks - San Diego, CA January 2013 – April 2016 SunTrust Bank acquired FirstAgain and rebranded the company as LightStream, a loan originations and servicing platform. During my tenure their loan portfolio grew from $200m to $2b.
 ● Accelerated modifications, enhancements, and rebranding for multiple loan origination and servicing platforms hibernated during the recession.
 ● Designed and implemented a Credit Bureau Reporting module to report monthly loan status to the three bureaus.
@@ -7834,7 +7834,7 @@ Technology> PHP, BOOTSTRAP, JQUERY
 Major Project>
 Business Directory
 Team Size > individual
-Concept>A business directory is a website or printed listing of information which lists all businesses within some category. Businesses can be categorized by business, location, activity, or size.
+Concept>A business directory is a website or printed listing of information which lists all businesses within some Category. Businesses can be categorized by business, Location, activity, or size.
 Business may be compiled either manually or through automated online search software. Online yellow pages are a type of business directory, as is the traditional phone book.
 The details provided in a business directory vary from business to business.
 Application> PHP, BOOTSTRAP, HTML, CSS.
@@ -7859,7 +7859,7 @@ I can work till my health strength on my hand.
 My most weakness is that I cannot speak in flow of words.
 Personal Profile>
 Date of birth: 29-Oct-1991
-Father’s name: Mr. Purshotam Jadiya
+Father’s Name: Mr. Purshotam Jadiya
 Mother’s Name: Mrs. Rajkumari jadiya
 Marital status: Single
 Hobbies: Sewing, Listening music, Games, Net Surfing, Walking, Travel.
@@ -7887,11 +7887,11 @@ Built a robust function that allowed team to obtain servo start and end position
 Designed and programmed personal website using multiple front end languages, and improved understanding of frameworks Personal Website - HTML5, CSS3, JavaScript
 Developed SQL queries and analyzed big data on mobile metrics for stakeholders to view and make business decisions
 Optimized backend logic for attributing credit to correct install ad campaign, improving accuracy of attribution by 30%
-Analyzed customer behavior data to develop models that can predict if a customer has uninstalled, to an accuracy of 85%
-Built email and slack alerts to inform engineers when Pipeline procedures fail to lower time wasted recovering data by 50% Data Engineering and Analytics Intern - Wayfair LLC Jan 2020 - Apr 2020
+Analyzed customer behavior data to develop resume_classifier that can predict if a customer has uninstalled, to an accuracy of 85%
+Built Email and slack alerts to inform engineers when Pipeline procedures fail to lower time wasted recovering data by 50% Data Engineering and Analytics Intern - Wayfair LLC Jan 2020 - Apr 2020
 Utilized NHL API to mine data on current NHL players
-Applied statistics to build regression models to estimate performance between players
-Built predictive models to determine if proposed trade is advantageous, backed by quantitative analysis of data NHL Player Trade Analyzer - Python
+Applied statistics to build regression resume_classifier to estimate performance between players
+Built predictive resume_classifier to determine if proposed trade is advantageous, backed by quantitative analysis of data NHL Player Trade Analyzer - Python
 Developed a real-time multiplayer web card game that can be played by friends while in quarantine
 Utilized Google Firebase for asynchronous communication between players and database
 Optimized logic to improve speed by 20% and implemented load balancing feature to allow for 10x more games per day
@@ -8368,7 +8368,7 @@ Worked on Assigning creating Roles Hierarchy, Profiles and Security setup within
 Responsible for setting up Field Level Security.
 Developed custom Workflows and Assignment Rules for case escalation.
 Implemented Field Level security for sensitive data holder fields.
-Implemented Salesforce automation using web-to-case forms, email-to-case, assignment rules, automation and queues, auto response rules, escalation rules, chatter groups, person accounts, cases and solutions.
+Implemented Salesforce automation using web-to-case forms, Email-to-case, assignment rules, automation and queues, auto response rules, escalation rules, chatter groups, person accounts, cases and solutions.
 Created and used Email templates in HTML and Visualforce.
 Involved in end-to-end testing and gathering feedback from business users Involved in Working with Standard Salesforce features like Objects, Workflows, Record Types, Page layouts, Workflow Rules, Case. Assignment Rules, and Escalation rules, Validation rules, Profiles, Roles, Reports and Dashboards etc.
 Client: Morgan Stanley
@@ -8451,7 +8451,7 @@ Implemented the API to change the border color of CTabFolder not available in CT
 Environment: Core Java, Eclipse RCP
 Eaton Corporation, Dublin, Ireland
 Role: Java Developer July 2012 to Feb 2013
-Project Details: The Energy Portal is part of the Power Xpert Multipoint Meter (PXMP) with the project name Spyder portal. The Energy Portal module software has two parts:
+Project Details: The Energy Portal is part of the Power Xpert Multipoint Meter (PXMP) with the project Name Spyder portal. The Energy Portal module software has two parts:
 Responsibilities:
 Firmware: responsible for communication with the Base Meter and the Web Portal Application
 Web Portal Application: responsible to provide user interface over web and communication with the Firmware.
@@ -8480,7 +8480,7 @@ Environment: Struts, SAP, I-phone, Samsung-S2, Motorola, HTC, Nokia Lumia
 Professional Experience Cyber Infrastructure Pvt. Ltd. April 2010 – Mar 2011
 Project Name: Dynamic website generator
 Project Details: It Provide the facility to create free website and number of pages in minutes. It allows the user to integrate many more additional features available in the shopping store of the website.
-Provide the facility to surf the website in different languages and interface to the admin to manage the website text in different languages. Used Google API to create the multilingual website. Provide additional web space to the website users.
+Provide the facility to surf the website in different languages and interface to the admin to manage the website Text in different languages. Used Google API to create the multilingual website. Provide additional web space to the website users.
 Responsibilities:
 Responsible for requirement understanding & analysis.
 Creating Low level and High-level design for the application Implementation
@@ -8581,7 +8581,7 @@ PROFESSIONAL EXPERIENCE:
 Client: CenturyLink, Denver, CO Sept18- Till Date
 Role- API Developer
 CenturyLink offers communications, network services, security, cloud solutions, voice and managed services.
-Project: Consumer c360/Customer c360- Which is a data aggregated view of the CenturyLink customer which consists of the information such as Accounts, Products, Dispatches, Marketing info, tickets, Health certificate of the Network/Wi-Fi speeds purchased, Modem, Discounts, Service Address, Chat, email, AVR conversations etc. in the centralized graph database Neo4j.
+Project: Consumer c360/Customer c360- Which is a data aggregated view of the CenturyLink customer which consists of the information such as Accounts, Products, Dispatches, Marketing info, tickets, Health certificate of the Network/Wi-Fi speeds purchased, Modem, Discounts, Service Address, Chat, Email, AVR conversations etc. in the centralized graph database Neo4j.
 Roles and Responsibilities-
 Involved in PI planning meetings to derive the business goals in to Epics/Features and have complete road map for 12 weeks of planning of features into user stories.
 Work closely with depended teams to know risks and delivery of the certain features we plan to do in the sprint as a part of saFe Agile.
@@ -8694,7 +8694,7 @@ Three months experience in Biomade Inject PVT. LTD.
 One year experience (Backend profile) in Baba Service Tools Delhi.
 PERSONAL INFORMATION
 Name : Kuldeep Singh
-Father’s name : Mr. Kailash Chand
+Father’s Name : Mr. Kailash Chand
 Date of birth : 12th January, 1997
 Marital status : Unmarried
 Nationality : Indian
@@ -8958,7 +8958,7 @@ Programming - Java (Certified Oracle OCAJP, OCPJP SE7), Python Software Developm
 Agile Methods - Certified Scrum.org PSM I (Professional Scrum Master I) PROJECT EXPERIENCE (CMU)
 [Capstone Project] E-Commerce Website Recommendation System (Machine Learning) Spring 2020
 - Acquired three datasets and mapped attributes to 4Rs with data processing by analyzing RF dependency matrix
-- Implemented three ML models such as RF, MLP, K-means and stored clustered results in MongoDB
+- Implemented three ML resume_classifier such as RF, MLP, K-means and stored clustered results in MongoDB
 - Developed a web service for target customers and provided product recommendations based on personal information
 - Provided campaign mangers a dashboard with data analytics and achieved 70% prediction rate
 [Android Application] Sport Games Data Retrieval Application (MongoDB, TomEE) Fall 2019
@@ -9085,7 +9085,7 @@ STRONG POINTS
 Highly motivated, creative and versatile and public relation skill.
 Result oriented, hard working, sincere and responsible.
 WORK EXPERIENCES
-Presently working with Mercury Car Rentals Private Limited, AVIS India (brand name) as a Sr. Accounts Executive since Dec2015 till date.
+Presently working with Mercury Car Rentals Private Limited, AVIS India (brand Name) as a Sr. Accounts Executive since Dec2015 till date.
 Worked with SWIFT WORLD LIMITED (A car rental company) previously known as “Swift Car Rentals Pvt. Ltd”, Vasant Kunj, New Delhi, as a BILLING HEAD / INCHARGE from Feb'2006 till Nov’2008 & from March’2011 to Nov’2015.
 Worked with Bharti Telemedia Limited (AIRTEL DTH-SERVICES), Okhla, New Delhi, as a SCM Associate Cum Store Incharge from 19th May’10 to Jan’11.
 Worked with Bharti Infratel Limited, Gurgaon as a NOC Associate cum MIS Executive from 27 Nov’2009 to 18th May’2010.
@@ -9133,7 +9133,7 @@ The entire Transporter’s Bill local or intercity, checking in proper way throu
 The entire Driver’s O.T., Conveyance, Parking & Taxes Checking through billing software & finalized independently.
 Good experience in resolving the issue of any enquiry from our clients and other staffs in company or other departments regarding Billing and accounts.
 Attend the client queries related to billing independently through phone or e-mail.
-MIS reports just like Billing summary, Company wise business, Car wise business, Driver’s salary report like Attendance, Over Time, OD, Conveyance calculation, as per requirement.
+MIS reports just like Billing summary, Company wise business, Car wise business, Driver’s Salary report like Attendance, Over Time, OD, Conveyance calculation, as per requirement.
 Also, handled and managed Dispatching team and filing in proper way.
 Able to giving the MIS reports time to time in any Company as per requirement of Management and capable of doing correspondence or any other official work independently.
 .
@@ -9207,7 +9207,7 @@ Address: H.No-
 ShahpurJat,
 Near Panchsheel Park,
 New Delhi - 110049
-Email-id: ***************@*****.***
+Email-Id: ***************@*****.***
 Contact Info:
 886*******
 CAREER OBJECTIVE
@@ -9251,7 +9251,7 @@ SKILLS
 ●Basic accounts knowledge.
 ●Good at imparting induction training & the process training.
 ●Good at drafting the official emails, with speed & accuracy.
-●Knowledge of Ms-office & email writing.
+●Knowledge of Ms-office & Email writing.
 COMPUTER KNOWLEDGE
 ●Basic computer knowledge & Internet savvy.
 CO-CURRICULAR ACTIVITIES
@@ -9277,7 +9277,7 @@ Contact no :
 847*******
 ,
 981-***-****
-Email id : ****.*******@*****.***
+Email Id : ****.*******@*****.***
 OBJECTIVE
 To achieve success & career goals by performing challenging role and responsibilities to get a remarkable position. Want to join an organization which can provide better work culture & environment and put my efforts to grow in the areas of professional standards, under your valuable guidance.
 EDUCATIONAL QUALIFICATIONS
@@ -9465,8 +9465,8 @@ CO-curricular / Extracurricular Activities
 • Essay competition in school
 Personal details
 Name : M. VENKATESH
-Father’s name : V.Muthukrishnan
-Mother’s name : M.Usha
+Father’s Name : V.Muthukrishnan
+Mother’s Name : M.Usha
 Gender : Male
 Date of Birth & Age : 17-04-1996 -23 years
 Nationality & Religion : Indian & Hindu
@@ -9503,7 +9503,7 @@ WORK EXPERIENCE
 NOV 2018 – OCT 2019
 UNITY CORPORATION – VERIFICATION AGENCY
 RESPONSIBILITIES
-1. Assign work to field executives as per location for verification. 2. Take details from executive and send reports to the client and maintain TAT for cases.
+1. Assign work to field executives as per Location for verification. 2. Take details from executive and send reports to the client and maintain TAT for cases.
 3. Maintain records of all reports.
 4. Provide training to new employees.
 EXECUTIVE SUMMARY
@@ -9700,7 +9700,7 @@ linkedin.com/in/ubaid-arif-
 Mobile:
 +92-313-*******
 Skype: ubaidarif3
-Wechat id: wxid_pjxdpscbcwc
+Wechat Id: wxid_pjxdpscbcwc
 **********@*****.***
 facebook.com/ubaid.arif.353
 M
@@ -9812,7 +9812,7 @@ April 2007 - March 2010 FUNDSERV INC (Financial industry)
 SENIOR SOFTWARE DEVELOPER/DESIGNER
 System architecture, software design, development; new technologies research, adaptation and customization.
 Installed and configured TIBCO SOA/BPM suites on DEV, QA, UAT environments. Helped to setup, enhance and troubleshoot TIBCO engines in production for 2 years.
-Project SP&S: Designed business processes and developed framework for customized reusable AJAX UI forms using TIBCO GI for automation of Client Banking Information Change Requests with approvals including 4 eye checks, periodical email notifications of interesting parties about particular steps to be done with links to customized forms to work on, web service calls to interact with external systems (via Business Works service implementations). These processes span across all major company departments and include C* level users. Special repository was developed to store process documents which to be uploaded via forms and to be checked in subsequent steps. Basic user interaction features added to help people understanding what needs to be fixed in entered data.
+Project SP&S: Designed business processes and developed framework for customized reusable AJAX UI forms using TIBCO GI for automation of Client Banking Information Change Requests with approvals including 4 eye checks, periodical Email notifications of interesting parties about particular steps to be done with links to customized forms to work on, web service calls to interact with external systems (via Business Works service implementations). These processes span across all major company departments and include C* level users. Special repository was developed to store process documents which to be uploaded via forms and to be checked in subsequent steps. Basic user interaction features added to help people understanding what needs to be fixed in entered data.
 Detailed documentation with explanation of system architecture and usage guidelines including user and administrator manuals was written
 Project Fundcom: designed and developed enhanced PMI and developed Account Level Redemption calculator.
 Project ESG: designed and developed fund data generator and flat file to XML converter using JAXB, Spring, iBatis, J2EE 4; developed fund list xml generator (63M xml file in production); enhanced different features according to specs.
@@ -9893,7 +9893,7 @@ Demonstrate conflict resolution, negotiation, and de-escalation skills.
 Maintain current customer/potential customer data base.
 Maintain complete records of telephonic/Email interactions, orders and account.
 Regularly update the Business Development team with customer/provider issues.
-Provide email, support to customers.
+Provide Email, support to customers.
 COMPUTER KNOWLEDGE:-
 Basic Knowledge of Computer.
 Good Knowledge of MS-Excel & MS-Word.
@@ -10403,7 +10403,7 @@ Qualification – GRADUATE IN BA (ARTS).
 Cr/Last CTC – 15000/-p.m.
 Phone Number –
 981*******
-Email id – ****************@*****.**
+Email Id – ****************@*****.**
 Notice Period –
 Cr Address for Transport :- D2/2B,BUDH VIHAR, PHASE 1, NEAR METRO STATION IS RITHALA, NEW DELHI, PIN -110086.
 "
@@ -10415,7 +10415,7 @@ Address: FA-310c 2nd floor, Mansrover garden, new Delhi- 110015
 Language: English, Hindi and Punjabi
 Mob. No. :
 844-***-****
-Email-id : *************@*****.***
+Email-Id : *************@*****.***
 Nationality
 Indian
 Academic Qualification
@@ -10467,7 +10467,7 @@ SukhpuraChowk, Ladhot Road
 Rohtak-124001, Haryana
 Mobile Number-
 895*******
-Email id- ***************@*****.***
+Email Id- ***************@*****.***
 Objective:-
 To obtain a long-term career with an organization, which has a strong background, which provides good opportunity for enhancement of professional and personal status.
 About My Self :-
@@ -10738,7 +10738,7 @@ Simon Fraser University “Skillcraft” Starcraft 2 Research 2013
 • Efforts resulted in an app that catalyzes learning English as a second language and teaches bicycle assembly through gaming.
 Lyrical Mistress Entertainment 2012
 • Hired as iOS developer to create Shairah.
-• Collaborated on app design, acquired required technical knowledge, solved interaction problems in combining Cocos2d with UIKit, commissioned special effects artwork, invented location based autograph signing, and coded the project.
+• Collaborated on app design, acquired required technical knowledge, solved interaction problems in combining Cocos2d with UIKit, commissioned special effects artwork, invented Location based autograph signing, and coded the project.
 Adam Thompson – Inventor, developer, and technology enthusiast London Drugs 2010-2011
 • Educated customers about computers, guided them in choice of products, repaired laptop and desktop machines, and provided support by phone.
 • Resulted in professional and technical skills required to dissolve social and technical conflicts.
@@ -11742,7 +11742,7 @@ Mobile:
 011-***-**-***
 60 30
 Linked In
-Current location: Kharkiv, Ukraine.
+Current Location: Kharkiv, Ukraine.
 (I’m going to relocate to NY. Need sponsorship to obtain H1B visa.)
 Career Summary
 A competent and experienced web developer / project manager, with over 7 years experience in
@@ -11846,7 +11846,7 @@ This start up project has been developed as a hobby. It helped me to understand 
 from development stage to completed business.
 Main features are:
 1. Marketplace (sellers are able post their products to website for sale)
-2. Multi Store (every seller is able to park own domain name for his inventory)
+2. Multi Store (every seller is able to park own domain Name for his inventory)
 3. Multi Vendor (users is able to collect products to shopping cart and process checkout
 separately for every product owners. Every vendor is able to login to personal admin area
 to support actual stock inventory)
@@ -12036,7 +12036,7 @@ EXTRA CURRICULAR ACTIVIES
 school level.
 PERSONAL DETAILS
 Name : Vikas Kumar
-Father's name : M. N. Singh
+Father's Name : M. N. Singh
 Gender : Male.
 Date of Birth : 20th Feb. 1990.
 Nationality : Indian.

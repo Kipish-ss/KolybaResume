@@ -28,7 +28,7 @@ class DjinniScraper(Scraper):
         url = self.search_url
         response = requests.get(url, headers=self.headers)
         if response.text.startswith("Your IP address"):
-            logger.warning("Blocked by Djinni. Change VPN location.")
+            logger.warning("Blocked by Djinni. Change VPN Location.")
             time.sleep(1)
             input("Press any key to continue...")
             response = requests.get(url, headers=self.headers)
@@ -49,7 +49,7 @@ class DjinniScraper(Scraper):
 
             if page_numbers:
                 total_pages = max(page_numbers)
-                logger.info(f"Detected {total_pages} total pages for category: {self.category}")
+                logger.info(f"Detected {total_pages} total pages for Category: {self.category}")
                 return total_pages
 
         logger.warning("Could not determine total pages, assuming single page")
@@ -61,7 +61,7 @@ class DjinniScraper(Scraper):
             response = requests.get(url, headers=self.headers)
 
             if response.text.startswith("Your IP address"):
-                logger.warning("Blocked by Djinni. Change VPN location.")
+                logger.warning("Blocked by Djinni. Change VPN Location.")
                 time.sleep(1)
                 input("Press ENTER to continue...")
                 time.sleep(5)
@@ -69,7 +69,7 @@ class DjinniScraper(Scraper):
                 continue
 
             soup = BeautifulSoup(response.text, 'html.parser')
-            resume_divs = soup.find_all("div", class_="text-card")
+            resume_divs = soup.find_all("div", class_="Text-card")
 
             if resume_divs:
                 resumes = []
@@ -84,7 +84,7 @@ class DjinniScraper(Scraper):
             else:
                 logger.warning(f"No resume divs found on page, retry {retries + 1}/{max_retries}")
 
-                if "detected" in response.text.lower() or "suspicious" in response.text.lower():
+                if "detected" in response.Text.lower() or "suspicious" in response.Text.lower():
                     logger.warning("Possible undetected block. Waiting for user input...")
                     input("Press ENTER to continue after changing VPN...")
 

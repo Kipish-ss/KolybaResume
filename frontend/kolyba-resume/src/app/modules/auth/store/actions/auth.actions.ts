@@ -20,7 +20,7 @@ export const signOut = createAction('[Auth] Sign Out');
 export const signOutSuccess = createAction('[Auth] Sign Out Success');
 export const signOutFailure = createAction('[Auth] Sign Out Failure', props<{ error: Error }>());
 
-export const sendVerificationEmail = createAction('[Auth] Send verification email');
+export const sendVerificationEmail = createAction('[Auth] Send verification Email');
 
 export const refreshToken = createAction('[Auth] Refresh token');
 export const setAccessToken = createAction('[Auth] Set Access Token', props<{ token: string }>());

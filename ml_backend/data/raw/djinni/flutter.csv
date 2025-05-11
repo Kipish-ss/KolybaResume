@@ -97,7 +97,7 @@ Freshcut and School Management App: Enhanced user experience in the Freshcut gam
 Remittance App Development: Led a team in developing a remittance app for the Ethiopian diaspora, focusing on GETX state management, HTTP connectivity, and multi-language support.
 Backend Development and IT Leadership: Managed backend development for a sales tracker app and a Flutter CRBT app, utilizing Laravel, GetX, HTTP library, and implementing efficient cloud solutions.
 Junior Mobile Engineer: Initiated my career developing Android apps with AdMob AdSense integration and MVVM architecture, achieving over 1.4 million users across all developed apps.
-On time salary payment, Online courses sponsorship"
+On time Salary payment, Online courses sponsorship"
 flutter,"May 2020 - October 2020
 Mobile Flutter Developer at a tech company
 October 2020 - July 2022
@@ -199,7 +199,7 @@ Key Projects and Responsibilities:
 Social Network Application:
 Implemented features such as achievements, levels, and follower systems.
 Integrated Google/Facebook authentication, REST API, and Cloud Functions.
-Developed interactive 3D models for trophies, allowing users to rotate and scale them.
+Developed interactive 3D resume_classifier for trophies, allowing users to rotate and scale them.
 Food Ordering Application:
 Created an app for ordering pizzas and drinks with full customization options.
 Integrated Stripe for secure payment processing and delivery tracking functionality.
@@ -256,7 +256,7 @@ In this application I have used:
 - shared_preferences for storing small data
 - flutter_local_notifications for notifications
 - url_launcher to open links on instagram, facebook and twitter.
-- translator for translating text from the API.
+- translator for translating Text from the API.
 - flutter_image_compress to compress user image
 Looking for a company where
 - friendly working environment
@@ -424,7 +424,7 @@ Tools & Platforms: Figma, VsCode, Xcode, Android Studio.
 Я ценю возможность помогать людям, решать сложные задачи и изучать новые технологии. Я предпочитаю работать в команде, где ценят четкость и эффективность. От работы я ожидаю интересных задач, возможности расти профессионально и творчески.
 Что касается того, чего я не хочу от работы, это монотонность и ограничения в возможностях применения своих знаний. Я также предпочитаю избегать конфликтных ситуаций и недостаточно структурированных проектов."
 flutter,"During my work experience, I have used a variety of services and technologies, including Firebase, AWS, Regula, Adjust, Bitrise, Git, Face-verification, Facebook SDK, and others. To collect errors and analyze data, I have utilized Firebase Crashlytics and Analytics.
-In one of my projects, I developed an algorithm for computing the location of points on different levels of a map, using data with a rhombus-shaped structure. I pre-calculated the data to achieve maximum optimization of animations during zooming. I also created various widgets, including calendars, drop-downs, and different types of graphics (circular and linear), as well as speedometers and other elements using custom painter.
+In one of my projects, I developed an algorithm for computing the Location of points on different levels of a map, using data with a rhombus-shaped structure. I pre-calculated the data to achieve maximum optimization of animations during zooming. I also created various widgets, including calendars, drop-downs, and different types of graphics (circular and linear), as well as speedometers and other elements using custom painter.
 In another project, I worked with the camera and vibration on the device to create a QR code scanning function and notify the user of various events through vibration.
 When developing applications, I often use libraries such as bloc, provider, get_it, riverpod, redux, and flutter_hooks to simplify application state management and facilitate development. Overall, my work experience includes a wide range of tasks related to application development and service integration, as well as work with hardware components of devices."
 flutter,"Более 4 лет писал на .Net язык C# для оконных приложений на Window Forms,
@@ -663,7 +663,7 @@ Network exploration, system logs, network map (using Iframe) etc.
 Description: B2B project (android, ios, web)
 The Clean Architecture, REST API, GetIt, Dio,  GoRouter, Firebase Auth, App Distribution, Hosting
 Main features:
-Barcode Scanner, Search by name, id, category, subcategory
+Barcode Scanner, Search by Name, Id, Category, subcategory
 One active session per user
 Shopping cart
 Order deadline control etc.
@@ -687,7 +687,7 @@ mixins, extensions
 setting up the purchase of consumables (Google Play Console)
 push-notifications
 applying design using Figma app etc.
-Firebase Auth (email, phone, Facebook, Google)
+Firebase Auth (Email, phone, Facebook, Google)
 Firestore (rules, indexes, query to collection and collectionsGroup, fetching paginated data)
 Storage, DynamicLinks, Crashlytics, Analytics"
 flutter,"Working with Flutter for 3+ years.
@@ -849,11 +849,11 @@ Technologies:
 - ability to constantly learn new methodologies/architectures, expand soft skills
 3) Clear requirements
 - the ability to understand weak sides
-- being able to understand the requirements for the raise of the salary/new responsibilities/etc."
+- being able to understand the requirements for the raise of the Salary/new responsibilities/etc."
 flutter,"Працював над задачами різної складності, від верстки сторінки до адміністрування розробки цілого додатку
 .............................................................................................."
 flutter,"At the moment, I have more than 2.5 years of experience in Android/iOS development. Previously, I used to exclusively work on commerce projects and freelanced. From a simple activity tracker to complex computing applications. Mini games, educational and examination applications e.t.c.
-I recently developed a game based on the board game ""Um, Actually"". It was necessary to create an interface where the entire text was displayed, and by clicking on a specific word, the system had to determine whether that word was redundant or not.
+I recently developed a game based on the board game ""Um, Actually"". It was necessary to create an interface where the entire Text was displayed, and by clicking on a specific word, the system had to determine whether that word was redundant or not.
 Also, I developed an application for learning English. Specifically, an application consisting of simple tests, tasks with filling in the blank fields, choosing options in order, and an exam. The application consisted of several levels, each of which had different types of tasks and interfaces. There were many fill-in-the-blank tasks, each with a different number of blanks. It was also necessary to detect each empty field separately.
 I confidently use state managers such as BloC and Provider, packages Dio/Freezed, Sqflite, SharedPreferencess.
 I want to improve team skills."
@@ -907,7 +907,7 @@ flutter,"Highly skilled and results-driven Senior Flutter Developer with a stron
 Experience:
 Senior Flutter Developer | FlatAway
 Mart 2024 – now | Remote
-Project name: Flataway OS
+Project Name: Flataway OS
 Flataway OS  makes the life of rental managers easier.
 Senior Flutter Developer | Patient21
 August 2022 - Present | Remote
@@ -966,7 +966,7 @@ Technologies Used:
 * Implemented secure user authentication with Sweden BankID.
 * Optimized video uploads and playback using FFMPEG, improving performance.
 * Developed a job-matching algorithm to connect healthcare professionals with job opportunities.
-* Integrated a large language model (LLM) for a chatbot providing salary insights.
+* Integrated a large language model (LLM) for a chatbot providing Salary insights.
 * Built a web-based job system and admin panel using React.js, JavaScript, HTML, and CSS.
 * Added analytics tracking and a points system to boost user engagement.
 *  Role: Led development, designed architecture, and collaborated with backend teams to scale the app from 0 to 10,000 users.
@@ -1034,9 +1034,9 @@ Another of my past projects was an app that provided financial motivation for us
 2. Successfully proposed and led the development of a system to automate the submission and processing of user complaints, resulting in a significant increase in complaint submissions, complete elimination of the backlog, improved efficiency of the complaint submission and resolution process and increased user satisfaction by 25%. This accomplishment showcases my problem-solving skills, my leadership skills in guiding a team, my proficiency in analyzing the current process and my proficiency in backend infrastructure.
 3. Implemented an SDK with a TDD architecture to handle REST API calls, improving the maintainability, scalability, and testability of backend communication. This accomplishment showcases my proficiency in software development, my attention to detail and my ability to think about the longevity of the app and its future maintainability.
 4. Led the team in implementing new user interface for the app, improved the aesthetic and usability of the app, resulting in increased user engagement and satisfaction. This accomplishment showcases my leadership skills, my ability to understand user needs, my proficiency in design and development, and my ability to deliver a great user experience.
-5. Recognized for the quality of my work with a 25% salary increase and received a promotion as a senior developer at Cadoo, showcasing my ability to deliver successful mobile applications that improve user engagement and retention, my leadership skills and my proficiency in mobile development and Flutter framework."
+5. Recognized for the quality of my work with a 25% Salary increase and received a promotion as a senior developer at Cadoo, showcasing my ability to deliver successful mobile applications that improve user engagement and retention, my leadership skills and my proficiency in mobile development and Flutter framework."
 flutter,"Flutter developer
-Created apps for cryptocurrency exchange platforms. Have expirience in using camera, location, in app purchase, push notifications modules.
+Created apps for cryptocurrency exchange platforms. Have expirience in using camera, Location, in app purchase, push notifications modules.
 Strong mathematical background
 I am very excited to learn new  and how to be a good fit for your company"
 flutter,"I have developed several mobile applications, including an e-commerce platform called Bazar and a hotel booking app, using Flutter, Dart, Nest.Js and MongoDB. As the lead mobile developer at Hummfly Tech, I oversee the development and design of key features. At A2SV, I focused on writing clean code and implementing authentication and CRUD operations. I aim to improve my skills in advanced state management and backend development while enhancing my collaboration within agile teams."
@@ -1111,7 +1111,7 @@ To keep the UI smooth and responsive, I introduced Dart Isolates to handle encry
 In the Kochure app, I was solely responsible for migrating the entire project from Flutter 2.5.3 to 3.3.0, including the adoption of null safety, ensuring compatibility, stability, and improved code quality.
 Upgraded the state management system from Provider to Riverpod, enhancing app scalability, performance, and maintainability.
 Introduced a theming system into the existing app, improving the user interface and contributing to a 20% return rate of long-time inactive users.
-I was the sole mobile developer for the Eye-dr project, where I built a Flutter-based mobile app that integrates TensorFlow ML models and APIs to assist in retinal imaging and diabetic retinopathy detection—contributing directly to the research and development of a healthcare-focused AI solution.
+I was the sole mobile developer for the Eye-dr project, where I built a Flutter-based mobile app that integrates TensorFlow ML resume_classifier and APIs to assist in retinal imaging and diabetic retinopathy detection—contributing directly to the research and development of a healthcare-focused AI solution.
 I developed and delivered GovDrive, a secure mobile application for the Federal Republic of Nigeria, enabling efficient sharing and management of confidential documents between government agencies — all completed within a tight 8-week timeline.
 I thrive in environments where curiosity, creativity, and support are part of the team’s core values. While I enjoy solving technical challenges, what excites me most is being part of a community where knowledge is shared, growth is encouraged, and every voice matters.
 I’m also open to relocation if the company aligns with the values and qualities I’m looking for in a workplace."
@@ -1403,7 +1403,7 @@ using Flutter framework.
 Arniro.io
 2020/11 - 2021/09; Flutter developer
 - Uber-eats like app for order food, drugs, groceries, gifts.
-- App for couriers to the app above with location tracking in a
+- App for couriers to the app above with Location tracking in a
 background feature.
 MEGACOM, Cellular Provider
 2019-05-2020/10, Full-Stack(Flutter, NodeJS) Developer
@@ -1750,16 +1750,16 @@ Mar 2018 – Aug 2019
 The development of Esvoe - the innovative Ukrainian Social network Android application.
 Implementation of friends list, subscribers and family.
 The ability to add new friends, delete the old ones, unsubscribe and send complains.
-Messeger implementation including such features as sending text, pictures, files, location, deleting unwanted messages etc.
+Messeger implementation including such features as sending Text, pictures, files, Location, deleting unwanted messages etc.
 Working with the internal data base.
 General user search.
 News feed.
 The development of e-ticket and E-music apps.
 01/2018-02/2018 Android Developer
-- Development of an application for a cleaning company in which you can select the location
+- Development of an application for a cleaning company in which you can select the Location
 where the cleaning will take place. Exits objects to clean from the database, depending on the
-location, allows you to mark cleared objects and get cleared information. Saving cleared
-objects to the database and sending information about the work done to the email.
+Location, allows you to mark cleared objects and get cleared information. Saving cleared
+objects to the database and sending information about the work done to the Email.
 Ltd. ""Mail Service"", Lviv (Ukraine)
 - Development of the application for controlling a robot from an Android device.
 - Assuring smooth and fast video streaming.
@@ -1927,13 +1927,13 @@ flutter,"- Працюю над Flutter-додатками з нуля до пу�
 - Налаштовую Flavors для управління декількома середовищами та оптимізації процесів розробки.
 - Clearly defined goals and expectations for developers.
 - Continuous development of technical expertise, new methodologies, and soft skills.
-- Well-defined criteria for salary increases, promotions, and expanding responsibilities.
+- Well-defined criteria for Salary increases, promotions, and expanding responsibilities.
 - Open communication within the team, allowing for feedback and concerns about the project.
 - Transparent expectations & career growth
 - Clarity on areas for improvement and professional development."
 flutter,"Hello. I am Galib Ismayilzada. I have been working as a Flutter Developer for over a year. After starting my career as an Android Developer and gaining a variety of experiences in that position, I decided to continue my career as a Flutter Developer. Throughout this time, I actively participated in the development of various projects, always striving to improve myself and stay up-to-date with new technologies. I also developed some projects on my own. You can check out some of the code from these projects by accessing my GitHub profile through my CV. Unfortunately, I cannot share other projects due to confidentiality rules of the companies I worked for.
 Although I have developed only mobile applications with Flutter technology from the beginning, I was actively involved in a web project at my last company. I believe this experience has doubled my expertise. With all these experiences, I wholeheartedly believe that I will progress successfully at your company. Thank you!
-When it comes to my preferences, I don't think I have any specific requests. Like any employee, I prefer my salary expectations to be met and to work in an active and positive team environment. Another expectation, as I have stated in my profile, is that the job should be fully remote."
+When it comes to my preferences, I don't think I have any specific requests. Like any employee, I prefer my Salary expectations to be met and to work in an active and positive team environment. Another expectation, as I have stated in my profile, is that the job should be fully remote."
 flutter,"- October 2024 - Present | Charity Lab | My primary tasks include UI development, state management, user interactions handling and code reviewing. I use tools and methods such as custom UI solutions along with theming, SvgPicture, GoRouter, Bloc, Cubit, REST APIs, JsonSerializable.
 - July-September 2024 | YR-solutions |  I've worked on a small Ukrainian IT companywhere I used my Flutter knowledge to impact 2 different projects in the sphere of health and fitness. On this job I get acquainted with MVVM, Dio, GoRouter, BLoC & Cubit, FlutterFlow. You can check this project finding BeautyBoostr on GooglePlay.
 - For the last 4 years I've been working on my own Science ID app project, which is already on Google Play. I'm currently reading books on programming. I've also taken the Flutter course on Udemy. A year ago I was a soldier in the Armed Forces of Ukraine. After returning, I realized that I want to work specifically in the sphere of Flutter development. I want to get a job in a mobile application development company to improve my skills and develop as a professional. You can check this project finding Science ID on GooglePlay.
@@ -2049,7 +2049,7 @@ Built custom widgets using Custom Paint, Canvas API, and Lottie animations for r
 Optimized UI rendering through tree shaking, code splitting, and lazy loading techniques.
 Platform-Specific Development (Android & iOS)
 Integrated Platform Channels (MethodChannels) for accessing native features like Camera and GPS.
-Optimized background services for location tracking & geofencing, ensuring battery efficiency.
+Optimized background services for Location tracking & geofencing, ensuring battery efficiency.
 Good GitHub workflow (branching strategies, pull requests, code reviews, CI/CD)
 App Performance Optimization
 Reduced the main screen loading time through code refactoring and API request optimization.
@@ -2058,7 +2058,7 @@ Designed Clean Architecture using BLoC, improving maintainability and scalabilit
 API & Service Integrations
 Successfully integrated cryptocurrency APIs, financial data, and mapping services, expanding app functionality.
 Enhanced Geolocation Services
-Implemented background location tracking in the Emergency Button app, ensuring continuous monitoring even when the app is closed.
+Implemented background Location tracking in the Emergency Button app, ensuring continuous monitoring even when the app is closed.
 Efficient GitHub Workflow"
 flutter,"I have about ten years of mobile development experience. Last 4+ years, I focused on
 Flutter cross-platform projects. Also, I have a vast technical background in iOS native
@@ -2144,7 +2144,7 @@ In production in less than 7 months, I reached the position of production manage
 I want to do application programming. Throughout my life, I like to create something useful."
 flutter,"I have a year and a half of experience in developing various mobile applications using Flutter. I have experience developing both for Android and iOS. I was involved in both the development of large and small applications, with the integration of various APIs. I have experience in team development using Agile methodology and the GitHub version control system. I have experience working with various status control systems (Bloc, Cubit, Riwerpod, GetX), caching (shared preferences), and saving data in local databases. I have experience working with in-app advertising.
 I consider my greatest achievement to be the development of universal modules and roadmaps for colleagues, which greatly simplified the development of applications with similar functionality.
-I expect challenging work, respect for personal time, and a competitive salary."
+I expect challenging work, respect for personal time, and a competitive Salary."
 flutter,"Frameworks/Libraries
 • Flutter (Mobile + Desktop)
 • Clean Architecture
@@ -2171,11 +2171,11 @@ Development Tools
 • CI/CD
 • Jira, Trello
 • GitLab
-Opportunity for career growth and learning new technologies, skillful and friendly staff, decent salary."
+Opportunity for career growth and learning new technologies, skillful and friendly staff, decent Salary."
 flutter,"I have worked on a full functional a delivery app and published to app store and  an e-commerce app that I am yet to publish to the store I used Flutter to achieve all this and preparing for more challenging project
 Publishing an app to the store
 Learn new things easily and fast
-A good salary and a flexible work mode"
+A good Salary and a flexible work mode"
 flutter,"1. An application for scanning documents, the following functions are available in the application:
 - authorization by QR code
 - photographing a document, detecting edges and transforming (OpenGL)
@@ -2214,7 +2214,7 @@ I am especially pleased:
 - adding of a screen for testing commands
 - setting up Google Device Policy
 - development of a custom launcher with the ability to limit the list of available applications (Intent message)"
-flutter,"Hello, my name is Hayk, and I am a Flutter Developer with extensive experience. Currently, I am working as a Team Leader and actively looking for new opportunities. I have worked with companies from Armenia, Ukraine, Taiwan, and the USA, specializing in banking, healthcare, and various IT domains. My most significant role was leading a team during a challenging period in Ukraine, ensuring the project’s success. I am open to new challenges and ready to join a company with a salary expectation of at least $2000 per month."
+flutter,"Hello, my Name is Hayk, and I am a Flutter Developer with extensive experience. Currently, I am working as a Team Leader and actively looking for new opportunities. I have worked with companies from Armenia, Ukraine, Taiwan, and the USA, specializing in banking, healthcare, and various IT domains. My most significant role was leading a team during a challenging period in Ukraine, ensuring the project’s success. I am open to new challenges and ready to join a company with a Salary expectation of at least $2000 per month."
 flutter,"LEAD APP DEVELOPER
 Wakajugbe Company, Port Harcourt, Rivers, Nigeria | March 2024 - Present
 Spearheading the development of Wakajugbe, an Uber-like app in its testing phase,
@@ -2229,7 +2229,7 @@ Joined LunaryLabs remotely five months ago for a six-month stint, diving into Sw
 build breathtaking iOS apps.
 Crafted elegant, responsive UIs for their flagship app, focusing on smooth animations
 and intuitive navigation that earned glowing user feedback.
-Developed meaningful logic—think custom data models and state management—that
+Developed meaningful logic—think custom data resume_classifier and state management—that
 powered core features, boosting app performance by 20%.
 Collaborated with a global team via Slack and GitHub, delivering clean, reusable code
 that set the stage for scalable growth.
@@ -2268,7 +2268,7 @@ My work focuses on delivering secure, efficient, and user-friendly applications 
 -  Real-time chatbot and live chat systems
 -  Emergency medical service tracking with live GPS
 -  Energy monitoring dashboards (IoT-enabled)
--  A feature-rich dating app with custom animations and location-based matching
+-  A feature-rich dating app with custom animations and Location-based matching
 Key Features I’ve Developed:
 -  Biometric authentication (Face ID, Touch ID, fingerprint)
 -  Real-time messaging and push notifications (WebSockets, FCM, APNs)
@@ -2337,7 +2337,7 @@ Bachelor's degree in Computer Science and Engineering.
 I have experience with:
 Publishing apps to PlayStore and AppStore.
 Bloc, ChangeNotifier, RxDart,
-Maps (Drawing road directions, Location name autocomplete, reverse Geo, showing places info with markers in Google Maps/MapBox).
+Maps (Drawing road directions, Location Name autocomplete, reverse Geo, showing places info with markers in Google Maps/MapBox).
 Making chat interfaces (Integrated Rocket Chat into app. Chat  was able to send attachments of different types and show message notifications even if an app was terminated)
 Firebase CloudMessaging for showing notifications and phoneVerification for verifying user phone on sign up.
 Integration with back-end using http or dio.
@@ -2472,7 +2472,7 @@ During my IT career I was involved in many interesting and challenging projects 
 - Custom VPN with client-side traffic analysis;
 - Biometric verification SDK for banking;
 - AI integrations, Machine Learning and computer vision;
-- Indoor location on BLE beacons;
+- Indoor Location on BLE beacons;
 - Augmented reality with a camera, GPS, and motion sensors;
 - Apps with a very advanced UI customization;
 - Secure BLE communication with medical devices;
@@ -2523,7 +2523,7 @@ P.S. I am proactive with strong leadership abilities and high-performance standa
 Work with great minds"
 flutter,"My first Flutter project was, implementing group chat feature, into an already existing chat app. I also developed a game project for children, using Flutter. It included drag-and-drop segments, listening and speaking segments, basic animation features. Also I had projects that included work with openAI API, Stripe, Firebase and many more technologies. I also developed a SEO Auditor app using flutter. I also have two projects that I developed with SwiftUI. Throughout my 4 years of commercial career, I've contributed to more than 12 projects.
 Developed almost all my projects from scratch. Have a native development background. Released all my projects on App Store and Google Play by myself. Quick learner. Always looking for new knowledge. Love to implement new technologies in my projects.
-I expect interesting, mindful projects, competitive salary. Strong team of open-minded, communicative people, that I can be a part of. I strongly desire to develop projects that can change the world."
+I expect interesting, mindful projects, competitive Salary. Strong team of open-minded, communicative people, that I can be a part of. I strongly desire to develop projects that can change the world."
 flutter,"ANDROID:
 I passed intership as Android developer in a big company.
 The project was a movie list display application based on a real API.
@@ -2917,7 +2917,7 @@ Developed Flutter-based mobile applications for a financial company and a digita
 Sys3 Systems (Dez/2019-Dez/2020):
 Built Flutter-based mobile applications and Angular-based web platform for digital wallets, serving thousands of users. Implemented GraphQL API integration to optimize data fetching and improve application performance. Led a major code refactoring project to enhance code quality, readability, and maintainability.
 With 7 years of experience in software development across various companies worldwide, I'm specially interested in joining a team that values innovation, creativity, and open communication. I thrive in settings with an opportunity to abstract complex problems, share insights, and learn from others. I'm eager to contribute to projects that have a meaningful impact, and I appreciate the culture that supports continuous learning, development, and mutual respect."
-flutter,"My name is Armen Nagapetyan . I have been working as a IOS developer for more than four year . During this period I have improved my skills significantly. Moreover, I spend all my free time to read and learn more about iOS developing. Speaking about my other benefits, I should admit that I am very goal-oriened person and can work both in team and individually."
+flutter,"My Name is Armen Nagapetyan . I have been working as a IOS developer for more than four year . During this period I have improved my skills significantly. Moreover, I spend all my free time to read and learn more about iOS developing. Speaking about my other benefits, I should admit that I am very goal-oriened person and can work both in team and individually."
 flutter,"Dear Hiring Manager,
 I am writing to provide you with an overview of my past projects, tasks, technologies used, my current role in the team, and my aspirations for improvement as a Flutter Developer.
 In my previous role as a Flutter Developer, I have successfully completed a range of projects that have allowed me to demonstrate my skills and expertise. Some notable projects include:
@@ -3180,7 +3180,7 @@ I use Flutter, Dart, Firebase, and REST APIs. In my team, I make new features an
 I want to work in a place where I can grow and learn new things. It’s important to have interesting tasks, not just the same thing every day. I also want to be in a team with a good atmosphere where everyone works well together.
 What I don’t want:
 I don’t want a routine job with no opportunity to grow. I also don’t want to deal with chaos in organization or misunderstandings within the team."
-flutter,"2010 – 2013 	Rozumniki publishing, flash-developer, head of development department. (full-stack development offline education-products for Windows, create engine and content (video, audio, animation, interactive models etc.)
+flutter,"2010 – 2013 	Rozumniki publishing, flash-developer, head of development department. (full-stack development offline education-products for Windows, create engine and content (video, audio, animation, interactive resume_classifier etc.)
 2013 – 2016 	Evoplay, flash content-integrator.
 2016 – 2018 	LuckyLabs, content-integrator (prepare and integrate graphics to assets for engine based on ActionScript and later on Haxe)
 2018 –  	Monstrocat, haxe-developer, HTML, JS-developer
@@ -3297,7 +3297,7 @@ Tech stack:
 Frontend: Mobile - Flutter(dart) and website - Vue.js
 Backend: PHP, AWS, Firebase, Cloud Functions, Node.js, TypeScript
 As a self-taught Flutter Developer, I craft mobile apps to support fair economies, using Flutter, Dart and Clean Architecture. With a diverse project background, from social media to crypto wallets, I swiftly adapt to new technologies. My expertise in user experience design, SEO, and digital marketing ensures user-friendly, optimized, and engaging apps.
-So, hi, my name is Azamat and I'm looking for a full-time job as a flutter developer with 4 years of commercial experience and open to new challenges."
+So, hi, my Name is Azamat and I'm looking for a full-time job as a flutter developer with 4 years of commercial experience and open to new challenges."
 flutter,"As a Flutter and NodeJS expert with over 7 years of experience, I have contributed to the development of more than 15 mobile applications.
 I am currently working for a UK startup that is revolutionizing the fitness industry, with over 5,000 paying subscribers and more than 100,000 downloads.
 Flutter skills:
@@ -3336,7 +3336,7 @@ Sep, 2022 - Dec, 2022
 Certificates
 1. Certificate of successful completion of the internship course ""Creation and development of IT-products"", EdEra online education studio
 2. Certificate of achievement for ""Intermediate English as a Second Language"""
-flutter,"I have experience in developing client-server applications, sending/receiving SMS, telephony, determining the location of the device, working with a map, working with a camera and a microphone, using Bluetooth to interact with other devices, ffmpeg for processing and editing images and videos, developing applications with root-permissions, publishing and maintaining applications on Google Play and App Store, the ability to understand someone else's code, etc."
+flutter,"I have experience in developing client-server applications, sending/receiving SMS, telephony, determining the Location of the device, working with a map, working with a camera and a microphone, using Bluetooth to interact with other devices, ffmpeg for processing and editing images and videos, developing applications with root-permissions, publishing and maintaining applications on Google Play and App Store, the ability to understand someone else's code, etc."
 flutter,"created pet-projects:
 tabletki : e-Commerce flutter app that parce data from API with using BLoC state management.
 avadamessanger: A chat app using Firebase for authentication, Firestore for real-time database, Firebase Storage for image storage, and Provider for state management.
@@ -3414,7 +3414,7 @@ Flutter, FlutterFlow, Firebase, Supabase, RevenueCat, Stripe
 Domains:
 - Web3 & Crypto: Wallets, staking, tokenization, auctions, blockchain explorers, smart contract integration
 - Dating: Niche dating apps with algorithmic matching (e.g., astrology-based)
-- AI & Voice: OpenAI/GPT integration, text-to-speech and speech-to-text features
+- AI & Voice: OpenAI/GPT integration, Text-to-speech and speech-to-Text features
 - Real Estate: Task managers for realtors, client workflow tools
 - Healthcare: Medical records, Alzheimer care apps
 - E-commerce: Marketplaces, donations, Stripe/RevenueCat payments
@@ -3560,7 +3560,7 @@ App Description: My application is a Safaricom network package buying app.
 Development Process: I handled all aspects of the development process, from ideation to deployment. This included UI/UX design, frontend development using Flutter, backend integration, testing, and deployment.
 Marketing and Promotion: Leveraging various marketing channels, including social media, online communities, and app review websites, I effectively promoted the app to reach a wide audience. Strategies such as targeted advertising and app store optimization (ASO) were employed to enhance visibility and attract downloads.
 User Engagement: I continuously engage with users through feedback mechanisms within the app, responding to reviews, and incorporating user suggestions to improve the overall user experience. This proactive approach has contributed to positive user retention and organic growth.
-Monetization: Implemented monetization strategies such as in-app purchases, advertisements, or subscription models to generate revenue from the app, ensuring sustainable growth and viability.
+Monetization: Implemented monetization strategies such as in-app purchases, advertisements, or subscription resume_classifier to generate revenue from the app, ensuring sustainable growth and viability.
 Maintenance and Updates: Regular updates and maintenance activities are performed to address bugs, introduce new features, and adapt to evolving user needs and platform requirements. This commitment to ongoing improvement reinforces user trust and loyalty.
 Impact:
 User Satisfaction: The positive feedback and ratings from users attest to the app's value proposition and usability, fostering a loyal user base.
@@ -3620,7 +3620,7 @@ Integrated authentication using Google and Apple sign-in to ensure
 secure user access to the
 ""FoodStar"" application
 Utilizing Google Maps API:
-Integrated Google Maps API to create a map displaying location and
+Integrated Google Maps API to create a map displaying Location and
 track dish deliveries
 JSON Data Handling:
 Utilized JSON for reading data from Firestore and creating objects for
@@ -3637,7 +3637,7 @@ SKILLS USED
 Bloc State Management:
 Implemented Bloc pattern for state management in the application, ensuring efficient handling of complex UI interactions and data flow.
 Freezed & Equatable:
-Utilized the freezed and equatable packages to easily create immutable data models and value equality checks, enhancing code readability and maintainability.
+Utilized the freezed and equatable packages to easily create immutable data resume_classifier and value equality checks, enhancing code readability and maintainability.
 TheMovieDB API Integration:
 Integrated TheMovieDB API to fetch movie data, including details, ratings, reviews, and trailers, providing users with up-to-date information on their favorite movies.
 Flavors Configuration:
@@ -3866,7 +3866,7 @@ I worked in team, used github with team. I would like to improve my code's accur
 I'm in IT industry since more than 3.5 years and have working experience of more than 2 years.
 Worked on: more than 10 apps, some apps aren't published for some company reasons.
 Completed: 3 entertainment apps and 4 educational apps.
-I expect Remote job, chance to attend in big projects and regular salary of at least $1100. Ready to work overtime but for overpayment.
+I expect Remote job, chance to attend in big projects and regular Salary of at least $1100. Ready to work overtime but for overpayment.
 Average work time: 40 hrs a week. Can be extended."
 flutter,"Project in AgeTech, to help engage old people in nursing homes. It is white label project meaning it can be customised for each client.
 We use Flutter as cross platform mobile solution and Firebase as backend infrastructure. Codemagic for CI/CD. Gitlab as code hosting.
@@ -3874,7 +3874,7 @@ My tasks are doing PRs, implementing features of different difficulty from small
 CI/CD configuration to build branded apps using configurations from environment variables on ci/cd. Implementing Push-notifications.
 Team: 4 flutter developers, 2 product designers, 1 qa, 2 stakeholders (clients). Scrum with one-week sprints.
 Mobile App for logistics company is USA which is delivering cars for clients.
-Technologies:Xamarin.Forms, Zxing.Net (для сканування qr codiv), Prism (event aggregator, MVVM toolkit), SkiaSharp (for working with vector graphics - selecting parts of car, signature), GoogleMaps(map ), Xamarin.Essentials ( useful helpers for xamarin forms ), Polly (resilience and transient-fault-handling library for improving API calls), AnyLine scanner (scanning of VIN plates), FFIImageLoading (media optimization), Syncfusion (extended set of controls), AppCenter+Azure Analytics (CI/CD, logging, analytics, etc), Multi-language support; Location background services and geofencing, remote(Azure) and local notifications
+Technologies:Xamarin.Forms, Zxing.Net (для сканування qr codiv), Prism (event aggregator, MVVM toolkit), SkiaSharp (for working with Vector graphics - selecting parts of car, signature), GoogleMaps(map ), Xamarin.Essentials ( useful helpers for xamarin forms ), Polly (resilience and transient-fault-handling library for improving API calls), AnyLine scanner (scanning of VIN plates), FFIImageLoading (media optimization), Syncfusion (extended set of controls), AppCenter+Azure Analytics (CI/CD, logging, analytics, etc), Multi-language support; Location background services and geofencing, remote(Azure) and local notifications
 Team of 2 mobile devs, 1qa, 1 backend dev and many more on other projects.
 My tasks: Fixing bugs, updating designs, keeping up to date with newest os versions, troubleshooting individual cases for back office. Combining logs from database, AppCenter, azure application insights in one place as web page. Starting solution for UI testing mobile app using Appium. Writing UI tests for web application using Selenium.
 Project for managing devices in schools in USA.
@@ -3928,8 +3928,8 @@ Main responsibilities on the projects:
 flutter,"Software engineer (Senior Flutter Developer)
 Playing a role in creating software, an inclusive communication platform designed
 specifically to bridge the gap between deaf and hearing users. The application provides
-real-time communication solutions including video calls optimized for sign language, text-
-to-speech, speech-to-text transcription, and visual alerts to ensure seamless interaction
+real-time communication solutions including video calls optimized for sign language, Text-
+to-speech, speech-to-Text transcription, and visual alerts to ensure seamless interaction
 between users with different hearing abilities.
 Technical background:
 Dart, Flutter, GoRouter, DIO, Cubit, Freezed, CleanArchitecture, Bitrize, DataDog, Scrum,
@@ -3973,7 +3973,7 @@ Honey Shop - apiary Flutter cross platform application.
 I developed  registration via phone number (OTP), integrated Cloud Firestore database, developed an admin application with a customizable bonus system, utilized the Provider state manager, integrated Nova Post API, implemented user profiles, light/dark theme, and order streaming.
 3) Flare Network
 2023 - 2024
-“Invoice Maker” - I improved the monetization system by doubling the revenue from the app, updated the project to the latest versions of SDK and libraries, developed a system for sending invoices by email, implemented customization.
+“Invoice Maker” - I improved the monetization system by doubling the revenue from the app, updated the project to the latest versions of SDK and libraries, developed a system for sending invoices by Email, implemented customization.
 “Trading Platform”. Developed on different types of authorization and registration, developed a multi-step tutorial. Implemented a user profile with diagrams and graphs, developed platform-dependent screens.
 4) Time2Mobile
 ”ProStar” - I developed an event calendar, implemented a chat system, developed transfer window logic and logic for sharing PDF files,  implemented push notifications with navigation. Additionally, I optimized database queries, caching various data types, including chat messages, which saved database costs.
@@ -4043,7 +4043,7 @@ I would love an environment that encourages learning and career growth. I am a g
 flutter,"- Created multiple Xamarin.Native Android and iOS apps for in-house use. Lead the projects, took part in full workflow: from an app idea to release.
 CarPlay, Android Auto, XamarinMediaManager, Google Fit, Android Fitness SDK, Apple HealthKit; custom presenters, navigation, routing, login flows (Cognito, MSAL, etc).
 AppCenter, Firebase, Omniture, Adobe Experience Platform.
-- Created Xamarin.Native Android and iOS utility mapping, surveying and location solutions for geographic information system B2B app. Worked with custom map and sync engines, external hardware devices. Had business trips, communicated with business clients to transform their needs into new app features.
+- Created Xamarin.Native Android and iOS utility mapping, surveying and Location solutions for geographic information system B2B app. Worked with custom map and sync engines, external hardware devices. Had business trips, communicated with business clients to transform their needs into new app features.
 - Created Xamarin.Native Android and iOS app with tens of thousands monthly users and very high user ratings (4.7 and 4.8). Participated in the entire lifecycle of applications from design and development (APIs: Maps and Location, Google Analytics and Firebase, Facebook and Google Login) to Google Play and App Store publishing (DUNS creation, signing process, ASO).
 No Xamarin.Forms projects, no legacy"
 flutter,"Results-driven Flutter and Backend Developer with 4.5+ years of experience specialising in mobile and web
@@ -4074,7 +4074,7 @@ My only wish is to improve myself as much as possible."
 flutter,"I have over a year of professional experience as a Flutter Developer. I’ve worked on various mobile applications, handling full-cycle development—from planning and architecture to testing, release, and ongoing support.
 I’ve utilized Flutter to create feature-rich user interfaces with a focus on optimizing performance across different devices. Additionally, I’ve contributed to CI/CD integration using Fastlane, automating deployment, testing, and releasing updates to Google Play and the App Store.
 Currently, my role within the team involves both developing new features and fixing bugs while optimizing the applications. I aim to further develop my skills in performance optimization, streamline CI/CD processes, and deepen my knowledge in mobile architecture."
-flutter,"Hi there, my name is Ara Periyan.
+flutter,"Hi there, my Name is Ara Periyan.
 I am an experienced Mobile/Flutter developer 5 years of experience. I have experience of a team lead and an architect, I can create a beautiful and correct architecture using the necessary design patterns and adherence to SOLID principles.
 Here brief summary about my skills:
 Flutter, dart, BLoC, Provider, Riverpod
@@ -4307,7 +4307,7 @@ Flutter mobile app for watching videos and live streams of different sports, wit
 Technologies: Flutter, GetX, video streaming.
 Position: Developer
 Parket app
-The app helps to find cheaper parking.  Users can choose the location, bay, and dates, and also make the payments.
+The app helps to find cheaper parking.  Users can choose the Location, bay, and dates, and also make the payments.
 Technologies: Flutter, Redux, Firebase (Push Notification), Card payment
 Position: Lead Developer
 LetsBuild
@@ -4470,7 +4470,7 @@ high-quality apps and exceptional user experiences.
 - Software Engineering Principles: OOP, SOLID, Design Patterns, Clean Architecture
 - Reactive Programming: RxDart, Streams
 - Tests: unit test, golden-widget test"
-flutter,"Hi, my name is Yehor, and I'm a Flutter developer with some experience in commercial development. I have three small investment applications under my belt and a strong desire to write high-quality code. I am interested in new opportunities to develop my skills and experience, and I am ready to join a dynamic team where I can contribute and continue my professional growth."
+flutter,"Hi, my Name is Yehor, and I'm a Flutter developer with some experience in commercial development. I have three small investment applications under my belt and a strong desire to write high-quality code. I am interested in new opportunities to develop my skills and experience, and I am ready to join a dynamic team where I can contribute and continue my professional growth."
 flutter,"MySQL, Linux, Laravel, PHP, Asterisk, VoIP"
 flutter,"Abdulhasan has been involved in programming since 2019 and has worked on a variety of technologies and projects during this time. He specializes in DevOps, Full-Stack Development, and Mobile Application Development. Below is an overview of his work experience:
 ### **Completed Projects and Tasks**
@@ -4513,7 +4513,7 @@ flutter,"Developing Android apps for over 10 years,
 Also, I have experience with Flutter for almost 2 years. And small experience with Machine Learning.
 I have made a lot of projects from scratch to the final release and performed support for legacy projects. I also worked on complex projects with big teams.
 My main goal is to make the application performant and user-friendly for customers. I like to think about how one or another solution will influence the end user. And I feel happy when I see that the application I worked on makes people's lives easier and gives them pleasure.
-* Proud of my latest work, a cool German Radio app with a lot of functionality and services used, including work with Android Auto, and Chromecast, simple vector animation.
+* Proud of my latest work, a cool German Radio app with a lot of functionality and services used, including work with Android Auto, and Chromecast, simple Vector animation.
 * One more thing is a small Machine Learning project that is meant to solve the business card recognition problem on one of the current employer's products.
 * Also, another thing to be proud of is my personal Android project meant to help the local small businesses that uses Nova Poshta delivery service. It has a lot of good reviews in the Play Store and an average rating of 4.8 stars.
 Prefer new projects to old legacy ones. Open to new challenges.
@@ -4726,7 +4726,7 @@ Project 	Weather program
 Technologies 	Git, Dart, Flutter, API, HTTP, Geolocator
 Duration 	2023
 Position 	Flutter Mobile Developer
-Tasks & Duties 	Developed an application for displaying the weather by API key, device geolocation and city name search
+Tasks & Duties 	Developed an application for displaying the weather by API key, device geolocation and city Name search
 Project 	Rick and Morty
 Technologies 	Git, Dart, Flutter, BLoC, API, Shared preferences
 Duration 	2023
@@ -4860,7 +4860,7 @@ flutter,"I have started working as a system administrator, but now trying to mak
 I have no prior commercial experience with Flutter app development, but I know how to work in a team and would love to grow professionally.
 Prior to this I worked as a TAM / TechSupport / System Administrator with experience in variety of fields.  I have experience administrating VoIP, CRMs, Jira, Google Workspace, VPNs and a lot of other services.
 I have experience of speaking English at my job.
-I also like automating things and developing solutions to aid in my work, example being my email and VoIP management tools app.
+I also like automating things and developing solutions to aid in my work, example being my Email and VoIP management tools app.
 I've spent some time on SEO, got some experience in SMM (while was in college student council), for my own projects and apps.
 In general, wide spreaded knowledges in multiple disciplines, some of which are deep, some are not. Some experience, some understanding.
 Worked on hardware:
@@ -5220,7 +5220,7 @@ Bug fixing
 Release management
 Support"
 flutter,"I have been using Swift to develop iOS applications since 2015. My career began in the banking sector, where I worked on a secure P2P transfer app.
-Following that, I gained experience creating applications for aggregating sports news and analytics, as well as providing real-time text broadcasts of sporting events.
+Following that, I gained experience creating applications for aggregating sports news and analytics, as well as providing real-time Text broadcasts of sporting events.
 Later, I joined a startup, where I developed an iOS client for a social networking platform that featured voting systems and personal ratings.
 After that, I was fortunate to work with a major retail chain, where I created an application that allows users to conveniently pay for purchases using QR codes integrated with an international payment system, manage receipts, view promotional information, earn loyalty rewards, and place online orders for home delivery. This app significantly reduced wait times and queues, effectively increasing customer throughput across the entire supermarket network. I wrote this application from scratch and later led a team of iOS developers as the team grew. I remain grateful for the opportunity and invaluable experience I gained. The app now boasts several million downloads and consistently ranks among the top downloaded applications in the Ukrainian App Store.
 Subsequently, I moved to a British startup focused on developing a travel application. It bears functional similarities to TripAdvisor or Google Map Reviews but significantly expands on original ideas in the realm of social communication.
@@ -5515,12 +5515,12 @@ flutter,"Привіт! Я Андрій – розробник, який живе
 використанням Flutter/Dart та Dart CLI. Серед реалізованих компонентів —
 кросплатформен"
 flutter,"Projects and Tasks Completed
-FitMotion: Led the development of a smart home workout app with AI-guided workouts, using computer vision and text-to-speech for real-time feedback. This project demonstrated your ability to integrate cutting-edge AI technologies into mobile applications.
+FitMotion: Led the development of a smart home workout app with AI-guided workouts, using computer vision and Text-to-speech for real-time feedback. This project demonstrated your ability to integrate cutting-edge AI technologies into mobile applications.
 Teenie Tales: A Children's storytelling AI app that leverages Generative AI to create personalized interactive narratives with the help of AI talking avatars that narrate stories for children. Each AI avatar has its own voice, look and style!
 Implemented a sophisticated multi-step story creation and character creation system with image/voice processing capabilities, and designed
 GAINZ.AI: Currently leading the mobile team in developing innovative fitness apps that incorporate AI to deliver personalized experiences.
 Tabkha: Developed a comprehensive food ordering platform, handling both frontend and backend using Flutter and Google Firebase.
-PicQuery: Created an image search app with text-based search and text extraction features.
+PicQuery: Created an image search app with Text-based search and Text extraction features.
 Talabat Egypt: Contributed to the development of a food delivery app, focusing on real-time order tracking and improving the user interface.
 Le Soleil: Developed a beauty center management system within a tight timeframe.
 Technologies Used
@@ -5545,12 +5545,12 @@ Implemented real-time order tracking at Talabat Egypt, improving user experience
 Mentored struggling students in computer science, helping them improve their understanding of complex subjects, which was recognized by faculty members.
 I’m looking for a role in a supportive and well-structured environment where I can contribute effectively and continue growing as a developer. I value clear communication, teamwork, and a culture that encourages problem-solving and innovation.
 What I don’t want is a stagnant role with little room for growth or innovation. I prefer avoiding workplaces with unclear expectations or a lack of technical direction"
-flutter,"As a Flutter Developer since 2020, I've integrated advanced features like custom caching for GraphQL and offline support with Drift, enhancing app functionalities. My work includes multipart uploading, generating GraphQL schema types, integrating speech-to-text, and creating interactive animations using Rive and Lottie. I developed three applications tailored to educational needs, involving AI to assist in classrooms and implemented robust UX/UI designs using bloc and Firebase.
+flutter,"As a Flutter Developer since 2020, I've integrated advanced features like custom caching for GraphQL and offline support with Drift, enhancing app functionalities. My work includes multipart uploading, generating GraphQL schema types, integrating speech-to-Text, and creating interactive animations using Rive and Lottie. I developed three applications tailored to educational needs, involving AI to assist in classrooms and implemented robust UX/UI designs using bloc and Firebase.
 In my role as a React Native Developer (2018-2020), I created mobile apps for restaurant bookings and a cryptocurrency trading platform, focusing on user-friendly designs and efficient performance. I also developed a relationship-focused iOS app, emphasizing secure communication.
 As a PHP Backend Developer (2016-2018), I enhanced high-load API performance and refactored systems for business efficiency, contributing to scalable and flexible administrative solutions. My work spanned across various sectors, demonstrating a commitment to improving user experience and operational productivity.
 1. As a Flutter Developer (since 2020):
 - Implemented GraphQL integration with custom caching and offline support using Drift, developed multipart uploading in isolates.
-- Created a GraphQL schema types generator, integrated speech-to-text functionality, and executed Rive runtime integration with Rive editor.
+- Created a GraphQL schema types generator, integrated speech-to-Text functionality, and executed Rive runtime integration with Rive editor.
 - Developed complex interactive animations on CustomPainters and Tweens, implemented Lottie animations, and built custom painters.
 - Developed three distinct applications for iOS, Android, and a custom device, enhancing learning experiences, assisting teachers in student work analysis, and streamlining classroom activities with an AI assistant.
 2. As a React Native Developer (2018-2020):
@@ -5643,7 +5643,7 @@ flutter,"Android, Android SDK, Java, Kotlin, Logical games AI programming
 Working experience with Android :
 - 	solid knowledge of Android OS, Android SDK, Android UI;
 -	work with HTTP, REST, JSON;
--	work with geo location, push-messages, application preferences;
+-	work with geo Location, push-messages, application preferences;
 -	object oriented programming.
 -	finished project in Google market.
 Working in R&D. The main tasks was the development applications for SmartTV’s:
@@ -5656,7 +5656,7 @@ June 2022 - October 2022: Yazz (mobile) (Application for fishing and tourism boo
 November 2021 - May 2022: ResHub (MyHub + FamilyHub) (NDA, award-winning application for Great Britain network of assisted living seniors houses Two applications: for assisted living facility residents -  News, articles, ability  to book events etc.);
 April 2021 - November 2021: Link Logiq Drivers (NDA, application for truck drivers, users and back office);
 December 2020 - February 2021: AGRU (high load auction application for agriculture goods producers selling product on the open market with the best price)"
-flutter,"Last project -> Developed a social network from scratch. Also managed the development team, planning, deadlines, solving stoppers and problems. Communication with the product and development. The application was based on group chats, people corresponded and used different methods of communication (text, video, audio, pictures, gifs and stickers), in addition, there are deep links and push notifications. There were up to 8 people in the team. At first, 1 worked as Flutter, later there were 2 of us. Completely implemented MVP, and further features that. The full-fledged product is at the launch and testing stage."
+flutter,"Last project -> Developed a social network from scratch. Also managed the development team, planning, deadlines, solving stoppers and problems. Communication with the product and development. The application was based on group chats, people corresponded and used different methods of communication (Text, video, audio, pictures, gifs and stickers), in addition, there are deep links and push notifications. There were up to 8 people in the team. At first, 1 worked as Flutter, later there were 2 of us. Completely implemented MVP, and further features that. The full-fledged product is at the launch and testing stage."
 flutter,"I am a flutter developer with 4 years of experience, I worked on different projects like e-commerce, Fintech, warehouse management, and my latest experience was with an app for  Toyota warehouses in Georgia, Armenia and Azerbaijan, the app has many features like Stocking vehicles, prepare for dispatch and removal, The app saves all the actions locally then it synchronize with remote server"
 flutter,"Collaborated with a cross-functional team of developers, designers, blockchain experts, and QA teams to design, develop, test, and release a crypto wallet and  decentralized digital identity applications;
 Integrated REST APIs, smart contracts with Web3, Firebase;
@@ -5693,7 +5693,7 @@ the AppStore.
 - Successfully completed the course ""Flutter & Dart - TheComplete Guide""on Udemy.
 - Successfully completed the course ""Flutter testing : Unit, Widget& Integration testing""on Udemy.
 Development of new or support and improvement of existing Flutter apps"
-flutter,"Hello everyone! My name is Oleg and I'm from Lviv, Ukraine. I am a passionate mobile developer using Flutter. It will a pleasure to helping you with every project you want to build.
+flutter,"Hello everyone! My Name is Oleg and I'm from Lviv, Ukraine. I am a passionate mobile developer using Flutter. It will a pleasure to helping you with every project you want to build.
 Skills Summary :
 Backend : Core Data, Web service, JSON, XML, REST, SOAP, SQLITE, MongoDB
 3rd Party SDK: Facebook, LinkedIn, Google, Parse, Stripe, Braintree, Twilio , Instagram, Twitter and other Social APIs;
@@ -5734,7 +5734,7 @@ Charts, Dio, GetIt, and Image Picker libraries.
 A video chat application using WebRTC allows users to create
 rooms that can be joined by other participants. After creating a
 room, the user is immediately connected. In addition, the app allows
-users to search for rooms by name. The app also uses Firebase,
+users to search for rooms by Name. The app also uses Firebase,
 AutoRouter, Shared Preferences for app themes, uuid, Dio.
 An application for voice notes. To create notes, I used the Speech
 to Text library. I also used Lottie animations, Local Auth to protect
@@ -5749,7 +5749,7 @@ Thorough understanding of the Firebase suite or similar serverless solutions.
 Strong understanding of Google Material and Apple Cupertino guidelines, along with
 current UX best practices and UI trends.
 Proficient with AI tools, enhancing individual and team performance. Experienced in
-integrating AI models into mobile apps.
+integrating AI resume_classifier into mobile apps.
 Leadership, Interviewing, Mentorship, Prioritization, Estimation, Risk Prediction, Task
 Splitting.
 Projects
@@ -5798,7 +5798,7 @@ Mobile Application Development Team Lead
 Leading a team in creating user-friendly and high-performance mobile banking applications from scratch for iOS and Android platforms primarily using Flutter, resulting in a 40% increase in user engagement and a 25% growth in business revenue within the first year of launching the applications.
 Mentoring and provided technical guidance to junior team members, fostering their professional growth and resulting in a 30% reduction in bug counts and code refactoring.
 Implementing a continuous integration and delivery (CI/CD) pipeline, automating the build, testing, and deployment processes, resulting in a 50% reduction in deployment time and improved overall development efficiency.
-Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
+Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance Category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
 IT-RUN Kids
 Scratch & App Inventor course instructor
 Successfully instructed and guided kids in a Scratch and App Inventor programming course, resulting in a 50% improvement in their coding proficiency and problem-solving skills. Students demonstrated an average increase of 30% in project completion rates and a 25% boost in creativity and innovation within the course duration.
@@ -5820,7 +5820,7 @@ The app used such features as:
 - Consumable  Inapp Purchases and Subscriptions
 3. I've also took part in building/ fixing an app for European University. The case was the following. The client came with a self designed app for teachers and students where students had to take exams remotely. They need to record they answers  in video and audio format and send it to the teachers.
 Originally the app was buggy as all the code was written in one file without any state management solution. I had to refactor the architecture and applied Provider to organise business logic. Ive applied flutter plugin for automatic microphone enabling in the background(was one of the clients requirements) and added a time tracker for each exam.
-4. One more project was for different kinds of summits, where users could register with email or phone number, communicate with each other, create meetings for a certain date and get push notifications. The stack was the following
+4. One more project was for different kinds of summits, where users could register with Email or phone number, communicate with each other, create meetings for a certain date and get push notifications. The stack was the following
 - Firebase/Firestore,
 - FCM notifications
 - Remote config
@@ -6090,7 +6090,7 @@ Aventus
 May 2022 - July 2024 2 years+
 Joined as Middle developer. Worked with loan application Creditplus and sometimes with other
 loan applications of company. I made it from scratch, it was rewritten from android native(Kotlin+XML+MVVM). Also I added some small features and fixed some small bugs on native application when flutter application was in development. I set architecture on this project(blocs as features) and processes. Also widely used analytics by different services, also flavored app, a lot of validation of fields (local and backend validation) and working with complex forms(especially on 7 registration steps), large ui kit, complex navigation structure using beamer, pagination, supporting different sizes of screens(using
-golden testing on complex screens), using webview, verification by bank id, scanning bank cards(isolates were used), biometrics, downloading and
+golden testing on complex screens), using webview, verification by bank Id, scanning bank cards(isolates were used), biometrics, downloading and
 uploading files, dynamic links, using web sockets for updating data, payment systems integration, login with otp, using codemagic ci/cd
 Team Lead in a Flutter team (5 people), full responsibility for the process
 Migration from native Android to Flutter from scratch
@@ -6197,19 +6197,19 @@ I've worked on rocket control systems, computer vision, and plugin development, 
 Professional Traits:
 I'm punctual, self-motivated, and thrive in challenging environments, always aiming for excellence.
 Feel free to adjust any part of it to better suit your style or specific needs!"
-flutter,"Google Play: id=com.pooleysiplates
+flutter,"Google Play: Id=com.pooleysiplates
 App Store: pooleys-iplates-23/id1669286812
 An application for pilots that allows you to work with PDF maps of airports. This app is fully supports the offline mode of operation (and also switches to it when the Internet is bad). The application is written for and supported by all platforms (Android phones and tablets, iPhone, iPad, Windows, Linux, and macOS). Profile data is fully synchronized. That is, if you have added a document to your favorites or downloaded it to your computer, when you open the application on your phone, all files will be automatically downloaded to your phone and will be available offline.
-Google Play: id=com.pooleys.ebooks
+Google Play: Id=com.pooleys.ebooks
 App Store: pooleys-ebooks/id981166096
 Similar to the previous one. Support for offline mode, etc. This project also implements file byte decryption (an encrypted file is downloaded). Also written are complex custom animations for opening information about the book for different platforms (similar to the Apple Books App, but animating all content and not just pictures).
-Google Play: id=com.myironapp
+Google Play: Id=com.myironapp
 iphone: myiron/id1667541442
 An app for blood donors to track their blood counts. Completely written in Firebase (Firebase storage, Firebase authentication, etc.). It also uses Redux to manage state.
-Google Play: id=com.trackabi.mobile_timer
+Google Play: Id=com.trackabi.mobile_timer
 App Store: trackabi-time-tracking/id1591247274
 Our company's project for tracking the work of employees. I did not participate in the first stage of the development of the program. When it was already released, I added a new section to the Insights menu that had all the statistics by selected period, company, etc.
-Google Play: id=com.binderr.binderrapp
+Google Play: Id=com.binderr.binderrapp
 An old project that we released in 2020. Unfortunately, the project is closed. Application for accounting, with various statistics, etc. A corporate subscription was implemented, where it was possible to keep an accounting of workers.
 And a few more projects that are either frozen at the final stage, or were intended for internal use by companies, or small projects about which there is nothing to tell."
 flutter,"I'm an enthusiastic and detail-oriented Frontend developer seeking an entry-level position with Company where I can develop as a specialist and perform an interesting task. I have commercial experience working in a team in a company and I have several pet projects that I did on my own using JavaScript and React.
@@ -6283,7 +6283,7 @@ In terms of localisation, our team used primarily AppLocalizations with json fil
 I have used Git (Bitbucket) for version control for 3 years now.
 I am a Strong Junior / Middle Developer. I dream of becoming a Senior one day. Although I was the only front-end developer on some projects, which meant my responsibilities were as of a Lead Developer.
 In terms of Databases, most of the time I used SQLite (sqflite), but I know GraphQL, Drift, and have test projects with Firebase
-In terms of RestAPIs, I have used it in the commercial environment, utilising Dio client(dio) and serialised models (json_serialisable), but some time ago our team used Mqtt for all networking, so I have experience with it too.
+In terms of RestAPIs, I have used it in the commercial environment, utilising Dio client(dio) and serialised resume_classifier (json_serialisable), but some time ago our team used Mqtt for all networking, so I have experience with it too.
 I have a good knowledge of DRY and SOLID/OOP principles, which I apply regularly to my code to ensure its readability and effectiveness. And I am also reviewing old libraries from time to time to get them up to the standards.
 I have shipped multiple mobile apps to Google Play and App Store, developed countless pet mobile projects, learned a dozen of platforms and technologies, and have a wonderful portfolio.
 I would like to work with a friendly team, a company with a purpose, to feel that my work matters, in the scale of a company, if not globally. A team with freedom to create and provide the best services to the customers."
@@ -6346,7 +6346,7 @@ I am currently highly interested in participating in exciting team projects on m
 - поддерживать ПО построенное по старым технологиям двадцатилетней давности"
 flutter,"I have over 6 years of development experience, focusing on Flutter and cross-platform mobile applications. I have participated in projects across various industries, including apps for electric vehicle charging, cryptocurrency wallet management, and charity platforms. I have utilized a wide range of technologies, such as Flutter, RxDart, RxBloc, TypeScript, Firebase API, and Third-Party APIs. In the team, I play a key role in developing and implementing new features, and I aim to further develop my skills in complex mobile solutions and architectural approaches.
 Optimized the performance of a cross-platform electric vehicle charging app, reducing load time by 30% and enhancing the user experience.
-Developed and implemented a real-time user location monitoring feature for the ""Where I Am"" app, ensuring precise location tracking with minimal delays.
+Developed and implemented a real-time user Location monitoring feature for the ""Where I Am"" app, ensuring precise Location tracking with minimal delays.
 One of the interesting projects I worked on was creating a mobile application for monitoring the parameters of a Bluetooth device. This project allowed me to deepen my knowledge in working with Bluetooth devices and improve my skills in creating interactive and user-friendly mobile solutions.
 I value trust, friendly relationships at work, and the opportunity to grow and develop in a strong team or by making it stronger. I am looking for a comfortable and stable position where I can contribute either as part of a team or as an independent key developer on a project. I am not interested in startups, temporary work, or positions that involve screen tracking and similar monitoring tools."
 flutter,"While working on dozens of projects in various domains, such as FinTech, Edu, HealthCare and others, i had to deal with many challanges using right technology for each, such as: REST, GraphQL, Firebase, SQL, GPT and many others. All of that should be done considering the long lasting and easy maintainalbe project architecture. Do not hasitate to voice my opinion on a certain feature or request from a Customer providing realistic estimation as well as possible pros and cons of doing so.
@@ -6367,13 +6367,13 @@ Conference App
 Worked on a conference app providing comprehensive functionality for organizing and managing meetings. It included user registration, conference setup, topic management, and participant role and voting rights assignment. I designed and implemented an interface with audio recording and control features, including pause, note-taking, and voting options. Contributed to creating an intuitive interface that allows users to easily manage conferences and voting processes in real time.
 Tech Stack: REST API, http, BLoC, Cubit, SharedPreferences, GoRouter,Easy_localisation
 Poster App
-Worked on an app designed for creating and distributing posters and announcements. It provides users with ready-made templates and a flexible interface to design posters from scratch. The app includes tools for adding text, images, and graphic elements, along with customizable color, font, and style options. Posters can be saved in a personal gallery and shared instantly on social media. Contributed to building an intuitive user interface that allows users to quickly and easily create professional-quality visual content.
+Worked on an app designed for creating and distributing posters and announcements. It provides users with ready-made templates and a flexible interface to design posters from scratch. The app includes tools for adding Text, images, and graphic elements, along with customizable color, font, and style options. Posters can be saved in a personal gallery and shared instantly on social media. Contributed to building an intuitive user interface that allows users to quickly and easily create professional-quality visual content.
 Tech Stack: GraphQl, Http, BLoC, Amplify ui, GoRouter, Drift
 Pet Project | May 2023 - July 2023
 Water-tracker App
 As part of a personal project, I participated in the development of a water tracker application with the primary goal of creating a user-friendly mobile application to help individuals monitor and manage their daily water intake. My responsibilities included estimating tasks for new features and decomposing tasks to facilitate efficient development. As an active contributor to the user interface design, I create visually appealing screens. Rigorous debugging and testing were integral aspects of my role, ensuring the application's stability.
 Tech Stack: Firebase auth, Firestore, BLoC,SharedPreferences,Auto router,Easy localisation, Local notifications
-Through my involvement in the first project, I gained a strong foundational understanding of Flutter, including creating DTO models, implementing business logic, and constructing the application architecture following the Model-View-Controller (MVC) pattern. Additionally, I expanded my knowledge of state management by working with several options such as BLoC, Cubit, and Riverpod. It was during this project that I realized the importance of user interface design and the need to create applications that are simple and intuitive to optimize the user experience.
+Through my involvement in the first project, I gained a strong foundational understanding of Flutter, including creating DTO resume_classifier, implementing business logic, and constructing the application architecture following the Model-View-Controller (MVC) pattern. Additionally, I expanded my knowledge of state management by working with several options such as BLoC, Cubit, and Riverpod. It was during this project that I realized the importance of user interface design and the need to create applications that are simple and intuitive to optimize the user experience.
 As I progressed with subsequent projects, I focused on integrating more complex functionalities, such as handling real-time data through APIs, storing data with Firestore, and implementing offline features. I learned how to effectively interact with various backend services like Firebase, GraphQL, and REST APIs, optimizing the code for performance and reliability.
 Designing mobile application interfaces became a key focus for me. I realized how crucial it is to create interfaces that not only meet functional requirements but also provide a pleasant user experience, ensuring quick and easy interactions with the app. For example, in the conference app project, I developed a user interface for voting and audio recording, considering various usage scenarios, which led to positive feedback from users for its ease of use.
 These projects have been significant steps in enhancing my Flutter skills and gaining practical experience in building complex mobile applications.
@@ -6474,10 +6474,10 @@ E-commerce application
 Ride sharing application(Uber)
 To give some insight I put some sample details for the 2 applications:
 Ridesharing Application (D4U Ride)
-The ridesharing mobile application allows users to request rides from the closest location. Using this the users can go anywhere with their ride.
+The ridesharing mobile application allows users to request rides from the closest Location. Using this the users can go anywhere with their ride.
 The main functionality of the apps are:
 -Authentication
--Place(location) Search
+-Place(Location) Search
 -Pick a preferred vehicle like a small taxi, economy, business
 -Get the driver's information
 -Rideshare
@@ -6501,7 +6501,7 @@ The main functionality of the app are the following:
 -Change and reset the password
 -Setting
 -Localization
--Contacts and location on maps"
+-Contacts and Location on maps"
 flutter,"I'm a Flutter developer with 3 years of experience in mobile app development. I have experience developing new applications for iOS and Android. I can work with the
 Figma UI editor, Git systems (GitHub, GitLab), Worksection task manager.
 During my work, I encounter the following tasks. I am responsible for developing and maintaining cross-platform mobile applications for iOS and Android platforms. Working closely with a multidisciplinary team, I contribute to the entire app development lifecycle, from concept to deployment.
@@ -6558,7 +6558,7 @@ Strong knowledge UI/UX Apple guidelines. Experience in design with Sketch.
 Strong understanding of backend processes.
 Experience in Swift backend frameworks(Vapor, Kitura)
 Additional language: Rust.
-Within Stackoverflow top 10% in iOS, Swift category.
+Within Stackoverflow top 10% in iOS, Swift Category.
 Developed 5 apps from scratch till release, took a part in more than 12 apps.
 Led the team of 4 iOS developers(Junior+ - Middle), helped PM & BA to define roadmaps, manage & clarify client's requests and expectations, and planned execution with the team.
 Experience with Computer Vision, and video streaming apps. VoIP. AWS Services configuration and system architecture. Worked with RxSwift & RxCocoa. SwiftUI & Combine commercial experience. ARKit. Blockchain basics knowledge, commercial experience creating wallet, web2+web3 authentication, NFT-market.
@@ -6738,7 +6738,7 @@ I expect to be on a team where I will improve my skills, gain knowledge and expe
 flutter,"I am a dedicated programmer with five years of experience in software development. My journey began as an Android developer, where I gained a strong foundation in mobile application development and expanded my skill set to include Android NDK (C++). This allowed me to enhance my applications' functionality and efficiency with performance-critical components.
 Eager to embrace new technologies, I transitioned to using Flutter, enabling me to develop cross-platform applications efficiently. Over my career, I have successfully completed more than 20 applications, each reflecting my commitment to delivering high-quality, reliable software solutions.
 Last year, I served as a lead developer, guiding a team through complex projects, ensuring timely delivery, and maintaining high standards of code quality. This experience honed my technical skills and strengthened my leadership and project management abilities.
-I've created board for visualisation. Fully Custom grid view board with customized Gesture Detectors (for image and text views), Metrix transformation (Android -> IOS), attached to user's account.
+I've created board for visualisation. Fully Custom grid view board with customized Gesture Detectors (for image and Text views), Metrix transformation (Android -> IOS), attached to user's account.
 Currently I'm looking for new job where I can grow faster. I feel like I'm not growing in my current position."
 flutter,"I am a 4th year Computer Science student who started learning Flutter on my own. I have no commercial experience. But I have been studying and working with Flutter for a year. I have previously taken online video courses, and now I am taking another course like an intership. I have several pet projects that use different widgets, algorithms, and state management techniques. I want to improve, so I keep learning and deepening my knowledge.
 I am studying at Lviv Polytechnic National University in a majority of Computer Science, Computer-Aided Design. I have good academic record (75%).  I have some pet projects."
@@ -6786,7 +6786,7 @@ projects
 member’s tech stack and soft skills, working with personal
 development plans for team members(tasks containing
 both tech and soft skills improvements), conduct 1 to 1
-with members (discuss problems), conduct salary reviews
+with members (discuss problems), conduct Salary reviews
 meetings.
 • Upper-Intermediate written and spoken English
 • Hobbies: armwrestling, computer games
@@ -6801,7 +6801,7 @@ Azerconnect LLC, Azerbaijan, Baku - (15/07/2022 - present)
 We are building Intranet Application of Azerconnect for employees. The app including biometric authentication, deep linking, custom UIs, etc. It includes Android and iOS and we are planning to build web version with Flutter.
 ## Flutter Software Engineer
 Starex.az, Azerbaijan, Baku – (06/10/2021 - 01/06/2022)
-Basically,  I had worked on Starex mobile application. It is available in Google Play, AppStore  and App Gallery. I have refactored app to clean architecture and written unit tests for features. I have implemented useful features, like cash back mechanism, stories like WhatsApp (from 0, not using another library),  password autofill in login, CI (Continuous Integration) in Gitlab for unit tests, calculator page for weight and volumetric weight calculations, Bon.az integration in shops list, searching shops in list, Trendyol activation code page, promo code functionality for points (stations), enable/disable functionality for email and sms notifications and etc.
+Basically,  I had worked on Starex mobile application. It is available in Google Play, AppStore  and App Gallery. I have refactored app to clean architecture and written unit tests for features. I have implemented useful features, like cash back mechanism, stories like WhatsApp (from 0, not using another library),  password autofill in login, CI (Continuous Integration) in Gitlab for unit tests, calculator page for weight and volumetric weight calculations, Bon.az integration in shops list, searching shops in list, Trendyol activation code page, promo code functionality for points (stations), enable/disable functionality for Email and sms notifications and etc.
 ## Lead Flutter Software Engineer
 Frazex LLC, Azerbaijan, Baku – (01/05/2021 - 15/09/2021)
 Here I have mainly developed e-commerce projects and made support for available apps. I have refactored different apps like Tezibu partner, courier and etc and give support for Optimal Club, Tezibu client and different apps. I have implemented folder structure for apps in our company and implemented chat functionality for Tezibu apps with SignalR in Flutter. Beside them, I was lead for team that had 4 Flutter Developers.
@@ -7002,7 +7002,7 @@ flutter,"Flutter developer with 4 years of commercial experience
 Developed, maintained and updated mobile applications in the App Store and Google Play.
 I'm conducting code reviews, taking responsibility, creating application architecture, tasks, time estimation of each task and distribution among the team. Write clean, scalable code using best practices.
 I'm writing functionality quickly, with love, with a minimum number of bugs. I test the functionality after it is ready."
-flutter,"Passionate and Reliable Senior Mobile Developer with over 7 years of experience specializing in cross-platform app development using Flutter and React Native, with additional expertise in blockchain, AI, and embedded systems such as IoT. I have a proven track record of delivering high-quality, scalable, and user-friendly mobile applications for both iOS and Android platforms, as well as building innovative solutions that integrate advanced technologies like smart contracts, machine learning models, and IoT devices. My skill set includes end-to-end app development, API integration, performance optimization, and creating clean, maintainable codebases. With a passion for cutting-edge technology and a commitment to delivering value, I help businesses and entrepreneurs bring their ideas to life through exceptional mobile and tech-driven solutions.
+flutter,"Passionate and Reliable Senior Mobile Developer with over 7 years of experience specializing in cross-platform app development using Flutter and React Native, with additional expertise in blockchain, AI, and embedded systems such as IoT. I have a proven track record of delivering high-quality, scalable, and user-friendly mobile applications for both iOS and Android platforms, as well as building innovative solutions that integrate advanced technologies like smart contracts, machine learning resume_classifier, and IoT devices. My skill set includes end-to-end app development, API integration, performance optimization, and creating clean, maintainable codebases. With a passion for cutting-edge technology and a commitment to delivering value, I help businesses and entrepreneurs bring their ideas to life through exceptional mobile and tech-driven solutions.
 Led a team of 5 developers successfully in launching 13 projects. Enjoy working with team members and always challenge my self to improve at everything."
 flutter,"Technology stack:
 Flutter & Dart: Crafting engaging and intuitive mobile applications.
@@ -7014,7 +7014,7 @@ Professional experience:
 1. Led the development of a service scheduling app, managing both UI and backend aspects.
 2. Integrated Firebase and REST API to enhance app functionality and user experience.
 3. Integrated OpenAI (chatbot, voice chatbot, chat with specific needs and responses)
-4. Worked with 3D models
+4. Worked with 3D resume_classifier
 5. Integrated Marketing system to applications
 6. Connected Payments integration systems
 And much more!
@@ -7094,7 +7094,7 @@ Responsibilities:
 - Develop user interface (IBrand 2.0) using Flutter Dart
 - Implement new authorisation via Firebase + Custom back-end
 - Implement state management with BLOC
-- Rewrite models lists to slivers for better performance, create cubes-list feature
+- Rewrite resume_classifier lists to slivers for better performance, create cubes-list feature
 - Create Instagram synchronisation photos feature, swipes (tinder-like) feature,
 - Implement custom Analytics on client
 - Rewrite notifications, paginator, connect it via WebSocket
@@ -7239,7 +7239,7 @@ Developer Tools: Flutter Floating Logger (Real-time API Monitoring for Flutter D
 Current Focus & What I Want to Improve:
 I am currently working on improving Flutter app security, optimizing state management, and exploring AI/ML integration in mobile applications. I am also keen to contribute more to open-source projects and advance my expertise in scalable architecture & system design."
 flutter,"I've been working on two startups. In the first one, I was a frontend developer, working on UX/UI recreation from Figma to a mobile app using Flutter. Additionally, I took part in business logic planning. In the second one, which I am currently working on, I am creating a Telegram bot using Python and a mobile app using Flutter. I also take part in communication with clients. I want to continue developing my Flutter development skills and also improve my teamwork skills."
-flutter,"My name is Robsen Teshome. I am a Flutter Developer,  I have been working in mobile application development for two years using Flutter.
+flutter,"My Name is Robsen Teshome. I am a Flutter Developer,  I have been working in mobile application development for two years using Flutter.
 I have worked on various projects, including freelance work and personal side projects. If you are interested in collaborating, I am open to it.
 Successfully designed and developed innovative mobile applications, winning multiple hackathons for creativity, functionality, and impact. Demonstrated expertise in Flutter, Firebase, and AI-driven solutions to create user-centric applications that solve real-world problems."
 flutter,"Volunteer projects were completed: 1. a program for accounting of assistance provided to internally displaced persons, in which the client and server part of the project, intended for a small number of users, were developed.
@@ -7416,7 +7416,7 @@ AML LTD - CRM-система для повного контролю роботи
 Розробка RestApi на Node JS / JavaScript ."
 flutter,"Passionate software developer with over 6 years of combined
 experience in Flutter and Android development. Adapt at crafting scalable and user-friendly applications, with a track record of driving projects to completion and collaborating with cross-functional teams. Committed to delivering high-quality software solutions."
-flutter,"I have worked on all platforms using Flutter. Mostly developed applications from scratch but in some cases there was a teamwork. I have also worked on improving the performance and user experience of existing applications. I have developed a game project for children using Flutter. I have experience in working with Firebase Auth, Firebase Storage, Firebase Realtime Database, Firebase Firestore, Firebase Cloud Messaging, Dynamic Links, Crashlytics (Firebase, Sentry), Google maps, speech-to-text, apple/googlePay, video, audio, Provider, Bloc, Stacked and many more. Basic knowledge of Swift, Kotlin, Python, JS. For version control used GitHub/GitLab.
+flutter,"I have worked on all platforms using Flutter. Mostly developed applications from scratch but in some cases there was a teamwork. I have also worked on improving the performance and user experience of existing applications. I have developed a game project for children using Flutter. I have experience in working with Firebase Auth, Firebase Storage, Firebase Realtime Database, Firebase Firestore, Firebase Cloud Messaging, Dynamic Links, Crashlytics (Firebase, Sentry), Google maps, speech-to-Text, apple/googlePay, video, audio, Provider, Bloc, Stacked and many more. Basic knowledge of Swift, Kotlin, Python, JS. For version control used GitHub/GitLab.
 Motivated and always ready to learn something new and to face new challenges."
 flutter,"I have 2 years experience in flutter , 3 years experience in Application Development , I have experience in state management(Gitx & provider) , Architecture patterns(MVVM & MVC) , Software Engineering Skills such as OOP & Algorithms & Data structure & responsive design (flutter_screenutil) , Backend as a Service((BaaS)Firebase ,  Handling Apis(Dio & Http)) , Local database such as
 SQLite& Logical thinking & design patterns ,  Flutter utils(Localization"
@@ -7440,7 +7440,7 @@ flutter,"Projects Completed & Ongoing:
 TrashPal – A Flutter app for waste management and tracking.
 Gotruhub – Parent and staff apps for monitoring school activities, attendance, and approvals.
 Ruo – A mobile platform connecting users to skilled artisans.
-Pyci (AI-powered app) – Features include reading/summarizing text files, summarizing YouTube/local videos, extracting text from images, audio playback (even in the background), lock screen controls, voice customization, and file sharing.
+Pyci (AI-powered app) – Features include reading/summarizing Text files, summarizing YouTube/local videos, extracting Text from images, audio playback (even in the background), lock screen controls, voice customization, and file sharing.
 Technologies Used:
 Flutter/Dart (Primary mobile development stack)
 Codemagic (CI/CD)
@@ -7599,7 +7599,7 @@ The Breathing App (New York, US)
 Designed a multi-level media player (images, subtitles, animations) with synchronized audio playback.
 Optimized media caching to improve content delivery speed and playback experience.
 Integrated Adapty for subscription management and Amplitude for user analytics.
-Contributed backend code in Node.js for payment processing and email scheduling.
+Contributed backend code in Node.js for payment processing and Email scheduling.
 Vention Software Development (Tashkent, Uzbekistan)
 Applied Domain-Driven Design (DDD) for scalable application architecture.
 Integrated Firebase services and Google Crashlytics for enhanced stability and monitoring."
@@ -7712,7 +7712,7 @@ Frameworks & Tools: Flutter, Bloc, Dio, Retrofit, GetIt, Firebase
 Principles & Design: OOP, SOLID, design patterns (Observer, Strategy, Adapter), dependency injection.
 Goals
 In my current role, I focus on usability and backend integrations. Moving forward, I aim to deepen my knowledge of advanced design patterns and expand into AI and ML integrations."
-flutter,"Passionate and Reliable Senior Mobile Developer with over 7 years of experience specializing in cross-platform app development using Flutter and React Native, with additional expertise in blockchain, AI, and embedded systems such as IoT. I have a proven track record of delivering high-quality, scalable, and user-friendly mobile applications for both iOS and Android platforms, as well as building innovative solutions that integrate advanced technologies like smart contracts, machine learning models, and IoT devices. My skills set includes end-to-end app development, API integration, performance optimization, and creating clean, maintainable codebases. With a passion for cutting-edge technology and a commitment to delivering value, I help businesses and entrepreneurs bring their ideas to life through exceptional mobile and tech-driven solutions.
+flutter,"Passionate and Reliable Senior Mobile Developer with over 7 years of experience specializing in cross-platform app development using Flutter and React Native, with additional expertise in blockchain, AI, and embedded systems such as IoT. I have a proven track record of delivering high-quality, scalable, and user-friendly mobile applications for both iOS and Android platforms, as well as building innovative solutions that integrate advanced technologies like smart contracts, machine learning resume_classifier, and IoT devices. My skills set includes end-to-end app development, API integration, performance optimization, and creating clean, maintainable codebases. With a passion for cutting-edge technology and a commitment to delivering value, I help businesses and entrepreneurs bring their ideas to life through exceptional mobile and tech-driven solutions.
 Led a team of 5 developers successfully in launching 13 projects. Enjoy working with team members and always challenge myself to improve at everything.
 I want to find one Opportunity where my value can be highly qualified."
 flutter,"Projects & Responsibilities. (full-cycle Flutter Developer):
@@ -7723,7 +7723,7 @@ flutter,"Projects & Responsibilities. (full-cycle Flutter Developer):
 •	Description: Built an advanced shopping list and expense tracker with dynamic templates, detailed analytics, and real-time expense tracking. Implemented data visualization and streamlined user interactions.
 •	Technologies: Flutter, Dart, Riverpod, GetIt, Isar, GoRouter, Firebase Firestore, REST API, DIO, Easy Localization.
 3.	God’s Gift app (Start-up, 2023 - 2024)
-•	Description: Spearheaded the development of a marketplace app featuring user profiles, email/OTP authentication, discount and cashback systems, real-time order tracking, and an admin panel for product management.
+•	Description: Spearheaded the development of a marketplace app featuring user profiles, Email/OTP authentication, discount and cashback systems, real-time order tracking, and an admin panel for product management.
 •	Technologies: Flutter, Dart, Provider, GetIt, Firebase Firestore, DIO, REST API, Easy Localization, GoRouter, Hive
 4.	FanX Pet Projects (Boot Camp, 2022 - 2023)
 •	Description: Delivered 5+ mobile projects with advanced features like push notifications, chat functionality, device integration (camera, gallery, local storage), and real-time data sync via Firebase.
@@ -7916,7 +7916,7 @@ Would be great:
 - Code review from colleagues,
 - Medical support and insurance
 - Strong, good management of projects,
-- Regular skills and salary reviews,
+- Regular skills and Salary reviews,
 - Internal courses,
 - Sym and healthcare support,
 - Friendly atmosphere in a team,
@@ -7983,7 +7983,7 @@ Flutter, Dart, BloC, Figma, API, OOP, KIS,
 Stfalcon LLC, Khmelnitsky
 Flutter developer
 Jul 2022 - Sep 2024 (about 2 years)
-Project name:
+Project Name:
 App for blood donation
 Involvement duration:
 October 2022 - April 2023
@@ -7995,7 +7995,7 @@ Project description:
 An application to plan blood donations
 Tools and technologies:
 Dart, Flutter, BLoC, Dio, FIrestore, Firebase authentication, Cloud Function, Remote Config
-Project name:
+Project Name:
 Under NDA
 Involvement duration:
 October 2021 - June 2022
@@ -8007,7 +8007,7 @@ Project description:
 A desktop application to connect, monitor, and program Microluch timing advance variation
 Tools and technologies:
 Dart, Flutter, flutter_libserialport
-Project name:
+Project Name:
 Bus transfers company
 Involvement duration:
 May 2023 - September 2023
@@ -8019,13 +8019,13 @@ Project description:
 Application for choosing and buying bus tickets, view busses and stops on map, profile loyalty program
 Tools and technologies:
 Dart, Flutter, BLoC, Dio, Firebase crashlytics, Google maps, Realm DB, Service locator, Flutter Localizations,Get It, Flutter Secure Storage, Webview Flutter
-Project name:
+Project Name:
 Bus transfers company
 Involvement duration:
 February 2024 - September 2024
 Project role:
 Flutter developer (mainteiner)
-Project name:
+Project Name:
 Meeting app
 Involvement duration:
 February 2024 - September 2024
@@ -8037,7 +8037,7 @@ Project description:
 An app for meeting people who are interested in your activity
 Tools and technologies:
 Dart, Flutter, BLoC, Dio, Firebase crashlytics, Google maps, Service locator, Flutter Localizations,Get It
-Project name:
+Project Name:
 Cryptocurrency app
 Involvement duration:
 February 2024 - September 2024
@@ -8102,7 +8102,7 @@ An application for managing outsourcing company’s projects with the functional
 An application for buying cryptocurrency.
 Role: Implementation of complex screens, implementation implementation of notifications, chat features, improving application performance, writing unit and integration tests.
 Android: Clean Architecture, MVVM, Coroutines, RxJava, Native Concurrency, Dagger, Koin, Glide, Jetpack components, Compose, CameraX.
-An application for filming sports competitions with complex timeline for video editing, which allows insert various elements, add text, add audio.
+An application for filming sports competitions with complex timeline for video editing, which allows insert various elements, add Text, add audio.
 Role: Development the application from scratch, implementation of a complex timeline for video editing, implementation of video recording and editing, writing unit tests.
 Development of applications from scratch.
 Implementing a large-scale Canadian fintech/loyalty project with check recognition.
@@ -8178,7 +8178,7 @@ Source code development
 Business logic development
 Debugging, support, and maintenance activities
 Writing tests
-If the employer can arrange a deferment, then the salary may be lower"
+If the employer can arrange a deferment, then the Salary may be lower"
 flutter,"Developed and maintained SettlePay Wallet, a financial application bridging cryptocurrency and fiat currency transactions.
 Implemented features for depositing, withdrawing, and optimizing operations on major cryptocurrency exchange accounts.
 Integrated a variety of deposit methods, crypto-fiat exchange services, and global merchant top-ups into the wallet.
@@ -8504,7 +8504,7 @@ Toolkits:
 flutter_localizations, sqflite, path, provider, google_fonts, intl, flutter_launcher_icons, shared_preferences libraries
 Flutter Weather application
 Experience:
-Developed a dynamic weather app using Dart and Flutter to display real-time weather updates via RESTful APIs and the HTTP package. Implemented location-based services using GPS and Geolocator, with error handling for network issues. Managed sensitive configurations securely with .env files. Designed a custom app icon and developed a splash screen. Utilized Git for version control and branch management
+Developed a dynamic weather app using Dart and Flutter to display real-time weather updates via RESTful APIs and the HTTP package. Implemented Location-based services using GPS and Geolocator, with error handling for network issues. Managed sensitive configurations securely with .env files. Designed a custom app icon and developed a splash screen. Utilized Git for version control and branch management
 Toolkits:
 http, geolocator, geocoding, flutter_dotenv, flutter_launcher_icons, flutter_native_splash libraries
 Flutter Chat application
@@ -8702,7 +8702,7 @@ Shopfriend
 Special responsibily:
 - deep Linking
 - flavor
-- change email and confirmation email functionality
+- change Email and confirmation Email functionality
 - reset password functionality
 - infinite scroll
 - qr code rendering
@@ -8712,10 +8712,10 @@ Shopfriend Scanner
 Special responsibily:
 - implementation of scanner feature
 - infinite scroll
-- change email and confirmation email functionality
+- change Email and confirmation Email functionality
 - storing data in SQLite database…
 Review my CV for more information…"
-flutter,"As a highly motivated and versatile computer engineering student, I have extensive experience in software development, robotics, IoT, and machine learning, focusing on practical, real-world applications. Currently, as a Junior Engineer at a prominent defense company, I analyze extensive UAV flight logs using Python and data analysis libraries like NumPy and Pandas to identify inaccuracies, predict sensor-related issues, and ensure the integrity of flight data. Alongside this role, I contribute to Anatolia Aero Design, a university-affiliated team where I have developed UAV mission software, implemented YOLO-based image processing on NVIDIA Jetson AGX, and designed PID algorithms with Kalman filtering for trajectory control. Our team achieved first place in Teknofest's Fighting UAV category and third place in the Mixed Swarm Simulation competition.
+flutter,"As a highly motivated and versatile computer engineering student, I have extensive experience in software development, robotics, IoT, and machine learning, focusing on practical, real-world applications. Currently, as a Junior Engineer at a prominent defense company, I analyze extensive UAV flight logs using Python and data analysis libraries like NumPy and Pandas to identify inaccuracies, predict sensor-related issues, and ensure the integrity of flight data. Alongside this role, I contribute to Anatolia Aero Design, a university-affiliated team where I have developed UAV mission software, implemented YOLO-based image processing on NVIDIA Jetson AGX, and designed PID algorithms with Kalman filtering for trajectory control. Our team achieved first place in Teknofest's Fighting UAV Category and third place in the Mixed Swarm Simulation competition.
 Previously, I worked as a freelance WordPress developer, where I designed a responsive WooCommerce platform and developed a custom PHP plugin to display real-time weather data collected from an ESP32-based weather station integrated with MySQL databases. My entrepreneurial endeavors include founding FlyNavio, where I designed a variometer for paraglider pilots, utilizing ESP32 microcontrollers for flight logging and mobile connectivity, and developing an autonomous drone charging station that utilizes WiFi communication and terminal polarity detection.
 Additionally, my work in UAV systems includes creating vision-based target detection systems with OpenCV and integrating embedded controllers for payload deployment. With proficiency in Python, R, SQL, and embedded systems, I excel at bridging software and hardware to deliver innovative solutions tailored to complex challenges.
 Won Prestigious Awards at Teknofest:
@@ -8876,7 +8876,7 @@ AppLead, Dnipro | 02/2018 – 10/2018
 Android Developer
 Freelance, Remote | 10/2017 – 02/2018
 - Developed first Android apps with Firebase GCM and REST API integration
-Professional growth. White salary. Adequate management. Informal atmosphere. Difficult tasks."
+Professional growth. White Salary. Adequate management. Informal atmosphere. Difficult tasks."
 flutter,"I’m a Software Developer with a Bachelor’s degree in Electrical and Computer Engineering (Computer Engineering major) and 3 years of experience building high-quality full-stack solutions.Every project I build, whether personal or for a company, is based on solving real-life problems I encounter in my environment."
 flutter,"Urfonxonov.uz (completed project 2025)
 Math app and courses

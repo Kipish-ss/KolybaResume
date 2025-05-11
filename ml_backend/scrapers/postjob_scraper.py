@@ -84,7 +84,7 @@ class PostJobScraper(Scraper):
 
                 location_resumes.extend(page_resumes)
 
-                stats_div = soup.select_one("td[style='text-align:right;']")
+                stats_div = soup.select_one("td[style='Text-align:right;']")
                 if stats_div:
                     stats_text = stats_div.get_text(strip=True)
                     upper, total = stats_text.replace("Resumes", "").split("of")

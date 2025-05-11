@@ -277,7 +277,7 @@ Pet-projects:
 - Kitchen Chronicles: a web recipe book (JS, Rust, Rocket, Tauri, Diesel);
 - adequate and clear tasks
 - continuous communication
-- competitive salary
+- competitive Salary
 - career growth opportunity"
 rust,"
 I'm a Software Engineer with almost a year of experience in Laravel, MySQL, PostgreSQL, and DynamoDB. I've worked with microservices and have experience with Docker and OpenAPI. 
@@ -620,7 +620,7 @@ rust,"Designed and developed:
 - a simulator that represented processes in a considered micro-fulfillment center to test and validate initiatives, feature requests, and improvements using a statistical (data/model driven) approach.
 
 Utilized Rust for implementation of proprietary algorithms and data transformations.
-Highly experienced Software/Data Science Engineer with expertise in Rust, R, Python, and Matlab programming, machine learning, process engineering, data visualization, data analysis, and data engineering. Skilled in developing advanced mathematical and statistical models related to inventory and assortment optimization, modeling new operating processes associated with delivery and storage, and developing supporting software instruments for data analysis. Seeking a Rust Developer position to leverage my experience and passion for developing high-performance systems and applications. With an extensive experience in data processing technologies, I am eager to apply my skills to build scalable and efficient solutions. Rust's unique memory safety and performance features align well with my development philosophy and enable me to deliver high-quality code while meeting strict performance requirements. I am excited about the opportunity to work on challenging projects and collaborate with a team of like-minded professionals to create innovative solutions.
+Highly experienced Software/Data Science Engineer with expertise in Rust, R, Python, and Matlab programming, machine learning, process engineering, data visualization, data analysis, and data engineering. Skilled in developing advanced mathematical and statistical resume_classifier related to inventory and assortment optimization, modeling new operating processes associated with delivery and storage, and developing supporting software instruments for data analysis. Seeking a Rust Developer position to leverage my experience and passion for developing high-performance systems and applications. With an extensive experience in data processing technologies, I am eager to apply my skills to build scalable and efficient solutions. Rust's unique memory safety and performance features align well with my development philosophy and enable me to deliver high-quality code while meeting strict performance requirements. I am excited about the opportunity to work on challenging projects and collaborate with a team of like-minded professionals to create innovative solutions.
 "
 rust,"I always try to keep up with all modern technologies, learn something new and apply it to my daily work. 
 Once I had a task to create a service on one of the blockchains, which I had not dealt with before. The long story is short: in a month we deployed the first successful scope of this project
@@ -687,10 +687,10 @@ Other tools and services: RabbitMQ, Nomad, Consul, Prometheus, Grafana, Docker
 I'm not looking for a Ruby/PHP/Javascript/C++ job. I'm looking for a Rust Developer position in the first place, but it's ok if it's coupled to either of those backend technologies.
 Preferably, I would like to work close to Java/Scala/Go backend stack, so I can get more experience in these languages.
 I'd also appreciate if there was a possibility to communicate with foreign team/customers (business trips would be great too)."
-rust,"Built an AI-based traffic violation detection system from scratch. Developed all the deep learning models, wrote most of the codebase(C++). Rolled out the system in the six largest cities of Kazakhstan. It’s operating on thousands of servers and processing live video streams from thousands of cameras. According to government statistics, it reduced traffic-related accidents by 50% and deaths by 20%.
+rust,"Built an AI-based traffic violation detection system from scratch. Developed all the deep learning resume_classifier, wrote most of the codebase(C++). Rolled out the system in the six largest cities of Kazakhstan. It’s operating on thousands of servers and processing live video streams from thousands of cameras. According to government statistics, it reduced traffic-related accidents by 50% and deaths by 20%.
 I have broad experience. I worked as a Software Engineer for a couple of companies that are focused on consumer products. Built new features, shipped new services.
 
-Then, I dived into Machine Learning/Deep Learning. I worked as Computer Vision team lead for a company that develops an AI-based traffic violation detection system. During this time, I designed the system, trained deep learning models, developed computer vision algorithms, wrote efficient multithreaded software in C++ for embedded devices.
+Then, I dived into Machine Learning/Deep Learning. I worked as Computer Vision team lead for a company that develops an AI-based traffic violation detection system. During this time, I designed the system, trained deep learning resume_classifier, developed computer vision algorithms, wrote efficient multithreaded software in C++ for embedded devices.
 
 Right now, I am very interested in systems and low-level programming, lock-free data structures, and distributed systems. To learn about these topics in-depth, I am building a transactional distributed key-value database in Rust as a pet project.
 Ideally, I would love to join a remote-friendly startup. I want to work on anything related to distributed systems, systems programming, or any other low-level programming (databases, engines, ml optimization). I love Rust, but C++ works as well. For an exciting project, I would consider relocation."
@@ -846,7 +846,7 @@ Hi there!
 
 I have over 8 years of experience in web development, as well as experience in blockchain software development. Specifically, I have 3 years of experience with Ethereum, 2 year with Solana, 1+ years with Flow, and 8 months with Aptos/Sui.
 Currently, I'm focused on Near Protocol, and have been working with it for the past 1.5 years. Within the past year, I've completed several projects with Near Protocol, including NFT staking, a 1v1 multiplayer game called KaizoFighters, Masterchef Token Farming, Token Swap & Vesting for UniqueOneNetwork, and an NFT marketplace contract called Alpha.art.
-Currently, I'm working with Antisociallabs.io, where I'm involved in a NFT raffle project.  raffles.antisociallabs.io is the url of the Raffle Platform.
+Currently, I'm working with Antisociallabs.io, where I'm involved in a NFT raffle project.  raffles.antisociallabs.io is the Url of the Raffle Platform.
 alpha.art
 thenewresistance.io
 honey.finance
@@ -980,7 +980,7 @@ Designed and built a microlith backend architecture using Domain-Driven design p
 
 2018-2019 - Blockchain-based auction system
 Developed microservices on top of a fork of Stellar blockchain. The primary programming language was Go.
-Crypto salary (stablecoins / btc / monero) is highly preferred."
+Crypto Salary (stablecoins / btc / monero) is highly preferred."
 rust,"
 7 years of experience in software design and full-cycle engineering of web and desktop applications. Main technologies: 
 - Rust
@@ -1047,7 +1047,7 @@ Software engineer with 6 years in development, testing, and maintenance of softw
 
 Rust
 Projects:
-- Development of Domain name service using Rust on Elrond blockchain.
+- Development of Domain Name service using Rust on Elrond blockchain.
 - Smart Contracts for DeFi platform using Rust/Solana. Project successfully works on the market and takes it's place in the top 100 of CMC. 
 Responsibilities:
 - Creating smart contracts for decentralized applications.mplementing vault for tokens(LP/stablecoin).
@@ -1283,7 +1283,7 @@ I have 2 years of experience in Golang in the SaaS domain.
 2 years of Rust experience.
 "
 rust,"I like to train newcomers to have a smooth involvement to the team. Usually IT is more about personalities and communication than a software.
-I'm working as a Rust developer doing mostly back-end stuff with some CI / CD. My previous experience is in enterprise development (SQL is my middle name). I like to be a mentor and get better by sharing knowledge.
+I'm working as a Rust developer doing mostly back-end stuff with some CI / CD. My previous experience is in enterprise development (SQL is my middle Name). I like to be a mentor and get better by sharing knowledge.
 Not interested in embedded development, this area is terra incognita to me. I would like to work primarily with Rust on a full-time job."
 rust,"
 Over 7 years of work in product companies. Supported / worked on projects from Rails 2.3. 2.5 years experience with Golang.
@@ -1478,10 +1478,10 @@ Senior Software Engineer - Intranet system
 • Developed new intranet analytics, from identifying requirements to software implementation.
 
 Senior Software Engineer - Email delivery system in travel
-• Implemented enterprise-level microservice applications for company’s email rendering and delivery system that was responsible for sending over 5 million email letters per hour using C#, .NET, MSSQL, React, MongoDB, gRPC, Kafka.
+• Implemented enterprise-level microservice applications for company’s Email rendering and delivery system that was responsible for sending over 5 million Email letters per hour using C#, .NET, MSSQL, React, MongoDB, gRPC, Kafka.
 • Improved overall system throughput from 1 to 5 million emails per hour by reviewing existing controller-responder architecture for Redis and updating its persistence mode.
-• Automated and optimized business logic for the core email campaign features of the system.
-• Provided on-call support during email campaigns.
+• Automated and optimized business logic for the core Email campaign features of the system.
+• Provided on-call support during Email campaigns.
 • Pull requests, code reviews, unit testing.
 
 Software Engineer - Low-code application builder
@@ -1700,7 +1700,7 @@ Backend service written in python to monitor cryptocurrency activity on exchange
 
 Various exercises with Rust, Python, Docker, Linux system administration on Debian.
 "
-rust,"At the State University of Telecommunications, I invented, developed, and deployed a remote computer supervision solution for teachers using the Go programming language. A central server would receive updates from agents running as headless Windows service on computers in the classroom, and allow issuing remote commands like to make a screenshot, or shut down the computer, or show a text message to a student - and so on. 
+rust,"At the State University of Telecommunications, I invented, developed, and deployed a remote computer supervision solution for teachers using the Go programming language. A central server would receive updates from agents running as headless Windows service on computers in the classroom, and allow issuing remote commands like to make a screenshot, or shut down the computer, or show a Text message to a student - and so on.
 
 At Telecard-Prylad Ltd., as the sole young administrator in my department, I created a solid virtual infrastructure with PKI for remote work of 2 distinct departments during CoVID-19. As a developer, I wrote a distributed (w/o blockchain stuff) content-addressed file storage site in Go and did some low-level network programming for Software-Defined Radios with a very low bandwidth-delay product metric. Had major contributions to the project architecture design and development. 
 
@@ -1759,7 +1759,7 @@ Currently working in a cloud backup company I am primarily involved in extending
 I have worked for one year in game development as an Unreal Engine developer. The project is a VR solution that allows a quarterback to train by passing a real football in a mixed-reality environment. I was responsible for implementing new features using C++ and blueprints with Unreal Engine. I did profiling and optimization using Unreal Engine profilers and Intel Graphics Performance Analyzer. I have developed a loading screen using plugins and Slate UI. Also, I have helped with CI/CD configuration on Jenkins and have written PowerShell scripts for automatization.
 
 I have been actively working on my personal project for 1.5 years which is a machinery parts marketplace that connects suppliers and buyers automatically routing part requests.
-As I am a single backend developer in this project, I am responsible for a whole backend side starting from managing email corporate accounts to managing an infrastructure. A web server is implemented in Go using a popular Gin framework and other libraries to interact with PostgreSQL and Redis. All infrastructure is hosted on AWS using many different services, such as S3, CloudFront, IAM, App Runner, ECR, RDS, and EC2. I have also written a bunch of Terraform modules to safely and predictably provision and manage infrastructure. CI/CD is set up with GitHub Actions which initiates building and pushing Docker images to AWS ECR and eventually deploying an instance of a web server.
+As I am a single backend developer in this project, I am responsible for a whole backend side starting from managing Email corporate accounts to managing an infrastructure. A web server is implemented in Go using a popular Gin framework and other libraries to interact with PostgreSQL and Redis. All infrastructure is hosted on AWS using many different services, such as S3, CloudFront, IAM, App Runner, ECR, RDS, and EC2. I have also written a bunch of Terraform modules to safely and predictably provision and manage infrastructure. CI/CD is set up with GitHub Actions which initiates building and pushing Docker images to AWS ECR and eventually deploying an instance of a web server.
 Ready to work in any domaine"
 rust,"
 Hello, I am a Software Engineer with 10+ years of experience overall with a huge technical background.
