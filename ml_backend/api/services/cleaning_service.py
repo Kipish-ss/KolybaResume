@@ -3,6 +3,8 @@ from langdetect.lang_detect_exception import LangDetectException
 import translators as ts
 import re
 import logging
+import time
+import random
 
 logger = logging.getLogger(__name__)
 
@@ -42,20 +44,47 @@ def clean_text(text: str) -> str | None:
     return text
 
 
-def translate(text: str, max_len=4500) -> str:
+def translate(text: str, max_len=4500, max_retries=3) -> str:
     try:
         lang = detect(text)
     except LangDetectException:
         lang = ''
+
     if lang != 'en':
-        try:
-            if len(text) <= max_len:
-                text = ts.translate_text(text, translator='google')
-            else:
-                chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)]
-                translated_chunks = [ts.translate_text(chunk, translator='google') for chunk in chunks]
-                text = ''.join(translated_chunks)
-        except Exception as e:
-            logger.warning(f"Google translation failed: {e}, returning original text")
+        for attempt in range(max_retries):
+            try:
+                if len(text) <= max_len:
+                    text = ts.translate_text(text, translator='google')
+                else:
+                    chunks = [text[i:i + max_len] for i in range(0, len(text), max_len)]
+                    translated_chunks = []
+
+                    for chunk in chunks:
+                        for chunk_attempt in range(max_retries):
+                            try:
+                                translated_chunk = ts.translate_text(chunk, translator='google')
+                                translated_chunks.append(translated_chunk)
+                                break
+                            except Exception as chunk_exception:
+                                if chunk_attempt == max_retries - 1:
+                                    logger.warning(
+                                        f"Failed to translate chunk after {max_retries} attempts: {chunk_exception}")
+                                    translated_chunks.append(chunk)
+                                else:
+                                    wait_time = 2 ** chunk_attempt + random.random()
+                                    logger.info(
+                                        f"Chunk translation attempt {chunk_attempt + 1} failed, retrying in {wait_time:.1f}s")
+                                    time.sleep(wait_time)
+
+                    text = ''.join(translated_chunks)
+                break
+
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    logger.warning(f"Translation failed after {max_retries} attempts: {e}, returning best result")
+                else:
+                    wait_time = 2 ** attempt + random.random()
+                    logger.info(f"Translation attempt {attempt + 1} failed, retrying in {wait_time:.1f}s")
+                    time.sleep(wait_time)
 
     return text
