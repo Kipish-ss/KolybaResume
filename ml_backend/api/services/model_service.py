@@ -17,23 +17,26 @@ _keybert_model = None
 
 def load_models() -> None:
     global _embedding_model, _tokenizer, _classification_model, _label_encoder, _keybert_model
-
     logger.info("Loading all ML models...")
 
-    _embedding_model = SentenceTransformer('all-mpnet-base-v2')
+    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    logger.info(f"Using device: {device}")
+
+    _embedding_model = SentenceTransformer('all-mpnet-base-v2', device=device)
     logger.info("Sentence transformer model loaded")
 
     _tokenizer = AutoTokenizer.from_pretrained("ml_backend/fine_tuned_bert")
     _classification_model = AutoModelForSequenceClassification.from_pretrained("ml_backend/fine_tuned_bert")
     _classification_model.eval()
 
-    if torch.cuda.is_available():
-        _classification_model.to('cuda')
+    if device == 'cuda':
+        _classification_model.to(device)
         logger.info("Classification model moved to GPU")
 
     _label_encoder = joblib.load("ml_backend/label_encoder.joblib")
 
-    _keybert_model = KeyBERT(model='all-mpnet-base-v2')
+    _keybert_model = KeyBERT(model=_embedding_model)
+    logger.info("KeyBERT model initialized with existing SentenceTransformer")
 
     logger.info("All models loaded successfully")
 

@@ -27,7 +27,8 @@ app = FastAPI(
     title="Resume Matching API",
     description="API for matching resumes with job vacancies",
     version="1.0.0",
-    lifespan=lifespan
+    lifespan=lifespan,
+    debug=True
 )
 
 app.add_middleware(

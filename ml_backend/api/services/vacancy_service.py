@@ -6,63 +6,75 @@ from ml_backend.api.services.cleaning_service import clean_text, translate
 from ml_backend.api.services.model_service import get_embedding_model
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+from collections import defaultdict
 
 
-def store_vacancy_vectors(db: Session, vacancy_ids: list[int]) -> list[VacancyScoreResponse]:
+def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int = 32) -> list[VacancyScoreResponse]:
     if not vacancy_ids:
         return []
 
     model = get_embedding_model()
-    results = []
-
     stmt = select(Vacancy).where(Vacancy.Id.in_(vacancy_ids))
     vacancies = db.execute(stmt).scalars().all()
-    vacancy_vectors = {}
 
+    vacancy_texts = []
     for vacancy in vacancies:
-        vacancy_text = f"{vacancy.Title} {vacancy.Text}"
-        vacancy_text = translate(vacancy_text)
-        vacancy_text = clean_text(vacancy_text)
-        vacancy.CleanedText = vacancy_text
-        vacancy_vector = model.encode(vacancy_text)
+        text = translate(f"{vacancy.Title} {vacancy.Text}")
+        cleaned = clean_text(text)
+        vacancy.CleanedText = cleaned
+        vacancy_texts.append(cleaned)
 
-        vacancy_vectors[vacancy.Id] = vacancy_vector
-        vacancy.Vector = vacancy_vector.tobytes()
+    vacancy_vectors = {}
+    for i in range(0, len(vacancies), batch_size):
+        batch_texts = vacancy_texts[i:i + batch_size]
+        batch_vacancies = vacancies[i:i + batch_size]
+
+        encoded_batch = model.encode(batch_texts)
+
+        for j, vacancy in enumerate(batch_vacancies):
+            vector = encoded_batch[j]
+            vacancy.Vector = vector.tobytes()
+            vacancy_vectors[vacancy.Id] = vector
 
     db.commit()
 
-    categories = {vacancy.Category for vacancy in vacancies if vacancy.Category is not None}
+    categories = {v.Category for v in vacancies if v.Category is not None}
+    if not categories:
+        return []
+
     stmt = select(Resume).where(
         Resume.Category.in_(categories),
         Resume.Vector.is_not(None)
     )
     matching_resumes = db.execute(stmt).scalars().all()
 
-    resumes_by_category = {}
-    for resume in matching_resumes:
-        if resume.Category not in resumes_by_category:
-            resumes_by_category[resume.Category] = []
-        resumes_by_category[resume.Category].append(resume)
+    if not matching_resumes:
+        return []
 
+    resumes_by_category = defaultdict(list)
+    resume_vectors = {}
+
+    for resume in matching_resumes:
+        resumes_by_category[resume.Category].append(resume)
+        resume_vectors[resume.Id] = np.frombuffer(resume.Vector, dtype=np.float32)
+
+    results = []
     for vacancy in vacancies:
-        if vacancy.Category is None or vacancy.Category not in resumes_by_category:
+        vacancy_category = vacancy.Category
+        if vacancy_category not in resumes_by_category:
             continue
 
         vacancy_vector = vacancy_vectors[vacancy.Id]
-        category_resumes = resumes_by_category[vacancy.Category]
-
-        for resume in category_resumes:
-            resume_vector = np.frombuffer(resume.Vector, dtype=np.float32)
+        for resume in resumes_by_category[vacancy_category]:
+            resume_vector = resume_vectors[resume.Id]
             similarity = model.similarity(vacancy_vector, resume_vector)[0][0]
             score = int(similarity * 100)
 
-            results.append(
-                VacancyScoreResponse(
-                    user_id=resume.UserId,
-                    vacancy_id=vacancy.Id,
-                    score=score
-                )
-            )
+            results.append(VacancyScoreResponse(
+                user_id=resume.UserId,
+                vacancy_id=vacancy.Id,
+                score=score
+            ))
 
     return results
 
