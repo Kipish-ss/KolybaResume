@@ -52,12 +52,12 @@ CI/CD: Configured CI/CD pipelines, optimizing product delivery.
 Transition to Microservices: Rewrote a monolithic system into asynchronous microservices to enhance scalability.
 High-Load Backend: Successfully implemented a backend handling up to 700 requests per second.
 Automated Monitoring: Created an automated monitoring system for ad click tracking with external service integration.
-I will can work with large volumes of data, analyze them, and uncover valuable insights. I'm particularly drawn to working with time series data, as I see immense potential in applying it to forecasting and optimization. With my experience in crypto trading, I would love to join a company or startup actively involved in this space. Receiving my salary in cryptocurrency would be a welcome bonus, allowing me to immerse myself even deeper in this dynamic ecosystem and contribute meaningfully to its growth."
+I will can work with large volumes of data, analyze them, and uncover valuable insights. I'm particularly drawn to working with time series data, as I see immense potential in applying it to forecasting and optimization. With my experience in crypto trading, I would love to join a company or startup actively involved in this space. Receiving my Salary in cryptocurrency would be a welcome bonus, allowing me to immerse myself even deeper in this dynamic ecosystem and contribute meaningfully to its growth."
 rust,"Experienced Rust and Golang Backend Developer | Scalable & High-Performance Solutions
 As a backend developer specializing in distributed systems, I bring expertise in designing scalable, high-performance architectures for IT product companies and outsourcing firms. With a passion for optimizing systems and leveraging cutting-edge technologies, I deliver robust solutions tailored to meet complex challenges.
 Core Skills & Expertise:
 Backend Development: Proficient in Rust and Golang for building scalable, distributed systems and high-performance applications.
-Data Engineering: Implemented Elasticsearch from scratch, optimizing full-text search, filters, and aggregations for superior performance. Developed reputable, robust pipelines ensuring fault tolerance and data consistency.
+Data Engineering: Implemented Elasticsearch from scratch, optimizing full-Text search, filters, and aggregations for superior performance. Developed reputable, robust pipelines ensuring fault tolerance and data consistency.
 Database Optimization: Deep expertise in PostgreSQL, MongoDB, Redis, and ScyllaDB, delivering fast, reliable data solutions.
 Cloud & Containerization: Advanced skills in Docker, Kubernetes, and cloud-native architectures, streamlining workflows and deployments.
 Observability: Practical experience with the ELK stack for log aggregation, monitoring, and diagnostics.
@@ -210,7 +210,7 @@ However, I continue to actively learn and acquire new knowledge and skills, appl
 So far, my biggest achievement is the development of my own project: Embroiderly, a free, open-source, cross-platform desktop application for designing cross-stitch patterns that already has a large community of active users.
 In general, the field of embroidery software is not very evolved and is mostly obsolete (both technically and practically). There are also not enough open resources in this area that could help develop new solutions.
 So I am focusing a lot on developing open specifications for cross-stitch pattern file formats and parsers so that anyone can also use my work and develop better solutions."
-rust,"I'm a Software Engineer with over five years of experience. Since 2019, I have been working on a cloud-based service for remote monitoring and control of MODBUS protocol-based industrial equipment. The platform establishes connections with customer devices, reads and collects their data, provides dashboards and graphs for visualization, generates downloadable PDF reports, processes alerts configured by customers, sends SMS/email notifications, and offers many other features.
+rust,"I'm a Software Engineer with over five years of experience. Since 2019, I have been working on a cloud-based service for remote monitoring and control of MODBUS protocol-based industrial equipment. The platform establishes connections with customer devices, reads and collects their data, provides dashboards and graphs for visualization, generates downloadable PDF reports, processes alerts configured by customers, sends SMS/Email notifications, and offers many other features.
 My work involves backend development with Rust and TypeScript, frontend development with React, and infrastructure management using Docker and GitHub Actions.
 Key achievements on my current position:
 - Implemented a new billing system: Each organization now has a balance from which funds are withdrawn daily based on service usage. Balance top-up is available via PayPal and Sense Bank acquiring.
@@ -296,12 +296,12 @@ Here i've got some experience with Clickhouse(though not the best one), Kubernet
 rust,"I’m a backend engineer with over 5 years of hands-on experience, specializing in backend, blockchain, and AI tech. My skill set spans a wide range of tools and frameworks, enabling me to tackle complex and non-trivial business logic challenges. While my core focus is backend development, I’m also proficient in DevOps and have enough frontend chops to integrate APIs when needed. In short, I specialize in building end-to-end server-side solutions—from architecture design to deployment.
 # Experience on projects with the main stack on Rust:
 ### Dinomail
-- Overview: A marketing platform for email campaigns, leveraging analytics and AI to boost personalization and campaign efficiency.
-- Role: Lead Backend Developer. Built APIs, data pipelines, analytics, external integrations, and AI models for content analysis and generation.
+- Overview: A marketing platform for Email campaigns, leveraging analytics and AI to boost personalization and campaign efficiency.
+- Role: Lead Backend Developer. Built APIs, data pipelines, analytics, external integrations, and AI resume_classifier for content analysis and generation.
 - Tech Stack: Rust, ScyllaDB, Redis, Kafka Queue, AWS S3, KrakenD (API Gateway), Travis CI, Docker, ChatGPT API.
 ### Magic-Mail
 - Overview: A user-friendly service for generating and sending emails using AI.
-- Role: Lead Backend Developer. Built infrastructure for AI model integration, email generation, and processing logic.
+- Role: Lead Backend Developer. Built infrastructure for AI model integration, Email generation, and processing logic.
 - **Tech Stack**: Rust, Actix-Web, ScyllaDB, Azure Blob Storage, Docker, Google API, OpenAI API, Ideogram API.
 ### ICC-Validator
 - Overview: A startup focused on protecting blockchain vulnerabilities against quantum computers. The primary goal is to create a second layer of protection over the blockchain using stronger encryption keys.
@@ -514,7 +514,7 @@ Maintainer of textplots crate (24/08/2023-now): I was involved in the maintenanc
 - won a first place at national startup tournament (Ecosoft)
 - worked both alone and in the team of professionals
 - have solid soft skills and high standards to my code
-- competitive salary
+- competitive Salary
 - career growth opportunity
 - understanding and friendly atmosphere"
 rust,"In my current role as a Blockchain Integrator at Continuum DAO, I design Solana and Soroban (Stellar) smart contracts and integrate cross-chain protocols, enhancing blockchain interoperability using Rust, Solidity, and TypeScript. I’ve also contributed to the Helius Solana Rust SDK, building tools for the Solana ecosystem. Previously, I developed a WhatsApp bot with Node.js at Withmoja.io
@@ -523,7 +523,7 @@ rust,"The most impactful projects:
 - previously PHD student in Estonia
 - 3D space, finance, construction web and mobile applications
 - lot of experience in purescript, haskell, nix
-- self-taught category theory, deep learning"
+- self-taught Category theory, deep learning"
 rust,"CHM Software Ltd:
 Software Developer:
 Full-time June 2023 - May 2024 · 1 year.

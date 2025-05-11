@@ -492,7 +492,7 @@ development of textual parts of project documentation,
 selection of equipment); programming of controllers at the entry level.
 2. Pet projects.
 2.1. The game 2048, where the player must choose the direction in which they will move the blocks with numbers to stack them. The point of the game is to get a block with the number 2048, and after winning, the player can continue the game if desired.
-2.2. Implemented our own class vector.
+2.2. Implemented our own class Vector.
 2.3. Implemented our own class unique_ptr.
 2.4. Implemented our own class shared_ptr and weak_ptr.
 2.5. A file system application that displays the contents of the specified path"
@@ -625,7 +625,7 @@ Courses:
 I am seeking a role where I can leverage my strong C++ development skills, particularly in areas like algorithms, data structures, and multithreading, within a collaborative and innovative team. My ideal environment is one that fosters continuous learning, offers challenging projects, and encourages professional growth.
 I am particularly interested in positions that allow me to contribute to impactful projects, whether they involve complex system development, game simulations, or military-grade technologies. I value opportunities to work on cutting-edge technologies and am open to roles that require problem-solving in high-stakes or dynamic environments."
 c++,"I have 2+ years of commercial experience in C++ development using C++11/14/17/20 standards. Along my career I worked in a different industries including CAD, CAM and 3D scanning software.
-My main responsibilities were to maintain existing code, implement new features like parsing and rendering new file formats, support text rendering utilizing different techniques (SDF, bitmap), CMake and CI/CD pipeline improvements, writing GLSL shaders and their debugging with RenderDoc, work with point clouds, port existing C++ API on python side using pybind11 library, improve performance of existing code, bug fixing, help customers with code-related questions and other things you can find in my CV.
+My main responsibilities were to maintain existing code, implement new features like parsing and rendering new file formats, support Text rendering utilizing different techniques (SDF, bitmap), CMake and CI/CD pipeline improvements, writing GLSL shaders and their debugging with RenderDoc, work with point clouds, port existing C++ API on python side using pybind11 library, improve performance of existing code, bug fixing, help customers with code-related questions and other things you can find in my CV.
 Also I have experience with python as well as working in an international team."
 c++,"C++/D Developer with 4+ years of experience building high-performance systems for decentralized apps and fintech. Well-versed in the full development cycle—from design to release. Developed a WebAssembly parser and compiler, reducing data analysis time from 12.7s to 9.1s. Optimized multithreaded services in a Dart-based database, increasing throughput from 1400 to 1750 requests per second. Automated network
 deployment and debugging scripts, cutting setup time by 27.4% and reducing configuration errors by 13.8%.
@@ -987,7 +987,7 @@ My technical skills are:
 I have a lot of experience working as a front-end(full-stack) developer, but I often wanted to get new experience with C/C++.
 Today I'm looking for interesting projects which can improve my professional and technical skills.
 The main achievement our team developed for Panasonic is functionality that works via the SDN protocol.
-The main requirements for employer are a good atmosphere, friendly collective, modern stack and competitive salary."
+The main requirements for employer are a good atmosphere, friendly collective, modern stack and competitive Salary."
 c++,"Hotel Booking Platforms
 Project: Websites for searching, comparing, and booking accommodations with real-time availability and pricing.
 Duration: 12 months
@@ -1045,7 +1045,7 @@ Game Development: Unreal Engine 4
 Software and Tools: Visual Studio, Rider, Perforce, Git, JIRA
 3D Graphics and Animation: Basic understanding
 Last released project - ARVI VR: Arena
-Arena is a dynamic and immersive multiplayer VR shooter with sci-fi elements. People gather in teams and compete against each other in the arena. The main focus is on cooperation with team members, picking up items, as well as remembering their location and timing of their appearance, and tactical thinking."
+Arena is a dynamic and immersive multiplayer VR shooter with sci-fi elements. People gather in teams and compete against each other in the arena. The main focus is on cooperation with team members, picking up items, as well as remembering their Location and timing of their appearance, and tactical thinking."
 c++,"2 year at Apriorit.
 MacOS Kernel level development - generic kernel extension (virtual file system). Pure C.
 Porting Linux Kernel to Mac Kernel.
@@ -1107,7 +1107,7 @@ Responsibilities:
 - Integrated Steam API to fetch games list, check compatibility with system specs
 One of my most notable achievements has been the automation of routine processes, which significantly improved my team’s efficiency. In particular, I developed Python scripts that reduced the time required for software localization from a full day to just about 30 minutes. I also managed to significantly enhance the performance of several features. For example, the effectiveness of the RAM Boost feature in the Game Buff application improved approximately fivefold. Additionally, I optimized the scanning speed in the PC Cleaner utility, achieving performance increases ranging from 2x to 10x depending on the scenario. I created a Proof of Concept (PoC) for a driver scanner and updater and conducted reverse engineering of competitor products, which helped identify areas for improvement in our own solutions.
 These contributions had a tangible impact on the success of the products and the development of the team. I directly contributed to the successful release and monetization of 2 products that have generated millions of dollars in revenue for the company. Additionally, I mentored new engineers, helping them onboard quickly and start contributing to the project productively
-In my next role, I aim to join a team of proactive, honest, and professional individuals and contribute to modern projects that utilize up-to-date technologies. A flexible work schedule and a transparent system for regular salary reviews are very important to me.
+In my next role, I aim to join a team of proactive, honest, and professional individuals and contribute to modern projects that utilize up-to-date technologies. A flexible work schedule and a transparent system for regular Salary reviews are very important to me.
 At the same time, I would like to avoid working with outdated legacy code or in a toxic team environment. Repetitive, monotonous tasks are not a good fit for me. I also strongly oppose excessive control practices, such as activity trackers that take screenshots or monitor mouse movements, as I believe trust and autonomy are key components of productive work."
 c++,"Multiple game projects in UE4/5, including 'Postal 4', 'Phantom Abyss', 'Cartel Tycoon'. Developing/fixing/maintaining of various gameplay features. Profiling/optimizing game thread. Experience with PS5/XSX platform API's"
 c++,"• Contributed to the development of a media player enhancing user experience with customizable playback settings. Involved in using FFmpeg for video processing, implementing HLS and DASH for adaptive streaming, and utilizing VTT for accessible subtitles.
@@ -1127,7 +1127,7 @@ Sometimes doing DevOps tasks: (a) setting up servers; (b) deploying our products
 I have some teaching skills. In Jun 2013 - Dec 2014 I worked as a teacher teaching ""PC User"", ""Windows 7 administration"", ""Hardware administration"", and ""HTML & CSS layout designer"" courses.
 I have worked with Laravel 5.6 and 7-10 versions, Laravel Nova and GraphQL. I have basic knownledge of Symfony and JS/TS (Vue.js).
 I introduced CI/CD pipelines in my team. I was able to improve development processes and increase delivery speed of new features.
-I'd like to join a C++ team where I can improve my developer skills. I'm searching for new experience and emotions working on interesting projects with decent salary. My passion is digging deeper into technologies."
+I'd like to join a C++ team where I can improve my developer skills. I'm searching for new experience and emotions working on interesting projects with decent Salary. My passion is digging deeper into technologies."
 c++,"Development of programs for computer simulation of physical processes (FTILT)
 Design and Integration of Computer Systems (MCS)
 Education of schoolchildren and students. Course ""Algorithms and data structures""
@@ -1142,7 +1142,7 @@ Website for ordering food delivery (JS/HTML/CSS/PHP, GitHub, teamwork)
 Power grid resistance calculator (JS/HTML/CSS, GitHub, teamwork)
 Creating an information bot for a handyman company (Python)
 Development of an algorithm for generating crosswords of various types
-Bachelor graduate work ""Mathematical models of stock index optimization"" (Python, Matlab)
+Bachelor graduate work ""Mathematical resume_classifier of stock index optimization"" (Python, Matlab)
 ----------------------------------------------
 [UA]
 Розробка просунутого калькулятора з можливістю брати  похідні вищого порядку для функцій двох взмінних (C++, QT, GitHub, робота в команді)
@@ -1170,7 +1170,7 @@ c++,"Маю досвід роботи з мікроконтролерами Ardu
 c++,"C++ Software Engineer with 5+ years of experience in maintaining and extending complex desktop applications. Adept at both legacy code support and developing new features. Strong background in QA automation and a passion for building reliable, maintainable systems."
 c++,"Leveraging more than 10 years of Software Development experience, robotized and automatized business processes for 6 years (Python, VBA), developed mobile positioning systems for Cloud Native environment for the last 4 years (C++, Docker, Kubernetes, Cloud)."
 c++,"My knowledge includes С++ (also know a bit C#, Python, Kotlin, Dart and Web Development), Win API, Unreal Engine 5, Unity, and Git. Hobbies that help me in my projects: 3D modeling and graphic design. I want to improve my knowledge in game development and especially C++.
-I participated in a hackathon that was held in my city, and took second place. Also have network programming skills on UE5, on the diploma make a cooperative game for 2 people, where and apply knowledge, all in the game except for the engine make myself, models, textures, materials, game mechanics and network logic(use C++ and Blueprints as well)."
+I participated in a hackathon that was held in my city, and took second place. Also have network programming skills on UE5, on the diploma make a cooperative game for 2 people, where and apply knowledge, all in the game except for the engine make myself, resume_classifier, textures, materials, game mechanics and network logic(use C++ and Blueprints as well)."
 c++,"Працюю на посаді провідний інженер-програміст(3+ роки). Досвід роботи 9 років в C/C++,  розробка програмного забезпечення мікроконтролерів(Atmega/STM32: DIn, DOt, SD-card, I2C, SPI, DAC, ADC, UART, CAN, USB) на C. API під Windows(Qt C++), забезпечення зв'язку між ПК та мікроконтролером. Тестування та рефакторінг написаного коду.  Читання електронних схем та налагоджування плат. Розробка документації к програмному забезпеченню та розробка технічного завдання. Пуско-налагоджувальні роботи на об'єкті.
 Розібрався в legacy коді на мові програмування, якій знав тільки базу(Delphi) та зробив його життєздатним."
 c++,"Software Engineer with experience in Military, Multimedia, Geometry, and Geodesy domains. I have dived into new complex domains and worked with various platforms and tools.
@@ -1762,7 +1762,7 @@ I worked on different operating systems: Windows, MasOS, Android, Linux.
 But currently I prefer to work on Linux (working last 6 years on it).
 My favorite development IDE is NeoVim.
 Закриття поточного проекту змушує мене вийти із зони комфорту і бути відкритим до нових викликів. Буду радий поспілкуватися з усіма, хто має гарний настрій і цікаві пропозиції. :)"
-c++,"MySQL, Linux, C ++. System administration, C and C ++ programming, creating projects using SourceNavigator and Eclipse, working with databases in PostgreSQL and MySQL, working with text documents, spreadsheets, presentations, HTML documents and graphic documents (drawings) using StarOffice, OpenOffice and LibreOffice, Tcl / Tk programming for creating GUI applications, for PostgreSQL, working with graphical applications for PostgreSQL and C ++ using FOX libraries (free graphic objects) and OpenGL, applied mechanics and mathematics, the finite element method.
+c++,"MySQL, Linux, C ++. System administration, C and C ++ programming, creating projects using SourceNavigator and Eclipse, working with databases in PostgreSQL and MySQL, working with Text documents, spreadsheets, presentations, HTML documents and graphic documents (drawings) using StarOffice, OpenOffice and LibreOffice, Tcl / Tk programming for creating GUI applications, for PostgreSQL, working with graphical applications for PostgreSQL and C ++ using FOX libraries (free graphic objects) and OpenGL, applied mechanics and mathematics, the finite element method.
 Tcl / Tk programming, including pgtksh. Creating pgtksh applications for working with databases on PostgreSQL, including sending and archiving documents (binary files) in the database and extracting (restoring) them.
 Creating an electronic database by programming in PHP4 and PostgreSQL. The database allows you to store information about our employees, companies with whom we have contacts or who previously had contacts, put binary files into the database and restore them.
 Participation in engineering projects (for automakers) developed by our partners on the basis of C ++, programming using the FOX libraries (free graphic objects) and OpenGL, applied mechanics and mathematics, finite element method, refinement and improvement of projects and program codes. These projects included:
@@ -1850,7 +1850,7 @@ Friendly + Productive team"
 c++,"I built my own Task Manager Desktop App using C++ and Qt. For this project i have:
 - Developed own widgets for creating and deleting tasks,
 visualizing and keeping data.
-- Implemented the ability to set a task's due date, name,
+- Implemented the ability to set a task's due date, Name,
 description, using QCalendar and QLabels.
 - Created adaptive UI using layouts and dividing widgets
 into separate blocks.
@@ -1909,7 +1909,7 @@ c++,"C++ Developer/Senior Engineer (C++, Qt 6.8.0, QML, Debian/Ubuntu,  Raspberr
 Cross-Compiling: arm, Linux, Qt ). Startup. Remote work , Dec 2024 - ...
 C++ Developer (C++, Qt 5.15.2/VStudio, Windows/Linux, OpenCV, Raspberry Pi, GitHub ). Freelancer, Sep 2023 -  Nov 2024
 C++ Developer, Qt 5.15.2, PhD(candidate of technical sciences, senior researcher). PDF Pro Software Inc. Vancouver, British Columbia, Canada. Remote work. May 2022 - Aug 2023.
-Senior engineer (software engineer, C++ developer) Company name RadICS LLC Verification department Start and end dates Oct. 2019 - May 2022.
+Senior engineer (software engineer, C++ developer) Company Name RadICS LLC Verification department Start and end dates Oct. 2019 - May 2022.
 Projects:
 1) Software and hardware platform for creating small and medium-sized industrial information and control systems (IMS): Compiler for generating the firmware of the IMS logic module (2 and 16 encodings) - С++15(17) VisualStudio; MySQL database for the system; Communication: logical module ICS - DB protocols IP, UDP. C++15(17) VisualStudio; Simulator of the operation of the logic module of the ICS (with the generation of signals to the inputs). C++, Framework Qt5.14.2, multithreading, thread synchronization.
 2) A tool for tracking the requirements of project documents (V-model). C++, Framework Qt5.14.2.
@@ -2012,7 +2012,7 @@ I used C++ extensively for that project, with many additional supplementary staf
 Worked at a startup for warehouse automation which widely used in Ukraine.
 I'm in search of a mil-tech project that looks for qualified engineers.
 I'm not planning to quit my current company, but I want to be a volunteer and help my country fight against russian occupants.
-That is why I don't expect salary, just a robust company which might need my skills."
+That is why I don't expect Salary, just a robust company which might need my skills."
 c++,I have experience in developing Windows applications and cross-platform development with Qt.
 c++,"C++ Development: I began coding in C++ in 2022 and built a strong foundation by solving algorithmic challenges on LeetCode (14 Easy, 18 Medium, 3 Hard). My experience includes working with OOP, STL, and multithreading in projects, improving my problem-solving skill, and gaining hands-on experience in C++ development.
 Cybersecurity & Reverse Engineering: I learned Cybersecurity for over a year. During this time, I wrote some Linux scripts primarily for pentesting, solved various CrackMe challenges, and learned reverse engineering using tools like x64dbg. I also experimented with Arduino and Raspberry Pi, expanding my systems and low-level programming skills.
@@ -2051,7 +2051,7 @@ Junior C++/Render Developer (November 2022 - March 2024)
 - Rewrote hlsl2 shaders to hlsl5 and wrote shaders from scratch
 C++/Render Developer Internship (May 2022 - November 2022)
 - Developed custom render engine using DirectX11 API with  forward and deferred rendering pipelines implementations
-- Integrated assimp library to load models"
+- Integrated assimp library to load resume_classifier"
 c++,"My main tasks include:
 * Participating in Software Development Lifecycle (Designing, Implementing, Testing, Deploying)
 * Code review
@@ -2121,7 +2121,7 @@ I program in these languages as well: Java, Ruby, JavaScript, and Python.
 Client-Server Applications: Developed a multithreaded chat application for real-time information exchange in C++ using the TCP/IP protocol.
 Unix/Linux Development: Implemented a custom version of the ls command in C, handling file system operations and permissions.
 JSON Processing: Designed and implemented a C++ library for working with JSON, including parsing, serialization, and structured data manipulation.
-Standard Library Implementations: Built core STL-like containers and utilities from scratch, including vector, deque, list, unique_ptr, shared_ptr, tuple, and others.
+Standard Library Implementations: Built core STL-like containers and utilities from scratch, including Vector, deque, list, unique_ptr, shared_ptr, tuple, and others.
 Boost Library Analysis: Studied the internals of Boost PFR and attempted to implement my own version of its functionality.
 Audio Player: Developed a fully functional audio player in Java, integrating UI, database management, and music playback capabilities. (JavaFX, Java Spring, Maven, and other libraries)
 Graphical Applications: Created applications using Qt and SFML frameworks, focusing on UI design and real-time rendering.
@@ -2129,7 +2129,7 @@ Mathematical Tools: Built advanced mathematical calculators in C++ and Python, i
 At the current stage, I work independently on projects, but I have experience collaborating with other developers during code reviews.
 I am looking to gain more experience in teamwork to improve my communication skills and participation in collaborative development."
 c++,"У межах навчального курсу взяв участь у командній розробці міні консольного застосунку на C++. Реалізовано базову логіку, роботу з введенням/виведенням, просту файлову систему та структуру меню. Під час роботи здобув практичний досвід використання основних концепцій C++, таких як класи, функції, умовні оператори, цикли та обробка помилок.
-Також працював із бібліотекою STL (використання vector, map, set, string тощо), що дало змогу краще зрозуміти роботу з контейнерами та алгоритмами.
+Також працював із бібліотекою STL (використання Vector, map, set, string тощо), що дало змогу краще зрозуміти роботу з контейнерами та алгоритмами.
 Маю впевнене розуміння базових принципів C++: робота з пам’яттю, ООП (інкапсуляція, наслідування, поліморфізм), вказівники, посилання, робота з файлами, а також базові навички налагодження коду."
 c++,"Previously worked as a logistics dispatcher for 6 months. My duties included searching for cargo for drivers, signing various documents, accompanying the driver and resolving various issues with other logistics companies.
 In the present, I have developed a range of projects, including an application for controlling finances.
@@ -2172,7 +2172,7 @@ Incora (Jan 2022 - Jun 2023)
 Position: Python backend developer
 Main tools and technologies used: Python, Django REST, PostgreSQL, Docker, SQLAlchemy
 Personal projects:
-1) 3D models editor with collaboration features (OpenGL, SFML, C++, CMake, Conan 2)
+1) 3D resume_classifier editor with collaboration features (OpenGL, SFML, C++, CMake, Conan 2)
 2) Space shooter game (SFML, C++)
 4 years of experience in Olympic programming using C++"
 c++,"ABILITY TO TRAVEL ABROAD.
@@ -2206,10 +2206,10 @@ Start making my own game with Unreal Engine 5
 • Created and tested gameplay systems, refining level design for smooth user experience, focusing on scalability and optimization.
 • Collaborated with online communities to exchange ideas and solutions in game development.
 Basic 3D Modeling
-• Designed basic 3D models to integrate into personal game projects, optimizing assets for performance.
+• Designed basic 3D resume_classifier to integrate into personal game projects, optimizing assets for performance.
 • Used modeling software to build environments and game assets to match level design requirements."
 c++,"Projects I have worked on:
-1) 3DEditor is a simple 3d editor that allows you to load triangulated 3d models and manipulate them. It was implemented using the Qt framework and OpenGL.
+1) 3DEditor is a simple 3d editor that allows you to load triangulated 3d resume_classifier and manipulate them. It was implemented using the Qt framework and OpenGL.
 2) CinemaApi - WebApi is implemented using .EntityFramework and .Net
 I want to get  experience working in a company on a real project and develop my skills"
 c++,"I've skill sets to work with operation systems such as windows, linux, android.
@@ -2350,12 +2350,12 @@ c++,"- Participated in the development cycle of three games, deploying client-si
 - Led a team of 2 in the project's ongoing maintenance."
 c++,"I am studying computer science at Lviv National University and finishing C++ course. I have English C1. I have experience with OOP, STL, lambda functions, algorithms, multithreading, smart pointers, git and CMake. I have enormous desire to study and upgrade myself.
 I had many home tasks from C++ course, so I have some code to show.
-I want to work remote and to have salary of 400$ a month."
+I want to work remote and to have Salary of 400$ a month."
 c++,"I have extensive experience. Latest years I worked mostly on Embedded system using Qt. Actually a few last years working with drones.
 Before that I worked on various projects (desktop and mobile) on different OS.
 I’m looking for a long-term relationships and company where my extensive experience will be helpful.
 I have extensive experience
-Good salary"
+Good Salary"
 c++,"I have been working in Automotive industry during last 6 years in Luxoft.
 Currently my role as C++ developer includes HMI development, bug analysis and bug fix for Infotainment system.
 Technologies & tools used are: C++, Common API, CMake, Git, SVN, STL, Conan, DLTViewer, VirtualBox.
@@ -2814,7 +2814,7 @@ Working in an indie team on a Titans of the Past.
 Own projects:
 - Search in StringTables Tool
 Plugin for Unreal Engine (4.27-5.5) that adds a search tool for StringTables. I created a tool I needed and made it open source. You can find it on my GitHub.
-My name in the credits:
+My Name in the credits:
 - Goat Simulator: Remastered
 - Insurgency: Sandstorm
 Own open source project:
@@ -2847,7 +2847,7 @@ Dec. 2022 - Feb. 2024    Associate Software Engineer
 Developed infrastructure and plugins in ML pipelines for MLSoC provided by client. Created documentation for pipelines that included pipelines design.
 Aug. 2022 - Nov. 2022    Trainee Software Engineer
 (Stack: C, C++, Linux, Networking)
-Handled training tasks to deepen technical skills in networking for further work on the project. Created basic HTTP server on C that was based on TCP connection with support of codes 200, 400, 404, 500 and 501, custom logging and config file support for configuring log level, IP, port, default file name and files directory.
+Handled training tasks to deepen technical skills in networking for further work on the project. Created basic HTTP server on C that was based on TCP connection with support of codes 200, 400, 404, 500 and 501, custom logging and config file support for configuring log level, IP, port, default file Name and files directory.
 Eleks:
 Jun. 2022                           University internship
 (Stack: C++, SQL, SQLite, QT)
@@ -3066,7 +3066,7 @@ Library management system (Django REST API)
 Banking system for transaction management
 Telegram bot for an online store (with data parsing)
 Database development (PostgreSQL, pgAdmin 4):
-Designing ER models and normalizing schemas to 3NF
+Designing ER resume_classifier and normalizing schemas to 3NF
 Console application for interacting with databases
 Investment management system for asset tracking
 Programming in C, C++ & Algorithms
@@ -3211,8 +3211,8 @@ Job Security
 Flexibility"
 c++,"Python developer• Sedoc Digital Group s.r.l
 November 2024 - Present
-I have hands-on experience developing Python scripts for email filtering,
-optimizing message processing, and automating email management tasks.
+I have hands-on experience developing Python scripts for Email filtering,
+optimizing message processing, and automating Email management tasks.
 System Administrator• Sedoc Digital Group s.r.l
 May 2021 - November 2024
 Managed virtualized environments using VMware vSphere and Microsoft
@@ -3229,8 +3229,8 @@ team while expanding my expertise in C/C++ and Golang, cloud services and distri
 systems."
 c++,"I am working as C++/Python engineer now (robotic navigation). I'm a developer with a passion for Python and C++ programming. I have a strong interest in the field of robotics and software development and enjoy working on projects that involve cutting-edge technologies and innovative solutions.
 I have experience with frameworks such as ROS2, Nav2, behavior trees, which have given me a solid foundation in the world of robotics. Through my projects, I've learned how to design and implement complex robot behaviors, develop navigation systems, and leverage behavior trees for intelligent decision-making."
-c++,"фриланс , на Upwork / Fiverr . I have extensive experience in embedded systems and have worked with various models of the ESP32, as well as STM32 and Arduino. I design PCBs and schematics in KiCad and use C/C++ and Python programming languages.
-I have extensive experience in embedded systems and have worked with various models of the ESP32, as well as STM32 and Arduino. I design PCBs and schematics in KiCad and use C/C++ and Python programming languages.
+c++,"фриланс , на Upwork / Fiverr . I have extensive experience in embedded systems and have worked with various resume_classifier of the ESP32, as well as STM32 and Arduino. I design PCBs and schematics in KiCad and use C/C++ and Python programming languages.
+I have extensive experience in embedded systems and have worked with various resume_classifier of the ESP32, as well as STM32 and Arduino. I design PCBs and schematics in KiCad and use C/C++ and Python programming languages.
 I am familiar with your project, and I have previously written code for trading bots and database systems. I believe I can handle your tasks without any issues.
 Additionally, I have experience working with Bluetooth, Wi-Fi, GPS, and a wide range of sensors such as temperature and humidity sensors. I have also developed systems for communication between controllers using databases."
 c++,"C/C++ 14/17, SQL, good OOP skills, multithreading, solid, grasp, gof. Good knowledge of SDL2,  basic knowledge of OpenGL and Vulkan(2D only). Git - fully understanding how to work with it. Familiar with MacOs, Windows (Visual Studio), LInux. Ready to become a new member for exciting team.
@@ -3266,7 +3266,7 @@ Preferred programming language is C/C++.
 2.5+ years of software development and administration experience in Stratus platform.
 I am looking entirely for remote work. In case of urgent need, it is possible for me to come to the office for synchronization or coordination of work, etc.;
 - estimated workload of 20 hours per week;
-- expected salary, respectively, from $2,500 (i.e., from $31/hour).
+- expected Salary, respectively, from $2,500 (i.e., from $31/hour).
 Note 1: I am not subject to mobilization.
 Note 2: In 2021, I suffered a bilateral hearing injury. For this reason, communication in English is possible only by writing."
 c++,"I have more than 9 years of commercial experience in software development. During my career I have improved several major long-term projects, which gave me strong experience in various areas of software design and development.
@@ -3299,7 +3299,7 @@ There is nothing that cannot be realised."
 c++,"As the Founder of Effectico and the main developer of NeutrinoParticles, a universal particle effects editor for game developers and video content creators, I developed a fully GPU-accelerated particle rendering technology that works seamlessly across WebGL, OpenGL, and OpenGL ES and delivers high performance on browsers, mobile devices, and desktops. This technology has been integrated into popular game engines like Unity, PIXI.js, Phaser, and Cocos Creator.
 With over 20 years of experience in graphics programming, engine architecture, and optimizing 3D visualization, I have worked on 3D navigation maps for automotive systems at Intellias, developing algorithms for geometry generation and optimizing the graphics pipeline. I also architected and developed cross-platform game and graphics engines, featuring advanced capabilities such as HDR rendering, dynamic lighting, and object culling.
 My technical expertise spans C++, C#, TypeScript, OpenGL, WebGL, GLSL, and Qt5, with significant experience in Docker, Gitlab CI, and automated testing. I am passionate about further advancing my skills in graphics, algorithms, and highly optimized code."
-c++,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+c++,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim Id est laborum."
 c++,"Have done two courses (Base and Advanced) of C++ programming in ITEA company (finished in june 2020). Have basic knowledge of OOP, algorithms and STL, also Visual Studio and QT. Still improve my knowledge of programming by reading articles, books and codding."
 c++,"Have been working exclusively
 in the AAA Game Dev
@@ -4497,7 +4497,7 @@ Working with video processing and display control using a microcontroller.
 Key responsibilities: Development
 Technologies: ARM, RTOS , USART, STM32, IR
 Junior Salesforce Full-Stack developer
-SyneboMedical project for location in emergency,
+SyneboMedical project for Location in emergency,
 Key responsibilities: Development, administration, testing and documentation.
 Technologies: Apex, SQL/SOQL, Windows, Salesforce, SFDX, Workflow, Validation Rules, Proces Builder."
 c++,"I'm currently working as a Middle Gameplay Programmer on a mobile MOBA game. My responsibilities include:
@@ -4824,7 +4824,7 @@ Flock (UE4) - optimization (CPU, memory usage), controller features (force feedb
 NDA (UE5) - Mass system framework, multithreading, crash fixes, bug fixes, implementing new gameplay features, save system implementation, optimization, .csv parser implementation, UI.
 NDA (UE4) - Android/IOS development, crash fixes, implementing new features.
 Pet projects:
-1. Graphics engine based on OpenGL API (and some basic capabilities on Vulkan). I implemented things like: rendering primitives, 3D models in different formats (obj,fbx, etc.), texturing, normal mapping, parallax mapping, cubemap reflections, shadow mapping, skeletal animation, deferred rendering, instanced rendering of primitives with different textures (textures are grouped into texture atlases), resource manager, async/sync logger, interpreter (functions calling), etc..
+1. Graphics engine based on OpenGL API (and some basic capabilities on Vulkan). I implemented things like: rendering primitives, 3D resume_classifier in different formats (obj,fbx, etc.), texturing, normal mapping, parallax mapping, cubemap reflections, shadow mapping, skeletal animation, deferred rendering, instanced rendering of primitives with different textures (textures are grouped into texture atlases), resource manager, async/sync logger, interpreter (functions calling), etc..
 2. WIP: An Unreal Engine 5 game (Minecraft clone) - instancing implementation, chunk loading system, basic controls.
 Education:
 Oles Honchar Dnipro National University
@@ -4968,8 +4968,8 @@ Development of a cross-platform program for displaying technical information abo
 Development of C++ Console client-server application for communicating with server-connected clients. The project used Boost.Asio library and CMake buld system.
 Development of a clock application that has alarm clock, timer, stopwatch and world clock functionality using Qt Framework and Qt VS Tools for Visual Studio 2022.
 Development of a program that allows you to select another program and change its volume by pressing a bound key. The project used Qt Framework, Qt VS Tools for Visual Studio 2022, Windows APIs, processes and audio sessions.
-Development of a coursework application using SQL to store information about products, product category and manufacturers. The project used WxWidgets library for GUI, sqlite3 library and CMake build system.
-Development of a mobile application using Java that allows you to save a client's name, phone number, date of birth and notes to that client. Reminder of clients' birthday was also implemented. The project used Android Studio and androidx libraries."
+Development of a coursework application using SQL to store information about products, product Category and manufacturers. The project used WxWidgets library for GUI, sqlite3 library and CMake build system.
+Development of a mobile application using Java that allows you to save a client's Name, phone number, date of birth and notes to that client. Reminder of clients' birthday was also implemented. The project used Android Studio and androidx libraries."
 c++,"GlobalLogic - Kyiv, Ukraine
 2023 - Present
 Project is related to software development for the medical industry.
@@ -4978,7 +4978,7 @@ Responsibilities:
 - Implementing additional utilities which could be used to simulate the behavior and signals of the customer`s hardware. Especially useful in the early stages of development, system deployment and testing.
 - Implementing and debugging communication between newly created system
 components using various communication protocols like DDS and ZeroMQ.
-- Working with 3D models conversion and processing. Implementing texturing.
+- Working with 3D resume_classifier conversion and processing. Implementing texturing.
 - Implementing application fine tuning using configuration based on YAML and JSON.
 - Integration with customer's software products which related to robotics and ROS2.
 GlobalLogic - Kyiv, Ukraine
@@ -5473,7 +5473,7 @@ c++,"Розпочав трудову діяльність в 2008 році од�
 На даний момент шукаю роботу за напрямком С++.
 Також розглядпю можливість зміни основного стреку на Java чи .Net
 Професійне зростання, участь в розробці, цікаві завдання."
-c++,"Hello, my name is Igor.
+c++,"Hello, my Name is Igor.
 I have been programming for about 11 years. I worked in Luxoft for almost  2 years.  Prior to this work, I was managed to write the Poliserch library, which is a variant of a  self-orderiing structure for storing data. This is a new approach at the time of its  writing and I was surprised that I managed to do it. It may be found on GitHub or in any searcher by keyword ""Polisearch"".
 And desktop application ""aneasycalc"" (a program to facilitate the recruitment of LaTeX  for Windows OS family) - it's easy to find in any search engine.
 Last job was Luxoft in 2 automotive projects, about a year per project."
@@ -5481,13 +5481,13 @@ c++,"Development of specialized Adobe Illustrator plug-in for packaging products
 Designers and constructors work visualization, 2D/3D design and modeling
 Development of control system for cutting plotters
 Utilizing Qt Core, Gui, Widgets functionality for developing the GUI
-Employing OpenGL for real-time rendering of 3D models using polygonal modelling and graphics manipulation Implementing shaders for achieving visual realism and
+Employing OpenGL for real-time rendering of 3D resume_classifier using polygonal modelling and graphics manipulation Implementing shaders for achieving visual realism and
 performance optimization
 Applying mathematical algorithms and geometric computations for the analysis and manipulation of 3D data
 Ready for new beginnings and open to all companies."
 c++,"Completed Global Logic c/c++ basecamp courses, during the course made tasks with sockets and qt. Used C++ on Linux. Also have been working on little pet projects (sfml game, qt file manager, black jack written with qt, networking program for tracking and sending mouse coordinates to server application). Have tried java by university assignments: simple application with javafx and database. In general, have been learning C++ by myself as a hobby.
 Good understanding c++, completed global logic c/c++ course, basic understanding Linux and differences with writting programs for different operating systems, basic knowledge of networking, completed MyEnglishWorld English courses. Little pet projects such as ""Console Chess"", qt "" file manager"", sfml game ""space shooter"", crossplatform program working with sockets and tracking mouse positioon."
-c++,"My name is Orhan and I would like to try myself in developing the company and developing the company together, I will be glad to any suggestions, thank you!
+c++,"My Name is Orhan and I would like to try myself in developing the company and developing the company together, I will be glad to any suggestions, thank you!
 I'd be glad to see your messages and consider your options
 I graduated from the Step Academy and am now looking for a job. I would be happy to join the company and create projects together. Thank you!"
 c++,"I am a junior C++ developer with experience of working with game engines like Unreal Engine (Blueprints and C++) and Unity. I have experience working in a team and also managing it. My responsibilities were making gameplay mechanics like full scale inventory system, item interactions and traps, also not rarely been asked to work with character animations and level design."
@@ -5627,11 +5627,11 @@ C++ Developer
 LLC “NOKK-SOFT”, Kiev
 Port mobile game to WinRT platform
 Stable company, flexble work time, friendly staff"
-c++,"Without working experience. I did projects during my Bachelor practice, one based on neuro vision, another based on VBA. Also, my bachelor's thesis is based on large language models, text analysis and text classification
+c++,"Without working experience. I did projects during my Bachelor practice, one based on neuro vision, another based on VBA. Also, my bachelor's thesis is based on large language resume_classifier, Text analysis and Text classification
 English level C1 (Advanced)
 Working experience in English tutoring for 6 years
 Have a bachelor's degree in Computer Science
-I'd like to have an opportunity to get out of tutoring and  dive into IT, earn a better salary, meet new people who are into IT and exchange our experience, have an opportunity to continue my studying doing master's degree."
+I'd like to have an opportunity to get out of tutoring and  dive into IT, earn a better Salary, meet new people who are into IT and exchange our experience, have an opportunity to continue my studying doing master's degree."
 c++,"2020 - 2023:
 I've been a part of the team which developed an autonomously driven unit with the drone on the board. The goal of the unit was to provide different investigations and monitor the wind parks in order to improve wind turbine configurations for
 better energy output depending on the collected data.
@@ -5717,7 +5717,7 @@ At the moment, I'm looking for new opportunities as a Senior C++ Developer or Te
 I am a person who always cares about the quality of the solution I am going to produce and the process by which it is produced.
 I'm tolerate to routine and have a habit to follow up tasks till completion.
 Curious, eager to learn new technologies and have good software development skills."
-c++,"I had been working for a Canadian company that is the owner of a vector graphics editor for 5 years.
+c++,"I had been working for a Canadian company that is the owner of a Vector graphics editor for 5 years.
 The application helps to create beautiful designs, graphics, photos, and websites with both ease and confidence. It is the latest and most innovative graphic design program. The program delivers a collection of seven powerful applications to satisfy all types of creativity.
 I have been working for a Finland company that is the owner of engineering software for more than 1 year. The user interface lets you create schematic P&ID diagrams from scratch and easily modify them.
 I have got about 3 months of experience working on Python as a freelancer.
@@ -6024,7 +6024,7 @@ C++, SQL, TypeScript, Python
 Senior C++ Engineer
 May 2016 — July 2020
 •   trading system development
-•   math models implementation
+•   math resume_classifier implementation
 •   big-O & code optimization
 •   common template classes development
 •   code review
@@ -6150,7 +6150,7 @@ I created an amharic search engine that stems input, searches a database and ran
 Telegram Bot-
 I created a Python-based Telegram bot.
 Booking Website and Admin Dashboard-
-Using simple HTML, CSS, and Bootstrap, I built the frontend for a booking website and an admin dashboard. I am now developing the backend, database, and deployment on cPanel. I’ve implemented features like email notifications, unique tracking numbers, and restrictions on booking availability.
+Using simple HTML, CSS, and Bootstrap, I built the frontend for a booking website and an admin dashboard. I am now developing the backend, database, and deployment on cPanel. I’ve implemented features like Email notifications, unique tracking numbers, and restrictions on booking availability.
 Smart IoT Patient Monitoring System-
 I’m also working on this real-time system to monitor patient data using IoT technology with a team. It collects health data via ESP32 and transmits it to AWS. I’m utilizing technologies like PostgreSQL on AWS RDS, Python FastAPI, React for web, and Flutter for mobile.
 Technologies Used
@@ -6229,7 +6229,7 @@ c++,"•	Programming languages: C, C++, C#, Python
 Development the obfuscate protocol for VPN Unlimited (breakthrough of Chinese and Arabic firewall)
 Long project
 Creative tasks
-Competitive salary"
+Competitive Salary"
 c++,"19.03.2024 - 20.09.2024:
 An intern at Dragons Lake, learning Unreal Engine 5.
 Participated in the development of a third-person shooter game, working on NPC systems in the game. Responsibilities included designing and implementing AI behavior, animations, and code, using various technologies and tools available in Unreal Engine.
@@ -6438,7 +6438,7 @@ C, C++
 Assembly Language
 Git/GitHub, Debugger
 Stack/Heap
-File-Searching app: The app gets a file name and returns you a complete path of the file on your PC.
+File-Searching app: The app gets a file Name and returns you a complete path of the file on your PC.
 Wrote course-work of programming with C++ in university on max mark 100."
 c++,"I have no commercial experience, but worked as a freelancer, doing work for students in C++, in general, nothing as hard.  Participated in open source projects such as Qgroundcontrol. Knowledge of network protocols."
 c++,"Розрбка та впровадження розподіленої системи сбору, обробки данних та керування в сфері енергетики. Керівник проекту. Програмування серверної частини (Windows services). Embedded-программування (Fastwell, Octagon). Робота з сокетами (серверними ти клієнтськими). Основна среда розробки Qt 4.5.
@@ -6498,7 +6498,7 @@ DUET – State University of Economics and Technology: Information Technology (2
 All my achievements during my studies. Namely, the first and second points were the basis of my diploma work
 Developed a web messenger using Node.js, implementing real-time communication features and responsive design.
 • Created a 3D Chess Game using OpenGL and WinAPI (C++), providing an interactive and visually appealing gaming experience.
-• Explored neural networks using Python, including training models for basic data classification and analysis tasks.
+• Explored neural networks using Python, including training resume_classifier for basic data classification and analysis tasks.
 • Designed and developed aesthetically pleasing and functional websites, focusing on user experience and responsiveness."
 c++,"10+ years of experience in С/С++ (STL, Boost)
 10+ Embedded Linux programming
@@ -6539,7 +6539,7 @@ Jr to Sr Generalist C++ Programmer
 Nimble Giant (2019 - 2024)
 Developed and shipped ""Star Trek Infinite"" (3yrs+, C++ Proprietary Paradox Engine)
 Worked on many Strategy Games Prototypes, in Unity as a Jr Dev, and in Unreal Engine after Star Trek Infinite was finished.
-- Main programmer of ""Star Trek: Infinite"" (shipped title with Paradox Interactive). C++ Proprietary Engine and Scripting.
+- Main programmer of ""Star Trek: Infinite"" (shipped Title with Paradox Interactive). C++ Proprietary Engine and Scripting.
 - Worked on ""Seedworld"", a new metaverse game coming to PC. Unreal Engine 5 C++.
 - I want to contribute to any interesting game project and continue growing my technical expertise.
 - I would like a team that appreciates good communication and clarity, aside from technical aspects.
@@ -6554,7 +6554,7 @@ Tools: Visual Studio.
 Experience
 More than 1 year in c++ programming
 Projects:
-Contact Manager: My project utilizes the strengths of C++ to provide efficient contact management. This application allows you to add and delete contacts, view and search for information about contacts, storing information about name, phone number and email address. I used STL to optimize the handling of the contact list and provide a user-friendly interface.
+Contact Manager: My project utilizes the strengths of C++ to provide efficient contact management. This application allows you to add and delete contacts, view and search for information about contacts, storing information about Name, phone number and Email address. I used STL to optimize the handling of the contact list and provide a user-friendly interface.
 I have a completed pet project on github. I know how to use STL, algorithms and data structures. I am developing soft-skills and have been learning English for the last two years.
 I have a bachelor's degree with honors in software engineering.
 I also have a diploma in Linux Fundamentals from Prometheus."
@@ -6678,9 +6678,9 @@ automotive supplier with HQ in Japan
 Get the position of c++ developer"
 c++,"Projects and Tasks Completed:
 I have worked extensively on projects involving desktop software and QML-based user interfaces. Key projects include:
-Packs Creator: A tool for creating, managing, and filtering exercise packs. It involves a robust backend implementation with CRUD operations, QML interfaces, and category filtering mechanisms.
+Packs Creator: A tool for creating, managing, and filtering exercise packs. It involves a robust backend implementation with CRUD operations, QML interfaces, and Category filtering mechanisms.
 DigiTrack: A desktop application designed to assist patients with leg issues, allowing them to track personal and physical data and complete tailored exercise packs. It integrates role-based access for admins, therapists, and patients, emphasizing pack assignment and patient management.
-CLE Management: Implemented functionality to create and manage Category Level Exercises (CLEs) within exercise packs, including category toggling and confirmation-based modifications.
+CLE Management: Implemented functionality to create and manage Category Level Exercises (CLEs) within exercise packs, including Category toggling and confirmation-based modifications.
 Technologies Used:
 Programming Languages: C++, QML, and JavaScript.
 Frameworks and Libraries: Qt for UI and application logic, and modern C++ for backend logic and data management.
@@ -6884,7 +6884,7 @@ c++,"I created initial version of ray-tracer for a voxel grid viewer application
 - Developed and implemented a Python API for an application, improving integration and automation capabilities.
 - Implemented requested functionalities for a Adobe Illustrator plugin, meeting client requirements and improving workflow.
 - Contributed to the development of a 3D graphics framework in Vulkan and C++ within a short period.
-- Created a personal text editor project, demonstrating deep understanding and proficiency in C++ and OpenGL technologies.
+- Created a personal Text editor project, demonstrating deep understanding and proficiency in C++ and OpenGL technologies.
 - Acquired conversational English skills in an English-speaking multinational team, enhancing communication abilities and the capability to work in an international environment.
 - I am taking part in closed beta testing of the Jai programming language.
 - Opportunity to work on innovative projects that require deep knowledge and skills in C++, OpenGL and other technologies.
@@ -6899,7 +6899,7 @@ c++,"Experience and skills acquired during the study at the Technical University
 - Cross-platform development, multithreadi/g, testing, profiling, and neural network implementation, C++17/20, Python, CMake, SQL, Qt, GIT, Linux, STL, OOP, threading, and exception handling, SOLID principles and server development and management.
 Back-end Developer & 3D disigner (Python)
 (East Slovak Museum | Námestie Maratónu mieru 2, 040 01 Košice. 09.23 - 01.24)
-- My responsibilities included testing and implementing a browser for 3D models of exhibits on the site (Python). As well as creating and processing the models themselves.
+- My responsibilities included testing and implementing a browser for 3D resume_classifier of exhibits on the site (Python). As well as creating and processing the resume_classifier themselves.
 SW tester/developer, Signal-estimator (С++/Linux/CMake) (GitHub. 12.23 - 05.24)
 - I implemented the gtest testing submodule into a large open source Linux project, and also optimized the inclusion of other submodules. I wrote gtest coverage for the computational part and also made a profiling of this segment of the project and debugged CMake, related to linking parts of the project.
 SW tester/developer, F3D
@@ -7040,7 +7040,7 @@ Software for artists:
 Qt
 Vector computation optimizations (intel compiler, SSE, AVX)
 UI Framework
-Graphical suite(vector/rasrt editor)
+Graphical suite(Vector/rasrt editor)
 UI Framework (custom framework based on QT, Cocoa, WPF)
 ML (WindowsML, CoreML, ONNXRuntime)
 WiFi Routers:
@@ -7171,7 +7171,7 @@ Want to learn the QA in real workprocesses and start the way to official Team Le
 An engineer
 An Embedded software developer.
 Have an experience in STM32 TMS320 CC2592 MCU's software developing.
-Have an experience in HDL models designing (VHDL/SystemVerilog).
+Have an experience in HDL resume_classifier designing (VHDL/SystemVerilog).
 Have an experience in freelance on the systems development based on microcontrollers and FPGA, such as:
 - An Intelligent Traffic Light Based on Microcontroller ESP-12E Wi-Fi Module.
 - An Automatic Staircase Lighting System in Private Residential Building.
@@ -7191,12 +7191,12 @@ c++,"2003 - embedded C/C++ developer in Odrex R&D (Odessa) where I was responsib
 2022.06 - remote C++ developer at Adapt Framework Solutions.
 2022.08 - Senior C++ / Python developer at Global Logic."
 c++,"I am a computer engineer with 13 years of experience specializing in scientific research and simulations.
-My work focuses on developing algorithms, optimizing computational models, and analyzing complex data. I have experience in software development, system architecture, and high-performance computing and have contributed to innovative research and technological advancements.
+My work focuses on developing algorithms, optimizing computational resume_classifier, and analyzing complex data. I have experience in software development, system architecture, and high-performance computing and have contributed to innovative research and technological advancements.
 I enjoy solving complex problems, automating processes, and leveraging cutting-edge technologies to enhance efficiency and accuracy in simulations and computational tasks.
-I have contributed to advancing scientific research and simulations by developing efficient algorithms and optimizing computational models.
+I have contributed to advancing scientific research and simulations by developing efficient algorithms and optimizing computational resume_classifier.
 My work has improved performance and accuracy in complex physics model simulations and data analysis.
 I have experience designing and implementing high-performance computing solutions, enhancing software architectures, and integrating modern technologies into research-driven projects. Through my expertise, I have successfully optimized computational workflows, reduced processing times, and increased the reliability of simulations, leading to more accurate predictions and data-driven insights.
-I'm looking for part-time or freelance jobs that will allow me to apply my analytical and soft skills. My main task will be to design and implement algorithms and math models.
+I'm looking for part-time or freelance jobs that will allow me to apply my analytical and soft skills. My main task will be to design and implement algorithms and math resume_classifier.
 I don't want to get involved in any gambling or betting business."
 c++,"My experience includes developing games and interactive applications using Unreal Engine and Unity, including VR/AR, AI, gameplay programming, and character customization systems. I have worked on projects ranging from mobile games and simulators to full-scale AAA projects in the style of Dark Souls and Battle Royale.
 Currently, I hold the position of Unreal Engine Engineer, where I focus on VR application development, combat mechanics, AI, animation systems, and the integration of advanced technologies. In previous projects, I was responsible for gameplay mechanics, visual effects, sound design, and gameplay balancing.
@@ -7206,7 +7206,7 @@ c++,"I mostly wrote mathematical algorithms using C++ and C# (and little bit of 
 - own implementation of big numbers;
 - encoding/decoding different block cyphers;
 - SQL-like database in python, which had CRUD functionality, indexing using black-red tree and it's all working from CLI.
-- base64 codec that used to read/write text to a file.
+- base64 codec that used to read/write Text to a file.
 - Bloom filter data structure using polynomial hash;
 Also familiar with:
 - NumPy and pandas libraries for data science;

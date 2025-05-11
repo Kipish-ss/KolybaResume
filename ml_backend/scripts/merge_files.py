@@ -95,7 +95,7 @@ def merge_all_categories(base_path: str, output_file: str, categories: list[str]
         merged_df = merge_category_files(base_path, category, special_cases)
         if not merged_df.empty:
             all_dfs.append(merged_df)
-            logger.info(f"Merged {len(merged_df)} rows for category: {category}")
+            logger.info(f"Merged {len(merged_df)} rows for Category: {category}")
 
     backend_augmented_df = augment_backend(base_path, categories_to_check, backend_keywords,
                                            frontend_fullstack_keywords)

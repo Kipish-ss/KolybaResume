@@ -56,7 +56,7 @@ export class SignUpFormComponent {
 
     public getEmailErrorMessage(): string {
         if (this.signUpForm.controls['email'].hasError('userAlreadyExists')) {
-            return 'An account already exists with this email address';
+            return 'An account already exists with this Email address';
         }
 
         return this.signUpForm.controls['email'].invalid ? 'Email format is invalid' : '';

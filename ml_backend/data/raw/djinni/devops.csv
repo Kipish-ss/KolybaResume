@@ -4,7 +4,7 @@ devops,"August 06, 2018 – November 12, 2020	        	        Domains CS L2 Spe
 Responsibilities:
 Providing technical support via chats and tickets;
 Registration of domain names;
-Troubleshoot DNS, website, and email problems;
+Troubleshoot DNS, website, and Email problems;
 Update internal databases with information regarding technical issues;
 Processing orders, forms, applications, and requests;
 Dealing with escalated cases.
@@ -15,7 +15,7 @@ Resolve assigned Service Requests related to the support portal, following and c
 Tracking the tickets in the queue and driving them to closure on critical incidents.
 Technical Support Engineer
 Apr 2021  –  Feb 2022
-Providing chat and email support to clients around questions and best practices
+Providing chat and Email support to clients around questions and best practices
 Analyzing system logs through Kibana
 Monitoring of Infrastructure and Integrations to other systems
 Escalating unresolved problems to Dev team
@@ -1014,7 +1014,7 @@ Database: MySQL;
 Installing and debugging different CMS (WordPress, Joomla, Moodle, OpenCart, etc.);
 Setting up contextual advertising for google, yandex, Facebook;
 SEO optimization of internet sites;
-Domain name registration;
+Domain Name registration;
 Install SSL support.
 I have over 20 years of various experience as Systems administrator and Web Developer. Worked in a team on various projects, both as a developer and as a leader. I am ready to develop and improve my knowledge and skills. I am fast learning and open-minded person.
 I am looking for the job as System administrator or DevOps Engineer. The projects connected with networks and Linux systems are the most interesting."
@@ -1504,7 +1504,7 @@ Microsoft Certified Solutions Associate (MCSA)
 Cisco Certified Network Associate Routing and Switching (CCNA)
 A positive work environment and supportive colleagues
 Opportunities for growth and professional development
-A competitive salary and benefits package
+A competitive Salary and benefits package
 A good work-life balance
 Meaningful and challenging work that aligns with their personal and professional goals"
 devops,"Development and implementation of microservice architecture,
@@ -1570,7 +1570,7 @@ Software: Cisco Packet Tracer, VirtualBox, GNS3, WireShark, Windows 10 Education
 Cisco: Cisco IOS, VLAN, VTP, DTP, STP, RSTP, PVST, EtherChannel, PAgp, LACP, HSRP, VRRP, RIP, OSPF, EIGRP, PPP, GRE, SPAN, SNMP
 Protocols: IPv4, IPv6, TCP, UDP, DNS, DHCPv4, DHCPv6, Telnet, SSH, HTTP, FTP, POP, SMTP
 Cloud: Google Cloud Platform, Azure
-Chief of IT department (the experience is  2 years). Created IT infrastructure from nothing. Implemented services: Active Directory, DNS, DHCP, Proxy, RDP, corporate email, corporate antivirus, access control system ""Golden Gate"". Get practice with IT-department management, connection and disconnection services (Internet, telephony, mobile phone connection, Software support), checks control, IT-department budgeting.
+Chief of IT department (the experience is  2 years). Created IT infrastructure from nothing. Implemented services: Active Directory, DNS, DHCP, Proxy, RDP, corporate Email, corporate antivirus, access control system ""Golden Gate"". Get practice with IT-department management, connection and disconnection services (Internet, telephony, mobile phone connection, Software support), checks control, IT-department budgeting.
 System administrator (the experience is  9 years).
 Assembling, repairing and maintenance PC and Servers
 Repairing and maintenance peripheral devices
@@ -1642,8 +1642,8 @@ Designing and managing environment for high performance applications."
 devops,"I do not work with Microsoft technology stack (Azure, Windows, Powershell, MSSQL, etc)"
 devops,"In my current role as a DevOps/Site Reliability Engineer since July 2023, I have successfully completed several projects focusing on the architecture and maintenance of the ELK stack to ensure efficient data ingestion and processing. I have developed and implemented logging mechanisms that integrate with Elastic Cloud Enterprise and deployed log telemetry agents for seamless data collection and analysis. Additionally, I have maintained infrastructure for container platforms, such as OpenShift Red Hat, ensuring optimal CPU utilization and managing upgrades. I have also designed and optimized GitLab CI/CD pipelines, integrating them with AWS EKS, Anthos GKE, and Red Hat OpenShift. The technologies I have utilized include Elasticsearch, GitLab, OpenShift, Anthos, AWS, Active Directory, Azure AD, SolarWinds, LDAP, Ruby, Python, YAML, Shell scripting, Ansible, Terraform, Docker, Kubernetes, and Linux system administration.
 At Aldec Inc., I worked as a DevOps Engineer where I developed and maintained Terraform and Ansible scripts, achieving a 50% improvement in deployment speed. I implemented CI/CD pipelines using Jenkins and GitLab, which reduced integration times by 30%. Additionally, I managed Docker and Kubernetes environments, saving 25% in resources. My role involved enhancing system performance and reducing latency through automation, conducting security assessments, and implementing best practices that led to zero security breaches. I collaborated closely with engineers to streamline DevOps workflows, improving deployment succ
-As an Applied Data Scientist Intern at the School of Public Health, UNLV, I organized hospital datasets compatible with Python models, utilized TensorFlow for model integration and data processing, and applied natural language processing techniques. I also built a software application to map injury reports and maintained its functionality, using technologies such as JupyterNotebook, JupyterLab, and VS Code, with skills in Python, SQL, Ruby, NLP, TensorFlow, HTML, and CSS.
-Moving forward, I want to further improve expertise in Kubernetes and cloud-native technologies, as well as enhance my skills in machine learning operations (MLOps) to better integrate data science models into production environments.
+As an Applied Data Scientist Intern at the School of Public Health, UNLV, I organized hospital datasets compatible with Python resume_classifier, utilized TensorFlow for model integration and data processing, and applied natural language processing techniques. I also built a software application to map injury reports and maintained its functionality, using technologies such as JupyterNotebook, JupyterLab, and VS Code, with skills in Python, SQL, Ruby, NLP, TensorFlow, HTML, and CSS.
+Moving forward, I want to further improve expertise in Kubernetes and cloud-native technologies, as well as enhance my skills in machine learning operations (MLOps) to better integrate data science resume_classifier into production environments.
 AWS CLF-C02 certified
 Certified Kubernetes Administrator
 SQL Certified
@@ -1787,7 +1787,7 @@ Implemented code quality and security checks, integrating Checkstyle, OWASP Depe
 Set up and maintained a Nexus repository for managing Maven and NPM dependencies, optimizing package distribution and security.
 Configured GitLab exposure to the public web, allowing external access while maintaining security controls."
 devops,"Possessing a robust technical skill set, I have extensive experience with Kubernetes, Docker, Terraform, and Ansible, alongside continuous integration (CI) practices. My expertise extends across both on-premises and cloud-based environments, demonstrating a versatile and adaptable approach to modern IT challenges. With a strong foundation in problem-solving, I excel in Linux system administration, skillfully managing tasks such as scripting and effectively troubleshooting Linux servers. These capabilities are applicable across various hosting solutions and virtualization platforms. My technical acumen is complemented by a commitment to optimizing system performance and ensuring seamless operations in complex infrastructures.
-No PE3, location Kharkiv. No exams or tests on interview."
+No PE3, Location Kharkiv. No exams or tests on interview."
 devops,"Petproject on GitHub: a script for automatic substitution of proxy servers. Deploying architecture using terraform, configuring CI/CD in GitHub Actions & Jenkins, orchestrating Linux servers in docker. Software development in python, c++, java, rust programming languages
 Cisco & SoftServe certifications"
 devops,"I have no experience in DevOps, but I have experience working as a system administrator for two and a half years, if you are interested in more detail about this experience with work, I will tell you about it at the interview
@@ -1803,7 +1803,7 @@ Linux, Docker, Kubernetes, Terraform, Ansible, Jenkins, bash, Git, Networking, D
 Working well with others to achieve common goals. Effectively managing finances for projects or department. Working towards the goals, mission, and values of the organization rather than personal agendas."
 devops,"I have experience with programming languages such as Python and JavaScript. Understanding of Linux core concepts and Docker, Kubernetes architecture.
 Experience with cloud providers such as GCP and AWS.
-GCP was used to host web applications. I worked with services such as Compute Engine, Cloud Storage, Kubernetes Engine, BigQuery, Cloud Run, Cloud Functions, App Engine, Pub/Sub. I also had to work with API & Services, namely with setting up the API for authorizing the messenger through a Google account, Cloud Speech-to-Text API for converting audio to text and Google Books API.
+GCP was used to host web applications. I worked with services such as Compute Engine, Cloud Storage, Kubernetes Engine, BigQuery, Cloud Run, Cloud Functions, App Engine, Pub/Sub. I also had to work with API & Services, namely with setting up the API for authorizing the messenger through a Google account, Cloud Speech-to-Text API for converting audio to Text and Google Books API.
 As for AWS, I had experience with EC2 for deploying applications on virtual servers, Lambda for running serverless functions, S3 for storing data and static web applications. I am familiar with various AI/ML technologies on AWS.
 When working with GCP and AWS, I had to use Terraform to automate the process of creating virtual machines and other related things. I have an understanding of the basic concepts of services and what tasks they can be used for.
 I have active certifications from GCP and AWS.
@@ -1955,7 +1955,7 @@ Aug 2021 - Oct 2022
 - Manage employees accounts
 - Generate Yubikey’s and permissions for employees
 - A good team
-- Decent salary
+- Decent Salary
 - Career progression
 - Constant self-development"
 devops,"I am a passionate and highly skilled IT manager with 25+ years of broad experience in strategic planning, IT infrastructure and DevOps, security, software development, project management and high-availability architecture.
@@ -2055,7 +2055,7 @@ My extensive technical skill set includes:
 - Cloud platforms: Proficient in managing and deploying cloud infrastructure on platforms like AWS and Google Cloud. I've migrated project infrastructures between different cloud environments, ensuring seamless transitions with minimal downtime.
 - Virtual Machines: Experienced in creating, configuring, and managing virtual machines, including working with KVM for remote server management.
 - System Administration: Expertise in administering both Linux and Windows systems, ensuring optimal performance and security. Familiar with key administrative tools such as Microsoft AD DS, GPO, WDS, DNS, DHCP, VPN, Firewall, RDS, Hyper-V, DFS, and KMS.
-- Email Server Management: Proficient in setting up and managing corporate email servers using Microsoft Exchange and Postfix, ensuring efficient and secure communication within the organization.
+- Email Server Management: Proficient in setting up and managing corporate Email servers using Microsoft Exchange and Postfix, ensuring efficient and secure communication within the organization.
 - Network Architecture: Experienced in implementing and optimizing network architecture. Managed workstations, servers, and network architecture, leading to increased performance and stability.
 - Automation: Skilled in automating software deployment and streamlining workstation setup processes, resulting in improved operational efficiency and faster workstation readiness.
 - Vendor Management and Coordination: I have managed supply contracts and handled service provider payments, along with effective vendor collaboration for equipment and software procurement.
@@ -2234,7 +2234,7 @@ Development of microservice architecture for projects
 When I was an intern, I came to the project instead of a Senior DevOps engineer. It was hard and I had to overtime a lot, but I managed.
 I want stable career growth
 A friendly team
-Stable salary and revised growth
+Stable Salary and revised growth
 Additional benefits"
 devops,"• Conducting Management of Change (MOC) procedures for application deployment
 • Participating in the development of applications (using Power BI, Power Apps, Azure SQL, Azure Portal, Azure
@@ -2571,7 +2571,7 @@ Built a crypto payment processor platform that helps end users integrate a crypt
 I’m a founding engineer for an African fintech company, which is a platform that helps organizations process huge amounts of transactions in just a few minutes. I created an in-house script that sanitizes payouts to ensure compliance with PCI rules and regulations.
 I am a founding engineer for an e-commerce application that helps bike lovers order items from anywhere in the world and keep track of deliveries by leveraging AWS resources, utilizing tools like Lambda functions, S3, EventBridge, DynamoDB, and Node.js core.
 I helped revamp the application architecture of an e-commerce platform by using the latest technology tools and ensuring that every team engineer adhered to the best practices of the tech industry. I took on the responsibility of team lead.
-I want to work with positive minded folks where ideas and options are heard and a fully distributed engineer irrespective of the location."
+I want to work with positive minded folks where ideas and options are heard and a fully distributed engineer irrespective of the Location."
 devops,"Worked mostly on ecommerce projects. Troubleshooting on issues, and fast recovery. Technologies used: Docker, Terraform, Kubernetes, Ansible and more. Worked on cloud and legacy servers as well. Problem solving with long term solutions. Cost monitoring and working on cloud costs as well was a part of my occupation."
 devops,"Setting up network equipment - managed switches, routers. Administration of servers based on Linux and Windows. Virtualization (Proxmox, VMWare and Virtuozzo).
 Working in a team and taking part in projects
@@ -2625,7 +2625,7 @@ A1,A,B driver license.
 Created Icinga director API web interface (Python flask)
 Created 2 ISPs from scratch.
 Implemented enterprise UPS systems.
-Created enterprise email systems for a few organizations
+Created enterprise Email systems for a few organizations
 Deployed and configured monitoring systems for a few organizations.
 Got all of my skills mostly by self-education.
 Learned Turkish to B1 with Duolingo and Youtube.
@@ -2902,7 +2902,7 @@ SQL, Sqlite3
 HTML, CSS, JQuery, AngularJS
 Grafana,prometheus,AlertManager
 sqlite3 python development
-Favorite text editor: Sublime Text,mcedit,vi(m)
+Favorite Text editor: Sublime Text,mcedit,vi(m)
 I can build/make microservices (kubernetes/rancher/Docker/Docker-compose) and track/scale loads on them.
 Looking for Docker, Docker-compose,VirtualBox,Vagrant,
 Microservices, AWS EC2, Digital Ocean (Droplets), GCP hosting, LAMP, LEMP, Nginx, Apache2, MongoDB, MySQL, Cpanel, bash scripting, ELK, Elasticsearch, GNU utils, CentOS administration, Ubuntu administration, scrapy, sops,age,Grafana+Prometheus+AlertManager, python,Hashicorp Valt,Hashicorp Consul, Ceph"
@@ -3438,7 +3438,7 @@ Automating most of the aspects of my job at the moment is one of my greatest ach
 No toxic people, no waste of time on unnecessary meetings, clear division of responsibilities depending on the role of the person."
 devops,"Deployed WordPress applications on AWS instances (EC2, AMI, etc.) using Apache and MySQL CLI. The entire deployment was performed over SSH on Linux Ubuntu. Monitored application performance and condition using Grafana.
 Сonfigured and managed version control systems with Git (GitLab/GitHub) while developing a Telegram Bot using WeatherAPI. Controlled the state of the bot’s configuration via Terraform. Supported containerization with Docker for application deployment.
-Developed and taught AI models on datasets using TensorFlow & Keras libraries with Jupyter Notebooks
+Developed and taught AI resume_classifier on datasets using TensorFlow & Keras libraries with Jupyter Notebooks
 Developed a .NET application for a pharmacy using C# programming language, databases (created by myself with Microsoft SQL Server Management Studio), normal forms, and .NET Framework.
 Certifications:
 The Linux Founfation & Cloud Native Computing Founfation, Linux Basics
@@ -3733,7 +3733,7 @@ NDA Inc - Lviv June 2021 to January 2022
 Main responsibilities:
 • Monitored service health and infrastructure status using Nagios.
 • Investigated and resolved technical client issues through ticketing systems.
-• Analyzed mail services and email headers to detect spam, phishing, and fraudulent activity.
+• Analyzed mail services and Email headers to detect spam, phishing, and fraudulent activity.
 • Performed diagnostics and troubleshooting via SSH, as well as protocols like Telnet, IMAP, and POP3.
 • Acted as a bridge between technical support and system administration teams, handling escalated tasks and cross-functional responsibilities.
 Education
@@ -3781,7 +3781,7 @@ Remote only."
 devops,"Experienced System Administrator and NOC Engineer Seeking DevOps Role
 I am a highly skilled professional with extensive experience in system administration and network operations center (NOC) management. Over the years, I have developed expertise in server maintenance, network troubleshooting, and monitoring systems to ensure optimal performance and uptime. I am now looking to leverage my strong technical background, along with my knowledge of automation tools, cloud services, and infrastructure management, to transition into a DevOps role. I am passionate about continuous integration and deployment (CI/CD) processes and eager to contribute to improving development pipelines and system scalability.
 CodeWars (107 Kata Completed)
-10fastfingers: Blind typing text (English, Ukraine)
+10fastfingers: Blind typing Text (English, Ukraine)
 I am looking for a DevOps role where I can continuously grow, collaborate with a dynamic team, and work on challenging projects that enhance automation, scalability, and system performance. I value an environment that encourages learning, innovation, and a strong work-life balance. I prefer roles with clear objectives, opportunities for professional development, and a healthy team culture.  I would like to avoid roles that lack clear direction, involve constant firefighting without long-term solutions, or have a rigid, uncollaborative work environment."
 devops,"Initial DevOps experience:
 Clouds: AWS.
@@ -4477,8 +4477,8 @@ Certified Wireless Network Administrator (SWNA),
 Certified Wireless Security Professional (CWSP),
 IT Management ITILv3 Foundation,
 Apple Certified Associate – Integration | Management 10.10"
-devops,"I am Brook Tarekegn Assefa, an accomplished professional with extensive experience in AI engineering, data science, and software development. As a Senior AI Engineer at Hum Works LLC, I led the development of advanced AI models, significantly enhancing recommendation accuracy and computational efficiency. In my role as Project Manager and Data Scientist at Steven Stone, I spearheaded initiatives that drove a 74% revenue increase and improved operational efficiency by 15%. At Excellerent Technologies, I developed bespoke solutions for Fortune 500 clients like Boeing and Ford, leveraging ML and AI for predictive analytics and fraud detection. My experience also includes building blockchain applications, optimizing ERP systems for large enterprises, and leading both frontend and backend development projects. With an M.S. in Data Science from the University of Virginia and a robust skill set in machine learning, software development, and project management, I am passionate about driving innovative solutions and delivering impactful results.
-- Developed Lodestone v2.0, a long-context text embedding LLM, used by millions of daily users and over 100 B2B clients, achieving an 80% improvement in rank estimation and a 55% increase in recommendation accuracy.
+devops,"I am Brook Tarekegn Assefa, an accomplished professional with extensive experience in AI engineering, data science, and software development. As a Senior AI Engineer at Hum Works LLC, I led the development of advanced AI resume_classifier, significantly enhancing recommendation accuracy and computational efficiency. In my role as Project Manager and Data Scientist at Steven Stone, I spearheaded initiatives that drove a 74% revenue increase and improved operational efficiency by 15%. At Excellerent Technologies, I developed bespoke solutions for Fortune 500 clients like Boeing and Ford, leveraging ML and AI for predictive analytics and fraud detection. My experience also includes building blockchain applications, optimizing ERP systems for large enterprises, and leading both frontend and backend development projects. With an M.S. in Data Science from the University of Virginia and a robust skill set in machine learning, software development, and project management, I am passionate about driving innovative solutions and delivering impactful results.
+- Developed Lodestone v2.0, a long-context Text embedding LLM, used by millions of daily users and over 100 B2B clients, achieving an 80% improvement in rank estimation and a 55% increase in recommendation accuracy.
 - Spearheaded a competitive e-commerce product at Steven Stone, resulting in a 74% revenue increase and a 40% sales precision improvement, while enhancing operational efficiency by 15%.
 - Created customized solutions for Fortune 500 clients like Boeing, Coca-Cola, and Ford, utilizing ML and AI for predictive analytics and fraud detection, achieving 95% test coverage and a 55% improvement in code quality.
 - Built a cryptocurrency mining application at MyCointainer, enhancing efficiency and reducing costs by $300 per day, and increasing reward accuracy by 47%.
@@ -5124,7 +5124,7 @@ devops,"- 9 years of experience with Linux/unix systems
 - 99,99 % SLA for production product which I maintained
 - Good communication between engineering and product teams
 - Open to research and innovations"
-devops,"Experienced Linux Systems Engineer with over 12 years of expertise in managing complex IT infrastructures, automating system processes, and ensuring high reliability. Proficient in server administration, virtualization, and monitoring solutions such as Prometheus, Grafana, and ELK Stack. Skilled in configuring and maintaining web servers, email protocols, and firewall rules. Passionate about optimizing Linux-based systems, enhancing system security, and delivering stable IT operations.
+devops,"Experienced Linux Systems Engineer with over 12 years of expertise in managing complex IT infrastructures, automating system processes, and ensuring high reliability. Proficient in server administration, virtualization, and monitoring solutions such as Prometheus, Grafana, and ELK Stack. Skilled in configuring and maintaining web servers, Email protocols, and firewall rules. Passionate about optimizing Linux-based systems, enhancing system security, and delivering stable IT operations.
 Skills
 System Administration: Linux (CentOS, Ubuntu, Debian, Amazon Linux 2), Shell Scripting
 Web Servers: NGINX, Apache2
@@ -5139,7 +5139,7 @@ CI/CD Pipelines: GitLab CI/CD, Jenkins
 Atlassian Administration: Installation, configuration, and maintenance of Jira, Confluence, Bitbucket
 Databases: Redis, MySQL, PostgreSQL
 My entire career can be considered an achievement. In the IT field, continuous self-development and self-improvement are essential. Everything I know and most of what I can do are the results of my dedication and hard work, and I consider these my greatest achievements.
-A friendly team, a stable schedule. The salary is open for discussion."
+A friendly team, a stable schedule. The Salary is open for discussion."
 devops,"In my current team, I have worked on various infrastructure and automation projects. I have been actively involved in setting up Kubernetes clusters, configuring load balancing solutions using HAProxy and Traefik, implementing GitLab CI/CD pipelines, and applying GitOps practices with ArgoCD. I’ve also configured ELK Stack and Prometheus-Grafana monitoring systems to ensure proper logging and observability across environments.
 Technologies I Have Used:
 Cloud and Container Technologies: Docker, Kubernetes, Helm, MetalLB
@@ -5425,11 +5425,11 @@ Hands-on experience with Arduino and smart sensors;
 English proficiency at B1 level;
 Opportunities for career advancement and professional growth.
 A chance to deepen expertise in system administration and DevOps.
-Attractive salary, collaborative team dynamics, and a positive work environment."
+Attractive Salary, collaborative team dynamics, and a positive work environment."
 devops,"IIT “Intellias”
 Release Engineer
 Project description
-Our client is a global provider of the real-time mapping & location services to top world carmakers and enterprises. From navigation systems and autonomous driving, to the Internet of Things, we are building the future of location technology.
+Our client is a global provider of the real-time mapping & Location services to top world carmakers and enterprises. From navigation systems and autonomous driving, to the Internet of Things, we are building the future of Location technology.
 The Program's major scope of work is compilation and provision of navigation maps with fresh, enriched, and enhanced content for top world car manufacturers.
 Responsibilities & achievements
 •	 Release maps as per requirements and schedules following the established process and practices
@@ -5776,7 +5776,7 @@ devops,"Senior Technical Support Engineer/DevOps/Team Lead:
 •	Responsible for technical support on a complex billing system
 •	Providing first line customer support in a timely and accurate way
 •	Actively communicating with the customer to troubleshoot upcoming difficulties
-•	Clarifying customer’s requirements via email and chat
+•	Clarifying customer’s requirements via Email and chat
 •	Client-server interaction testing
 •	Responsible for the quality of the daily release
 •	Creating and supporting technical documentation.
@@ -5788,7 +5788,7 @@ Customer Support Representative/Team Lead:
 •	Working with CRM and client database
 •	Interacting with other teams
 Customer Support Specialist / Moderator, QA specialist:
-•	Handed customer technical support cases through chat and email submission
+•	Handed customer technical support cases through chat and Email submission
 •	Updated the company website with tech tips and brief documents
 •	Evaluated system potential through assessing compatibility of new actions with existing ones
 •	Improved existing projects by evaluating objectives and specifications, reviewing proposed changes and making recommendations according to users’ wishes
@@ -5808,7 +5808,7 @@ Expectations from the Job
 1. Professional Development: I want to work in a company that offers continuous learning and skill enhancement opportunities. This can include access to training courses, participation in conferences, seminars, or internal workshops.
 2. Clear Career Path: I expect a clear career progression plan with opportunities for promotion based on performance and achievements.
 3. Supportive and Collaborative Environment: I want to work in a team with a friendly atmosphere, mutual respect, and support. It's important that management is approachable and open to communication and assistance.
-4. Fair Compensation: I expect to be fairly compensated for my work, with a salary that reflects my qualifications and contributions, along with bonuses and incentives for exceptional performance.
+4. Fair Compensation: I expect to be fairly compensated for my work, with a Salary that reflects my qualifications and contributions, along with bonuses and incentives for exceptional performance.
 5. Flexible Work Schedule: I would like to have the possibility of a flexible work schedule or partial remote work to ensure a good work-life balance.
 What I Don't Want from the Job
 1. Micromanagement: I do not want to work in an environment where there is excessive micromanagement, as it hinders creativity and autonomy.
@@ -5831,7 +5831,7 @@ devops,"In July, I completed 4 month internship in SoftServe.
 Since September 2024, I have been working as a junior DevOps engineer.
 Manly, I work with Linux, Terraform, Kubernetes, AWS, Datadog, Python, ConcourseCI.
 I am looking for opportunities to grow in the IT field, especially as a DevOps"
-devops,"Please note that my primary communication channel on djinni is email, thanks.
+devops,"Please note that my primary communication channel on djinni is Email, thanks.
 ---
 Enjoy working on both high (product, requirements, solutions) and low (design & implementation) levels at the same time. Flexible in dealing with various problems and domains regardless of their nature and the technology applied.
 So far mostly worked on: software architecture & design (OOAD, DDD, BDD); C#, F#, .NET Core; Docker, k8s, serverless, Azure Functions, Azure Storage, Azure Service Bus, Azure Search; CI/CD with Azure DevOps (VSTS); AWS, GCP, Angular, React, Vue, Lean, Agile, Kanban, Scrum, team leadership, product ownership, mentoring.
@@ -6387,7 +6387,7 @@ devops,"Knowledge and skills:
 Courses:
 I graduated DevOps courses on oct. 2019 with red diploma. Met with Git, Ansible, Docker and Docker hub, Jenkins, AWS EC2 ECS ECR S3, Terraform."
 devops,"March 2022 - Present
-Project name: Medical application (NDA)
+Project Name: Medical application (NDA)
 Description:  is the software for cosmetic product innovators, powered by AI and the industry's best data.
 Role: Devops
 Technologies:
@@ -6398,7 +6398,7 @@ CI/CD: Gitlab-ci, AWS Code build and deploy
 IaC: Terraform, CloudFormation
 Other: Self deployment service like Sonarqube, Sentry, Metabase, AgroCD, K8s
 December 2021 -March 2022
-Project name: Gather-Group
+Project Name: Gather-Group
 Description:Project SAAS platform that provides a
 branded separate mobile application
 for IOS and Android OS with a related
@@ -6409,7 +6409,7 @@ ElastiCache, S3, Terraform,
 Terrafrom Cloud, Bitbucket-pipelines,
 Docker, Python and Bash scripting
 May 2021-November 2021
-Project name: Fintech application (NDA)
+Project Name: Fintech application (NDA)
 description: Project Online banking for teenagers who do
 not want to ask their parents for
 money in a traditional way, but will
@@ -6419,7 +6419,7 @@ Technologies: AWS: EC2, ECS, RDS
 Docker, Docker-compose
 Gitlab-cl, Prometheus, Grafana, ElasticSearch
 May 2017-March 2021
-Company name: ISP Shtrom Net
+Company Name: ISP Shtrom Net
 Role: System and Network administrator
 Responsibilities:
 - Provide support for our internal Global Network Infrastructure
@@ -6449,7 +6449,7 @@ Logs: Fluentd / Elasticsearch / Kibana
 Debug tools, Jaeger tracing, xhprof
 Error Tracking Software: Sentry
 QA Automation Stack: Selenoid, Jenkins
-System of full-text search: Sphinxsearch
+System of full-Text search: Sphinxsearch
 Built devops team from Scratch
 Organized duty for the devops team and the development team.
 Improved the incident management process; each case was analyzed, and steps were taken to prevent similar incidents from recurring.
@@ -6741,7 +6741,7 @@ devops,"I am switcher. Last 8 years I've worked as Engineer on merchant ships. I
 I have no commercial experience in development, but have a will to learn and grow in that field."
 devops,"DevOps/SRE experienced in developing architecture and supporting cloud platforms (GCP,AWS). Skillled in Docker, Bash, Terraform, Kubernetes, Cloud Services , Windows Server, and Linux. Strong engineering professional with a Master's degree focused on Networking.  Sociable and communicative with people, confident and stable in the stressful situation, persistent in achieving goals, quick learner.
 Determined in personal/career growth."
-devops,"I’m a Backend and DevOps engineer with experience building software with Python & NodeJS. I am keenly interested in algorithm-level efficiency and I have worked with backend technologies such as Django, Express, NestJS, Flask, and FastAPI as well as other tools like Docker, Kubernetes, Elasticsearch, Grafana, Redis, Kafka, RabbitMQ, BullMQ, Celery, DRF, Jenkins, GitHub Actions, GitlabCI, Prometheus, Terraform to name just a few. I am a competitive programmer who actively participates in challenges. I love learning about anything, especially if it makes me better at my craft.
+devops,"I’m a Backend and DevOps engineer with experience building software with Python & NodeJS. I am keenly interested in algorithm-level efficiency and I have worked with backend technologies such as Django, Express, NestJS, Flask, and FastAPI as well as other tools like Docker, Kubernetes, Elasticsearch, Grafana, Redis, Kafka, RabbitMQ, BullMQ, Celery, DRF, Jenkins, GitHub Actions, GitlabCI, Prometheus, Terraform to Name just a few. I am a competitive programmer who actively participates in challenges. I love learning about anything, especially if it makes me better at my craft.
 I led a team of engineers to build scalable solutions at my previous organizations
 I want the opportunity to grow and be challenged with new responsibilities"
 devops,"- Containerization using Docker and Kubernetes
@@ -6842,7 +6842,7 @@ Have an experience in troubleshooting different applications in Kubernetes.
 Organised the workflow of tier 1 and tier 2 support in a network provider company. Integrated monitoring of a PHP application to Zabbix (in collaboration with PHP-developers). Improved security of a present company infrastructure. Improved application deployment time up to 30% via rewriting GitLab pipelines.
 Not for supporting Windows servers/workstations.
 I'm looking for a company with a DevOps/SRE team. Product companies are prior.
-I'm interested in: Professional growing, concurrent salary, friendly team and management.
+I'm interested in: Professional growing, concurrent Salary, friendly team and management.
 Will be a plus: medical insurance, English lessons, etc.
 I'm declined any collaboration with a companies which are employed russians or in any condition are connected to russia."
 devops,"Work experience:
@@ -7129,7 +7129,7 @@ Ansible for automation
 And bash scripting
 Experience in AWS: Ec2, Vpc, Eks, Route53, S3, Terraform
 Hello,
-My name is Tural. I'm 25. I have more than 5 years of work experience:
+My Name is Tural. I'm 25. I have more than 5 years of work experience:
 Thank you for your time and attention."
 devops,"Лютий 2024 - Травень 2024 Інженер комп'ютерних систем служби 112 - займався моніторингом та випраленням неполадок пов'язаних з комп'ютерною технікою та програмним забезпеченням.
 Додатково пройшов курси по С++(udemy) та по DevOps(udemy)"
@@ -7208,7 +7208,7 @@ System Engineer 12+ years:
 devops,"For the past 5 years, I have been working as a DevOps engineer. During these 5 years, I have completed around 40 projects of a product-oriented nature. These included online sales, rentals, marketing, crypto exchanges, and crypto services. I have worked in teams and independently, communicating with project managers, sometimes directly with the CEO, and sometimes reporting to the team lead. There were instances where I acted as a tech lead and mentor, allowing me to train 10 strong DevOps engineers. I am someone who loves working and is always motivated to deliver excellent results, providing clients with speed, professionalism, and cost optimization.
 Sociable, stress-relieved, tenacious, persistent, goal-oriented and pragmatic. It helps me solve the most difficult problems.
 At the moment I am working from Baku to Minsk. I prefer to work remotely or relocate to Europe.
-Work remotely salary 3300$ Gross"
+Work remotely Salary 3300$ Gross"
 devops,"Cloud platforms Solutions Architect, DevOps Lead and Architect, Microservices, Containers, Kubernetes
 - AWS Solutions Architect Certificate; - GCP Solutions Architect Certificate; - SEI Software Architecture Professional Certificate.
 - Part-time - desirable; - Complexity could be from intermediate up to Architect level; - Flexible schedule."
@@ -7243,7 +7243,7 @@ Responsibilities:
 => build business relations with Management, Employees, Colleagues, Contractors
 In the past:
 => development of circuits using microcontrollers: ATmega, ARM Cortex M3 (STM32), ALTERA FPGAs.
-=> writing the code for the microcontroller, making test models and samples of the final device.
+=> writing the code for the microcontroller, making test resume_classifier and samples of the final device.
 => search and purchasing of materials, microchips, equipment for further development
 System administrator
 (or DevOPS - Intern, Junior)"
@@ -8100,7 +8100,7 @@ devops,"(Prepaid Cards): Працював над рішенням для поп�
 (Gamification): Працював над розробкою системи, яка мотивує користувачів через ігрові елементи, підвищуючи залученість і продуктивність команди, займався розробкою функціоналу, що включає винагороди, рейтинги, значки або завдання, які допомагають створити змагальний дух і сприяти досягненню цілей.
 Технології: .Net, MsSQL, Python, JS,  MongoDB, Redis, RabbitMQ, Azure DevOps, AWS, Jenkins, Docker, Kubernetes.
 Шукаю українську компанію або проєкт для довготривалої співпраці, де я буду не лише виконавцем завдань, а невід'ємною частиною команди. Мені важливо бути залученим у розвиток проєкту та працювати у теплій, дружній атмосфері, де цінується особистий внесок. Уникаю середовищ із таймтрекерами та овертаймами."
-devops,"I have experience in the field of shared hosting, VPS (Linux/Windows), DNS, and domain name management. I have mastered the functionality of the control panel cPanel, ISPmanager, DirectAdmin, InterWorx, Plesk. Assisted clients in providing technical information on the operation of services and websites, including troubleshooting and troubleshooting.
+devops,"I have experience in the field of shared hosting, VPS (Linux/Windows), DNS, and domain Name management. I have mastered the functionality of the control panel cPanel, ISPmanager, DirectAdmin, InterWorx, Plesk. Assisted clients in providing technical information on the operation of services and websites, including troubleshooting and troubleshooting.
 Daytime shifts only, no calls, no chats."
 devops,"Automation of Containerized Service Deployment using Docker, GitHub Actions, and AWS
 Description: This project automates the deployment of containerized services using Docker and GitHub Actions to build and push images to Amazon ECR. Services are deployed on EC2, and the infrastructure is managed via the AWS Console. CI/CD ensures efficient deployments and scalability.
@@ -8609,7 +8609,7 @@ Looking ahead, I aim to enhance Kubernetes expertise, particularly in scaling, s
 devops,"I've been programming since 1986.
 Since 1993 I have been working as a realtor.
 Since 1994, I have been developing, testing and operating real estate software as a customer.
-Since 1997, I have been writing Bash scripts and RegEx for text processing as part of real estate database tasks.
+Since 1997, I have been writing Bash scripts and RegEx for Text processing as part of real estate database tasks.
 Experience with cmd both in DOS and Linux з 1989 року.
 Test automation, both in Selenium and with Bash.
 Virtual machines. Asterisk*
@@ -8629,17 +8629,17 @@ I currently live in Norway.
 З червня 2022 року верстаю сайти для власних потреб.
 З вересня 2023 року працюю як trainee front-end розробник на волонтерських засадах у навчальному проекті.
 Зараз мешкаю в Норвегії.
-Since 1997, I have written megabytes of scripts and regular expressions to extract useful information from arbitrary text in order to automate addition to a database.   I have developed, tested and put into operation three real estate software products in Kharkov. The last development was launched in 2016, operated and maintained until February 24, 2022.
+Since 1997, I have written megabytes of scripts and regular expressions to extract useful information from arbitrary Text in order to automate addition to a database.   I have developed, tested and put into operation three real estate software products in Kharkov. The last development was launched in 2016, operated and maintained until February 24, 2022.
 Since June 2022, developed several websites for his own use.
 Since September 2023, developed several website pages for a training project as an intern in the frontend team.
-I expect to get a remote job, but if necessary and the salary allows, I can move to another place.
+I expect to get a remote job, but if necessary and the Salary allows, I can move to another place.
 I love solving complex problems, especially when it comes to algorithms or data processing."
 devops,"GCP certified.
 DevOps processes setup and maintenance for small to middle sized Datascience team in AWS and GCP services.
 Databricks basic administration. System administration (maintenance, deploy and troubleshooting of the VM under my jurisdiction). Ansible playbooks  deployment and Terraform modules maintenance.
 Lift-n-shift migration from AWS to Azure using IaC methodology.
 Solo managing and administrating of full DevOps process in datascience project, from the first commit to final deploy to customer.
-I am looking for opportunity to enter MLOps field, considering that I am open to discuss changes in salary.
+I am looking for opportunity to enter MLOps field, considering that I am open to discuss changes in Salary.
 I can work solo, but much more prefer working in small teams.
 AWS and/or GCP cloud is preferable.
 Willing to build systems from scratch and continuously learn and share my experience.
@@ -8766,8 +8766,8 @@ I worked at an enterprise company on a mobile application project. My responsibi
 Writing my own application that was connecting to Kubernetes API, taking cluster data comparing and sending to a Telegram chat notifications, when new service was deployed. Production migration. Managing a team of 3 people.
 Less system administration and outdated technology. Less legacy"
 devops,"Experienced AI Engineer with a strong background in Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI). Specialized in developing and optimizing Large Language Models (LLMs), implementing Retrieval-Augmented Generation (RAG) systems, and fine-tuning transformer-based architectures for NLP applications.
-Proficient in designing and deploying AI-driven solutions for enterprise-scale environments, leveraging cloud platforms such as AWS, GCP, and Azure. Skilled in MLOps, model monitoring, and automation, ensuring efficient lifecycle management of AI models using Kubernetes, Docker, and CI/CD pipelines.
-Strong expertise in vector databases (e.g., Pinecone, FAISS, ChromaDB) and embedding techniques for enhancing information retrieval and AI-driven search applications. Experienced in integrating AI models with RESTful APIs and microservices, optimizing inference performance for real-time applications.
+Proficient in designing and deploying AI-driven solutions for enterprise-scale environments, leveraging cloud platforms such as AWS, GCP, and Azure. Skilled in MLOps, model monitoring, and automation, ensuring efficient lifecycle management of AI resume_classifier using Kubernetes, Docker, and CI/CD pipelines.
+Strong expertise in Vector databases (e.g., Pinecone, FAISS, ChromaDB) and embedding techniques for enhancing information retrieval and AI-driven search applications. Experienced in integrating AI resume_classifier with RESTful APIs and microservices, optimizing inference performance for real-time applications.
 Hands-on experience in AI security, ethical AI, and compliance with industry standards such as GDPR and SOC-2. Passionate about AI infrastructure, distributed computing, and efficient model deployment, ensuring scalability and cost-effectiveness.
 Collaborated with cross-functional teams, including data scientists, DevOps, and product managers, to develop innovative AI-powered solutions. Continuously exploring LLMOps and platform engineering trends to enhance AI-driven applications."
 devops,"Implemented and maintained CI/CD pipelines using Jenkins, GitLab CI. Orchestrated containerized applications using Kubernetes and Docker, supporting 400+ microservices. Monitoring system health and performance using Prometheus, Grafana, Zabbix. Maintain and improve cloud infrastructure on AWS. Implement security best practices and compliance requirements. Mentor junior DevOps engineers.
@@ -9024,7 +9024,7 @@ devops,"- *nix (*BSD/Deb/RHEL/SUSE-based);
 - hardware provisioning (pxe-deploy, pxe-diskless);
 - databases (MySQL/PostgreSQL/Clickhouse/mssql, some experience with NoSQL/kvs/search engines(redis/mongodb/influxdb/couchdb/etcd/elastic/solr));
 - service discovery (consul)/mesh(consul connect, istio);
-- scripting (bash/powershell/python(flask/celery/models/event-driven), serverless/functions(lambda/google) python;
+- scripting (bash/powershell/python(flask/celery/resume_classifier/event-driven), serverless/functions(lambda/google) python;
 - monitoring (InfluxDB/Prometheus+Grafana, Zabbix, Sensu, Weave Scope, native-cloud tools), alerting;
 - git;
 - storage (csi/legacy/rook);
@@ -9141,7 +9141,7 @@ Experienced in SOC incident response, security monitoring (QRadar), and maintain
 Looking to bring my expertise to a team focused on secure, scalable solutions."
 devops,"#### Only part time  #####
 /* under construction */
-I have 10 years expererience with different ci-cd shit, don't want to name it.
+I have 10 years expererience with different ci-cd shit, don't want to Name it.
 Not just DevOps but en enjeneer.
 DevOps is a part of my life, the part i have most expensive with. After all challenges I faced last years i consider myself as an Engineer. The guy who is going to solve problems. My goal is to identify where the real issue is and propose a solution.
 What is DevOps for me? It's not just set up a CI/CD or something. It's boring, any junior engineer can do it after realising that everything is written in documentation. DevOps is more like to see whole project, find the weakest parts and fix them. It's to take the responsibility for slowing issues that other team members can't fix and find a solution.
@@ -9150,7 +9150,7 @@ What is engineer for me? It's like to take a new, unknown technology, study it, 
 Bring life to stillborn project. It's not about just setting up ci/cd. It's about research of the whole project, finding weakest parts and suggesting a solution.
 AWS DevOps professional certification.
 #### Only part time  #####
-Work shouldn't be boring and overregulated. I have experence with companies where you can write one email a day and wait for resoult. It's definitlly not for me
+Work shouldn't be boring and overregulated. I have experence with companies where you can write one Email a day and wait for resoult. It's definitlly not for me
 Go to nowere with nothing and bring a solution - it's more likely to me."
 devops,"Work Experience Overview
 I have over 5 years of DevOps experience and a decade in IT, working on projects involving Kubernetes orchestration, GitOps, automation, and cloud infrastructure across diverse environments. My roles have spanned managing on-premises Kubernetes clusters with Rancher to designing scalable, high-availability cloud solutions on AWS and Azure.
@@ -9238,7 +9238,7 @@ Why should you hear me:
 •	I have a passion for this job I believe that passion translates into results.
 •	I’m driven to succeed and deliver results
 But always I had only one main goal. Grow as a Strong specialist in the long term who will build multi-level Enterprise systems, using the latest technologies, like machine learning, blockchain, or others. As lead or Chief Officer, in the future, I would love to take on a lead role and help the team succeed and achieve goals.
-Continuous professional growth and creation of new products, a lot of responsibility and opportunities for self-realization, which attract to the constant growth of salary."
+Continuous professional growth and creation of new products, a lot of responsibility and opportunities for self-realization, which attract to the constant growth of Salary."
 devops,"•
 DevOps Internship, SOFTSERVE INC
 4 months
@@ -9435,7 +9435,7 @@ Technology list: Python3, Ansible, Terraform, Kubernetes, praying, meditation
 - Research & implement Spinnaker as the main CI/CD tool for the multi cloud Kubernetes based customers
 - Research & implementation of the Prometheus and Grafana as the main monitoring and alerting solution for the Production grade environment
 - Research & implementation of the tuned ELK stack as the main logging and alerting solution(with ElastAlert) for the Production grade environment
-Interesting projects. Good management. New technologies. Professional growth. Decent salary. Team with a high engineering level. Time for yourself and for the family. Programming perspective"
+Interesting projects. Good management. New technologies. Professional growth. Decent Salary. Team with a high engineering level. Time for yourself and for the family. Programming perspective"
 devops,"Support, upgrade and implement new solutions for hybrid corp infrastructure (GCP, Azure, AWS, on-prem) for fintech project
 Implemented VPN network based on docker containers
 Created CI/CD pipelines for java and python projects. Support and prepare environments for Demo and POC"
@@ -9758,7 +9758,7 @@ Responsibilities:
 Access control system on peaq - role based access control and digital identities over DLT.
 Automotive EV charging - solution for automotive over Blockchain for electrical vehicles.
 peaq DLT - technology, algorithms, architecture, whitepaper and development.
-CVO Portal - Proximity Marketing Apps, Real-time location system (RTLS), Indoor navigation.
+CVO Portal - Proximity Marketing Apps, Real-time Location system (RTLS), Indoor navigation.
 WiBeat BLE - Bluetooth 4.2 && 5.0 Beacon.
 WiRange - Gateway for our tracking system
 DMarket - web application for trading virtual assets with own Blockchain that supports multiple type of transactions.
@@ -9925,7 +9925,7 @@ Containerization and Deployment: Docker, Kubernetes, Jenkins
 - Detail-oriented software engineer with a keen eye for accuracy and a track record of delivering high-quality work that meets or exceeds project requirements"
 devops,"I currently lack experience in commercial projects, however, I am ready to gain it. I have some practical experience in developing simple web applications and deploying in cloud environments, particularly on Azure, Google Cloud, AWS, and GitHub Pages. I also have some experience in integrating the Auth0 authentication system into web applications and deploying a web application on Linux in a virtual machine using Vagrant.
 • Web Application Deployment on Cloud Environments: deployed web applications on GitHub Pages, Render, AWS, and Google Cloud, integrating authentication with Auth0 and setting up virtual machine environments with Vagrant.
-• Terraform Infrastructure for Node.js Application: designed and deployed EC2 Auto Scaling infrastructure with Docker, implementing load balancers and security configurations on AWS using Terraform. Bonus task: Set up email notifications for scaling events using CloudWatch and SNS.
+• Terraform Infrastructure for Node.js Application: designed and deployed EC2 Auto Scaling infrastructure with Docker, implementing load balancers and security configurations on AWS using Terraform. Bonus task: Set up Email notifications for scaling events using CloudWatch and SNS.
 • Django Application Deployment to AWS ECS with Terraform: automated deployment and infrastructure configuration for a Django application on AWS ECS using Terraform.
 • Infrastructure Configuration for Django Application with Terraform & Ansible: set up and configured infrastructure with Terraform and Ansible for seamless application deployment.
 I want to actively participate in team projects where I can gain practical experience working with infrastructure, automation, and other key aspects. I hope to receive valuable mentorship and acquire the skills necessary for a successful career in development and infrastructure management."
@@ -10262,7 +10262,7 @@ Kubernetes
 Професійне зростання, стабільна заробітня плата.
 Абсолютно не готовий до нічних змін, кейлоггерів та програм, що роблять скріншоти екрану.
 Усі інші пропозиції з радістю розгляну."
-devops,"DevOps-інженер із знанням Linux і практичним досвідом в адмініструванні серверів, автоматизації та підтримці високонавантажених систем. Розгортав Kubernetes bare-metal кластери, а також будував приватну хмару на OpenNebula, забезпечуючи її відмовостійкість і масштабованість. Розробляв автоматизоване створення стейдж-оточень на базі LXC-контейнерів в OpenNebula, використовуючи Ansible для розгортання сервісів (PHP, Memcached, Redis, Centrifugo, PostgreSQL, Nginx, Minio S3, filebeat, vector, а також  frontend\backend build)
+devops,"DevOps-інженер із знанням Linux і практичним досвідом в адмініструванні серверів, автоматизації та підтримці високонавантажених систем. Розгортав Kubernetes bare-metal кластери, а також будував приватну хмару на OpenNebula, забезпечуючи її відмовостійкість і масштабованість. Розробляв автоматизоване створення стейдж-оточень на базі LXC-контейнерів в OpenNebula, використовуючи Ansible для розгортання сервісів (PHP, Memcached, Redis, Centrifugo, PostgreSQL, Nginx, Minio S3, filebeat, Vector, а також  frontend\backend build)
 У зону моєї відповідальності входила підтримка як стейджингових, так і продакшен-оточень, включно з моніторингом і логуванням з використанням ELK, Vector, Prometheus, Grafana, Alertmanager і Datadog. Працював із мережевою інфраструктурою, налаштовував VPN-з'єднання (WireGuard, IPsec), балансування навантаження і реверс-проксі на Nginx. Крім того, за допомогою Puppet конфігурував і автоматизував сетап bare-metal серверiв пiд проект. Маю навички діагностики та усунення інцидентів.
 Маю хендс-он досвід роботи з серверним обладнанням - комплектував, збирав і встановлював сервери в дата-центрах."
 devops,"Expertise Areas
@@ -10273,7 +10273,7 @@ CI/CD & DevOps: GitHub Actions, ArgoCD, AWS CodePipeline, GitLab CI/CD, Jenkins
 Monitoring & Security: Prometheus, Grafana, CloudWatch, Datadog, SOC2 Compliance
 Software Development: API/REST, Software Architecture Design, SRE, TCP/IP
 System Administration: Windows, Unix/Linux, SCADA, Fermworks, Ignition
-AI & Data Processing: Machine Learning pipelines, LLMs, text embedding models, OpenAI, Amazon Bedrock
+AI & Data Processing: Machine Learning pipelines, LLMs, Text embedding resume_classifier, OpenAI, Amazon Bedrock
 Blockchain & Smart Contracts: Solidity, Decentralized Exchanges, Security Audits, Optimism, SKALE
 Certifications & Achievements
 Certified in AWS, GCP, Kubernetes, Terraform, Machine Learning
@@ -10940,7 +10940,7 @@ Infrastructure as Code (IaC): Глибокі знання Terraform для ке�
 Контейнеризація: Контейнеризація Python-застосунків за допомогою Docker, їхня оркестрація через Kubernetes.
 Операційні системи: Адміністрування Linux, написання shell-скриптів, робота з Windows Server.
 Веб-сервери: Конфігурація та супровід NGINX, робота з протоколом uWSGI.
-Керування email-інфраструктурою: Досвід роботи з iRedMail-стеком для керування поштовими сервісами.
+Керування Email-інфраструктурою: Досвід роботи з iRedMail-стеком для керування поштовими сервісами.
 Бази даних: Адміністрування та оптимізація PostgreSQL і MongoDB.
 CI/CD та автоматизація: Володію процесами та інструментами CI/CD, такими як GitLab CI/CD
 Системи контролю версій: Досвід використання Git для командної роботи та контролю змін у коді.
@@ -10999,7 +10999,7 @@ Contributed to the planning and execution of application modernization and migra
 - Executing proof of concepts (POCs) to designs and solutions. Configuring and maintaining CI/CD pipelines with Jenkins, harness, and GitHub. Securing and configuring databases for optimal functionality with minimal security risk.
 I am eager to create meaningful real-life interactions through technology and take on new challenges with a great passion for solving problems, building extraordinary experiences, and lasting value for customers."
 devops,"I’m a DevOps Engineer with solid hands-on experience in cloud-native environments, AI/ML infrastructure, and secure automation. I've supported engineering teams in complex projects involving Kubernetes, Terraform, Helm, CI/CD (GitLab, Jenkins), and GitOps workflows. My background spans maintaining scalable microservices, implementing DevSecOps practices, and mentoring future DevOps professionals through practical, industry-aligned training programs.
-I’ve successfully improved the performance and reliability of critical AI components, including a 3x optimization of Whisper (speech-to-text), introduced new custom features into Langflow, and significantly strengthened infrastructure security. I led a team to victory in an AI DevOps Hackathon, delivering an LLM-powered GitHub PR review tool with a focus on automation and compliance. My mentorship work has received positive feedback for helping students gain confidence and clarity in complex DevOps topics.
+I’ve successfully improved the performance and reliability of critical AI components, including a 3x optimization of Whisper (speech-to-Text), introduced new custom features into Langflow, and significantly strengthened infrastructure security. I led a team to victory in an AI DevOps Hackathon, delivering an LLM-powered GitHub PR review tool with a focus on automation and compliance. My mentorship work has received positive feedback for helping students gain confidence and clarity in complex DevOps topics.
 I’m looking to join forward-thinking teams where I can contribute to building reliable, secure, and scalable systems—especially in AI/ML or high-load environments. I’m passionate about automation, observability, and DevSecOps, and I’m eager to apply my experience to projects that value innovation, quality engineering, and continuous improvement."
 devops,"About Me:
 Highly motivated professional focused on DevOps and cloud technologies, with 2 years of experience in the IT industry.
@@ -11173,7 +11173,7 @@ Manage MongoDB clusters;
 Manage DNS server on CloudFlare;
 Cost optimization;
 Moving Azure DevOps to Bitbucket/Jira;
-Configuration k8s alerting to customer email via Alertmanager.
+Configuration k8s alerting to customer Email via Alertmanager.
 Technologies: Azure, AWS, Terraform, ECS, AKS, Docker, CloudFlare, Prometheus, Alertmanager, ECR, Jenkins, MongoDB, Key Vault, Service Bus, Azure AD, Bitbucket
 DevOps Engineer
 Business banking product
@@ -11489,7 +11489,7 @@ Member, MLH Community
 New experience, new knowledge interesting people to work with and to learn from.
 A friendly environment is always better, but proper communication is necessary for an environment with room for growth."
 devops,"I’m Hosting Support Specialist at Namechep.
-I provide technical support for shared hosting, VPS, and dedicated server customers, troubleshooting web hosting, DNS, email, and server-related issues. Manage and troubleshoot cPanel/WHM, Apache, Nginx, and database-related issues. Investigate and resolve email delivery problems, including SMTP, IMAP, and spam filtering. Utilize Linux command-line tools, Bash scripting, and networking knowledge to diagnose and resolve technical issues efficiently."
+I provide technical support for shared hosting, VPS, and dedicated server customers, troubleshooting web hosting, DNS, Email, and server-related issues. Manage and troubleshoot cPanel/WHM, Apache, Nginx, and database-related issues. Investigate and resolve Email delivery problems, including SMTP, IMAP, and spam filtering. Utilize Linux command-line tools, Bash scripting, and networking knowledge to diagnose and resolve technical issues efficiently."
 devops,"Mostly interested and skilled at: software design (object-oriented, functional; DDD); Agile/Lean philosophy and implementation; mentoring & teaching.
 Enjoys working on both high (product, requirements, solutions) and low (design & implementation) levels at the same time. Flexible in dealing with variety of problems and domains regardless of their nature and technology applied.
 So far mostly worked on: software architecture & design (OOAD, DDD, BDD); C#, F#, .NET Core; serverless, Azure Functions, Azure Storage, Azure Service Bus, Azure Search; AWS; GCP; CI/CD, Angular, Vue, React; Kubernetes, Docker, Linux,  Lean, Agile, Kanban, Scrum, team leadership, product ownership, mentoring.
@@ -11511,7 +11511,7 @@ Certified in:
 - Developing Microsoft Azure Solutions
 - Microsoft Power Platform
 - and more
-Should you be interested, please ping me by email/IM.
+Should you be interested, please ping me by Email/IM.
 — Successful projects go-live and production maintenance
 — Massive product transformations with architecture/design improvements, waste reduction, major feature renovations, all in tight time scale with a small yet efficient team
 — Team people development and motivation, mentoring
@@ -11722,7 +11722,7 @@ I am looking for a product company that hosts most of the infrastructure in Goog
 devops,"as a system developer I was involved in many projects through the years like Developing Drone Ground control system software's, UX /UI design for UAV traffic managements and telemetry dashboard for Autonomous Tank and so on. As a Devops Engineer I Spearheaded the design and implementation of CI/CD pipelines, reducing deployment time and improving overall software delivery efficiency and so on.
 Managed and optimized cloud resources on AWS/Azure/GCP resulting in a 50%reduction in operational costs
 Better Understanding of trend technologies around the Devops Engineering."
-devops,"2 years of work experience at FRINET LLC as a technical support operator of the 1st category, so I have the skills to work in a team.  Have experience to work with:
+devops,"2 years of work experience at FRINET LLC as a technical support operator of the 1st Category, so I have the skills to work in a team.  Have experience to work with:
 - Support on network and/or hardware issues for end-users
 - Support for business customers and engineers
 Now I work at TASKOMBANK as a chief monitoring specialist:
@@ -12078,7 +12078,7 @@ A team that is motivated and collaborative.An environment where knowledge sharin
 What I don't want:
 A toxic or overly competitive atmosphere where collaboration and knowledge sharing are not prioritized"
 devops,"I know how to build fault tolerant, scalable at the same time cheap and fun infrastructures, love automating infrastructure as a code (currently using aws stack + terraform + docker + k8s), love creating nice CI/CD pipelines as well as monitoring all the ~shi~ staff that was built. Love when everything is working as expected and making sure that all i do is following this principle.
-Not willing to relocate, but can act as remote contractor that doesnt need supervision, and works silently and efficiently as ninja, also appearing when needed (if someone of devs wants some help or knowledge sharing). I will not talk to you if you cannot say salary range for your position, sorry.
+Not willing to relocate, but can act as remote contractor that doesnt need supervision, and works silently and efficiently as ninja, also appearing when needed (if someone of devs wants some help or knowledge sharing). I will not talk to you if you cannot say Salary range for your position, sorry.
 Have experience with heavy DDoS attacks of different types (100+ Gbps and 500k+ botnets).
 Have experience in lowering down api response time from 3-4 seconds to 0.9s.
 Have experience with smooth cross-continental moving of high loaded applications.
@@ -12658,7 +12658,7 @@ Currently, I lead DevOps efforts - designing cloud infrastructure, optimizing CI
 - Led DevOps efforts in a security-critical environment, implementing infrastructure hardening, IAM policies, and Vault-based secrets management.
 - Maintained personal testing infrastructure (6 servers, up to 84 vCPUs, 128 GB RAM) to continuously explore and improve DevOps toolchains.
 I’m looking for a fully remote DevOps role with a strong engineering culture, clear processes, and autonomy in decision-making. I enjoy working on challenging infrastructure tasks, improving CI/CD, automating everything possible, and optimizing cloud costs and performance. I value transparency, respectful communication, and working with professionals who are passionate about what they do.
-I’m not interested in office or hybrid work, micromanagement, or companies with chaotic communication and unclear expectations. I prefer long-term cooperation over short freelance tasks, and I avoid roles that are tied to a specific physical location without flexibility."
+I’m not interested in office or hybrid work, micromanagement, or companies with chaotic communication and unclear expectations. I prefer long-term cooperation over short freelance tasks, and I avoid roles that are tied to a specific physical Location without flexibility."
 devops,"Participate in building own public cloud solution. Completed transformation from monolith app to service-oriented architecture by implementing DevOps practices to SDLC using Ci/CD with ruby/python services with Docker Swarm, GitLab CI and Ansible, transforming development team mindset for efficient product delivery. For last 2 years taking key lead technical role at one of new cloud features."
 devops,"DevOps/SRE
 - AWS Lambda/Python, IAM, EC2, EBS, S3, VPC, CloudWatch, CloudTrail, Cost Explorer etc. operations
@@ -12687,7 +12687,7 @@ Passionate about leveraging technology to create efficient, robust solutions for
 - Achieved long-term client retention, with multiple clients staying with the company for over 5 years.
 - Seeking stability and long-term collaboration with a reputable company.
 - Looking for a position in a large organization with established processes and structure.
-- Expecting regular salary reviews to reflect performance and market trends.
+- Expecting regular Salary reviews to reflect performance and market trends.
 - Interested in a work environment that supports efficient performance and personal growth.
 - Eager for opportunities for both career advancement and professional development within the company."
 devops,"About 15 years of overall experience, more than 10 of it as DevOps engineer. I have good skills in building CI/CD processes (Jenkins, Bamboo, Chef), describing infrastructure as code (Terraform, CloudFormation, PowerShell, Bash, Python, Ruby), creating infrastructure in AWS (VPC, EC2, Lambda, S3, Route53, SSM, IAM, LB, ASG, CloudWatch),  creating GitLab pipelines, administering databases (MSSQL, MongoDB, Redis), writing unit tests (Pester).
@@ -12966,7 +12966,7 @@ devops,"Since April 2024, I’ve been working as a freelance IT specialist focus
 – Configured secure network environments using MikroTik, VPNs, and firewall solutions.
 – Completed the AWS Cloud Practitioner Essentials course and currently participating in the AWS Challenge by EPAM.
 – Designed a scalable backend system capable of handling high-volume data with improved database query performance.
-My main goal is to gain real-world experience and deepen my practical skills in IT. I’m highly motivated to learn, grow, and contribute to a team environment. A high salary is not my priority — professional development and mentorship are far more important to me at this stage."
+My main goal is to gain real-world experience and deepen my practical skills in IT. I’m highly motivated to learn, grow, and contribute to a team environment. A high Salary is not my priority — professional development and mentorship are far more important to me at this stage."
 devops,"DevOps Engineer in Blockchain Domain [NDA]
 09/2024 - Present
 DevOps Engineer in ITSyndicate
@@ -13621,7 +13621,7 @@ Constantly learning and improving my practical experience.
 Online sales stores.
 Connecting KYC verification to the site.
 I will consider your proposals for payment for the work"
-devops,"I have made most of my experiences with on-premise solutions. I am currently looking for opportunities to deepen the knowledge and gain valuable experience of cloud computing, containerization, serverless solutions and infrastructure as code. Also, I am looking to improve with Haskell-related DevOps. At the moment I am acquiring the missing knowledge by myself using available resources, but would highly appreciate any opportunity to gain more practical experience. I would be the most comfortable at a DevOps position (without a level or a specific title).
+devops,"I have made most of my experiences with on-premise solutions. I am currently looking for opportunities to deepen the knowledge and gain valuable experience of cloud computing, containerization, serverless solutions and infrastructure as code. Also, I am looking to improve with Haskell-related DevOps. At the moment I am acquiring the missing knowledge by myself using available resources, but would highly appreciate any opportunity to gain more practical experience. I would be the most comfortable at a DevOps position (without a level or a specific Title).
 Built an app for improving the effectiveness of software development collaboration with the primary focus on DevOps. Best in Ukraine at Atlassian tools in 2019. Was admitted to the CS department ranked top 5 worldwide. Won an award for the best Master's thesis about Software Configuration Management.
 On-premise solutions are in the past, I don't want to work with them anymore."
 devops,"Configured AWS EC2 server with Ansible, automating the installation of necessary services and dependencies. Implemented a CI/CD pipeline in Jenkins that fetches code from GitHub using Webhook, builds a Docker image, and deploys it to the server.
@@ -13728,7 +13728,7 @@ I offer a strategic approach that includes optimizing your cloud infrastructure,
 Let’s discuss how I can help you build a resilient, high-performing infrastructure that enables your team to deliver faster and more reliably.
 With my help, your team can focus on delivering value to your customers, confident that your infrastructure is secure, scalable, and prepared for growth.
 Without the right DevOps and system management strategy, you could face delays, security risks, and missed opportunities, stalling your company’s progress
-Please feel free to contact here or email vitalii.domaratskyi at icloud.com"
+Please feel free to contact here or Email vitalii.domaratskyi at icloud.com"
 devops,"•Dockerizing web applications
 •Creating a local development environment for developers (docker, docker-compose)
 09/2022 – present
@@ -13990,7 +13990,7 @@ devops,"Leadership: Cross-team communication, retrospectives, stakeholder engage
 Backend: PHP (5/7/8) with Symfony, Laravel, Yii; event-driven programming with ReactPHP; Node.js utility development.
 DevOps: Cloud providers (AWS, Scaleway, DigitalOcean), CDNs (Cloudflare, CloudFront, StackPath), CI/CD pipelines, container orchestration, Kubernetes, IaC (Helm, Terraform, Ansible).
 Frontend: Modern frameworks (React, Angular, Vue.js) with emphasis on Vue.js and SPA development.
-Integrations: Payment, iGaming, airline/hotel, email, IM, mapping, cloud, task management, VCS, and more.
+Integrations: Payment, iGaming, airline/hotel, Email, IM, mapping, cloud, task management, VCS, and more.
 Product/Game Design: New feature development, gamification, user retention strategies, and Unreal Engine 5 fundamentals.
 AI enthusiast: Daily use of ChatGPT, GitHub Copilot, and exploration of self-hosted AI solutions (Tesseract OCR, Whisper).
 Developed and implemented an in-house container orchestration solution featuring a flexible interface, configuration file template engine, and pipelines.
@@ -14334,7 +14334,7 @@ integrations.
 - Collaborative team player, experienced with GitLab workflows and cross-functional coordination for seamless deployments."
 devops,"Dedicated DevOps Engineer | 7+ Years of Experience in Automation & Optimization
 Specializing in automation and optimizing project workflows to achieve cost-effective, scalable, developer-friendly infrastructure solutions. Beyond my professional expertise, I have a keen interest in electronics and drone engineering.
-Throughout my career, I have worked on diverse projects across companies of various scales, including both product and outstaffing models. I have hands-on experience as the sole DevOps engineer for projects and as part of large international teams of up to 30 engineers. My strong communication skills allow me to effectively present complex technical concepts to both technical and non-technical stakeholders.
+Throughout my career, I have worked on diverse projects across companies of various scales, including both product and outstaffing resume_classifier. I have hands-on experience as the sole DevOps engineer for projects and as part of large international teams of up to 30 engineers. My strong communication skills allow me to effectively present complex technical concepts to both technical and non-technical stakeholders.
 Technologies:
 • Cloud technologies: AWS, GCP;
 • Containerization:  Docker, Docker Compose;
@@ -14571,7 +14571,7 @@ Create, set up Bastion host for DB
 Tools&Technologies: Gitlab CI/CD, GCP, CloudRun, Visual Studio Code, Docker
 DataBase: PostgreSQL 13
 2007 – March 2023: Retail Group Ltd. Fudkom (Ltd. VM RV"", LLC ""Kviza Trade"", LLC
-""Fudmerezha"" changed the legal name)
+""Fudmerezha"" changed the legal Name)
 Position: Senior computer systems engineer
 Functional responsibilities:
 • Administering, configuring, updating, maintaining server operating systems Windows 2003, 2008 and server software
@@ -14620,7 +14620,7 @@ Growth Opportunities: I am seeking a position that offers opportunities for prof
 Collaborative Culture: I thrive in collaborative team environments where ideas are openly exchanged and feedback is encouraged. I'm looking for a company that fosters a culture of teamwork and innovation.
 Challenging Projects: I am motivated by challenging work that allows me to apply my technical skills and problem-solving abilities. I want to be involved in projects that have a meaningful impact and contribute to the company's success.
 Work-Life Balance: Achieving a healthy work-life balance is important to me. I appreciate flexible working arrangements that allow me to manage my professional and personal commitments effectively.
-Competitive Compensation: I expect to be compensated fairly for my skills and experience. I am looking for a role that offers a competitive salary and benefits package.
+Competitive Compensation: I expect to be compensated fairly for my skills and experience. I am looking for a role that offers a competitive Salary and benefits package.
 What I Don't Want from Work:
 Micromanagement: I prefer a work environment where I am trusted to complete my tasks without excessive oversight. I believe in taking ownership of my responsibilities and delivering results.
 Toxic Culture: I want to avoid workplaces with a negative or toxic culture where employees feel undervalued or disrespected. A positive and inclusive atmosphere is important to me.
@@ -15128,7 +15128,7 @@ Participation in NADOG community.
 Team that want to automate their infrastructure.
 Work remotely from home."
 devops,"I graduated in Computer Engineering (Bachelor's degree) and in Communications and Computer Networks Engineering (Master's degree) at Politecnico di Torino. My studies and Internship experience (Thesis work) have provided me with broad proficiency in using engineering methods, tools, algorithms, programming skills, software packages, and techniques.
-Alongside this, I have developed Machine Learning models to summarize Clinical Notes and evaluate the summaries by applying evaluation metrics during my internship. I gained practical experience as an IT specialist where I was responsible for overseeing DevOps operations and worked as a Cloud Native Ops Engineer. I am currently employed as a Cloud Engineer
+Alongside this, I have developed Machine Learning resume_classifier to summarize Clinical Notes and evaluate the summaries by applying evaluation metrics during my internship. I gained practical experience as an IT specialist where I was responsible for overseeing DevOps operations and worked as a Cloud Native Ops Engineer. I am currently employed as a Cloud Engineer
 I am a passionate Cloud and DevOps Engineer with a strong background in designing, implementing, and optimizing cloud-based solutions. With extensive experience in Azure, AWS, and Alibaba Cloud.
 My expertise encompasses cloud architecture, cloud migration, infrastructure automation, containerization, CI/CD automation, infrastructure as code (IaC), and the use of cutting-edge technologies to streamline development processes. I thrive on solving complex challenges, from optimizing performance and cost-efficiency to ensuring the highest levels of security and compliance.
 I'm enthusiastic about taking on challenging engineering roles. I love learning, and then I love sharing what I learn to make it easier for the next person in line. Learning new things, developing myself, and providing value are my main driving forces. Interesting areas are AI, ML, Data Science, IT, IoT, High Technology, Networks, DevOps, Cloud Native Ops, and Blockchain."
@@ -15192,7 +15192,7 @@ Head of IT department
 Odessa commercial seaport (""NTT Terminal""). September 2008 to September 2009.
 System Administrator
 Mar-Simpleks – Odessa. July 2003 to May 2008
-As part of my work as a support engineer (Ireland, 1 year and 9 months of work, pharmacology), I wrote a set of scripts (13 different script programs) to collect and analyze data from remote systems. I conducted deep troubleshooting of the entire chain from the client to the cloud server. I carried out the process of migrating data from individual databases to the cloud infrastructure, for which I wrote a set of scripts with automation of the process. I supervised the full lifecycle of my user-class equipment (market monitoring - testing - position selection - rules and reality of equipment delivery - repair - disposal or sale of non-current items) within a company with more than 30,000 employees; I was in the lead in building a user equipment profiling system - the current system (Yandex) is based on my introductory and my experience. A separate line is the multimedia direction. Panels, meeting rooms (and their contents), acoustics for meeting rooms. A range of issues (research - selection of models for testing and environments - contacts with manufacturers - building an environment for testing equipment, building a PMI and testing itself - drawing conclusions).
+As part of my work as a support engineer (Ireland, 1 year and 9 months of work, pharmacology), I wrote a set of scripts (13 different script programs) to collect and analyze data from remote systems. I conducted deep troubleshooting of the entire chain from the client to the cloud server. I carried out the process of migrating data from individual databases to the cloud infrastructure, for which I wrote a set of scripts with automation of the process. I supervised the full lifecycle of my user-class equipment (market monitoring - testing - position selection - rules and reality of equipment delivery - repair - disposal or sale of non-current items) within a company with more than 30,000 employees; I was in the lead in building a user equipment profiling system - the current system (Yandex) is based on my introductory and my experience. A separate line is the multimedia direction. Panels, meeting rooms (and their contents), acoustics for meeting rooms. A range of issues (research - selection of resume_classifier for testing and environments - contacts with manufacturers - building an environment for testing equipment, building a PMI and testing itself - drawing conclusions).
 System administrator.
 Yandex. Ukraine – Odessa. March 2010 to June 2017
 Deputy Head IT department; second line specialist; System Administrator."
@@ -15497,7 +15497,7 @@ Looking for a long-term employment. Been cut-off with restructuration of the tea
 No gambling. No ruskies-related business.
 Prefer a remote, but can do mixed or full-time office.
 Do not expect\demand a ""nice office"" and ""free cookies"" - those aren`t marks of a good workplace, even though they may add to that.
-Expect a competitive salary according to my skills and expertise and reasonable working hours and  culture.
+Expect a competitive Salary according to my skills and expertise and reasonable working hours and  culture.
 I`m fine with occasional overtimes, but do not expect to have them constantly.
 Ready and open to demonstrate and prove skills i have and to learn new tricks whether situation requires.
 Want to be a part of a good team."
@@ -15614,7 +15614,7 @@ Linux administration.
 Working with servers, monitoring services, collecting logs.
 Writing simple scripts for automation. Assisting employees with equipment and its setup.
 Fast learner, stress resistance. And so once the general soft skills are developed. it helps me to always be in the ranks, to be ready for any work and great achievements"
-devops,"Hi, my name is Serhii.
+devops,"Hi, my Name is Serhii.
 I have been working in IT for more than 15 years. During these years I have worked in many directions.
 Now I am looking for a job as a System Administrator or Junior DevOps Engineer.
 My best skill is analyzing problems and solving them.
@@ -15669,7 +15669,7 @@ devops,"I can handle basic tasks, but I need a mentor to help with more complex 
 devops,"Work experience:
 System Administrator.
 - Managed Windows and Linux servers, ensuring the smooth operation of the network.
-- Set up, configured and administered the Postfix email system.
+- Set up, configured and administered the Postfix Email system.
 - Installed and configured the Proxmox virtualization platform.
 - Developed and implemented the Zabbix monitoring system to continuously monitor network and server performance.
 - Provided support and maintenance of more than 300 workstations, including configuration, installation of updates, and debugging.
@@ -15872,7 +15872,7 @@ Mentored junior devs to enhance their coding skills and professional growth with
 Python Engineer | 03/2020 – 09/2020 | QueGree (International consulting company) | Ukraine, Remote
 Designed and implemented a Python API service based on Django for preparing for school exams
 Integrated the UnitPay payment system with the API to ensure transparency of payments
-Attracted 300+ active users through an architected email-notifications distribution system
+Attracted 300+ active users through an architected Email-notifications distribution system
 Python Engineer | 09/2018 – 12/2020 | Simon Kuznets Kharkiv National University of Economics | Ukraine, Hybrid
 Automated the generation of certificates of completion of courses using Django & MySQL
 Created a user-friendly QR code-based access system for streamlined access to service resources
@@ -16585,7 +16585,7 @@ Part-time Subject Matter Expert: assistance with exceptionally complex cases, kn
 Customer Support - SSL/TLS product
 Expertise in SSL lifecycle processes, advanced server security configurations, SSL installations on various platforms, DNS-related queries, web-hosting configuration, pre-sales questions, etc.
 Part-time CS Quality Assurance Specialist: assessing CS representatives' performance, and delivering detailed feedback to Team Leaders and representatives. Contributing to internal process analysis and procedures."
-devops,"My name is Illia, and I am seeking an entry-level position in DevOps to kickstart my career in this field. I hold a Bachelor's degree in Network and Internet Technologies from Taras Shevchenko National University of Kyiv, where I completed the CCNA course and gained hands-on experience with network protocols and configuring network systems. During my studies, I also started exploring DevOps tools such as Git, Docker, and Jenkins. Currently, I am pursuing a Master’s degree in Computer Systems and Networks at Kyiv Polytechnic Institute. Recently, I completed a paid DevOps internship, where I worked extensively with Linux-based virtual machines, created custom images, deployed Docker containers, and managed server infrastructure using Ansible. I also gained experience with Kubernetes, both locally and on AWS, utilizing services like EC2, ECS, and ELB. Additionally, I configured and managed Nginx web servers to ensure efficient web application performance.
+devops,"My Name is Illia, and I am seeking an entry-level position in DevOps to kickstart my career in this field. I hold a Bachelor's degree in Network and Internet Technologies from Taras Shevchenko National University of Kyiv, where I completed the CCNA course and gained hands-on experience with network protocols and configuring network systems. During my studies, I also started exploring DevOps tools such as Git, Docker, and Jenkins. Currently, I am pursuing a Master’s degree in Computer Systems and Networks at Kyiv Polytechnic Institute. Recently, I completed a paid DevOps internship, where I worked extensively with Linux-based virtual machines, created custom images, deployed Docker containers, and managed server infrastructure using Ansible. I also gained experience with Kubernetes, both locally and on AWS, utilizing services like EC2, ECS, and ELB. Additionally, I configured and managed Nginx web servers to ensure efficient web application performance.
 CCNA v6.0 1-4(Cisco Network Academy), AWS Internship program (Capgemini engineering)"
 devops,"Коли працював у банку - завершив проект по створенню та настройці мобільного робочого місця для клієнтів, які приходили у відділення банку.
 На теперішьому робочому місці займаюсь хмарною інфраструктурою та її підтримкою і розвитком.
@@ -16621,7 +16621,7 @@ Designed and implemented high-performance infrastructure for chip development.
 Managed complex Linux KVM virtualization environments with 100+ servers, optimizing resource utilization and ensuring seamless operation.
 Implemented automated monitoring and alerting systems to proactively identify and resolve issues, enhancing system reliability and minimizing downtime.
 Migrated web services to AWS, optimizing resource usage and improving scalability while reducing operational costs by 80%.
-Migrated the Mail service to Microsoft 365, improving email communication and ensuring high availability.
+Migrated the Mail service to Microsoft 365, improving Email communication and ensuring high availability.
 Orchestrated the deployment of Zookeeper, Kafka, and Mirrormaker2 with enhanced security features, including SASL, TLS, and ACL, across multiple data centers in 6+ countries.
 Actively evaluated and adopted emerging technologies and best practices to keep the infrastructure up-to-date and aligned with industry standards.
 Collaborated with cross-functional teams to define system requirements, create specifications, and oversee the procurement of hardware and software components.
@@ -16902,7 +16902,7 @@ I now have a strong understanding of AWS and its functionalities. My primary res
 - Independently acquired and continuously improved DevOps skills to enhance project performance and efficiency.
 - Successfully upgraded Magento from version 2.2 to 2.4.3, ensuring the system's stability and incorporating the latest features.
 - Quickly mastered Shopify, demonstrating adaptability and the ability to learn and implement new technologies efficiently.
-I am looking for a company with a collaborative and skilled team that will help me enhance my skills and knowledge. In return, I am eager to contribute my expertise to advance the company's goals. I also expect a competitive salary and opportunities for professional growth and career advancement."
+I am looking for a company with a collaborative and skilled team that will help me enhance my skills and knowledge. In return, I am eager to contribute my expertise to advance the company's goals. I also expect a competitive Salary and opportunities for professional growth and career advancement."
 devops,"Functional responsibilities for the position:
 - configuring and maintaining servers based on Unix/Linux;
 - building infrastructure using the IaC approach (Ansible, Terraform/Terragrunt);
@@ -16950,7 +16950,7 @@ Expectations related to your culture: team-mates share knowledge and experience,
 What concerns remuneration, I'm flexible, $2500+, let's say. It also depends on the tech stack you use, my proficiency with it, and my desire to study it, or get experience with it:
 - I'm senior with Ceph, Docker, Jenkins, Parcker, Ansible, among AWS - EC2,
 - middle with Kubernetes, IAM AWS,
-- beginner or no experience with Terraform, AWS Elastic Search, S3 and many other AWS, Postgres, MongoDB. To get work experience with it, I can go down with my salary expectations for a while."
+- beginner or no experience with Terraform, AWS Elastic Search, S3 and many other AWS, Postgres, MongoDB. To get work experience with it, I can go down with my Salary expectations for a while."
 devops,"Developed  software applications using Python and JavaScript frameworks, meeting project objectives within deadlines.
 Contributed to innovative topological data analysis projects, increasing client insights by 30%.
 Enhanced team productivity by 20% by adopting modern development tools."
@@ -17157,7 +17157,7 @@ devops,"Professional skills:
 - kubernetes + Gitlab CI/CD
 - building kubernetes clusters from scratch with Deckhouse
 - Git, GitHub, GitLab CI/CD
-- monitoring stack Prometheus + Grafana + Loki and alerting to telegram/email/slack. Also I have basic experience with collecting logs with GrayLog and alerting to telegram.
+- monitoring stack Prometheus + Grafana + Loki and alerting to telegram/Email/slack. Also I have basic experience with collecting logs with GrayLog and alerting to telegram.
 - installation, configuration MySQL, PostgreSQL, Mongo DB including in docker
 - experience with CoudFlare administration of DNS zones, SSL certificates, Load Balancers
 - assembly and maintenance of server racks
@@ -17201,10 +17201,10 @@ Skilled in Linux administration, containerization, Infrastructure as Code (IaC),
 networking, with a focus on building scalable, reliable solutions aligned with business goals.
 Proven ability to enhance service reliability and drive continuous delivery through
 impactful automation."
-devops,"Hello, My name is Ohad. I am an Israeli\European citizen living currently in Kiev and I have a diverse background in the technology field, with experience in DevOps, full-stack development, and system&network administration. Over the past Four years, I have been actively engaged in DevOps practices, where I have honed my skills in deploying, managing, and automating software development processes and infrastructure. Additionally, I have gained valuable expertise in full-stack development, contributing to both front-end and back-end development projects for a year. Prior to that, I spent three years as a system administrator and IT Manager, responsible for maintaining and optimizing the performance of various systems. Furthermore, I have earned AWS certifications, which demonstrate my proficiency in utilizing Amazon Web Services for cloud-based solutions, CCNA&CCNP Certificates, which demonstrate my proficiency in Network protocols and CKA Certificate proving my Kubernetes Administration skills. nowadays I am working on my AWS Solutions architect professional certification. I think my skill set are aligned with your requirements according to the job description and I would love to apply for this position. It is worth noting that English will be my primary language."
+devops,"Hello, My Name is Ohad. I am an Israeli\European citizen living currently in Kiev and I have a diverse background in the technology field, with experience in DevOps, full-stack development, and system&network administration. Over the past Four years, I have been actively engaged in DevOps practices, where I have honed my skills in deploying, managing, and automating software development processes and infrastructure. Additionally, I have gained valuable expertise in full-stack development, contributing to both front-end and back-end development projects for a year. Prior to that, I spent three years as a system administrator and IT Manager, responsible for maintaining and optimizing the performance of various systems. Furthermore, I have earned AWS certifications, which demonstrate my proficiency in utilizing Amazon Web Services for cloud-based solutions, CCNA&CCNP Certificates, which demonstrate my proficiency in Network protocols and CKA Certificate proving my Kubernetes Administration skills. nowadays I am working on my AWS Solutions architect professional certification. I think my skill set are aligned with your requirements according to the job description and I would love to apply for this position. It is worth noting that English will be my primary language."
 devops,"Memory updated
 To emphasize your transition from a backend developer and AI integrator to focusing more on DevOps, here's how you can modify your description:
-I initially worked as a backend developer and AI integrator, gaining experience in integrating machine learning and deep learning models into various applications. Over time, I began shifting my focus towards DevOps, working with automation, containerization, and orchestration to streamline the development process and AI model deployments.
+I initially worked as a backend developer and AI integrator, gaining experience in integrating machine learning and deep learning resume_classifier into various applications. Over time, I began shifting my focus towards DevOps, working with automation, containerization, and orchestration to streamline the development process and AI model deployments.
 My technical experience includes:
 Backend Development: Java, Go, C#, Python
 Frameworks: Spring Boot, ASP.NET Core, MVC, Web API
@@ -17362,7 +17362,7 @@ In my previous role, I worked extensively with various customer relationship man
 Additionally, I am proficient in using Microsoft Office Suite, Google Workspace tools and other relevant software applications such as Trello, Click Up, Slack, Zoom, Microsoft Teams, and Calendly.
 I also possess expertise in the following Virtual Assistance (Executive, personal, Administrative support),
 Email and calendar management.
-Appointment scheduling, email responses, and drive management. Preparing meeting agenda and taking comprehensive minutes.
+Appointment scheduling, Email responses, and drive management. Preparing meeting agenda and taking comprehensive minutes.
 Lead generation, appointment setting and Date Entry."
 devops,"• «EPAM Systems» | System Engineer: 04.2024 - present.
 • «EPAM Campus» | System Engineer (trainee): 05.2023 - 04.2024.
@@ -17646,7 +17646,7 @@ English Proficiency
 - Fluent in English with strong communication skills.
 - Comfortable participating in technical discussions, meetings, and presentations.
 I am looking for a challenging project where I can continuously develop my skills by working with modern technologies and best DevOps practices. I value collaboration with experienced colleagues and a supportive Team Lead from whom I can learn and grow professionally. My goal is to contribute to the team's success while enhancing my knowledge in cloud infrastructure, CI/CD, and automation processes.
-In terms of compensation, I am open to discussing a salary range between $1000 and $1500 per month, depending on the project complexity, responsibilities, and available learning opportunities. I am eager to prove my dedication and grow within the company."
+In terms of compensation, I am open to discussing a Salary range between $1000 and $1500 per month, depending on the project complexity, responsibilities, and available learning opportunities. I am eager to prove my dedication and grow within the company."
 devops,"Administrating Linux, Windows more 5 year
 The opportunity to work, learn and develop in a friendly team of a promising company
 In the future, get knowledge and experience in DevOps"
@@ -18318,7 +18318,7 @@ My stack is like a devops:
 For some time, I wrote websites on Wordpress.
 Also taught at several of the largest programming schools for children in Ukraine.
 Currently, I write software for trading and manage infrastructure at MAXBOX (maxbox.com.ua).
-I expect a stable salary, stable at least 2 days off per week (during which I will not answer calls or solve work issues). Paid vacation once a year (+-15 days)."
+I expect a stable Salary, stable at least 2 days off per week (during which I will not answer calls or solve work issues). Paid vacation once a year (+-15 days)."
 devops,"Основним видом моєї трудової діяльності була сфера медійного виробництва та суміжні з цією сферою технології. Починаючи з 2014 року, коли медійні технології обробки та передачі потоків медіа контенту стали інтенсивно інтегруватися з інформаційними технологіями та використовувати мережеві ресурси, вектор мого професійного розвитку направлений на вдосконалення навичок та знань у сфері ІТ.
 На даний момент стек технологій, які були мною вивченні вказані у описі мого профілю.
 На даний момент досвіду комерційного використання вивчених технологій не маю. Основний досвід : Sound engineering, AV system configuration and maintenance,  AV Network building and configuration, Dante Technologies, Monitoring systems building and configuration, Workflow automatisation.
@@ -18890,7 +18890,7 @@ seamless pod migration between nodes with zero service interruption during infra
 to the 100 hours estimated by an outstaff company, demonstrating exceptional technical expertise and
 efficiency
 - Replaced Calico with Flannel networking for improved cross-datacenter compatibility and
-implemented Ceph distributed storage cluster to enable location-independent database performance
+implemented Ceph distributed storage cluster to enable Location-independent database performance
 - Developed MinIO object storage solution to decouple image assets from specific nodes, eliminating a
 critical single point of failure in the legacy architecture
 - Enhanced CI/CD processes: Leveraged GitHub Actions and Helm to automate build, test, and
@@ -18949,7 +18949,7 @@ Middle Software Engineer
 September 2009 – June 2011:
 Self-employment
 Python/YUI/JS/HTML developement,
-Marketing email systems
+Marketing Email systems
 Middle Software Engineer
 Jule 2005 – September 2009:
 Lohika Inc, USA based outsourcing company, www[.]lohika[.]com
@@ -19269,7 +19269,7 @@ Integrity, honesty and straight feedback from the company and coworkers preferab
 devops,"•   Responsible for the customer support experience with Microsoft
 •   Provide first-level technical support and preliminary investigation to customer issues
 •   and service requests.
-•   Resolve customer’s issue via telephone, Chat, email or a remote session. Manage and track customers' issues.
+•   Resolve customer’s issue via telephone, Chat, Email or a remote session. Manage and track customers' issues.
 •   Diagnose and provide root cause analysis to customer issues.
 •   Own, troubleshoot and solve customer technical issues, using collaboration,
 •   troubleshooting best practices and transparency within and across teams
@@ -19570,7 +19570,7 @@ I want the ability to take ownership of projects and make key technical decision
 Collaborative Environment
 I appreciate a work culture where teamwork, knowledge sharing, and collaboration are encouraged. I want to work with colleagues who are passionate about technology and problem-solving.
 Flexible and Remote Work
-Flexibility in terms of work hours and location is important to me. A remote-first setup that allows me to manage my time efficiently while balancing personal and professional priorities is ideal."
+Flexibility in terms of work hours and Location is important to me. A remote-first setup that allows me to manage my time efficiently while balancing personal and professional priorities is ideal."
 devops,"маю досвід створення бота на aiogram3, також проходячи курс DevOps мав досвід налаштування наступних сервісів: Nginx, MYSQL, RabbitMQ, AWS(різні сервіси). Маю досвід написання простих-середніх скриптів на Bash та Ansible, пайплайнів на Jenkins. Використовував переважно AWS instances для налаштування, інколи писав Vagrant файли для локальних машин. Маю досвід із контейнеризацією, Docker.
 Я студент 2-го курсу КПІ спеціальність ""Кібербезпека"". Мав досвід з багатьма сервісами зі стеку DevOps. Пройшов сертифікацію AWS Certified Cloud Practitioner. Впевнено володію Linux, AWS, Docker, Багато працював з віртуальними машинами, мав досвід з детектування шкідливого програмного забезпечення, SQL, Kubernetes, розробляв телеграм бота на Пайтон та деплоїв два веб застосунки на AWS використовуючи різноманітні сервіси. Ця вакансія ідеально підходить мені, бо я мав певний досвід також і з моніторингу подій в системі, виявлення та аналіз поведінки при роботі шпз, знаю роботу протоколів OSI моделі. Бажаю все більше покращувати рівень своїх знань
 Хочу отримати можливість практично поглибити свої знання в сфері DevOps. Готовий розвиватися, проходячи додатково різні курси та сертифікації."
@@ -19858,7 +19858,7 @@ devops,"Have work experience on next technologies:
 • monitoring: nagios, icinga, zabix, munin
 • clouds: AWS, DO, Azure, OVH
 • bare metal: Hetzner, local data centers
-• email serveries: roundcube, zimbra, exim4, postfix
+• Email serveries: roundcube, zimbra, exim4, postfix
 • security: Roles, permission management
 • IaC: Ansible, Terraform
 • DB: Mysql, Postgres, SQL
@@ -20120,7 +20120,7 @@ Also important:
 ++ Professional development and career growth.
 ++ Time and opportunity to learn new technologies.
 I would not like to spend time if:
--- there are “pitfalls” when applying for work: including many interview stages, a trial period (probation  period with a lower salary) and/or a test task longer than 1-2 hours of time to complete.
+-- there are “pitfalls” when applying for work: including many interview stages, a trial period (probation  period with a lower Salary) and/or a test task longer than 1-2 hours of time to complete.
 I hope for a long and mutually beneficial cooperation! ))"
 devops,"I have over 6 years of experience in DevOps, specializing in building CI/CD processes, managing cloud infrastructure (AWS, Azure), and automation. Throughout my career, I have worked with the following technologies:
 - CI/CD Tools: GitLab CI, Jenkins
@@ -20654,7 +20654,7 @@ If you're a product company, you'll get a Fast Track to my heart!
 _______________
 I'm comfortable with interviews in English, both technical and HR. Also, business trips are acceptable for me, including abroad ones (I can leave the country)."
 devops,"I have work experience with such technologies: Ansible, GitLab (CI/CD), Saltstack, Python, Zabbix, Linux/Bash (Debian, Ubuntu, Fedora), Nginx, Apache, Php-Fpm, Docker (Docker Compose, Docker Swarm), OpenSSH, Wireguard, CloudFlare, NodeJS, PM2, Golang, AWS S3 and so on.
-Experience in analyzing and filtering the data flow of DNS Firewall users, reviewing the sites manually and assign them to the filter category.
+Experience in analyzing and filtering the data flow of DNS Firewall users, reviewing the sites manually and assign them to the filter Category.
 Experience in nodes on Zabbix, investigating and resolving different kinds of problems, which appear on nodes.
 Experience in developing Python and Bash scripts to automate processes within the infrastructure.
 Experience in developing CI/CD pipelines using Gitlab CI/CD with Bash and Ansible, solving problems, which appear through build/deploy processes. Performing and maintaining the migration of various projects from old servers to new ones, including CI/CD, front-end and back-end parts.
@@ -21597,7 +21597,7 @@ devops,"Developed and deployed a Python-based web application on AWS using Docke
 Kubernetes Basics Course (2.5 months)
 As part of this course, I gained hands-on experience with container orchestration, acquiring critical DevOps skills. The course enabled me to proficiently use Minikube for local Kubernetes cluster management. I also learned to deploy applications from both the Kubernetes control panel (Dashboard) and from YAML files using kubectl, demonstrating a solid understanding of application lifecycle management in Kubernetes. Upon successful completion, I earned a certificate, showcasing my ability to manage and deploy containerized applications efficiently.
 Linux Basics Course (4.5 months)
-This course provided me with an in-depth understanding of the Linux architecture, crucial for working in DevOps environments. I mastered the use of the bash shell to efficiently navigate the system and write scripts for automation. Additionally, I became proficient in using the vim text editor to manage system configurations. Successfully completing this course and earning a certificate demonstrates my capability to work within Linux-based systems, leveraging the command line and scripting to optimize workflows."
+This course provided me with an in-depth understanding of the Linux architecture, crucial for working in DevOps environments. I mastered the use of the bash shell to efficiently navigate the system and write scripts for automation. Additionally, I became proficient in using the vim Text editor to manage system configurations. Successfully completing this course and earning a certificate demonstrates my capability to work within Linux-based systems, leveraging the command line and scripting to optimize workflows."
 devops,"Work Experience:
 I specialize in managing and automating cloud infrastructure, focusing on Kubernetes and Terraform. My expertise spans deploying and managing Kubernetes clusters, automating infrastructure with Terraform/OpenTofu, and integrating cloud-native solutions across Azure, AWS, and OpenStack.
 Key Projects and Tasks:
@@ -22368,7 +22368,7 @@ Pref. part-time or per-project work."
 devops,"Managed technical solutions and architecture in collaboration with CTOs.
 Managed international team of 15+ DevOps engineers.
 Organized technical sessions and mentored team members for optimal solution implementation.
-Conducted 1:1 meetings, performance and salary reviews, and facilitated team feedback.
+Conducted 1:1 meetings, performance and Salary reviews, and facilitated team feedback.
 Led technical interviews and candidate selection to build a team.
 Served as a technical liaison between the team, business units, and leadership.
 Participation in grooming, planning and prioritization of projects and tasks.
@@ -22389,7 +22389,7 @@ infrastructure provisioning and deployment processes.
 •	Build and maintain application services to ensure 24x7 uptime and reliability which may include working on failures or outages as needed
 •	Generate technical documentation around system design, security, policies, configuration, and procedures
 •	Work with the infrastructure team to ensure high availability and security of all the services
-•	Manage co-location servers for cloud based SAAS products
+•	Manage co-Location servers for cloud based SAAS products
 •	Perform other duties as assigned
 HashiCorp Certified: Terraform Associate
 CKA: Certified Kubernetes Administrator
@@ -22430,7 +22430,7 @@ devops,"-> Administering, building and supporting development/production environ
 I am a DevOps Engineer with hands-on experience utilizing a comprehensive tech stack. I keep learning while alrady have commercial background and experience. I'm interested in new tasks, any domain, any challanges that help me improve myself and infrastructure around me.
 Remote only
 Learning possibility
-Decent salary
+Decent Salary
 Friendly team"
 devops,"Systems Engineer with over 10 years of experience in general system engineering and networks, including 3+ years specializing in DevOps practices.
 Proficient in AWS cloud services such as ECS, VPC, EC2, API Gateway, Lambda, SNS, SQS, DynamoDB, and S3, with additional experience in Azure.
@@ -22573,7 +22573,7 @@ Key Skills and Responsibilities:
 _____________
 Past employments :
 Traineeship period at capgemini :
-Webapp development using Python Flask, SQL via ORM (Flask Alchemy). Various python and bash text formatting scripts. Selenium for web scraping.
+Webapp development using Python Flask, SQL via ORM (Flask Alchemy). Various python and bash Text formatting scripts. Selenium for web scraping.
 Automated Deployment of webapp : Terraform, Ansible, Git
 High availability infrastructure for webapp : Nginx, Apache, Pg-Pool II, PostgreSQL, psycopg2. Nagios, Prometheus, Grafana
 NON-IT employment :
@@ -23653,8 +23653,8 @@ GCP, AWS, IaaC (Terraform + Ansible), Python, GitLab, Git, Bitbucket, Jenkins, B
 - Certificate GCP Cloud Engeener
 - Certificate AWS Cloud Practitioner
 - Certificate MikroTik MTCNA (MikroTik Certified Network Associate)"
-devops,"I have commercial experience as an MLOps/DevOps Engineer, where I have been involved in the full lifecycle of AI and machine learning projects. My role has encompassed developing, deploying, and maintaining scalable AI models using AWS services such as Lambda, SageMaker, EC2, ECR, S3, CloudWatch, Step Functions, EventBridge, and Redshift.In addition to my work with AWS, I have leveraged databases including MySQL, PostgreSQL, and SybaseIQ to support data-driven solutions. To streamline and automate deployment processes, I have extensively used Kubernetes and Terraform, ensuring efficient and reliable CI/CD pipelines.While my experience as a Java developer is non-commercial, I am proficient in key technologies such as Spring, and I am continuously expanding my expertise in this area.My current focus is on furthering my skills in cloud-based MLOps practices, particularly in the areas of automation, orchestration, and the optimization of machine learning pipelines. I am eager to contribute to innovative projects and advance my knowledge in microservices architecture and cloud-native solutions.
-Implemented scalable AI models with AWS services (Lambda, SageMaker, EC2), improving processing efficiency by 30%.Automated deployment pipelines with Kubernetes and Terraform, reducing deployment time by 40%.Optimized data handling using MySQL, PostgreSQL, and SybaseIQ, increasing data retrieval speed by 25%.Developed a monitoring system with CloudWatch and EventBridge, enhancing real-time issue resolution.Hands-on experience in DevOps practices, including container orchestration with Docker and Kubernetes.Built and deployed Java applications using Spring in non-commercial projects.Implemented and integrated GenAI for automatic unit test generation within GitLab CI/CD pipelines, streamlining the testing process and increasing code coverage.Completed Cisco certification and ""AWS from Zero to Hero"" course, furthering cloud and MLOps expertise."
+devops,"I have commercial experience as an MLOps/DevOps Engineer, where I have been involved in the full lifecycle of AI and machine learning projects. My role has encompassed developing, deploying, and maintaining scalable AI resume_classifier using AWS services such as Lambda, SageMaker, EC2, ECR, S3, CloudWatch, Step Functions, EventBridge, and Redshift.In addition to my work with AWS, I have leveraged databases including MySQL, PostgreSQL, and SybaseIQ to support data-driven solutions. To streamline and automate deployment processes, I have extensively used Kubernetes and Terraform, ensuring efficient and reliable CI/CD pipelines.While my experience as a Java developer is non-commercial, I am proficient in key technologies such as Spring, and I am continuously expanding my expertise in this area.My current focus is on furthering my skills in cloud-based MLOps practices, particularly in the areas of automation, orchestration, and the optimization of machine learning pipelines. I am eager to contribute to innovative projects and advance my knowledge in microservices architecture and cloud-native solutions.
+Implemented scalable AI resume_classifier with AWS services (Lambda, SageMaker, EC2), improving processing efficiency by 30%.Automated deployment pipelines with Kubernetes and Terraform, reducing deployment time by 40%.Optimized data handling using MySQL, PostgreSQL, and SybaseIQ, increasing data retrieval speed by 25%.Developed a monitoring system with CloudWatch and EventBridge, enhancing real-time issue resolution.Hands-on experience in DevOps practices, including container orchestration with Docker and Kubernetes.Built and deployed Java applications using Spring in non-commercial projects.Implemented and integrated GenAI for automatic unit test generation within GitLab CI/CD pipelines, streamlining the testing process and increasing code coverage.Completed Cisco certification and ""AWS from Zero to Hero"" course, furthering cloud and MLOps expertise."
 devops,"•	Administration of distributed company infrastructure
 •	Administration of Microsoft Azure cloud services
 •	Setup and administration of Linux based, and Windows based servers (Virtual Machines)
@@ -23780,7 +23780,7 @@ Devico (2023-...)
 - Set up servers for Node.js applications.
 - Optimized automation processes.
 Comparus (2021-2022)
-- Managed and configured office network, email, and workstations.
+- Managed and configured office network, Email, and workstations.
 - Set up and managed Atlassian services (Jira, Confluence).
 - Configured monitoring of network and server resources.
 Switch Group (2020-2021)
@@ -23801,8 +23801,8 @@ devops,"- Got paid for an IT job done since 1997
 -- moved monolith to Kubernetes for a cargo service company
 -- international tobacco company data warehouse
 -- marketing platform
--- email mobile app
--- email service on own cloud environment
+-- Email mobile app
+-- Email service on own cloud environment
 -- AntiSPAM solution
 -- Hosting platform
 -- Datacenter
@@ -23905,7 +23905,7 @@ environments;
 - experience with Kubernetes
 - new challenges
 - good team
-- decent salary"
+- decent Salary"
 devops,"System engineer with experience more than 4 years of managing Unix/Linux.
 I have got experience managing/supporting SQL services like MySQL.
 I have experience in IaC tools like Ansible, Terraform
@@ -23938,7 +23938,7 @@ During my work with these companies, I have performed the following tasks:
 On various projects, I have significant achievements:
 I developed the information infrastructure of a residential complex by creating an access control system, an intercom system, and expanding video surveillance systems. I conducted infrastructure status checks, improved monitoring, and configured notifications for event and anomaly detection.
 From potential employers, I expect interesting tasks, opportunities for development, and corporate bonuses."
-devops,"1) Project name: Retail & Distribution
+devops,"1) Project Name: Retail & Distribution
 Tools & technologies:
 PostgreSQL, MySQL, Microsoft SQL Server, AuroraDB, Jira, Jenkins, Bitbucket, Instana, Kibana, Grafana, Fortanix, OpsGenie, Tridion CMS, Terraform, Ansible, Kubernetes, Amazon Web Services, CI\CD, microservices, containerization, monitoring, Java Spring Boot, APM, NodeJS
 Project responsibilities: DevOps Engineer
@@ -23948,14 +23948,14 @@ Create K8S deployments, services, ingress, PVC
 Implement logging with the elk stack
 Automate performance tests execution via Jenkins pipeline
 Migrate applications to new k8s clusters
-2)Project name: Online payments platform
+2)Project Name: Online payments platform
 Tools & Technologies:
 RDS/MySQL, Git, Packer, Terraform, Ansible, Splunk, Datadog, Sonarqube, AWS services( EC2, EKS, SSM, VPC, RDS, S3, Route53), K8S, GitLab, Java, Docker
 Project responsibilities: DevOps Engineer
 Setup monitoring for the Kubernetes cluster via Datadog agents
 Develop Terraform scripts for managing - DataDog metrics
 Develop automation for generation and updating SSL certificates for microservices
-3)Project name: Online gaming platform
+3)Project Name: Online gaming platform
 Tools & Technologies:
 RDS/PostgreSQL, Visual Studio Code, git, terraform, AWS (EC2, RDS, VPC, EFS, CloudWatch, Elaticache, WAF, CloudFront), Ruby, Python, NGINX, Docker
 Project responsibilities: DevOps Engineer
@@ -24150,7 +24150,7 @@ devops,"System engineer (2021-2024):
 - Answers evaluate and prioritize incoming work order system (telephone, voice mail, e-mail and in-person) requests to assist users experiencing problems with hardware, software, networking, and other related technologies;
 - Interviews users to collect information about the problem and lead users through diagnostic procedures to determine the source of error/problem;
 - Sets-up computers, software and peripheral equipment for new company hires;
-- Sets-up users on the network and provide a user name and password access to specified systems;
+- Sets-up users on the network and provide a user Name and password access to specified systems;
 - Trains users on software;
 - Utilizes particular technical skills in Active Directory, DNS, DHCP;
 - Optimizes site connectivity, desktop performance and user experience (daily complaints now);

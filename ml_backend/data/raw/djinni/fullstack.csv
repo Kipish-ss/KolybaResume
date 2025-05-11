@@ -104,7 +104,7 @@ fullstack,"I am a junior Frontend developer.
 I have HTML, CSS, JavaScript, React.
 I love learning and discovering new technologies, I like painstaking, detailed work that requires attention and perseverance, I am very responsible in completing tasks. In the future, I want to become a professional in creating high-quality digital products.
 Watchcharm  [HTML, CSS]
-A website with a responsive layout. Online watch store offering exclusive models from world brands.
+A website with a responsive layout. Online watch store offering exclusive resume_classifier from world brands.
 Role: developer
 Build project on github.
 DevCore [HTML, SASS, JS, Vite, REST API, Axios]
@@ -124,7 +124,7 @@ Mentored junior developers as well as conducted technical interviews for prospec
 4. Successfully performed tasks of a middle developer and mentored junior developers.
 5. Received a military specialty and became a reserve officer in the armed forces of Ukraine.
 6. Received personal gratitude from the client for the quality work on the project.
-7. Received the 1st sport category in powerlifting.
+7. Received the 1st sport Category in powerlifting.
 8. Won about 10 prizes in karate championships."
 fullstack,"I am a 27 years old Full Stack Software Developer with BSc in Automation Engineering and MSc in Computer Science.
 More than 8 years of professional experience in Software Engineering my main tools are:
@@ -136,7 +136,7 @@ I have experience in development of varying complexity in various domains, such 
 - Mainly Javascript related remote jobs
 - Supporting, migrating and maintaining a product, adding new features, fixing bugs
 - Communicative team
-- Gross salary expectation is between $5000-$6500. I'm fine with Frontend only or Full Stack positions."
+- Gross Salary expectation is between $5000-$6500. I'm fine with Frontend only or Full Stack positions."
 fullstack,"Dynamic Full Stack Web Developer with 2+ years of experience in JavaScript, React, and Node.js. Skilled in building applications from database to UI, optimizing React performance, managing complex databases, and collaborating with web designers. Committed to delivering high-quality, user-friendly solutions."
 fullstack,"Full-stack Developer with 3+ years of experience.
 I have worked on decentralized platforms, NFT games, and CRM systems, handling both frontend and backend tasks. While my main focus is on frontend technologies (React, TypeScript, Redux), I am also proficient in backend development with Node.js, Web3, GraphQL, and MongoDB, enabling me to build seamless full-stack applications.
@@ -282,8 +282,8 @@ What I Want:
 - A positive workplace culture with respect and work-life balance."
 fullstack,"I have been mentored by my friend who has 1+ years of commercial experience in this field. At the time I have already developed a few pet projects.
 You can check out my projects in my GitHub, but here's a small intro to all of them:
-- Harry Potter Character List - It is a website that demonstrates all of the Harry Potter characters in a grid. It is also possible to click on characters to view their profile, search through characters by name, and filter through them by house, blood status, and species.
-- Todo App - It is a todo app that allows you to add, edit, and remove todos from a table. The todos are sorted from most recently edited to less. You can search through them by name, and filter them by type. There is also a second table displaying the quantity of different todo types.
+- Harry Potter Character List - It is a website that demonstrates all of the Harry Potter characters in a grid. It is also possible to click on characters to view their profile, search through characters by Name, and filter through them by house, blood status, and species.
+- Todo App - It is a todo app that allows you to add, edit, and remove todos from a table. The todos are sorted from most recently edited to less. You can search through them by Name, and filter them by type. There is also a second table displaying the quantity of different todo types.
 In the future, I hope to improve even further, learning new technologies, and getting better at the ones I already know, and, of course, working on many interesting projects.
 During my Harry Potter project, I wrote a lot of reusable components using React and TailwindCSS, both of which I learned during it. I learned how to work with REST APIs as well.
 During my Todo App project, I learned Express.js, and how to connect my front-end to the back-end. I wrote my own REST API and set up hooks for sending requests to it. I also learned Material UI and got familiar with component libraries.
@@ -329,12 +329,12 @@ Tech Stack: Java (8, 17), Spring, Struts, Hibernate, JSP, jQuery, AWS, Docker, S
 2. My own web application for taking notes using Markdown | 1 year
 Teck Stack: Java 21, Spring Boot, ehCache, React, TypeScript, IndexedDb, AWS (S3, RDS, ALB, CloudFront, Route53, Beanstalk), Google API Client, Server Side Events
 - designed and implemented entire Backend, Frontend and AWS architecture
-- developed custom text editor from scratch
+- developed custom Text editor from scratch
 - implemented seamless content syncronization between devices in real time (SSE)
 - created offline read-only mode (PWA installable)
 - optimized performance of frontend to avoid excesive React re-renders
 - optimized architecture to reduce load on backend and database (ehCache, IndexedDb)
-- implemented a complex search by note name, content, notebook, tags, etc. with weighted sorting
+- implemented a complex search by note Name, content, notebook, tags, etc. with weighted sorting
 - implemented image storage with AWS S3
 3. Streaming Platform | 1.5 years
 Team size: 3 people
@@ -345,7 +345,7 @@ Tech Stack: Java 8, Spring, MySQL, Hibernate, ehCache, Hadoop, WebSocket, JAX-RS
 - optimized complex audio processing algorightm on Java
 - refactored backend code with various OOP patterms"
 fullstack,"Hi, I have been a Full-Stack JavaScript developer for over 3.5 years. During this time, I have:
-• Developed a dashboard from scratch with a complex UI that includes graphs, charts, tables, and a calendar with functionality to create, edit, and manage recurring events. The dashboard supports custom email creation, push notifications, and tree-view management for teams and customers. This project required optimized database queries, authentication using JWT tokens, Google SSO, and Microsoft SSO, and integration with external APIs.
+• Developed a dashboard from scratch with a complex UI that includes graphs, charts, tables, and a calendar with functionality to create, edit, and manage recurring events. The dashboard supports custom Email creation, push notifications, and tree-view management for teams and customers. This project required optimized database queries, authentication using JWT tokens, Google SSO, and Microsoft SSO, and integration with external APIs.
 • Created and maintained new features for the main application, including integrating it with Microsoft Teams, which helped attract new clients.
 • Developed a real-time car auction platform with real-time bidding capabilities, using technologies such as WebSockets and REST APIs for seamless user interactions.
 • Built a web scraper with automatic proxy switching for security and anonymity, simulating real user interactions on various websites to collect, process, and clean data before storing it in a database.
@@ -1085,13 +1085,13 @@ Programming on Php, Js, MySql, PostgreSql, using Redis, RabbitMQ, ElasticSearch,
 Creating new and modernizing working web applications, integrating with api, working with product loaders, admin, crm, customer portal, fixing bugs.
 Have a variety of experience, including working with docker, self-written frameworks, working with legacy code and solving bugs
 * remote work only
-* salary 3800$
+* Salary 3800$
 * flexible schedule without tracking"
 fullstack,"5+ years of experience.
 Last ~2 years as a Go developer.
 Participated in development of different of types of application - starting from landing to multi module super app platforms.
 For me it was interesting what is behind so decided to switch to backend to gain full understanding of how applications work.
-Beneficial projects, high salary.
+Beneficial projects, high Salary.
 I have interest in: OS, AI, media streaming services, network security, blockchain systems.
 If job is around this sphere I would be happy to do my job."
 fullstack,"Currently, I work at Triacom as a Software Engineer.
@@ -1150,7 +1150,7 @@ Integrated JWT authentication and clean architecture principles.
 2. Created a Telegram Chat Analyzer with Advanced Insights
 Engineered a tool to analyze Telegram chat history, extracting key insights like word frequency, message distribution, and reply time patterns.
 Implemented statistical analysis and data visualization to show user activity trends.
-Used Python, Pandas, Matplotlib, and NLP techniques for text processing.
+Used Python, Pandas, Matplotlib, and NLP techniques for Text processing.
 3. Led the Development of a CRM Mobile App for Business Management
 Designed and implemented a Flutter-based dashboard for managing contacts, leads, approvals, and user roles.
 Integrated Firebase for authentication, real-time updates, and offline functionality.
@@ -1300,16 +1300,16 @@ I prefer to work remotely."
 fullstack,"I have experience in developing highly loaded applications using Node.js for the backend and React for the client application. Worked with Express.js, RabbitMQ, MongoDB, PostgreSQL and other libraries to simplify the construction of the application's server chatsina. In the frontend, I have good skills in layout and implementation of complex and simple functional components using antd and mui design libraries."
 fullstack,"I have over 14 years of experience in running my own business, as well as working in the retail industry.
 My projects:
-Project name:  BeautyStyle - multi-langwage landing-page of beauty saloon
+Project Name:  BeautyStyle - multi-langwage landing-page of beauty saloon
 Work position - freelance developer
 Created with: html, scss, JS, parsell, air-datepicker, animate.css, simplelightbox, sweetalert2
-Project name :  Mimino - Website of a resort complex for booking a room in a hotel and table at the restaurant.
+Project Name :  Mimino - Website of a resort complex for booking a room in a hotel and table at the restaurant.
 Work position - developer.
 Using - Html, css, javascript, vite, trello
-Project name:  Cinemania - Website of movies catalogue
+Project Name:  Cinemania - Website of movies catalogue
 Work position - developer.
 Using - JavaScript, parcel, html, scss, trello
-Project name:  Marcho-shop - Online clothing store
+Project Name:  Marcho-shop - Online clothing store
 Work position - developer.
 Using - Html, scss, gulp, javascript, jQuery
 My website increased number of customers by 20%.
@@ -1616,7 +1616,7 @@ fullstack,"I am Fullstack Developer with +6 years commercial experience (full-ti
 Hard Skills: Laravel, PHP , MYSQL, Javascript , Typescript, Node.js, Vue.js,  Testing , Patterns , DDD ,  Linux , Git , building packages
 English: Pre-intermediate
 Professional Experience:
-- Make intergations via API for different services (payments systems (PayPal, Stripe, Liqpay, banking), sms/email-messages (Telegram / Twillio / chat aggregators / TurboSMS / Unisender / GetResponse / mail servers), Google Services, Zoho Services, web-forms / delivery services and many others )
+- Make intergations via API for different services (payments systems (PayPal, Stripe, Liqpay, banking), sms/Email-messages (Telegram / Twillio / chat aggregators / TurboSMS / Unisender / GetResponse / mail servers), Google Services, Zoho Services, web-forms / delivery services and many others )
 - Worked as part of team with QA / Devs / Team Lead / PM / Product Owner with SCRUM (used Jira)
 -  Code Review / Estimates (simple and complex) / Writing docs
 - Mentoring of devs/ checking test tasks
@@ -1785,7 +1785,7 @@ Role: Full-stack developer, System Architect
 Role: Full-stack developer
 Reworked from CMS PrestaShop for 100K products available (the basis in this CMS is about 5K).
 Salary based on responsibility."
-fullstack,"Latest commercial project: plugin for e-commerce platforms like Shopify and BigCommerce. Using DnD builder, the application allowed users to create and customize pages of various types, like product pages, home page, blog pages, etc. The application also included many different features, like templating, theme creation, scheduled page publishing, third-party service integration like email services, etc.
+fullstack,"Latest commercial project: plugin for e-commerce platforms like Shopify and BigCommerce. Using DnD builder, the application allowed users to create and customize pages of various types, like product pages, home page, blog pages, etc. The application also included many different features, like templating, theme creation, scheduled page publishing, third-party service integration like Email services, etc.
 Role: Front-End Developer
 Responsibilities: implementation of new features, refactoring of existing code base, implementation of unit and E2E tests, project management.
 Stack: JavaScript, TypeScript, React, GraphQL, Styled Components, Jest, MUI
@@ -1890,7 +1890,7 @@ These projects allow me to expand my skills and apply them in different contexts
 I am an enthusiastic and detail-oriented Developer. I am seeking employment with a company where I can grow both professionally and personally."
 fullstack,".NET developer with almost 4 years of experience in development of back end and partially front-end parts of application. I have taken part in full life cycle of software development projects of various sizes, including gathering requirements and analysis, application design and third-party integrations, defining project scope and planning project tasks, client communication, performance analysis and improvements, code reviewing and re-factoring, writing unit tests and bug fixing."
 fullstack,"I have 6 years of experience in web development.
-For the first 3.5 years, I worked as a Frontend Developer on projects such as mashroom.com, emoov.co.uk, quwi.com, planteats.co, abrapromotions.com, choicie.com, among others. This is not a complete list — I was also involved in building dashboards, admin panels, POS systems, and more. In some of these projects, I wrote a significant amount of code in plain JavaScript (Vanilla JS), without using any frameworks. For example, I contributed to the development of a custom text editor, helped fix bugs, and added new functionality. My core responsibilities included building UI components, integrating with backend APIs, optimizing performance, and ensuring responsive design using Vue.js and React.
+For the first 3.5 years, I worked as a Frontend Developer on projects such as mashroom.com, emoov.co.uk, quwi.com, planteats.co, abrapromotions.com, choicie.com, among others. This is not a complete list — I was also involved in building dashboards, admin panels, POS systems, and more. In some of these projects, I wrote a significant amount of code in plain JavaScript (Vanilla JS), without using any frameworks. For example, I contributed to the development of a custom Text editor, helped fix bugs, and added new functionality. My core responsibilities included building UI components, integrating with backend APIs, optimizing performance, and ensuring responsive design using Vue.js and React.
 For the past 2.5 years, I’ve been working as a Fullstack Developer at 3dsellers (projects: 3dsellers.com, easychannel.com, replydesk.com). My main responsibilities include developing and maintaining integrations with marketplaces (eBay, Amazon, Etsy, etc.), building modules for order management, shipping logistics, and customer support, as well as creating flexible UI interfaces using Vue 3. On the backend, I work with NestJS, Prisma, and PostgreSQL. I’m also actively involved in architecture design, product discussions, and code reviews.
 In addition, I have an active Upwork profile that I used to take on small to mid-sized freelance projects, which I stopped actively pursuing about two years ago. I’ve earned over $14,000 through the platform and consistently received positive feedback from clients. Working independently and communicating directly with clients helped me strengthen my time management, communication, and problem-solving skills.
 I’m looking for a company that provides clear, realistic tasks and fair time estimates. I value a product-oriented approach where quality matters, and I’d like to contribute to technical and architectural decisions. A healthy work-life balance is also important to me."
@@ -1920,8 +1920,8 @@ The tech stack also includes Docker, PostgreSQL, MongoDB, alongside with other m
 Debugging and software testing are essential in my workflow. Additionally am familiar with advanced Git version control and project management tools such as Jira or Trello.
 I'd like to bring a well-rounded skill set in both software design and web development and, which you can further explore through my GitHub portfolio or attached resume.
 I seek opportunities to test my skills and deepen my expertise either in full-stack, backend or frontend development -- the choice is yours!"
-fullstack,"I am Brook Tarekegn Assefa, an accomplished professional with extensive experience in AI engineering, data science, and software development. As a Senior AI Engineer at Hum Works LLC, I led the development of advanced AI models, significantly enhancing recommendation accuracy and computational efficiency. In my role as Project Manager and Data Scientist at Steven Stone, I spearheaded initiatives that drove a 74% revenue increase and improved operational efficiency by 15%. At Excellerent Technologies, I developed bespoke solutions for Fortune 500 clients like Boeing and Ford, leveraging ML and AI for predictive analytics and fraud detection. My experience also includes building blockchain applications, optimizing ERP systems for large enterprises, and leading both frontend and backend development projects. With an M.S. in Data Science from the University of Virginia and a robust skill set in machine learning, software development, and project management, I am passionate about driving innovative solutions and delivering impactful results.
-- Developed Lodestone v2.0, a long-context text embedding LLM, used by millions of daily users and over 100 B2B clients, achieving an 80% improvement in rank estimation and a 55% increase in recommendation accuracy.
+fullstack,"I am Brook Tarekegn Assefa, an accomplished professional with extensive experience in AI engineering, data science, and software development. As a Senior AI Engineer at Hum Works LLC, I led the development of advanced AI resume_classifier, significantly enhancing recommendation accuracy and computational efficiency. In my role as Project Manager and Data Scientist at Steven Stone, I spearheaded initiatives that drove a 74% revenue increase and improved operational efficiency by 15%. At Excellerent Technologies, I developed bespoke solutions for Fortune 500 clients like Boeing and Ford, leveraging ML and AI for predictive analytics and fraud detection. My experience also includes building blockchain applications, optimizing ERP systems for large enterprises, and leading both frontend and backend development projects. With an M.S. in Data Science from the University of Virginia and a robust skill set in machine learning, software development, and project management, I am passionate about driving innovative solutions and delivering impactful results.
+- Developed Lodestone v2.0, a long-context Text embedding LLM, used by millions of daily users and over 100 B2B clients, achieving an 80% improvement in rank estimation and a 55% increase in recommendation accuracy.
 - Spearheaded a competitive e-commerce product at Steven Stone, resulting in a 74% revenue increase and a 40% sales precision improvement, while enhancing operational efficiency by 15%.
 - Created customized solutions for Fortune 500 clients like Boeing, Coca-Cola, and Ford, utilizing ML and AI for predictive analytics and fraud detection, achieving 95% test coverage and a 55% improvement in code quality.
 - Built a cryptocurrency mining application at MyCointainer, enhancing efficiency and reducing costs by $300 per day, and increasing reward accuracy by 47%.

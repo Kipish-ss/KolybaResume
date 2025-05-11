@@ -7,7 +7,7 @@ from ml_backend.scrapers import DjinniScraper, PostJobScraper
 logger = logging.getLogger(__name__)
 logging.basicConfig(
     level=logging.INFO,
-    format="[%(asctime)s] %(name)s - %(levelname)s - %(message)s"
+    format="[%(asctime)s] %(Name)s - %(levelname)s - %(message)s"
 )
 
 script_dir = Path(os.path.dirname(os.path.abspath(__file__)))

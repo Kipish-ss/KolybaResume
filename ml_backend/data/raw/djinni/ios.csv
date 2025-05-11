@@ -98,7 +98,7 @@ Experience in Previous Projects:
 Tech Stack:
 SwiftUI, UIKit, Combine, RxSwift, FlowStacks, RxMoya, SnapKit, GraphQL, Lottie, Realm, Alamofire, Firebase, AWS Amplify, CI/CD, SwiftLint, Unit Testing."
 ios,"1. 3D-CHARACTER STORE (MIN IATURE YOU)
-Description: mobile store for selling printed 3d-models with user’s head.
+Description: mobile store for selling printed 3d-resume_classifier with user’s head.
 Responsibilities: full project
 Experience: Square, Bellus3d, SceneKit, iOS file system, ZipFoundation, AWSS3,
 AFNetworking, Fabric/Crashlytics.
@@ -370,7 +370,7 @@ Also was a only developer in a team for 8 months, without violations of terms of
 ios,"The latest two apps that I have worked on are,
 E-commerce App for Construction Materials (SwiftUI, Combine):
 - Managed the full app lifecycle, from prototyping with TestFlight to distributing on the App Store.
-- Implemented secure email/password authentication, incorporating token storage via the Security framework.
+- Implemented secure Email/password authentication, incorporating token storage via the Security framework.
 - Added universal links support, enabling redirection from emails to specific app pages (e.g., order confirmation).
 - Integrated payment systems, combining Stripe and Zoho, with a backend on AWS.
 - Designed a dropdown suggestions view for address autofill, utilizing Google Places API.
@@ -604,11 +604,11 @@ Well-established processes"
 ios,"Experienced iOS developer. Highly skilled in Swift, with expertise in various architecture patterns and module refactoring. Proficient in creating UI components and views. Currently managing a team and leveraging system design knowledge to build maintainable, scalable and flexible systems.
 Also I have around 5 years of experience in Android (Kotlin, Google Cloud Platform, Google Maps, Google FCM), but still my main stack is iOS.
 Projects (not all included here):
-- Mobile app for real-time text translation from text, camera (photo and video) with offline recognition.
+- Mobile app for real-time Text translation from Text, camera (photo and video) with offline recognition.
 - Platform for private entrepreneurs and businesses which allows to keep management accounting simply in your phone without notebooks and Excel tables.
 - Platform which allows to connect secondary materials providers with recycling companies.
 - Platform for collecting and controlling different urban infrastructure facilities indicators.
-- Inner application for viewing 3D models of different formats using a mobile phone.
+- Inner application for viewing 3D resume_classifier of different formats using a mobile phone.
 - Successfully designed and built three platforms from scratch (following common SDLC processes)
 - Developed and implemented modular architecture with vertical slice separation for both iOS/Android platforms
 - Have been mentoring a team of developers
@@ -717,7 +717,7 @@ ios,"iOS Developer (4+ years experience)
 I am an experienced iOS developer with over four years of hands-on experience in building large-scale applications. Currently, I work at a bank, where I develop and maintain business-oriented mobile applications. My expertise includes working with modular iOS projects using Tuist, implementing network layers with Alamofire, and ensuring smooth CI/CD pipelines with Fastlane.
 Projects & Responsibilities:
 Developed and maintained banking applications with RxSwift, ensuring high performance and scalability.
-Implemented MapKit-based location services for a city navigation app.
+Implemented MapKit-based Location services for a city navigation app.
 Worked with Firebase push notifications to enhance user engagement.
 Managed project configurations using Tuist, optimizing build times and dependencies.
 Set up CI/CD pipelines with Fastlane to automate builds and deployments.
@@ -727,7 +727,7 @@ Tuist, Alamofire, MapKit, Firebase
 Fastlane, TestFlight, Git, CI/CD pipelines
 What I Want to Improve:
 Gain experience in Swift Concurrency to improve app performance.
-Deepen my understanding of MapKit for advanced location-based features.
+Deepen my understanding of MapKit for advanced Location-based features.
 Improve my English skills for better communication and documentation."
 ios,"Skills
 Programming languages: Objective-C, Swift, SwiftUI;
@@ -851,13 +851,13 @@ I'm not interested in relocation and part-time job offers.
 I will appreciate an opportunity for T-shape growth - different skill areas (back-end, Computed Vision, etc.), modern programming languages (Kotlin, Rust, Go, etc.)"
 ios,"Впродовж своєї діяльності в якості iOS-розробника приймав участь в розробці чотирьох великих та декількох невеличких комерційних проєктів в галузях: Medicine and Healthcare, E-commerce, Beauty.
 Моя робота полягала в розробці додатків з нуля, доданні нового функціоналу, підтримці існуючого, вирішенні помилок, рефакторінгу коду. Також маю декілька pet-проектів"
-ios,"I began my journey as an iOS developer, focusing on enhancing app functionality and resolving any existing bugs. I introduced Firebase to track user metrics effectively and optimized the OpenAI model to deliver superior results. Additionally, I implemented text-to-audio translation and speech-to-text conversion functionalities to enhance user experience.
+ios,"I began my journey as an iOS developer, focusing on enhancing app functionality and resolving any existing bugs. I introduced Firebase to track user metrics effectively and optimized the OpenAI model to deliver superior results. Additionally, I implemented Text-to-audio translation and speech-to-Text conversion functionalities to enhance user experience.
 My role expanded to encompass both iOS and Android development, where I ensured uniformity in design and functionality across platforms. Collaborating with the team, we successfully integrated third-party services for license verification and devised specialized authorization mechanisms tailored specifically for FIFA employees.
-One of my significant achievements includes spearheading the development of an app from its inception, enabling users to download routes for offline usage and enjoy audio tours based on their geographical location. Subsequent iterations of the app introduced both paid and free tour options, enriching user engagement and satisfaction.
-Implementation of Innovative Features: I implemented innovative features such as text-to-audio translation and speech-to-text conversion, significantly enhancing the user experience.
+One of my significant achievements includes spearheading the development of an app from its inception, enabling users to download routes for offline usage and enjoy audio tours based on their geographical Location. Subsequent iterations of the app introduced both paid and free tour options, enriching user engagement and satisfaction.
+Implementation of Innovative Features: I implemented innovative features such as Text-to-audio translation and speech-to-Text conversion, significantly enhancing the user experience.
 Firebase Integration: Through Firebase integration, we were able to effectively track user metrics and perform data analysis for further product improvement.
 Unified Design and Functionality: I ensured consistency in design and functionality across iOS and Android mobile apps, leading to improved user experience and increased user engagement.
-Development of App from Scratch: I developed an app from scratch, allowing users to download routes for offline use and enjoy audio tours based on their location.
+Development of App from Scratch: I developed an app from scratch, allowing users to download routes for offline use and enjoy audio tours based on their Location.
 Expectations:
 Exciting Challenges: I'm looking for roles that offer exciting challenges where I can apply my skills and creativity to solve complex problems.
 Interesting Technologies: I'm interested in working with cutting-edge technologies and tools that allow me to stay updated and continuously learn and grow.
@@ -893,8 +893,8 @@ ios,"I have worked on a variety of projects that range from building new applica
 * Integrated social media login (Facebook, Google, and Apple Sign-in) and sharing features into an existing app.
 * Utilized OAuth 2.0 for authentication and token-based access to secure APIs.
 3. Map-Based Application:
-* Developed a geolocation-based app that uses MapKit and CoreLocation to provide location tracking and geofencing.
-* Integrated third-party APIs (e.g., Google Maps API) to offer features like real-time navigation and location-based services.
+* Developed a geolocation-based app that uses MapKit and CoreLocation to provide Location tracking and geofencing.
+* Integrated third-party APIs (e.g., Google Maps API) to offer features like real-time navigation and Location-based services.
 4. Healthcare App:
 * Collaborated on a healthcare app where I worked on integrating HealthKit to track user health data and used CoreData for local data storage.
 5. Bug Fixing and Performance Optimization:
@@ -1023,7 +1023,7 @@ Leading design and development solutions
 Creating new and stabilizing existing test cases
 Collaborating with server & design teams and multiple third-party vendors"
 ios,"iOS Software Engineer with over 6 years of experience in designing, developing, and deploying high-quality iOS applications. Proficient in Swift, Objective-C, and iOS frameworks. Strong expertise in developing UI/UX, server-side integration, and testing. Good communication and team management skills.
-I’m looking for companies with long-term projects. Appropriate salary to my experience."
+I’m looking for companies with long-term projects. Appropriate Salary to my experience."
 ios,"5+ years of expertise in the Finance domain, delivering secure, scalable, and user-friendly solutions.
 Proficient in building apps from scratch and enhancing existing projects.
 Experience in Digital Banking, E-commerce, Sport & Health, Image Processing, and ML-based Drawing Apps.
@@ -1035,7 +1035,7 @@ Lead small teams through successful project lifecycles, managing development, pr
 Winner of the prestigious Apple WWDC Scholarship, demonstrating exceptional innovation and technical expertise in iOS development.
 Experienced in tutoring and mentoring junior developers, fostering growth and knowledge-sharing within teams.
 Passionate about creating user-centric applications and delivering scalable, high-quality solutions across diverse industries."
-ios,"Hi, my name is Vladyslav Dikhtiaruk.
+ios,"Hi, my Name is Vladyslav Dikhtiaruk.
 I am a Computer Science Graduate from Cracow University of Technology. Last year, I had the opportunity to participate in a student exchange program at the Amsterdam University of Applied Sciences (AUAS). Where I worked as an intern Mobile Developer at KLM (Royal Dutch Airlines), where, as part of a four-person student team, I worked on the KLM House app for the iOS platform.
 Since September 2024, I have been working as a freelance iOS developer. During this period, I have developed multiple custom IOS apps for clients.
 I am highly motivated to develop in the field of mobile application development and believe that working at your company will be a valuable experience for me and help me grow in this field. Furthermore, I am fluent in four languages (English, Polish, Ukrainian, and Russian), which allows me to communicate effectively in an international team."
@@ -1222,7 +1222,7 @@ Technologies Used:
 * Implemented secure user authentication with Sweden BankID.
 * Optimized video uploads and playback using FFMPEG, improving performance.
 * Developed a job-matching algorithm to connect healthcare professionals with job opportunities.
-* Integrated a large language model (LLM) for a chatbot providing salary insights.
+* Integrated a large language model (LLM) for a chatbot providing Salary insights.
 * Built a web-based job system and admin panel using React.js, JavaScript, HTML, and CSS.
 * Added analytics tracking and a points system to boost user engagement.
 *  Role: Led development, designed architecture, and collaborated with backend teams to scale the app from 0 to 10,000 users.
@@ -1270,7 +1270,7 @@ In the last project rewritted C++ library to swift.
 I have an experience to work in Atlassian team, Sephora etc. Have my own projects. Strong responsibility, Good quality
 Lead/Senior iOS developer"
 ios,"The last project was with a global leader in digital solutions for the pharmaceutical and life sciences industries. It involved a cloud-based CRM and CLM platform specifically designed for pharmaceutical companies. This platform streamlined the entire sales cycle by integrating tools for client relationship management, consent management, and closed-loop marketing. It enabled companies to manage HCP (Healthcare Professional) engagement effectively through interactive eDetailing, remote meetings, and automated follow-ups.
-Previous project was the delivery application that revolutionizes the delivery process for order delivery. With just a few taps delivery ambassadors can create their own routes, log deliveries, optimize routes, and utilize GPS navigation to each delivery location.
+Previous project was the delivery application that revolutionizes the delivery process for order delivery. With just a few taps delivery ambassadors can create their own routes, log deliveries, optimize routes, and utilize GPS navigation to each delivery Location.
 Another previous project was the bank for development of business providing services to both corporate and retail customers. The project is related to the field of banking services. The application offers remote credit, overdraft, various payments, cards / accounts, opening / replenishment of deposits, etc. Worked in team with 15 specialist as iOS developer.
 Also there was the project for the largest supplier of electricity in the city and regions for private households and businesses. Within of this project, work is being carried out on 7 applications for different cities. And one interesting project was application that helps artificial intelligences to learn. Users take photos to teach an AI to recognize different objects. Custom camera and video recording. Worked in team as iOS developer, maintained project as single developer."
 ios,"An iOS developer with over 10 years in native app development. Focusing on UIKit & SwiftUI, with deep knowledge of Foundation and other Apple frameworks.
@@ -1331,7 +1331,7 @@ Passionate about science, with strong technical, business, and interpersonal ski
 - Working on native and cross-platform projects (iOS and Flutter).
 - Working on different interesting projects related to AI, e-commerce, security, EdTech, FoodTech, HealthTech, information, and etc.
 - Professional growth
-- White (official) salary.
+- White (official) Salary.
 - Friendly team.
 - Opportunity to work remotely."
 ios,"Experienced Senior iOS Engineer with over 13 years in software development, specializing in building high-performance mobile applications. Passionate about creating seamless and user-friendly experiences, with a strong focus on code quality, architecture, and performance optimization. Worked extensively in B2B SaaS, notably at 15Five, where I led the full development cycle of an iOS app with a 4.7+ rating and contributed to winning the Stevie Business Award in 2023.
@@ -1361,7 +1361,7 @@ ios,"Development of applications from scratch and preparation for publication in
 Development of sports and financial applications with third party integrations and API.
 Development of casual games and creation of custom UI elements."
 ios,"iOS, Swift, Objective-C.
-Experience in iOS development 10+ years. In others programming languages for commercial development: 2 years experience. My location - Ukraine. The remote job.
+Experience in iOS development 10+ years. In others programming languages for commercial development: 2 years experience. My Location - Ukraine. The remote job.
 remote. Desirable long cooperation."
 ios,"iOS Developer with 3+ years of experience, including work on high-profile government apps MyGov and MyGovID Checker. Skilled in Swift, UIKit, SwiftUI, and Combine, with a focus on secure, accessible, and user-friendly app development. Contributed to key features like secure login, QR scanning, and real-time service updates. Strong team player experienced in Agile environments and government compliance standards."
 ios,"iOS Developer | Universe Group | April 2024 – March 2025
@@ -1668,7 +1668,7 @@ Currently studying Node.js and PostgreSQL for backend development.
 Other skills: radio engineering, microcontrollers programming, and signal processing.
 In addition, have 4 years of experience at QA (teaching junior specialists, 1 year of QA Lead position)."
 ios,"Senior Software Engineer with 12 years of experience in iOS applications development, built multiple complex apps in Media, Entertainment, Social, eCommerce, and FinTech domains.
-Proficient in Swift (6+ years) & Objective-C, solid experience with UIKit and SwiftUI, networking (REST, sockets, GraphQL), concurrency (GCD, Operation Queues, RxSwift, Combine, async / await), ORM and databases (CoreData, Realm, SQLite), media streaming (AVFoundation), Push Notifications, mapping and location services (Google Maps SDK, MapsKit, Core Location), 3-rd party SDKs & REST APIs (Facebook SDK, Firebase, Alamofire, Amplitude, etc.), unit testing (XCTest), performance profiling, continuous integration and deployment (CircleCI, Bitrise, Fastlane), architecture (MVC, MVP, MVVM, VIPER, Clean Architecture, Redux, TCA)."
+Proficient in Swift (6+ years) & Objective-C, solid experience with UIKit and SwiftUI, networking (REST, sockets, GraphQL), concurrency (GCD, Operation Queues, RxSwift, Combine, async / await), ORM and databases (CoreData, Realm, SQLite), media streaming (AVFoundation), Push Notifications, mapping and Location services (Google Maps SDK, MapsKit, Core Location), 3-rd party SDKs & REST APIs (Facebook SDK, Firebase, Alamofire, Amplitude, etc.), unit testing (XCTest), performance profiling, continuous integration and deployment (CircleCI, Bitrise, Fastlane), architecture (MVC, MVP, MVVM, VIPER, Clean Architecture, Redux, TCA)."
 ios,"I'm a junior developer with 8+ months of experience at an outsourcing company.
 During that time, I’ve gotten pretty good at working on my own and handling tight deadlines. I also really value being part of a solid team.
 I try to be someone my teammates can count on, and I'm always looking for ways to get better and write cleaner, more maintainable code.
@@ -1676,7 +1676,7 @@ At my current job, I’ve had the chance to work on a bunch of cool projects tha
 Network & Environmental Scanner:
 I built an app that scans for Wi-Fi, Bluetooth, and EMF signals using Core Bluetooth and Core Motion. I used async/await to handle scanning and data processing at the same time, saved the results with Core Data and UserDefaults, and added subscription analytics with AppsFlyer and RevenueCat.
 Location Safety App:
-This app focused on real-time location sharing. I used MapKit, Core Motion, and Combine for live updates, and added Firebase Auth for user login. It also had an SOS alert system with push notifications, group subscription management via RevenueCat, and user acquisition tracking with AppsFlyer.
+This app focused on real-time Location sharing. I used MapKit, Core Motion, and Combine for live updates, and added Firebase Auth for user login. It also had an SOS alert system with push notifications, group subscription management via RevenueCat, and user acquisition tracking with AppsFlyer.
 Coin Recognition App:
 I created an app that recognizes coins using the camera and the ChatGPT API. I handled image uploads securely with Firebase Storage and managed user preferences with UserDefaults.
 Audio Extractor + Offline Player
@@ -1801,7 +1801,7 @@ ios,"I have about 10 years of experience in commercial software development, spe
 I’ve worked for prominent IT companies in Ukraine, such as SoftServe, ELEKS, and CoreValue (powered by Avenga), on projects ranging from small to large teams, including both legacy systems and new development. Additionally, I have freelancing experience.
 I created and published my own mobile card game - Game1000, highly ranked and available on the App Store (4.6/5) and Mac App Store (4.7/5). Also published another 3 apps, 1 game and 1 macOS tool for devs.
 I designed, developed and published a successful mobile card game - Game1000, available on App Store (4.6/5) and Mac App Store (4.7/5) based on 728 user feedbacks, 2.6k MAU and 600 DAU).
-Led the game to top 100/200 in the Card Games category on the App Store in Poland and Ukraine.
+Led the game to top 100/200 in the Card Games Category on the App Store in Poland and Ukraine.
 I want to:
 - receive a true information about project;
 - work with honest and friendly team.
@@ -1915,7 +1915,7 @@ developing full-stack applications by working in team
 projects. This background allowed me to extend my practical
 knowledge in such technologies as Python, Docker, Java,
 Swift, and SQL."
-ios,"My name is Kamila Sultanova, I am an iOS developer. I currently work in MobyDev company in Kazakhstan remotely. I have an experience working in GIT with other iOS developers, I can work with different APIs, and I do pixel perfect layout. I know what it’s like to submit a project to production and process bag reports from QA engineers.  I work quickly, following the clean code."
+ios,"My Name is Kamila Sultanova, I am an iOS developer. I currently work in MobyDev company in Kazakhstan remotely. I have an experience working in GIT with other iOS developers, I can work with different APIs, and I do pixel perfect layout. I know what it’s like to submit a project to production and process bag reports from QA engineers.  I work quickly, following the clean code."
 ios,"My experience:
 E-Car genius - electric vehicle selling app,
 Pin to be in - instagram on map
@@ -1985,7 +1985,7 @@ Learning and growth: Opportunities for development.
 Interesting tasks: Influencing the project and technologies.
 Convenient conditions: Flexible schedule, remote work.
 Good team: By
-Competitive salary: Good payment terms.
+Competitive Salary: Good payment terms.
 Clear management: Clear goals and support."
 ios,"I am Clean Architecture and TDD enthusiast with 8 years of professional Android Development, ready to deliver scalable and timely projects. I have developed Health Care, B2B, B2C, TMS, Inventory applications by using cutting-edge tech stack."
 ios,"I've been developing iOS applications since 2011, starting with Objective-C and later switching to Swift and currently I'm exploring world of SwiftUI. I prefer to use MVVM architecture. I have developed and took part in development of a lot of applications for iOS and TvOS. I have experience in both working from scratch and contributions to large legacy projects."
@@ -2284,10 +2284,10 @@ As an iOS developer at an innovative company, I contributed to multiple impactfu
 One significant project involved creating an iOS app enabling users to personalize and order books with highlighted pictures. I played a key role in ideation, design, and development, delivering a seamless user experience for creating custom books enriched with highlighted images.
 Additionally, I contributed to an online shop application, crafting an intuitive iOS interface for effortless browsing and purchasing within the company's e-commerce platform.
 These projects expanded my expertise in iOS app development while reinforcing the pivotal role of technology in enhancing user interactions with personalized content and online shopping experiences."
-ios,"iOS social app development using Swift/Objective-C, working with RESTful web services, location services, graphics, cloud messaging, social networks integration etc.
-Working on Agakat iOS app – social network app heavily based on location services and photo/video sharing. Asynchronous UI implementation using Texture/AsyncDisplayKit library; heavy use of CoreLocation and MapKit; local data storage using SQLite; multithreading (GCD, NSOperation). Supporting a large base of Objective-C code, refactoring old parts of the system, rewriting some in Swift.
+ios,"iOS social app development using Swift/Objective-C, working with RESTful web services, Location services, graphics, cloud messaging, social networks integration etc.
+Working on Agakat iOS app – social network app heavily based on Location services and photo/video sharing. Asynchronous UI implementation using Texture/AsyncDisplayKit library; heavy use of CoreLocation and MapKit; local data storage using SQLite; multithreading (GCD, NSOperation). Supporting a large base of Objective-C code, refactoring old parts of the system, rewriting some in Swift.
 SAT iOS mobile app – a postage provider app. Creating and tracking packages, calculating the delivery cost etc.
-Memasik iOS – meme generator app. Custom drawing UI, paid elements handling, such as premium stickers, text fonts.
+Memasik iOS – meme generator app. Custom drawing UI, paid elements handling, such as premium stickers, Text fonts.
 TrailerVote SDK - a mobile SDK for iOS apps providing the ability to recognize movie trailers and other ad clips by audio, collecting the user interaction data and analytics. Distributed through CocoaPods. Heavy-loaded work with network APIs, Objective-C++ bridge for the core C++ audio recognition code, multithreading.
 TrailerVote App - a blueprint iOS application for cinema networks for ticket/food sales, user loyalty program benefits. Local data storage using Realm DB, custom UI layouts and animations, local data synchronization with back-end network part. SwiftUI, async/await multithreading, Combine.
 Lift - mobile photo/video editor with AI tools. Heavy load of custom UIKit and SwiftUI. Implementing and maintaining the editor timeline with custom gestures and layouts. AVFoundation/Metal for low-level video rendering with custom transitions, effects shaders.
@@ -2858,13 +2858,13 @@ AWARDS:
 Category: Software Development
 Date: April 2019
 Location: NURE, Kharkiv, Ukraine.
-Title: Diploma for 2nd place in the “Software & Entertainment” category at the technical creativity exhibition of the 23rd International Youth Forum
+Title: Diploma for 2nd place in the “Software & Entertainment” Category at the technical creativity exhibition of the 23rd International Youth Forum
 Project description: English Galaxy - An innovative educational platform designed to make learning English engaging and interactive.
 Skills: C#, SQL, WinForms, MVC, OOP, Multithreading, REST API
 Category: Software Development and Entertainment
 Date: April 2018
 Location: NURE, Kharkiv, Ukraine
-Title: Diploma for 2nd place in the “Software” category at the technical creativity exhibition of the 22rd International Youth Forum
+Title: Diploma for 2nd place in the “Software” Category at the technical creativity exhibition of the 22rd International Youth Forum
 Project description: Chat Bot (like Siri) - A sophisticated virtual assistant designed to help users execute commands and engage in active conversations.
 Skills: C++, SQL, OOP, Multithreading
 CERTIFICATION:
@@ -2889,7 +2889,7 @@ Joined LunaryLabs remotely five months ago for a six-month stint, diving into Sw
 build breathtaking iOS apps.
 Crafted elegant, responsive UIs for their flagship app, focusing on smooth animations
 and intuitive navigation that earned glowing user feedback.
-Developed meaningful logic—think custom data models and state management—that
+Developed meaningful logic—think custom data resume_classifier and state management—that
 powered core features, boosting app performance by 20%.
 Collaborated with a global team via Slack and GitHub, delivering clean, reusable code
 that set the stage for scalable growth.
@@ -3270,7 +3270,7 @@ During my IT career I was involved in many interesting and challenging projects 
 - Custom VPN with client-side traffic analysis;
 - Biometric verification SDK for banking;
 - AI integrations, Machine Learning and computer vision;
-- Indoor location on BLE beacons;
+- Indoor Location on BLE beacons;
 - Augmented reality with a camera, GPS, and motion sensors;
 - Apps with a very advanced UI customization;
 - Secure BLE communication with medical devices;
@@ -3405,7 +3405,7 @@ These projects demonstrate my ability to combine various technologies to deliver
 ios,"As an iOS engineer with over 12 years of experience, I focus on delivering results through clear direction and efficient solutions. My passion lies in creating stable, user-friendly systems that meet real business needs without overcomplicating the process. I thrive in environments where strategic thinking and decisive action drive progress. I believe in simplicity, guided by principles like SOLID, KISS, DRY, and YAGNI, which allow me to build solutions that last. My technical expertise and understanding of the bigger picture enable me to seamlessly align technology with business goals, always with an eye on improvement."
 ios,"Full development lifecycle. Driving the projects from the initial requirements/technology selection to the released apps. Comfortable in both lead and regular positions, having different team sizes and role combinations."
 ios,"Unitedtech.ai
-Full cycle iOS development. Video and text messaging application. WebRtc and
+Full cycle iOS development. Video and Text messaging application. WebRtc and
 Sockets. Used CIFilters, some custom Metal filters. UI with many animation.
 Localization and dierent color themes. UIKit, SwiftUI
 Objective-c - 5 year
@@ -3508,7 +3508,7 @@ Design management: Created the design of the mobile application for the bank MyA
 Web Portal Innovation: As Lead Designer, I led the conceptualization and development of a multi-faceted insurance product web portal specifically designed for the US market.
 These accomplishments demonstrate my ability to advance projects from initial concept through design and development to successful market entry, further underscoring my commitment to innovative and user-centered design methods.
 I am eager to work within a team driven by a burning passion to create exceptional products. I'm particularly motivated by those who are highly enthusiastic and motivated. I am excited about actively participating in the creation of digital products, directly influencing them for the better, and leveraging the skills I've honed over the last seven years."
-ios,"My name is Eniola Anthony, i currently work as a senior iOS developer in Bank RBK and have over five years of work experience.
+ios,"My Name is Eniola Anthony, i currently work as a senior iOS developer in Bank RBK and have over five years of work experience.
 Some of the tasks I have worked on over the years:
 - Implemented a fully functional chat application using SwiftUI, firebase, MVVM.
 - Implemented Dark Theme for a fully functional banking App from scratch.
@@ -3626,7 +3626,7 @@ ios,"• Development of e-commerce applications with mobile-first adaptation (PW
 • Abandoned cart triggers based on navigation and analytics
 • API proxy setup for mobile builds using the BFF (backend-for-frontend) approach
 • Working with community plugins: speech recognition, analytics, push notifications, etc.
-• Voice search implementation using speech-to-text
+• Voice search implementation using speech-to-Text
 • CI/CD setup for mobile app builds in a separate Git branch with automated release preparation (App Store / Google Play)
 Released and maintained cross-platform apps for Compendium (100k+ downloads on Android, 35k+ on iOS) and Apteki.ua (10k+ Android, 6k+ iOS), both also available as responsive web apps.
 • Компендіум лікарські препарати – iOS app: 35,000+ downloads
@@ -3769,7 +3769,7 @@ In my quest for a new professional chapter, I aspire to find a role that aligns 
 I prioritize flexibility in work schedules, valuing opportunities that offer adaptability rather than rigid 9-to-5 arrangements, enabling me to maintain a healthy work-life balance.
 I am drawn to the dynamic environment of startups, where I can immerse myself in the process of crafting something novel and groundbreaking, contributing my skills to foster innovation and growth.
 My passion lies in the artistry of application development, with a focus on creating visually captivating and intuitively navigable interfaces. I am driven by the pursuit of crafting user-centric designs with seamless animations, ensuring an exceptional and delightful user experience that resonates with audiences."
-ios,"My name is Armen Nagapetyan . I have been working as a IOS developer for more than four year . During this period I have improved my skills significantly. Moreover, I spend all my free time to read and learn more about iOS developing. Speaking about my other benefits, I should admit that I am very goal-oriened person and can work both in team and individually."
+ios,"My Name is Armen Nagapetyan . I have been working as a IOS developer for more than four year . During this period I have improved my skills significantly. Moreover, I spend all my free time to read and learn more about iOS developing. Speaking about my other benefits, I should admit that I am very goal-oriened person and can work both in team and individually."
 ios,"I am a Senior Software Engineer with over six years of experience in iOS application development, I've cultivated strong skills in Swift, Agile methodologies, software architecture, unit/UI testing. I'm experienced in leading and mentoring teams and collaborating cross-functionally to transform requirements into software solutions.
 At EPAM Systems, I've played pivotal roles in diverse projects.  I contributed as a key developer to a global restaurant and property booking application, responsible for everyday development tasks, process improvement, and code quality management.
 Previously, I led a development team of onshore and offshore devs(6 in total) where we updated an old API for a Canadian retail store application with a new one and refactored the app. I managed team building, software development cycle stages, code improvements, and implemented new features.
@@ -3851,7 +3851,7 @@ What I can help you with:
 Building or improving CRM systems
 Developing educational platforms
 Creating PWAs that offer a native-like experience
-Seamless integration with third-party services (payments, email, etc.)
+Seamless integration with third-party services (payments, Email, etc.)
 Custom workflows and automation
 I am passionate about creating user-friendly, scalable solutions that meet both business and user needs. Let’s discuss how I can help you achieve your project goals!
 I graduated from the full stack developer course. I like to work for results. I know HTML5, CSS3, JS, React, Redux, Node.js, React Native and I have a great desire to develop further in this field."
@@ -3934,7 +3934,7 @@ Team: 1 iOS developer, 1 android, 1 web, 1 designer, 1 QA.
 Technologies: MVVM, CocoaPods, Firebase, Kingfisher, UIKit.
 Responsibility: implementation, bug fixing, UI design implementation, API integration, version control management, cross-platform integration, application deployment to the App Store.
 4. Pin to be in.
-Application for search best location for your photo on. User can pin their photos on map and other users can search best places for travel.
+Application for search best Location for your photo on. User can pin their photos on map and other users can search best places for travel.
 Team: 1 iOS developer, 1 android, 1 web, 1 designer, 1 QA.
 Technologies: MVVM, UIKit, CocoaPods, StoreKit, FirebaseAuth, GoogleSignIn.
 Responsibility: debugging, bug fixing, cross-platform integration, application deployment to the App Store
@@ -4268,7 +4268,7 @@ EDUCATION
 Master of Engineering - MEng
 · preferably a banking or fintech project;
 · professional and personal growth
-· good salary;
+· good Salary;
 · nice team;
 · remote;"
 ios,"I have practiced using UIKit, SwiftUI, Storyboard/XIB and architectural patterns such as MVC, MVP, and MVVM. I have some experience working with Networking, Firebase and using Combine, Async/Await. I am experienced in using Git, and I used Swift Package Manager.
@@ -4474,7 +4474,7 @@ AVFoundation (AVPlayer, AVAssetReader/Writer), Core Audio (Audio Units, AudioQue
 MapKit, CoreLocation, PDFKit, Network, NetworkExtensions framework, CommonCrypto and many others.
 I want to continue development in reactive programming (RXSwift, Combine) and SwiftUI.
 Conduct iOS Internship for company.
-Competitive salary
+Competitive Salary
 Friendly team
 Interesting tasks"
 ios,"I’m 3 years experience
@@ -4539,7 +4539,7 @@ Recent projects was considered on using SwiftUI / Combine frameworks, with MVVM 
 I started develop apps with MRC(not so long, but 1-1.5 years i developed apps without ARC), so i think that i understand a rules of retaining objects, memory leaks, and how avoid it. Sometimes i asked for support legacy frameworks on ObjectiveC, so still remember it syntax, and can resolve issues.
 The last three years i work with RxSwift, Realm, Alamofire, SwiftLint, Firebase(i don't use it only for Crashlytics, one app was builded for using Firebase, Firestorage, and functions)
 I get some experience also working with TensorFlow Lite, i developed from scratch module for object segmentation, with pretrained model, this app was like replacement for chromakey.
-I used and continue using a lot of 3rd party frameworks for analytics, location, databases, network, UI,  reactive development.
+I used and continue using a lot of 3rd party frameworks for analytics, Location, databases, network, UI,  reactive development.
 I'm always check a new UI/UX trends, so can give a feedback about relevance of this app for current mobile apps."
 ios,"I have over 6 years of experience developing applications both at large companies (such as Cian and Andersen) and at startups. In fact, I already have more than 2.5 years of experience working at Snoonu, Qatar’s #1 startup. I’ve also led a vertical in the capacity of Team/Tech Lead.
 Worked on projects with over 5 million MAU (Retail, Cellular operator, Coffee Bar Network).
@@ -4666,7 +4666,7 @@ Technologies:
 - Firebase
 - Chats
 - Analytics
-- Maps & location
+- Maps & Location
 - Payments (Apple In-App Purchase, Stripe, etc.)
 - Deployment / Distribution
 - Deep links & universal links
@@ -4726,7 +4726,7 @@ iOS skills:
 • Google Cloud, Azure, Firebase, Custom API
 • WebRTC, PushKit, LiveKit, Audio/video streaming
 • AVFoundation, True Depth API
-• Geo-location, Mapping
+• Geo-Location, Mapping
 • VoIP, Push Notifications, In-App purchases
 • Bluetooth, external SDKs
 • Carthage, CocoaPods, SPM
@@ -4769,7 +4769,7 @@ Clean Swift architecture has been used together with cocoapods and dependency in
 - White label Betting Project(SDK) for future setup(change design colors, turn on or off features that were implemented) by clients.
 Project was written with an MVVM architecture pattern with RxSwift. But for the last 9 months we rewrote it to some version of Redux
 - SDK for connecting and working with Salesforce.
-Worked on classes for parsing data from Salesforce Api to models that we used in sdk. And
+Worked on classes for parsing data from Salesforce Api to resume_classifier that we used in sdk. And
 - Personal radio station App. Combining music streaming with LIVE interactive talk - this is the future of social streaming
 - In parallel, mentor a friend outside of the work, to become an iOS developer. Already got her first job.
 - Take lead tasks, collaborate with other teammates, describe tasks, write estimation on it. Presenting demo to the client.
@@ -4792,7 +4792,7 @@ Bief summary:
 - Writing documentation and Test cases for the whole app and its modules.
 - Strong knowledge of Swift programming and Objective C programming languages
 - Earned strong experience with Swift UI, UIkit and Autolayout while working with complex mobile UI and custom UI components and animations.
-- Strong experience with Computer-vision, Augmented reality, location based and financial projects.
+- Strong experience with Computer-vision, Augmented reality, Location based and financial projects.
 - Good experience with AI based mobile apps.
 - Excellent knowledge of Software Architecture Principles and Test Driven development.
 - Strong experience of mobile SDK development and dealing with mobile app security issues.
@@ -4825,7 +4825,7 @@ Be warm and you’ll instantly stand I can and will deliver great results with a
 I’m here to bring your ideas and vision to mobile market with success and I have lots of experiences in app building from scratch.
 The opportunity to grow, interesting tasks, trips abroad, teamwork, proper goal setting"
 ios,"I have not yet participated in any real projects, but I try to develop myself and do interesting projects (for myself). Now I am learning at the institute and in my practical work I try to use new technologies to better understand how they work. I'm familiar with many languages and technologies, but I have only one deep understanding of web development, namely React. I'm very interested in the IT industry, so I'm very excited to learn new things in this field. I would like to find my first job in development and start my career as a developer.
-I've done a lot of things, some primitive, some interesting, but my biggest project so far is a web-based calorie tracker. There have been various projects like weather prediction models where I used real data sets. Lots of web calculators. Python applications using Tkinter for the user interface. And many other things you can find on my github.
+I've done a lot of things, some primitive, some interesting, but my biggest project so far is a web-based calorie tracker. There have been various projects like weather prediction resume_classifier where I used real data sets. Lots of web calculators. Python applications using Tkinter for the user interface. And many other things you can find on my github.
 I want to find a job where I can develop myself, learn new things and improve my old skills. In short, I want to grow as a person. And also to find good colleagues who will help me in some way, explain something.
 On the other hand, I don't want to work on monotonous tasks."
 ios,"14 years of experience in mobile software development. Last 5 years its mostly Swift with some Kotlin, ObjC and C++ with it. Worked as a team lead for around 3 years in teams up to 8 developers. Have experience both setting up products from scratch and support."
@@ -4876,10 +4876,10 @@ Work as an android developer & Unit tester
 Work as a android & iOS app developer
 Work as a React Native developer and Unit & UI tester
 Good communications and long term work"
-ios,"I have 5 years of experience in iOS development, building applications from scratch and successfully launching them on the App Store while handling all submission and review challenges. I optimize user experience with ML models, increase conversion rates through Firebase A/B testing and analytics, and work with complex APIs and integrations, including payment systems (Stripe, Fondy, MonoPay) and notification services."
+ios,"I have 5 years of experience in iOS development, building applications from scratch and successfully launching them on the App Store while handling all submission and review challenges. I optimize user experience with ML resume_classifier, increase conversion rates through Firebase A/B testing and analytics, and work with complex APIs and integrations, including payment systems (Stripe, Fondy, MonoPay) and notification services."
 ios,"Proactive and skilled Swift Developer with a solid foundation in Swift programming since August 2023, and hands-on experience starting from February 2024. Expert in two primary frameworks: UIKit and SwiftUI, with practical projects developed using both. Capable of working without third-party libraries, yet knowledgeable in their integration using CocoaPods and Swift Package Manager (SPM). Efficient and quality-driven, consistently delivering work quickly and to a high standard.
 Graduated from Taras Shevchenko Technical School of Computer Science and Engineering. Completed the course ""The Complete iOS App Development Bootcamp"" on the Udemy platform. Currently studying at Kyiv Polytechnic Institute, first year.
-Find a company with a friendly team and a fair salary."
+Find a company with a friendly team and a fair Salary."
 ios,"Developing iOS applications in IoT sphere using Swift
 Creating various applications for iOS devices using Swift, XCode, and other related technologies.
 Designing and developing user interfaces for iOS programmatically, using SwiftUI, using Storyboards and Auto Layout
@@ -4973,9 +4973,9 @@ Chess.com (150M+ users)
 Flightradar24 (50M+ users)"
 ios,"My passion for programming started in the fifth grade of school, when we started learning the basics of algorithms in computer science classes using Scratch block programming. Later we switched to Pascal, and it was then that I realized that programming was what I wanted to do and what I was really interested in.
 At university, I was introduced to low-level Assembler language, which allowed me to understand how a computer works at the machine level. After a while I started to actively learn C++, which became my main programming tool. Thanks to this language, I learned to understand algorithms written in most programming languages (except esoteric ones).
-In the process of learning, I realized many projects in different programming languages. These ranged from simple console applications, such as bubble sort and quick sort, to more complex programs on Windows Forms and web applications with databases. One of my accomplishments was creating a custom web application from the To Do category.
+In the process of learning, I realized many projects in different programming languages. These ranged from simple console applications, such as bubble sort and quick sort, to more complex programs on Windows Forms and web applications with databases. One of my accomplishments was creating a custom web application from the To Do Category.
 I then decided to try my hand at mobile development and chose native iOS development. I first created simple 1-2 screen projects in Xcode, and later I developed from scratch a contact management application with authoring solutions, fully integrated into the Apple ecosystem.
-I am willing to discuss salary at the start of the job as experience is paramount to me. All of my current skills are based on solving software related problems on my own. I strive to constantly update my own biological firmware, so I am open to new knowledge. It is very important for me to work in a friendly team where there will be friends, not just colleagues."
+I am willing to discuss Salary at the start of the job as experience is paramount to me. All of my current skills are based on solving software related problems on my own. I strive to constantly update my own biological firmware, so I am open to new knowledge. It is very important for me to work in a friendly team where there will be friends, not just colleagues."
 ios,"Yandex – iOS Enigneer
 Superapp mobile browser with 100M+ MAU and 9M+ DAU.
 • Increased testing efficiency by automating 80% of Kazakhstan module features using XCUITest framework,
@@ -5139,7 +5139,7 @@ Ronis (Tech Lead)
 • After Atno, I moved to Ronis as a Tech Lead.
 • I conducted regular code reviews, supported and developed the project.
 • I managed the migration of the project from a hybrid WebView solution with JavaScript injections to a native application on Swift using UIKit.
-• Implemented new features, including a virtual fitting room for an online store. Used ARKit as the main technology, allowing to adjust 3D models of goods to the user's actual proportions and visualize fitting in real time.
+• Implemented new features, including a virtual fitting room for an online store. Used ARKit as the main technology, allowing to adjust 3D resume_classifier of goods to the user's actual proportions and visualize fitting in real time.
 Forbus Tech (1.7 years)
 • Worked as an iOS App Developer and published more than 80 mobile applications and utilities in the App Store (mainly fintech).
 • Performed integration of various payment methods: In-App Purchases, Apple Pay, Revolut Pay SDK.
@@ -5383,7 +5383,7 @@ Engineered a robust network layer to optimize data communication.
 Designed and implemented custom views, contributing to a tailored and visually appealing interface.
 Developed intricate business logic, enhancing application functionality and ensuring seamless user interactions.
 REI:
-An application «Real Estate Investment» (in short REI) enables a user to choose the desired type of property, whether it is a home, apartment, or land, for purchasing or renting from the list of properties offered by the real estate agencies or private investors. The property might be considered an investment project. The application allows the user to filter the database of real estate by parameters like price, distance from the desired location, type, number of rooms, square, etc. The home page presents the list of ads with the main photo view, with the accent on the description of the object and a smaller photo or, as an extension, with a map view, where the advertised points emerge on a map.
+An application «Real Estate Investment» (in short REI) enables a user to choose the desired type of property, whether it is a home, apartment, or land, for purchasing or renting from the list of properties offered by the real estate agencies or private investors. The property might be considered an investment project. The application allows the user to filter the database of real estate by parameters like price, distance from the desired Location, type, number of rooms, square, etc. The home page presents the list of ads with the main photo view, with the accent on the description of the object and a smaller photo or, as an extension, with a map view, where the advertised points emerge on a map.
 Technologies:
 Swift, UlKit, Combine, MVVM, Foundation, URLSession, SwiftGen, UserDefaults, KeyChain, REST API, WebKit, third-party libraries: SwiftFormat, SnapKit, KingFisher, CocoaCombine
 Contribution
@@ -5519,7 +5519,7 @@ Received significant endorsement from university community, demonstrating high e
 ios,"I am a dedicated iOS developer with 15+ years of experience, starting with the first iPhone SDK. My career spans freelance work, contracts, and leadership roles in iOS teams. I excel in delivering polished, user-focused apps, with over 50+ projects successfully launched on the App Store. Proficient in Swift and Objective-C, I thrive in both independent and large, collaborative team environments, especially on long-term projects. Passionate about app quality and exceptional UX, I bring a meticulous and innovative approach to every project.
 I have extensive hands-on experience with nearly all aspects of the iOS SDK, including advanced networking using sockets, low-level audio processing, custom animations, and performance optimization. I’ve tackled complex challenges such as real-time data synchronization, building frameworks, and integrating with hardware. My expertise also includes working with Core Data, AVFoundation, Core Animation, and developing apps with sophisticated UI/UX. This breadth of experience enables me to deliver robust, high-performance solutions tailored to the unique demands of each project.
 I am seeking remote opportunities, ideally with startups or freelance projects, where I can contribute more than just code. I value roles that allow me to actively influence the project’s direction—collaborating on screen designs, API formats, and app architecture. I am open to working with teams and have experience leading groups of 20+ developers. I do not consider office-based roles but thrive in a remote environment that fosters creativity, collaboration, and meaningful impact on the product’s success."
-ios,"Some iOS applications, such as ""MasterCoock"" (finding recipes by ingredients), ""TripTrack"" (scanning vehicle barcode/qrCode, auto-setting location and date/time for tracking drivers trips), ""CoronaStatistic"" (by country code), ""Prober"" (finding places by locations and rate by few criteria's)...
+ios,"Some iOS applications, such as ""MasterCoock"" (finding recipes by ingredients), ""TripTrack"" (scanning vehicle barcode/qrCode, auto-setting Location and date/time for tracking drivers trips), ""CoronaStatistic"" (by country code), ""Prober"" (finding places by locations and rate by few criteria's)...
 Work in team for increase my developer skills"
 ios,"Frontend Boost Program (JS/React/Angular)
 Levi9 – Internship
@@ -5616,7 +5616,7 @@ Key Proficiencies:
 - Problem-solving mindset with a “result-first” approach.
 - Experienced in leading iOS teams, mentoring developers, and driving project success.
 - Strong foundation in SOLID principles, OOP, and functional programming.
-- Deep understanding of multithreading, synchronization, and concurrency models.
+- Deep understanding of multithreading, synchronization, and concurrency resume_classifier.
 - Expertise in architecture patterns (MVC, MVP, MVVM, Coordinator, VIPER, Clean Architecture).
 - Practical knowledge of Apple’s frameworks, including their underlying principles.
 - Proven ability to design scalable architectures and navigate complex legacy codebases.
@@ -5873,7 +5873,7 @@ iOS Software Engineer
 Kasian Development (Ireland) / Full-time | FEB 2024 - JUL 2024
 · Developed the «Kyiv app / A tourist guide in your pocket!» from scratch to its release on the  App Store, based on the book «Kyiv not Kiev» by Olena Kasian.
 · Developed the application using SwiftUI with MVVM architecture and Combine.
-· Implemented map functionality for tracking user location and specific destinations using MapKit and CoreLocation.
+· Implemented map functionality for tracking user Location and specific destinations using MapKit and CoreLocation.
 · Implemented in-app purchases to enhance monetization using StoreKit.
 · Conducted beta testing for continuous improvement of app functionality.
 iOS Software Engineer
@@ -6067,7 +6067,7 @@ ios,"Last 3 years I was working as iOS developer leading team of 5 developers on
 - Content engines  for books, movies, audio books
 - Coupon Aggregators like Groupon
 - Small games for kids on UIKit/SpriteKit
-Worked with such technologies: iAP, push notification, mapkit, autolayout, firebase, REST, JSON, audio services, core text.
+Worked with such technologies: iAP, push notification, mapkit, autolayout, firebase, REST, JSON, audio services, core Text.
 Can make UI in Sketch."
 ios,"Senior iOS Developer, adept at bringing the latest cutting- edge tools and technologies. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. 10 years of experience, making applications since iPhone OS 2.0.
 Skills: SwiftUI, Swift, Objective-C, async/await, GCD, Operations, Combine, RxSwift, CoreData, Firebase, Firestore, MVVM, VIPER, FLUX, FRP, MLKit, ARKit, Vision, IAP, APNS.
@@ -6188,7 +6188,7 @@ Developing robust backend services using Node.js and Vapor.
 Implementing real-time data handling and storage solutions with Firebase and Realm.
 Managing dependencies and modularization using Swift Package Manager.
 Ensuring high-quality, maintainable code with SwiftLint.
-Crafting location-based services using MapKit and Google Maps.
+Crafting Location-based services using MapKit and Google Maps.
 Since 2016, I've been engaged in various sectors of software development, focusing on both mobile and web technologies. My mobile development expertise is centered around iOS, with a strong emphasis on Swift, Objective-C, SwiftUI, and Combine. I've applied design patterns like MVC, MVVM, TCA, and Onion Architecture to build scalable and maintainable software. I have commercial experience in backend and frontend development using Node.js (Docker, strapi, express, etc)
 Professional height.
 Adequate management.
@@ -6321,7 +6321,7 @@ A short list of done jobs in there:
 - Developed highly decomposed modules and screens with reuse ability;
 - Code reviewer and mentor.
 Recent project achievements:
-- Migrated from CoreData to GRDB (raw SQLite database) with a full-text search feature. The time of reading data has been reduced in average by x3;
+- Migrated from CoreData to GRDB (raw SQLite database) with a full-Text search feature. The time of reading data has been reduced in average by x3;
 - I have great skill in architecting readable codebase. The time onboarding time has been reduced by 40% (comparing to other projects that I had worked with);
 - Designed and implemented pagination with prefetching data, to provide a fast and responsive user experience;
 - 80k active users per month in public beta testing;
@@ -6481,7 +6481,7 @@ Adapted projects for new iOS versions and legacy code.
 Cooperation with global, cross-functional teams.
 Participating in the code review process
 The domain is not critical, as the tech stack can be mastered and legacy code is not an issue — though I’m more inclined to work with SwiftUI.
-I’m open to discussing and considering the final gross salary.
+I’m open to discussing and considering the final gross Salary.
 Both full-time and part-time employment are possible.
 Available as a freelance private entrepreneur for contract work (B2B engagements).
 I have all I need to handle the tax responsibilities."
@@ -6549,7 +6549,7 @@ Achievements:
 - Implemented the ability to apply for a loan through the mobile application, relieving the workload on our physical branches and simplifying the loan application process for our clients.
 - Implemented the ability to send referral links, providing both users with a monetary reward, which helped attract new customers and increased the number of application downloads.
 - Implemented the ability to return part of the VAT after scanning the QR code on a receipt or through Fiscal ID, enabling users to receive cashback from purchases.
-Implemented the display of expense statistics by category, allowing our clients to more easily track their expenses.
+Implemented the display of expense statistics by Category, allowing our clients to more easily track their expenses.
 Implemented the ability to place online deposits, enabling users to invest funds and receive income in the form of monthly interest accrual.
 - Implemented the ability to use the Sima electronic signature within the application, facilitating the implementation of some of the above features."
 ios,"iOS developer with 13 years of commercial experience in native iOS development in outsourced companies
@@ -6672,7 +6672,7 @@ Technologies I've worked with include:
 MVC, MVVM, Swift, Objective-C, UIKit, AppKit, SwiftUI, CoreLocation, CoreData, MapKit, WebKit, StoreKit, Firebase SDK, GoogleAnalytics, GoogleSignIn, GooglePlaces, MapBox, Alamofire, Nuke, Signal, MagazineLayout, Lottie, Shopify, SnapKit, Stripe, FacebookSDK, Charts.
 Examples of tasks I've performed include:
 - Filtering and sorting products by categories, dates, and other criteria
-- Searching for news, products, and services by name
+- Searching for news, products, and services by Name
 - Data synchronization with the server
 - Processing payments through the Stripe system
 - Leaderboard for golf
@@ -6744,7 +6744,7 @@ In particular with media services, banking applications, food delivery
 Developed both from scratch and joined the team
 Don't want to support very old legacy code, work under the tracker"
 ios,"Experienced professional with 5 years in the Information Technology industry. Proficient in iOS development, using Swift and Objective-C programming languages. Good understanding of the application life cycle,  application architecture designing, and integration of third-party libraries.
-My experience includes working with augmented reality projects, security domain projects, and projects with machine learning models.
+My experience includes working with augmented reality projects, security domain projects, and projects with machine learning resume_classifier.
 My skills in both UIKit and SwiftUI empower me to create intuitive and efficient user interfaces while adhering to Human Interface Guidelines. Task estimation and effective task management are integral parts of my professional expertise.
 I'm prepared for new challenges and continuously evolving, aiming to apply my experience and knowledge to create innovative and efficient IT solutions."
 ios,"Worked for 6 months in startups, responsible for app layout development. The projects were in MVP format, involving UI development, application logic setup, implementation of notifications, and user registration. The primary development tool was SwiftUI, but UIKit was also used. Developed applications from the first step to release on the App Store.
@@ -6774,7 +6774,7 @@ Main languages: swift, objective-c.
 A lot of successfully launched projects."
 ios,"10+ years in iOS development (since 2011). Broad experience with client-server applications, various architecture approaches, code patterns, and setup of CI/CD tools. I had vast experiences from startup to enterprise teams, working as a single developer and team member. Flexible enough for remote or office work. Сomfortable to work in English.
 Only native code (Swift preferable, Objective-C possible)"
-ios,"Successfully developed and published over 40 projects on the App Store, ranging in size and complexity. Worked extensively with various APIs and technologies, including maps, real-time location tracking (for taxi services), video streaming, audio processing, databases, Firebase, social network integrations, and WebSockets.
+ios,"Successfully developed and published over 40 projects on the App Store, ranging in size and complexity. Worked extensively with various APIs and technologies, including maps, real-time Location tracking (for taxi services), video streaming, audio processing, databases, Firebase, social network integrations, and WebSockets.
 Developed and delivered applications across multiple domains, including fintech (cryptocurrency apps, payment solutions), e-commerce, taxi services, and real-time communication. Adapted to different project scopes, working both independently and as part of a team. Took on the role of a team lead in several projects, overseeing development processes, mentoring team members, and ensuring high-quality outcomes.
 Passionate about building efficient, scalable, and user-friendly applications, following best practices in iOS development to ensure maintainability and high performance.
 - Integrated complex third-party APIs, including real-time WebSockets, social media authentication, and video streaming solutions.
@@ -6969,7 +6969,7 @@ Mobile team leading experience.
 Cross-platform app (streaming musical client) development  experience (Xamarin).
 Swift, Objective C and C#.
 Some examples of the projects:
-Currently I am Senior iOS developer in a product company providing location services to families. With extensive use of iOS location services.
+Currently I am Senior iOS developer in a product company providing Location services to families. With extensive use of iOS Location services.
 iPhone application for smart home/security appliances.
 iPhone/iPad music streaming service cross-platform client application (Xamarin).
 iPad app for showing of customer's numeric data in the graphics form with flexible options for customization
@@ -7141,7 +7141,7 @@ Responsible for developing and maintaining a mobile banking app for individuals 
 NexLink | iOS Developer | Oct. 2023 – June 2024, Bishkek, Kyrgyzstan,  part-time
 Developed B2C and B2B applications for hotel booking in Kyrgyzstan, using UIKit (without Storyboards) and MVP architecture for clean, maintainable code. Implemented networking with URLSession and WebSocket for real-time updates. Integrated Realm for local storage and offline functionality. Enabled Google and Apple auth for user registration. Used SnapKit for responsive UI layout, ensuring a seamless experience across devices.
 GeekStudio | iOS Developer | Oct.  2023 – June 2024, Bishkek, Kyrgyzstan,  full- time
-Developed a coffee shop franchise app and an IT school app using SwiftUI with MVVM and Combine. Integrated MapKit for location features and custom text fields for phone numbers and confirmation codes. Added smooth animations, dark mode, and localization in three languages.
+Developed a coffee shop franchise app and an IT school app using SwiftUI with MVVM and Combine. Integrated MapKit for Location features and custom Text fields for phone numbers and confirmation codes. Added smooth animations, dark mode, and localization in three languages.
 Developed functionality for students to view homework, request mentor help, and send coins, while mentors could manage requests. Used AVFoundation for QR code generation and Alamofire for API communication.
 Geeks | iOS Developer | June  2022 – Oct. 2023, Bishkek,  Kyrgyzstan, hybrid
 Developed a marketplace for designers using UIKit (without Storyboards) and VIPER architecture. Utilized Alamofire, Keychain, SnapKit, and Kingfisher for robust features. Led a team of 5 junior developers, providing mentorship and ensuring high-quality code. Conducted code reviews, resolved conflicts, and maintained coding standards.
@@ -7267,7 +7267,7 @@ ios,"EXPERIENCE
 iOS developer - Mar 2022 - present
 GoGo Cab - the app to get a taxi with a UI and no phone calls by selecting the current and destination locations. I was working on API communication with the server, creating custom views.
 I was responsible for:
-- work with API models/requests, MQTT;
+- work with API resume_classifier/requests, MQTT;
 - creation of new user interface screens with user elements
 - optimizing UI to work on small and big screen
 - map integration with routes/points etc
@@ -7306,7 +7306,7 @@ Mobile Application Development Team Lead
 Leading a team in creating user-friendly and high-performance mobile banking applications from scratch for iOS and Android platforms primarily using Flutter, resulting in a 40% increase in user engagement and a 25% growth in business revenue within the first year of launching the applications.
 Mentoring and provided technical guidance to junior team members, fostering their professional growth and resulting in a 30% reduction in bug counts and code refactoring.
 Implementing a continuous integration and delivery (CI/CD) pipeline, automating the build, testing, and deployment processes, resulting in a 50% reduction in deployment time and improved overall development efficiency.
-Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
+Successfully launched a highly-rated mobile application, ranking in the top charts in the Finance Category on both iOS and Android app stores in Kyrgyzstan, and accumulating over 200,000 downloads and updates within the first three months.
 IT-RUN Kids
 Scratch & App Inventor course instructor
 Successfully instructed and guided kids in a Scratch and App Inventor programming course, resulting in a 50% improvement in their coding proficiency and problem-solving skills. Students demonstrated an average increase of 30% in project completion rates and a 25% boost in creativity and innovation within the course duration.
@@ -7325,12 +7325,12 @@ Deliver Flawless Performance
 Write bulletproof code with zero tolerance for bugs, achieving unparalleled performance and responsiveness across all devices and network conditions.
 Inspire Innovation and Excellence
 Lead by example, fostering a culture of innovation within the team by introducing fresh ideas, mentoring peers, and staying ahead of the latest iOS trends to drive technological advancements."
-ios,"Senior iOS/macOS Developer with 15+ years of experience in mobile and desktop app development for Apple platforms. I was leading a digital transformation of a neobank application in Credit Dnipro bank. In addition, I have skills in integration of hardware with iOS and connectivity. Actively implementing different AI models in iOS, as well as MCP and Agentic workflows. Having advanced knowledge of UI/UX design and tools, like Photoshop and Figma, and being a graphic designer in the past, helped to shape the look and feel of  products. Published myself numerous apps on the AppStore and negotiated rejections with Apple review team. Have minimal knowledge of Android, enough to make minor fixes and lead cross-platform development.
+ios,"Senior iOS/macOS Developer with 15+ years of experience in mobile and desktop app development for Apple platforms. I was leading a digital transformation of a neobank application in Credit Dnipro bank. In addition, I have skills in integration of hardware with iOS and connectivity. Actively implementing different AI resume_classifier in iOS, as well as MCP and Agentic workflows. Having advanced knowledge of UI/UX design and tools, like Photoshop and Figma, and being a graphic designer in the past, helped to shape the look and feel of  products. Published myself numerous apps on the AppStore and negotiated rejections with Apple review team. Have minimal knowledge of Android, enough to make minor fixes and lead cross-platform development.
 Creator of Threat Explorer, a unique penetration testing tool for finding security vulnerabilities in iOS and macOS applications. Proficient in Swift, Objective-C, SwiftUI, and advanced technologies like MetalKit, CoreML, and ARKit.
 Key Achievements:
 • Developed or participated in  100+ commercial apps and 20+ personal projects, several featured on the App Store and in industry publications.
 • Led FinTech digital transformation, leading a team of 4 engineers (iOS + Android), optimizing mobile architecture and API integrations.
-• Integrated AI models (CoreML, OpenAI, Anthropic Claude, Google Gemini, Meta LLAMA) into mobile applications.
+• Integrated AI resume_classifier (CoreML, OpenAI, Anthropic Claude, Google Gemini, Meta LLAMA) into mobile applications.
 • Revived and optimized legacy codebases (Objective-C) with near 100% test coverage and strict security standards.
 • Developed 3D rendering and AR/VR apps for top clients like Dolby.
 • Expertise in encryption protocols, AES, SHA256, symmetric/assymetric encryption.
@@ -7430,7 +7430,7 @@ ios,"Enterprise Software Engineer | Technical Lead
 - Legacy Code Modernization: Maintained and refactored existing Objective-C codebases, migrating components to Swift for improved performance and maintainability.
 - Cross-Team Collaboration: Engaged directly with stakeholders, designers, and cross-functional teams to align technical solutions with business goals.
 - Continuous Learning & Technical Challenges: Enhanced expertise through hands-on experience in Rust, completed multiple programming challenges, and explored new technologies to improve development workflows."
-ios,"Commercial experience of 4 years. Worked on applications related to audio and video processing, audiobook, online store, application recognizing and translating text, application for transmitting multimedia to TV, social network
+ios,"Commercial experience of 4 years. Worked on applications related to audio and video processing, audiobook, online store, application recognizing and translating Text, application for transmitting multimedia to TV, social network
 In my work I used such architectural patterns as MVC, MVVM, MVP, VIPER. Worked with the network using URLSession and the Alamofire library. In projects I used coredata and realm for data storage. I have experience with Photo Library and AVFoundation. Implemented push notifications and purchases.
 I know and apply the principles of OOP, SOLID
 Lately, I've been working in a large team that included Android, iOS, and web developers using Jira and Figma for their work.
@@ -7922,7 +7922,7 @@ Professional development: I want to learn new technologies, programming language
 ios,
 ios,"At the moment I have participated in the development of about 10 different projects. I will give some examples and their main concepts.
 1) Fitness and meditation. A project for self-development with articles, exercises, videos and audio for meditation. All actions were accompanied by control and analysis of your current and previous results. (iPhone)
-2) A social network with the main focus on distributing files. Your music recordings, videos, examples of your work, and so on. Naturally, the application had a chat, but only with the ability to send text messages and photos.
+2) A social network with the main focus on distributing files. Your music recordings, videos, examples of your work, and so on. Naturally, the application had a chat, but only with the ability to send Text messages and photos.
 Some ideas, such as a live search one to one like in Instagram. (The application is available in the App Store) (iPhone/iPad)
 3) A system of two related applications - a doctor and a patient. The application provided for medical prescriptions for medications, exercises, the use of third-party Bluetooth devices and analysis of data from them. Audio and video calls were also available in the application. It was possible to create health reports with a large amount of analytical data, graphs, and so on. (iPhone/iPad)
 4) Video hosting application. The closest analogue is Netflix. The general structure is a bit simpler, but nevertheless the main functions such as views, likes, comments for all shows and videos were provided. Lists for delayed viewing, trends, new and similar were also available. (The application is available in the App Store) (iPhone/iPad)
@@ -8059,7 +8059,7 @@ Achievements/Tasks
 Participated in the development of apps from the ground up for government organizations and businesses.
 Refactored an application to have maintainable and extendable architecture to enable further more expansion without modification
 Collaborated closely with design team to implement/adjust design components using Apple human interface guidelines
-Implementation of MapView, text recognation, Firebase tools i.e. performance, A/B testing, crashlytics
+Implementation of MapView, Text recognation, Firebase tools i.e. performance, A/B testing, crashlytics
 iOS Developer(intern)
 Crocusoft LLC
 04/2019 - 07/2019, Baku A Private software company is mainly focused on developing software for state and well-known organizations.
@@ -8214,7 +8214,7 @@ Repository link
 •	Retrieved and processed data from HTTP responses.
 5. MVVM architecture:
 •	Implemented the MVVM (Model-View-ViewModel) architecture for organizing code and separating responsibilities.
-•	Created data models to represent information from the TMDB API.
+•	Created data resume_classifier to represent information from the TMDB API.
 6. Integration with the TMDB API:
 •	Obtained an API key to interact with the TMDB API.
 •	Used the API to implement movie search functionality and fetch movie details.
@@ -8351,20 +8351,20 @@ ios,"iOS software developer with 8 years of experience. Worked in a team and als
 Saved app from visual stutters and lags. In two weeks rewrote an old app to a new one that actually was maintainable. Helped completely redesign and introduce new features to old existing platform. Lead a team to successful MVP."
 ios,"Passionate and results-driven iOS Developer with 2 years of experience in developing, and deploying high-quality mobile applications. Proficient in Swift, with a strong foundation in iOS frameworks such as UIKit, SwiftUI. Adept at collaborating with cross-functional teams to deliver intuitive and user-friendly apps that meet business objectives. Committed to staying current with the latest trends in mobile development, with a particular focus on performance optimization, UX/UI best practices, and adopting new technologies."
 ios,"December 2024 - current time, Steadfast Craft.
-1. AINotes - app that allow user to create notes from different content sources, including links (e.g., YouTube, Google Docs, or any website), recorded audio, uploaded audio, and text
+1. AINotes - app that allow user to create notes from different content sources, including links (e.g., YouTube, Google Docs, or any website), recorded audio, uploaded audio, and Text
 documents.
 In this project I learn how to implement serverless functions(Firebase), integration speech
 recognition and limitations of native Speech framework, audio recording.
 2. Universal TV Remote - remote control application for TV devices. In this app I learned the fundamentals of networking protocols such as TCP, UDP, and multicast, as well as BSD Socket programming. Implemented simple searching operation and data transfers(Protobuf) with Apple Network framework, SwiftNIO.
 December 2022 - November 2024, Freelance
-1. AIHomework Helper: An app that assists students with solving math problems by allowing them to either type or scan tasks from images. The app uses the Vision framework to extract and recognize text from images and AVFoundation to capture photos through the device's camera. Core Data is employed for managing chat data, while the app integrates the OpenAI API to generate step-by-step solutions and explanations.  Technologies used: SwiftUI, Vision, AVFoundation, Core Data, OpenAI API.
+1. AIHomework Helper: An app that assists students with solving math problems by allowing them to either type or scan tasks from images. The app uses the Vision framework to extract and recognize Text from images and AVFoundation to capture photos through the device's camera. Core Data is employed for managing chat data, while the app integrates the OpenAI API to generate step-by-step solutions and explanations.  Technologies used: SwiftUI, Vision, AVFoundation, Core Data, OpenAI API.
 2. Collages . An app where users can create custom collages from their photos. In this application, I encountered challenges due to the complex and multilayered layout logic, prompting me to delve deeper into this area. I studied and experimented with various approaches for building complex layouts by dynamically managing elements using Auto Layout and frame-based layout. Technologies used: UIKit, AVFoundation, Photos, Core Data, Concurrency, GCD, UndoManager. App features:
 - Create collages with varying numbers of photos.
 - Create collages in specific shapes or with particular frames.
 - Adjust the size of each photo within the collage using drag views.
 - Add multiple texts and stickers to the collage, which can be moved, rotated and resized dynamically from any side.
 - Dynamically change the internal and external borders of the collage.
-3. Colorize: An app aimed at reviving old photographs by enhancing their resolution and adding color. After improvements, users can further edit photos by cropping, rotating, flipping, adding text, and applying various filters.
+3. Colorize: An app aimed at reviving old photographs by enhancing their resolution and adding color. After improvements, users can further edit photos by cropping, rotating, flipping, adding Text, and applying various filters.
 4.Crystal Recogniser: Designed to help users identify stones by taking a photo, which is then analyzed by an AI model to provide information about the stone.
 I am a self-taught iOS developer with 2 year of commercial  experience in total. I begun learning Swift by studying Apple programming books, watching WWDC sessions, exploring the Apple SDK, and utilizing various other resources.
 To further accelerate my learning, I worked closely with a mentor, a friend with 5 years of experience in iOS development. My mentor’s guidance helped me quickly grasp how to write structured and easily scalable code, properly manage project flow, effectively use the iOS SDK, and efficiently find solutions to development challenges
@@ -8440,7 +8440,7 @@ And a lot more.
 I also have experience as team lead where I directly communicated with customer. My team developed software for photo editing and further printing.
 Developed application with all kind of animations with different complexity.
 But also, I have some experience of developing application on tvOS, macOS.
-I worked directly with California's startup which has more then 40K active users per day. Developing project, which allows user to speechify text from different sources, such as image, PDF files, web articles, etc.
+I worked directly with California's startup which has more then 40K active users per day. Developing project, which allows user to speechify Text from different sources, such as image, PDF files, web articles, etc.
 I have experience working with the taxi provider company, more precisely the apps, which allows to book a taxi. The apps work all over the glob and has more then 60K active users per day.
 As a side activity, I write articles on Medium dedicated to iOS developments and while have over +200 ""claps"" and positive feedbacks.
 In my later career I'm interested in remote positions.
@@ -8618,7 +8618,7 @@ App Redesign and Optimization:
 Led the redesign of a major iOS app, focusing on improving user experience and performance.
 Worked on implementing a custom calendar component using UICollectionView to optimize scrolling performance.
 API Integration & Data Handling:
-Integrated several APIs, implemented data models, and created caching mechanisms to minimize network calls and improve app responsiveness.
+Integrated several APIs, implemented data resume_classifier, and created caching mechanisms to minimize network calls and improve app responsiveness.
 Utilized Alamofire for API communication and data synchronization.
 Local Data Storage with CoreData and Firebase:
 Worked on local data management using CoreData for efficient querying and storage.
@@ -8674,7 +8674,7 @@ Strong knowledge UI/UX Apple guidelines. Experience in design with Sketch.
 Strong understanding of backend processes.
 Experience in Swift backend frameworks(Vapor, Kitura)
 Additional language: Rust.
-Within Stackoverflow top 10% in iOS, Swift category.
+Within Stackoverflow top 10% in iOS, Swift Category.
 Developed 5 apps from scratch till release, took a part in more than 12 apps.
 Led the team of 4 iOS developers(Junior+ - Middle), helped PM & BA to define roadmaps, manage & clarify client's requests and expectations, and planned execution with the team.
 Experience with Computer Vision, and video streaming apps. VoIP. AWS Services configuration and system architecture. Worked with RxSwift & RxCocoa. SwiftUI & Combine commercial experience. ARKit. Blockchain basics knowledge, commercial experience creating wallet, web2+web3 authentication, NFT-market.
@@ -8811,7 +8811,7 @@ Investigated, debugged, and successfully resolved a series of complex, non-trivi
 Refactored a large codebase using both automated tools (SwiftLint, SwiftFormat) and manual methods, resulting in improved app stability and a significant reduction in crash rates.
 Collaborated with designers and backend developers to implement dozens of new features.
 Led and mentored a team of four iOS developers, conducting regular code reviews and providing optimal solutions for upcoming tasks.
-Contributed to R&D for an experimental offline, real-time voice recognition and translation app, leveraging on-device machine learning models when it wasn't mainstream yet (2013-2014 years).
+Contributed to R&D for an experimental offline, real-time voice recognition and translation app, leveraging on-device machine learning resume_classifier when it wasn't mainstream yet (2013-2014 years).
 Co-developed an application for VoIP calls with near-real-time voice recognition (supporting English and Danish) as part of a two-person iOS development team.
 Open to various opportunities, but I prefer a challenging project where I can fully utilize my skills and continue growing as a Software Engineer within the Apple ecosystem."
 ios,"iOS developer with 8 years of hands-on iOS development experience, I've worked both remotely and on-site in teams ranging from small, focused units of 2 to larger groups of up to 40 members. I’ve led teams for over 2 years, consistently delivering on the full development cycle — from transforming business requirements into actionable tasks, to deploying the final product with CI/CD pipelines and integrated analytics."
@@ -8960,7 +8960,7 @@ ios,"My goal is to obtain a job as an iOS mobile app developer.
 I have experience in creating client-server applications in the retail sector (loyalty programs), the financial sector (microcredit solutions for the markets of Ukraine, Poland, and other countries), as well as utility apps for various tasks.
 In most projects, I independently developed the code—from the first line to release and subsequent support. While working on applications, I solved the following technical tasks:
 - Integration of apps with external services via SDK and WebView.
-- User data verification, including text fields and OTP codes.
+- User data verification, including Text fields and OTP codes.
 - Working with maps and geolocation.
 - Geofencing with delayed notification sending to API.
 - Working with the Photo and Files libraries.
@@ -9067,7 +9067,7 @@ On my initiative, the photo editor was rewritten from OpenGL to Metal in a short
 За моєї ініціативи в короткі терміни було переписано фоторедактор з використання OpenGL на Metal.
 I am looking for a team of professionals with whom I will grow as a specialist, people with whom I will share my experience.
 Шукаю команду професіоналів з якими я буду рости як фахівець, людей з котрими я буду обмінюватись досвідом."
-ios,"My name is Artem, and I am a student at the National University of Kyiv-Mohyla Academy, where I study Software Engineering. I also have one year of experience as an iOS developer.
+ios,"My Name is Artem, and I am a student at the National University of Kyiv-Mohyla Academy, where I study Software Engineering. I also have one year of experience as an iOS developer.
 Currently, I am looking for opportunities to advance my career in iOS application development. I am eager to learn, grow, and contribute to the development of exciting and technologically challenging projects.
 I am open to collaboration and ready to join a team that works together on innovative solutions. My goal is to become a highly skilled iOS developer. I am always keen to learn new technologies and jointly implement projects that exceed expectations. Let's create the future together!"
 ios,"Маю багатий досвід роботи над різноманітними проєктами в таких категоріях, як сервіси таксі, доставка, управління складом, додатки для знайомств, догляду за тваринами та спорту. Протягом трьох років працював з UIKit та архітектурою MVVM, а понад рік тому перейшов на SwiftUI з MVVM."
@@ -9183,16 +9183,16 @@ Multithreading: Actors, GCD, Threads + RunLoops
 UI: SwiftUI, UIKit, Cocoa, use MVVM, MVC, MVP, Composable architectures + Coordinators, Use VIPER, MV, Redux for small projects
 Storages: Core data, GRDB, raw sqlite, keychain, user defaults. And some developed wrappers (Repository Kit, Realm)
 Networking: Urlsession with GCD and Actor request planer
-Additional: XPC, Push notifications, Maps (MapKit, GoogleMaps), Core location, Core bluetooth, WebKit, SnapKit, Mac OS development, System extensions, Objective C
+Additional: XPC, Push notifications, Maps (MapKit, GoogleMaps), Core Location, Core bluetooth, WebKit, SnapKit, Mac OS development, System extensions, Objective C
 Non iOS/Mac technologies:
 - Python(3), C++, JavaScript, HTML, CSS, Rust(basic), Kotlin
 Science:
 - Work with statistic based segmentation and image recognition.
-- Work with Natural Language Processing models
+- Work with Natural Language Processing resume_classifier
 Develop app architecture with SOA services and Actor model. Make app which use million peoples. Build test system and setup project automatization for CI
 Build new app or iOS team."
 ios,"I led, designed, developed, and maintained complex features within startup projects from scratch as well as in large international product companies within market-lead products with a user base of over 100 million users, ensuring seamless integration and optimal user experience, shipping high-quality, well-tested, secure, and maintainable code.
-My pet-project monobudget was one of the top 20 financial apps and the number one personal finance management app in the Ukrainian App Store and has officially been nominated for the status-title “Choice of the Country” 2024.
+My pet-project monobudget was one of the top 20 financial apps and the number one personal finance management app in the Ukrainian App Store and has officially been nominated for the status-Title “Choice of the Country” 2024.
 I’m looking (preferably but not necessarily) for the:
 • product company
 • project from scratch
@@ -9271,7 +9271,7 @@ Made REST API requests for download data and upload with auth.
 Figured it out with difficult API from Reddit.
 Used UIKIT framework
 Used GCD for proper scroll views with video/Image
-Setup different Table View Cells in one table: (video, images, text)
+Setup different Table View Cells in one table: (video, images, Text)
 Non-Commerce app for Kyiv Travel guide.
 Summary:
 Use MVP architecture under the guidance of an experienced mentor.
@@ -9535,7 +9535,7 @@ ____________________________________________________
 Customer: 	NDA, Israel
 Domain area: 	Education and culture, B2C
 Product:      Book-reading app that allows users to access books from anywhere in the world via handy interface including bookshelf, library, and reading list, which supports many formats (ePub,
-MOBI, PDF etc.), different font sizes, colors and advanced features like search, text highlighting, bookmarking as well as an option to buy books.
+MOBI, PDF etc.), different font sizes, colors and advanced features like search, Text highlighting, bookmarking as well as an option to buy books.
 Focus:
 Development process setup from scratch
 Product implementation from startup up to release in Production
@@ -9641,7 +9641,7 @@ ios,"- Talent Acquisition Specialist (TAS) із фокусом на підбір
 - Отримую регулярні рев’ю від ментора.
 - Послідовно опановую стек технологій, необхідний для роботи iOS-розробником.
 Мені відверто потрібен досвід, щоб бути частиною команди девелопменту та простір для розвитку та вивчення нового (бажано на парт-таймі)."
-ios,"My name is Andrei, and I bring over three years of hands-on experience in developing and publishing a diverse range of iOS applications on the App Store. During this time, I have not only honed my technical skills but have also successfully led teams of two or more, ensuring smooth collaboration and high-quality results.
+ios,"My Name is Andrei, and I bring over three years of hands-on experience in developing and publishing a diverse range of iOS applications on the App Store. During this time, I have not only honed my technical skills but have also successfully led teams of two or more, ensuring smooth collaboration and high-quality results.
 I'm genuinely excited about the prospect of working with your team, as I believe my background aligns well with your goals. I would be thrilled to connect and discuss how my experience and enthusiasm could contribute to your success.
 I would like interesting projects, high-quality management and non-trivial tasks.  I like to work in a team and independently, always in touch, responsible and punctual"
 ios,"So far, I have created several apps and published them on the App Store, and also participated in large
@@ -9748,7 +9748,7 @@ ios,"Focused and active iOS developer, with more then 3 years of development wit
 I'll be happy to participate in your existing or potential mobile app.
 Worked in a developers team to gain skills in creating clean code.
 - Developed a forecast application to monitor weather information around the world. Implemented module architecture and plain animations. Connect network layer to back-end server.
-- Created an application for searching movies using database with the capability to sort, searching though the movie title and inspect movie details. Implemented work in offline mode."
+- Created an application for searching movies using database with the capability to sort, searching though the movie Title and inspect movie details. Implemented work in offline mode."
 ios,"- iOS Developer at Aristocrat (Dec 2022 – Present)
 Contributed to the development of the app with 99% of the UI implemented using SwiftUI.
 - iOS Developer at NeoGames (Sept 2022 – Nov 2024)
@@ -9870,7 +9870,7 @@ ios,"I am in iOS development since 2017.
 In my years I have been working as part of a different size teams as well as alone and experienced a vast majority of development challenges.
 Developed applications with as little available documentation and/or similar problems found on the internet as possible (including none whatsoever), with different environments and time constraints, but had always found solutions.
 On several projects I've set different difficulty-wise architectures and mentored junior developers, wrote comprehensive documentations on development and release with a lot of personal examples.
-Recently also had experience in working with machine learning models.
+Recently also had experience in working with machine learning resume_classifier.
 Programming languages
 Swift, Objective-C, SwiftUI
 iOS SDKs
@@ -10000,7 +10000,7 @@ Yostix is an app that helps track mood, well-being, and sleep quality. Users can
 Frameworks: Swift, SwiftUI, Combine, RSwift, XCooRdinator, Alamofire
 Architecture: MVVM+C, SOLID
 Weather Brick
-The application is a weather app that detects your location, displays the current weather, allows you to check the weather in any city worldwide, and changes the brick’s appearance based on the weather conditions.
+The application is a weather app that detects your Location, displays the current weather, allows you to check the weather in any city worldwide, and changes the brick’s appearance based on the weather conditions.
 Frameworks: Swift, UIKit, SnapKit, Combine, Foundation,
 Network, CoreLocation. Networking: URLSession, async/await.
 Architecture: MVVM, SOLID.
@@ -10153,7 +10153,7 @@ Worked on a project to build a rich UI application
 Connected a thermal printer to iOS app via Bluetooth low energy (BLE)
 Collaborated with the Backend team for implementing new features to the app
 • iOS Challenge by Readdle: Finalist of iOS Challenge, where was 160+ participants.
-• INT20h hackaton: My team won 1st place in Mobile+Embedded category with real-time muscle activity tracker device
+• INT20h hackaton: My team won 1st place in Mobile+Embedded Category with real-time muscle activity tracker device
 and native iOS app.
 - Join software company to take part at software designing and development, close collaboration with a team
 - Personal growth, mentorship
@@ -10246,7 +10246,7 @@ Pet-Projects
 AR Viewer
 A multiscreen application for viewing 3D objects in AR.
 Uses Swift, UIKit, SwiftUI, ARKit, Realm, Firebase Storage.
-The main screen(AR) shows what the camera sees and a 3D object will be displayed here. The second screen(List) shows list of folders and models. Be clicking on the ""Select"" button opposite the object selected in the list, it will be displayed on the ""AR"" screen.
+The main screen(AR) shows what the camera sees and a 3D object will be displayed here. The second screen(List) shows list of folders and resume_classifier. Be clicking on the ""Select"" button opposite the object selected in the list, it will be displayed on the ""AR"" screen.
 Instagram Clone(In Progress)
 Used UIKit and CleanSwift architecture.
 Implementing modularized app components with clear separation of responsibilities.
@@ -10254,13 +10254,13 @@ Planned features include user authentication, follower and following lists, stor
 Library
 A multiscreen library application for tracking books and their reading progress for users.
 Uses Swift, SwiftUl, Firebase.
-On the main screen, the user can select a book by genre and title, read more about the book, and add it to the reading list. Once a book is added, it appears on the user account screen where the user can change its status to Planned/In Progress/Read.
+On the main screen, the user can select a book by genre and Title, read more about the book, and add it to the reading list. Once a book is added, it appears on the user account screen where the user can change its status to Planned/In Progress/Read.
 Google Firebase is used for user accounts and the book database.
 Fisher
 A multiscreen application for counting caught fish.
 Uses Swift, SwiftUl, MVVM, CoreData.
-The main screen has two big plus and minus buttons. The second screen has a list with the number of fish caught, time and date. You can also enter the weight and name of the fish."
-ios,"- Developed and published iOS applications as streaming platform, image redactor(text, filters, stickers, layers), esim app, mobile operator app, chat app.
+The main screen has two big plus and minus buttons. The second screen has a list with the number of fish caught, time and date. You can also enter the weight and Name of the fish."
+ios,"- Developed and published iOS applications as streaming platform, image redactor(Text, filters, stickers, layers), esim app, mobile operator app, chat app.
 Different roles such as whole development from design, redesign, support.
 - Real project experience with MVC, MVVM. Pet projects with Clean Swift.
 - Integration third party libraries, analytics. Realm, Swinject, FB Appsflyer, Amplitude, Adapty, Firebase.
@@ -10586,7 +10586,7 @@ Technology stack:
 - Networking (Alamofire)
 - Combine
 Fax Generation App
-The potential audience of this application is the USA, the application belongs to the category of business. For ease of design and editing, as well as subsequent sending of faxes to customers of one or more businesses.
+The potential audience of this application is the USA, the application belongs to the Category of business. For ease of design and editing, as well as subsequent sending of faxes to customers of one or more businesses.
 Technology Stack:
 - SwiftUI
 - UIKit
@@ -10646,7 +10646,7 @@ ios,"Projects:
 - Subjektiv Art : buy and sell art
 Technoligies: UIKit, TCA, Combine, Coordinator,
 Compositional Layout
--  Transcriber : speech to text
+-  Transcriber : speech to Text
 Technoligies: UIKit, MVP, Async/Await, CoreData, Keychain,
 SFSpeechRecognizer, AVFoundation
 - CheckCheck  - Authentication for Collectors, Resellers and sneaker addicts.
@@ -10657,7 +10657,7 @@ Passionate iOS Developer with two year of experience designing and building inno
 * Collaborated with QA team to identify and fix bugs and issues.
 * Worked in an Agile environment, following Scrum methodology and participating in sprint planning and stand-up meetings.
 Achievements:
-Transcriber: Designed and built a speech-to-text app from scratch, achieving high speech recognition accuracy with SFSpeechRecognizer and AVFoundation. Integrated CoreData and Keychain to ensure data security and performance.
+Transcriber: Designed and built a speech-to-Text app from scratch, achieving high speech recognition accuracy with SFSpeechRecognizer and AVFoundation. Integrated CoreData and Keychain to ensure data security and performance.
 Subjektiv Art: Implemented advanced functionalities for an art marketplace, using TCA and Compositional Layout for an intuitive user experience.
 CheckCheck: Developed authentication features for collectors and resellers, leveraging Alamofire and SwiftyJSON for seamless API interactions.
 Collaborated closely with designers, product managers, and QA teams, following Agile methodologies to deliver quality-driven iOS solutions.
@@ -10735,7 +10735,7 @@ Ideal projects would involve:
 - Clean architecture and sustainable development practices
 - WatchOS app included
 I am ready to begin a new engagement and can provide additional technical details or discuss specific project requirements as needed."
-ios,"No name LLC - Ukraine (remote) 2023 - present
+ios,"No Name LLC - Ukraine (remote) 2023 - present
 Arbuz.kz 2022&2023
 - Replicated complex UIKit-based UI components using SwiftUI's SwiftUI's native controls and custom modifiers to maintain design consistency and enhance user experience.
 - Addressed compatibility issues and ensured smooth integration with existing UIKit components and libraries, adopting techniques like SwiftUI's UIViewRepresentable and UIViewControllerRepresentable protocols.
@@ -10793,7 +10793,7 @@ Tech leading experience.
 Examples of projects:
 Messengers, E-commerce, Augmented reality and Enterprise projects for analytics.
 Example of non-trivial tasks I worked on:
-- Tasks with OpenGL(for example, it was necessary to optimize the loading of models, for this I had to write a bridge in C, as a result, loading of models decreased by 10 times);
+- Tasks with OpenGL(for example, it was necessary to optimize the loading of resume_classifier, for this I had to write a bridge in C, as a result, loading of resume_classifier decreased by 10 times);
 - Tasks with Metal(used metal for mixing videos using AVVideoComposition)
 - Writing your own protocol based on TCP (it was needed for a Real-time application and therefore various techniques were used to optimize sending and receiving packets (TCP delayed acknowledgment))
 - An application for recognizing certain objects (before launch of CoreML) based on OpenCV;
@@ -10833,14 +10833,14 @@ Banking/health/social network apps.
 Complex UI issues, app modularization, performance analyzation.
 Swift, Objective-C, SwiftUI, UIKit, MVVM, MVVM-C, Combine, Rx, CoreData, SwiftData, Realm
 I don't want to use cross platform issues"
-ios,"AI/ML developer with 12+ years of experience in iOS development and a strong foundation in machine learning. Recently completed an advanced AI/ML course with excellent results, gaining expertise in machine learning, deep learning, computer vision, and natural language processing. Skilled in AI frameworks like TensorFlow, PyTorch, and scikit-learn, with experience optimizing ML models for mobile applications using Core ML and TensorFlow Lite. Passionate about integrating AI into mobile apps to create intelligent, adaptive experiences. Ready to contribute to innovative AI-driven projects.
+ios,"AI/ML developer with 12+ years of experience in iOS development and a strong foundation in machine learning. Recently completed an advanced AI/ML course with excellent results, gaining expertise in machine learning, deep learning, computer vision, and natural language processing. Skilled in AI frameworks like TensorFlow, PyTorch, and scikit-learn, with experience optimizing ML resume_classifier for mobile applications using Core ML and TensorFlow Lite. Passionate about integrating AI into mobile apps to create intelligent, adaptive experiences. Ready to contribute to innovative AI-driven projects.
 • Machine Learning & Deep Learning – Neural networks, model training, and optimization.
 • Computer Vision – Image processing, object detection, and classification.
 • Natural Language Processing – Text analysis, sentiment detection, and chatbot development.
 • AI Frameworks – Hands-on experience with TensorFlow, PyTorch, and scikit-learn.
-• On-Device AI – Optimizing ML models for mobile applications (Core ML, TensorFlow Lite).
+• On-Device AI – Optimizing ML resume_classifier for mobile applications (Core ML, TensorFlow Lite).
 • Work on real-world AI/ML projects that solve meaningful problems.
-• Develop and optimize machine learning models for practical applications.
+• Develop and optimize machine learning resume_classifier for practical applications.
 • Integrate AI into mobile applications to create intelligent user experiences.
 • Collaborate with a team of experts in AI, software engineering, and data science.
 • Continuously learn and stay updated with the latest AI/ML advancements.
@@ -11153,7 +11153,7 @@ Control centre that helps users control smart environment in their apartments as
 - Developed VOIP to accept calls from Domofon in mobile application
 # Instagram Content Planner
 Application that helps users to schedule and create content for their instagram account.
-- Developed text processing modules (Glyphs, CoreText).
+- Developed Text processing modules (Glyphs, CoreText).
 - Implemented data transfer based on Firebase Cloud Functions & Firebase Cloud Storage
 - Integrated notifications delivery system based on Firebase Cloud Messaging.
 - Integrated CI/CD for mobile and web products based on Jenkins CI + Fastlane & Match
@@ -11265,7 +11265,7 @@ Frameworks: Foundation, UIKit, Cocoa, CoreGraphics, CoreData, CoreLocation, User
 - Led a team of three for australian company (macOS app)
 - Created and published about 10 apps by myself
 - Developed an app for more than 20M active users (by that time)"
-ios,"My name is Alex.
+ios,"My Name is Alex.
 Technologies and Frameworks: UIKit, Foundation, Grand Central Dispatch, AVFoundation, Interface Builder, Autolayout, CocoaPods, Alamofire, JSON, Push Notifications. MVC/MVVM, OOP, Realm, Git.
 I have an analytical mind, am result-oriented, and attentive to detail. My pet projects can be found on GitHub: sashamironov92.
 For more information, please see my CV."
@@ -11308,7 +11308,7 @@ Technical skills:
 I am proud of the completed IDAP courses from scratch and then getting the job position.
 Also I can be proud of successfully written a project for MacOS and 3 projects I've been participating to were brought to release in the AppStore for iOS.
 Participation in a startup as a freelancer.
-A good team, a decent level of salary, interesting projects, and the opportunity to develop my skills and knowledge."
+A good team, a decent level of Salary, interesting projects, and the opportunity to develop my skills and knowledge."
 ios,"IOS programming experience (Swift + Xcode + C++) - 5+ years.
 My experience will help You develop Yours project from 0, will organize testing it in TestFlight and make successful publishing and advocacy in AppStore"
 ios,"I was working in a great variety of different domains : from healthcare and fitness to game development and navigation, working as solo contributor, as well as a team leader of iOS teams and even as a tech lead of a small start-up. (Mobile apps, entertainment domain)
@@ -11349,11 +11349,11 @@ Writing clean, maintainable, and testable code following SOLID principles.
 Collaborating with designers, backend developers, and product managers.
 Using Git for version control and working with CI/CD pipelines."
 ios,"AVFoundation expert, created and worked with more then 3 photo / video editing projects including real time video processing. Experienced Metal developer, successfully shipped custom shaders, and photo/video editing features.
-Deep knowledge of CoreML, implemented and enhanced in projects pose detection, object detection, object classification, text recognition, depth perception, voice recognition models
+Deep knowledge of CoreML, implemented and enhanced in projects pose detection, object detection, object classification, Text recognition, depth perception, voice recognition resume_classifier
 Strong experience in performance programming, multithreading, and basically creating high load projects and services.
 Experienced Network developer, worked in Slack competitor app using all possible network technologies like web sockets, voip, REST, data streaming etc.
 Team player and leader, worked in big teams as well as independently, successfully shipped products with first class quality and in time.
-• created application for medical equipment to process video data in real time using ml models and Metal
+• created application for medical equipment to process video data in real time using ml resume_classifier and Metal
 •created application to create datasets for ai model training
 •solved the problem of uploading up to 10k images to cloud services in one session in places with very bad network speed.
 •created pipeline of uploading up to 10k images with max ram load of 75mb.
@@ -11496,7 +11496,7 @@ Developed Multi-Module (Scalable, Testable, and Readable) B2B, B2C applications
 English speaking
 and experienced team, career growth, flexible schedule, Remote work."
 ios,"As a commercial iOS developer with more than 4 years of experience. I have worked on various projects, from big e-commerce products with a few million users to smaller startups and enterprises. Participated in developing applications from scratch to release, and also had experience rewriting old code base with better optimisation and updated functionality."
-ios,"I have written 2 projects in total, I wrote them using 2 different technologies, the first project was written strictly in code, including all UI elements and constructs, the project has a login page with a username and password, there is also a registration page where you can enter your data, namely (full name, date of birth, your email, indicate your gender), all this data is saved in the userdefault database, there is also a page that you go to after registration, the second project is a list of breweries, each of which has its own cell, the cell contains brewery data taken from the Internet, it is also possible to go to the brewery's website inside the application and see the location of the brewery on the map, also inside the application, the application can work offline thanks to the userdefault data library, this application was written exclusively in the story board
+ios,"I have written 2 projects in total, I wrote them using 2 different technologies, the first project was written strictly in code, including all UI elements and constructs, the project has a login page with a username and password, there is also a registration page where you can enter your data, namely (full Name, date of birth, your Email, indicate your gender), all this data is saved in the userdefault database, there is also a page that you go to after registration, the second project is a list of breweries, each of which has its own cell, the cell contains brewery data taken from the Internet, it is also possible to go to the brewery's website inside the application and see the Location of the brewery on the map, also inside the application, the application can work offline thanks to the userdefault data library, this application was written exclusively in the story board
 To date, my main achievement is that I was able to independently learn the Swift programming language and, based on my knowledge, was able to write 2 projects, one I wrote only in code including all elements and constructs were written in code, the second project was made exclusively using a story board
 my expectations are at the beginning of work in order to gain practice and experience in real projects and it doesn’t matter whether it’s a team because I communicate well with other people or I will work on my own so that one can reach all the peaks"
 ios,"I have more than 5 years of experience in iOS Development. I worked in outstaff and in outsourcing companies. The last project I worked - one of the largest mobile operators in Europe. Worked also with bank applications. Experienced with Swift and Objective-C projects.
@@ -11661,7 +11661,7 @@ Now I am looking for new opportunities.
 Development of a popular open source C++ project on github
 Adequate team, clear processes, pros as colleagues."
 ios,"Greetings!
-My name is Danylo and I am an Apple Developer. Being passionate about Apple's approach to creating electronic devices and software they run, predefined direction I am heading in.
+My Name is Danylo and I am an Apple Developer. Being passionate about Apple's approach to creating electronic devices and software they run, predefined direction I am heading in.
 I have gained a variety of experience since I became interested in development using Swift and Objective-C. Within my university courses dedicated to development and maintenance applications for iOS i learned:
 - essentials of Swift programming language
 - REST API

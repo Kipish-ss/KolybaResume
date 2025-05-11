@@ -123,7 +123,7 @@ In addition to my instructional responsibilities, I implemented an Auto-Grader s
 In addition to my instructional responsibilities, I conducted daily/weekly assessments to determine appropriate learning interventions. I improved 390 students’ math scores from PSAT- 10 to SAT-11 by 49 points on average every school year, surpassing the math department average of 30 points of growth. I further coached co-teachers and junior teachers in curriculum design, assessment strategies, and differentiation for diverse learners. ㅡ
 Personal
 Projects
-Auto-Grader. Designed and implemented a software solution that automatically grades student spreadsheet projects in JavaScript using the Google App Script API. When run, the script iterates through students’ assignments, grades the assignment, creates a text file detailing which individual tasks the student has left to do, and records the grade for both student and teacher.
+Auto-Grader. Designed and implemented a software solution that automatically grades student spreadsheet projects in JavaScript using the Google App Script API. When run, the script iterates through students’ assignments, grades the assignment, creates a Text file detailing which individual tasks the student has left to do, and records the grade for both student and teacher.
 Audio Engine. A multithreaded system designed to play audio through the Windows Xaudio2 API, giving users the ability to easily start and stop playback, switch audio between different channels, and change pitch and volume without blocking.
 Graphics Engine. A graphics engine based in OpenGL, couples with a custom memory system for managing heap allocations directly, a math library optimized for matrix algebra using SIMD intrinsics (MMX & SEE), and object pooling.
 ㅡ
@@ -265,8 +265,8 @@ NAME : RAMESH.M
 Date of Birth : 12/05/1996
 Age : 20
 Gender : Male
-Father’s name : Maheshwaran.P
-Mother’s name : Rani.M
+Father’s Name : Maheshwaran.P
+Mother’s Name : Rani.M
 Nationality : Indian
 Languages known : Tamil,English,.
 Address : Perumal kovil st, Parindhal.

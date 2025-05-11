@@ -1,6 +1,4 @@
 import re
-import tqdm
-import pandas as pd
 
 
 def remove_urls(text: str) -> str:
@@ -20,7 +18,7 @@ def remove_html_tags(text: str) -> str:
 
 
 def remove_special_characters(text: str) -> str:
-    return re.sub(r'[^\w\s.,!?()\-]', '', text)
+    return re.sub(r'[^\w\s.,!?()\-#+:/]', '', text)
 
 
 def normalize_whitespace(text: str) -> str:
@@ -38,4 +36,4 @@ def clean_text(text: str, min_length: int = 500) -> str | None:
     if len(text) >= min_length:
         return text
     else:
-        return None
+        return

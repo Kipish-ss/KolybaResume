@@ -1,7 +1,7 @@
 from torch.optim import AdamW
 from torch.utils.data import DataLoader
 from transformers import BertTokenizer, BertForSequenceClassification
-from ml_backend.models import ClassificationTrainer, ResumeDataset
+from ml_backend.resume_classifier import ClassificationTrainer, ResumeDataset
 from sklearn.preprocessing import LabelEncoder
 from torchmetrics import F1Score
 from sklearn.model_selection import train_test_split

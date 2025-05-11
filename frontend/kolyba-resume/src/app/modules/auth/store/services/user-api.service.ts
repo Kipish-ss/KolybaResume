@@ -48,7 +48,7 @@ export class UserApiService {
         return this.httpService.getRequest<boolean>(`${this.routePrefix}/check-email?email=${emailEncoded}`).pipe(
             tap({
                 error: () =>
-                    this.notificationService.showErrorMessage('Something went wrong. Failed to verify email exists.'),
+                    this.notificationService.showErrorMessage('Something went wrong. Failed to verify Email exists.'),
             }),
         );
     }

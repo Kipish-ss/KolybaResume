@@ -40,7 +40,7 @@ export class AuthService {
 
                         if (!userCredential.user.emailVerified) {
                             const emailNotVerified = new Error('Email is not verified');
-                            emailNotVerified.name = 'email-not-verified';
+                            emailNotVerified.name = 'Email-not-verified';
                             throw emailNotVerified;
                         }
                     }

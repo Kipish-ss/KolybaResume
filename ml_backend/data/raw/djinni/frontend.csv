@@ -428,10 +428,10 @@ Edify - Scholarship Management System: Live Client-site Server-site Edify bridge
 ● Built a secure authentication system with role-based access and data protection.
 ● Built a real-time scholarship search with secure payments and automated verification.
 ● Created admin analytics, real-time insights and an interactive UI for reviews and tracking. Technologies Used: React, React Router, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe. TrackBook - Book Management System: Live Client-site Server-site This Book Management System is a responsive platform designed to streamline book management and provide an intuitive user experience. Users can seamlessly browse, borrow, and return books while the system maintains accurate and up-to-date inventory records.
-● Users must register to access features with secure authentication via email/social options.
+● Users must register to access features with secure authentication via Email/social options.
 ● User can add, update and delete books in real-time with dynamic inventory using MongoDB.
 ● Protected routes, custom 404 pages, and dynamic error handling for improved navigation. Technologies Used: Tailwind, React, React Router, Firebase, Node.js, Rest APIs, MongoDB, JWT. Viso- Visa Navigator Portal: Live Client-site Server-site This Visa Navigator Portal provides a streamlined platform with an intuitive design and seamless user experience.
-● Provides secure access via user registration, email/password, Google login & protected routes.
+● Provides secure access via user registration, Email/password, Google login & protected routes.
 ● Features robust admin tools for visa management with real-time CRUD, search, and filtering.
 ● Ensures seamless navigation with responsive design, engaging UI, and a custom ""404"" page. Technologies Used: JavaScript, React, React Router, Firebase, Node.js, Express.js, MongoDB (CURD). Education:
 Master's degree in Islamic Studies
@@ -464,7 +464,7 @@ Walgreens, Chicago, IL Sep 2021 – May 2024
 Senior Software Engineer
 Design, develop, and test HTML5, CSS3, Bootstrap, JavaScript, TypeScript, jQuery, and React.JS that meet accessibility and web browser standards for the website.
 Used Drupal CMS (Content Management System) to manage static assets such as Images, PDF, JSON configurations that needs quick and easy web content live.
-Designed CSS templates for use on all pages on the website to work with CSS Background, positioning, text, border, margin, padding, and table.
+Designed CSS templates for use on all pages on the website to work with CSS Background, positioning, Text, border, margin, padding, and table.
 Applied optimization techniques to reduce page size and load times to enhance user experience.
 Worked on React JS components, Forms, Events, Keys, Routers, Animations, and Flux concepts.
 Developed and consumed RESTful APIs for web applications using NodeJS.
@@ -774,10 +774,10 @@ http://fcsdesign.co
 *********.*******@*****.***
 Open to relocation
 Professional Summary
-Experienced Front-End Developer and Email Marketer and UX Designer with over 8 years of experience in creating responsive websites, email campaigns, and engaging user experiences. Proficient in a wide range of technologies including HTML5, CSS3, JavaScript, and various email marketing platforms. Adept at working in agile environments, optimizing web assets, design and delivering high-quality digital solu- tions.
+Experienced Front-End Developer and Email Marketer and UX Designer with over 8 years of experience in creating responsive websites, Email campaigns, and engaging user experiences. Proficient in a wide range of technologies including HTML5, CSS3, JavaScript, and various Email marketing platforms. Adept at working in agile environments, optimizing web assets, design and delivering high-quality digital solu- tions.
 EXPERIENCE
 Freelance, Los Angeles, CA Aug 2023 - present
-• Develop and design responsive emails, email campaigns, journey building, landing pages and web- site updates using HTML4/5, CSS3, Bootstrap, Wordpress, HubSpot, Constant Contact, Litmus, Email on Acid, JIRA, A/B testing, SEO
+• Develop and design responsive emails, Email campaigns, journey building, landing pages and web- site updates using HTML4/5, CSS3, Bootstrap, Wordpress, HubSpot, Constant Contact, Litmus, Email on Acid, JIRA, A/B testing, SEO
 Pelican.com, Torrance, CA Sept 2022 - July 2023
 Front End Developer
 • Develop and integrate design using HTML4/5, CSS3, mobile media queries, PHP, jQuery
@@ -790,8 +790,8 @@ Freelance / Contracts - UX/ Front End / Email Developer/ Email Marketing LifeSou
 • Brainstorm/ design new custom UX and design to update outdated website using Figma, Photoshop
 • Develop and integrate design using HTML4/5, CSS3, mobile media queries, PHP, SQL, jQuery.
 • Launched new websites with custom code
-• Develop emails, created email campaigns, segmentations, personalizations, journey building, ana- lyzed campaigns results in AEM, Target, landing pages & templating, optimize assets for web
-• Admin email signatures in Microsoft, CodeTwo and custom CRM
+• Develop emails, created Email campaigns, segmentations, personalizations, journey building, ana- lyzed campaigns results in AEM, Target, landing pages & templating, optimize assets for web
+• Admin Email signatures in Microsoft, CodeTwo and custom CRM
 • Enhance/develop websites for businesses using HTML5, CSS3, SCSS, Bootstrap, Shopify, Liquid, Wordpress, PHP, SQL, jQuery, javascript, terminal, Node, Grunt, Tower, JIRA,
 • Customized Shopify and Wordpress themes, AEM, adding landing pages, blog, templates, plugin and app integration, UX and responsive design (mobile/tablet)
 • Tested and browser compatibility and QA for best performance
@@ -807,7 +807,7 @@ Luxury Link Travel Group, Los Angeles, CA July 2012 – May 2015 Email Designer 
 • Defined look, developed various responsive emails using Photoshop, HTML, CSS.
 • Created campaigns, segmentations, analyzed campaigns results
 • Created custom responsive emails, which I introduced to the company and it dramatically, improved their click-through rates on mobile (6% to 40%)
-• Testing email and browser compatibility. SilverPop, Litmus, Email on Acid, UTM, AmpScript EDUCATION
+• Testing Email and browser compatibility. SilverPop, Litmus, Email on Acid, UTM, AmpScript EDUCATION
 • UDEMY, online courses: HubSpot, Salesforce Marketing Cloud, Email Marketing, Digital Marketing angular, react, web development, Wordpress, Gutenberg, Shopify 2016 - 2025
 • JavaScript Development Intensive, Node.JS, General Assembly, Santa Monica, CA 2016
 • Advanced Web and Interaction Design Certification (jQuery, JavaScript, UX, HTML5, WordPress), UCLA Extension 2014 - 2016
@@ -841,7 +841,7 @@ updating, and troubleshooting issues for the Lemongrass Cloud Platform products 
 Senior Frontend Developer January to April 2023
 ● Utilizes React, Redux, Typescript, API integration and other frontend technologies in maintaining,
 updating, and troubleshooting issues for the Frank Web App, which is a restaurant review platform
-which uses videos and images instead of static text for reviews MANAGED PLATFORMS Makati, Philippines
+which uses videos and images instead of static Text for reviews MANAGED PLATFORMS Makati, Philippines
 Senior Frontend Developer September to December 2022
 ● Utilizes React, Redux, and other frontend technologies in maintaining, updating, and troubleshooting issues for the company’s web application involved in property management in Australia
 DELAWARE Taguig, Philippines
@@ -892,7 +892,7 @@ E-Learning Systems, Interactive Assessments/Exercises, Offline-CASys (Report Gen
 IDESS, INTERACTIVE TECHNOLOGIES, INC. Subic Bay, Olongapo City, Philippines Software Tester May 2006 to August 2007
 ● Conducts comprehensive testing based on prepared test plans; Tracks and documents all problems encountered while undertaking the test
 ABSOLUTE SERVICE, INC. Subic Bay, Olongapo City, Philippines Visual Basic Programmer April 2001 to May 2006
-● Designs, codes and develops Visual Basic programs designed for data manipulation of formatted document files; Converts document files to text files while retaining the format through the use of tags using Visual Basic Programs; Uses QuarkXpress, InDesign CS, and Macintosh OS in page make-up; Encodes data for prior to publishing of prepress EDUCATIONAL BACKGROUND
+● Designs, codes and develops Visual Basic programs designed for data manipulation of formatted document files; Converts document files to Text files while retaining the format through the use of tags using Visual Basic Programs; Uses QuarkXpress, InDesign CS, and Macintosh OS in page make-up; Encodes data for prior to publishing of prepress EDUCATIONAL BACKGROUND
 Bachelor of Science in Computer Information Systems Columban College, June 1997 - March 2002
 Olongapo City, Philippines
 AWARDS RECEIVED
@@ -1091,7 +1091,7 @@ Good Experience working with RXJS operators like switch map, merge map, concat m
 Good Experience in working with routing and router guards.
 Experience in developing components in ADA environments.
 Good Knowledge on testing frameworks like Jasmine, Karma.
-Experience working with various IDEs such as Visual Studio Code, Notepad++, Web Storm, Eclipse, and Sublime text.
+Experience working with various IDEs such as Visual Studio Code, Notepad++, Web Storm, Eclipse, and Sublime Text.
 Skills in optimizing Responsive Web design using CSS media queries and Bootstrap.
 Expertise in building single page web applications using Angular 4/6/9/11/13/15/17.
 Expertise in using source code control systems using GIT, Bit bucket.
@@ -1105,7 +1105,7 @@ Angular 4/6/9/11/13/15/17, React, Bootstrap, jQuery, NodeJS, Vue.js
 Unit Testing
 Jasmine, Karma
 IDEs worked on
-Visual Studio Code, Eclipse IDE, IntelliJ, Notepad++, InVision, Editors Notepad++, Dream viewer, Sublime text, FIGMA
+Visual Studio Code, Eclipse IDE, IntelliJ, Notepad++, InVision, Editors Notepad++, Dream viewer, Sublime Text, FIGMA
 Application Servers
 HTTP Web Server
 Version Tools
@@ -1136,7 +1136,7 @@ Used can-Deactivate, can-Activate to display the warning or information message 
 Implemented custom pagination and Sorting logic on the UI.
 Implemented and used the sorting and pagination pipes within the form arrays.
 Extensively used Typed Angular Reactive forms, form Arrays and implemented inline forms reactive validations with validation messages.
-Worked date picker, accordions, models, multi-Select, type-a-heads, custom pipes, custom directives and custom validations like no-White-Spaces, not-A-Number etc.
+Worked date picker, accordions, resume_classifier, multi-Select, type-a-heads, custom pipes, custom directives and custom validations like no-White-Spaces, not-A-Number etc.
 Worked on Desktop, Mobile and tablet CSS.
 Implemented spinner for the whole application at one place using Ng-Rx.
 Efficiently handled Ng-RX data when manipulating the obj.
@@ -1249,7 +1249,7 @@ Implemented UI Screens, Advanced Search, Timer, Navigation Bars, Navigation Menu
 Optimizing the code of reusability using the Decorators and injecting the services to access those in any components by using the property called providers in Angular Components.
 Created unit test cases of Angular components, services using Karma-test-runner and Jasmine.
 Integrated with the back-end code using HTTP Client to get and post the data to backend servers.
-Worked with CSS3 background, CSS3 Layouts, CSS3 positioning, CSS3 text, CSS3 border, CSS3 margin, CSS3 padding, Pseudo elements and CSS3 behaviors.
+Worked with CSS3 background, CSS3 Layouts, CSS3 positioning, CSS3 Text, CSS3 border, CSS3 margin, CSS3 padding, Pseudo elements and CSS3 behaviors.
 Worked on state management in angular using Redux.
 Worked on Reactive forms, reactive and async validations using form control.
 Used Ng Bootstrap components like tabs, accordions, date pickers, searchable drop downs etc.
@@ -1403,7 +1403,7 @@ Dec 2021 - Jan 2023
 • Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience. This process increased number of 5 star UX/UI reviews by 135%.
 • Designed and developed web applications using JavaScript frameworks React.js and Next.js to increase target audience engagement by 12%.
 • Used Junit framework for unit testing
-• Created new services and models using Quarkus framework
+• Created new services and resume_classifier using Quarkus framework
 • Created new endpoints for APIS and updated old ones
 • Docker for the images, Kubernets for the container orchestration
 • Websocket for the real time messages
@@ -1435,7 +1435,7 @@ Pune, Maharashtra github.com/rdeswal WORK EXPERIENCE
 React Developer
 Tata Consultancy Services (via Mbit)
 06/2022 - 06/2024, Pune, Maharashtra
-Developed an end-to-end email service in the
+Developed an end-to-end Email service in the
 backend using Hapi.js and seamlessly integrated it into the frontend.
 Developed reusable components which are now being
 used in all the pages.
@@ -1468,8 +1468,8 @@ Typescript Firebase HapiJs
 Agile Methodology NextJS
 PERSONAL PROJECTS
 Chat Vibe
-Created a chat app using React and Firebase with email and password authentication.
-Implemented a user-friendly login page with options to create a new account and login, requiring image selection, username, email, and password.
+Created a chat app using React and Firebase with Email and password authentication.
+Implemented a user-friendly login page with options to create a new account and login, requiring image selection, username, Email, and password.
 Enabled users to interact on the chatlist page, adding and chatting with others, searching by username, and sharing images within the chat.
 Mutual Fund Return Calculator
 Financial planning calculator for SIP built using ChakraUI, NextJs & TailwindCSS
@@ -1619,7 +1619,7 @@ Bachelor of Science in Computer Science - Cum Laude Technical Skills & Certifica
 ● Certifications: Google Professional Certificate, SEO Certification (Semrush), SEO Certification (Hubspot)
 ● Programming Languages & Visualization: Google Workspace, Microsoft Office, HTML, CSS, Javascript Client Project
 BiNi's Kitchen, Improving in-store foot traffic (HTML) May 2024
-● Publicized restaurant’s physical location through targeted marketing strategies, enhancing foot traffic and increasing brand visibility
+● Publicized restaurant’s physical Location through targeted marketing strategies, enhancing foot traffic and increasing brand visibility
 ● Presented SEO best practices for website improvement, focusing on the strategic use of HTML tags and attributes to enhance search engine rankings and user experience Experience
 Mitchell’s Ice Cream Jul 2023 - Present
 Team Member
@@ -1783,7 +1783,7 @@ PROJECTS
 I created a clone of the Monkey Type website to practice typing speed and accuracy, providing performance metrics such as words per minute (WPM) and accuracy.
 I used CSS to add smooth animations, such as highlighting correct and incorrect letters, and visual effects when starting or finishing the test.
 I implemented logic to calculate words per minute (WPM), accuracy, and other parameters, maintaining an appropriate state of the test.
-I implemented the logic in JavaScript to detect text input in real-time, validating each character and showing immediate results, which is crucial for the user experience in a typing test. Monkey Type HTML - CSS - Astro - JavaScript - Git - GitHub SKILLS LANGUAGES
+I implemented the logic in JavaScript to detect Text input in real-time, validating each character and showing immediate results, which is crucial for the user experience in a typing test. Monkey Type HTML - CSS - Astro - JavaScript - Git - GitHub SKILLS LANGUAGES
 HTML
 CSS
 Tailwind CSS
@@ -1801,7 +1801,7 @@ Español (Native)
 Portafolio
 LinkedIn
 Los Ángeles, California
-A website to create, modify, delete, and save your pending tasks, with the option to filter them by progress or by name. I used React to organize the logic and state of the tasks, allowing users to add, modify, and delete tasks smoothly. I included filtering options to facilitate organization, enabling users to classify their tasks by progress status or name, improving the user experience.
+A website to create, modify, delete, and save your pending tasks, with the option to filter them by progress or by Name. I used React to organize the logic and state of the tasks, allowing users to add, modify, and delete tasks smoothly. I included filtering options to facilitate organization, enabling users to classify their tasks by progress status or Name, improving the user experience.
 I implemented data persistence, allowing users to save tasks so that they can close the browser and keep their pending tasks saved when they return, using local storage.
 Todo List React - Sass - Git - GitHub
 A simple form that includes validations to check if the requested data is being entered correctly. I added functions to guide the user while completing the form, such as highlighting active fields and providing help messages, improving usability.
@@ -2114,7 +2114,7 @@ Intuit - Mountain View, CA
 Aug 2018 - July 2020
 Roles and Responsibilities:
 •Delivered reusable Widgets using React-Redux for Turbotax.com, QBO applications.
-•Used Component, State, Props, Asynchronous call, Virtual DOM, router, Node.js and Server.js services to call REST API’s, logging and location operations.
+•Used Component, State, Props, Asynchronous call, Virtual DOM, router, Node.js and Server.js services to call REST API’s, logging and Location operations.
 •Creating and Scheduling Jenkins Jobs.
 •Experience with Splunk to monitor the application and health checks.
 •Fixing the bugs and adding features to as plugins to TurboTax and Quickbooks applications.
@@ -2567,7 +2567,7 @@ Freelance Software Developer Self Employed July 2022 - Present
 2. Logistic Applications (React Native)
 ● Developed logistic applications as a freelancer using React Native: for users and one for riders.
 ● Implemented user-friendly interfaces for both applications, focusing on ease of navigation and functionality.
-● Integrated real-time tracking features to monitor the location and status of deliveries.
+● Integrated real-time tracking features to monitor the Location and status of deliveries.
 ● Implemented user authentication and authorization for secure access to the applications.
 ● Coordinated with backend developers to integrate APIs for data retrieval and updates.
 ● Created reusable components to ensure consistency and streamline the development process across both applications.
@@ -2874,7 +2874,7 @@ Role: Senior Software Engineer
 Employer: Truist Bank(Sainar Solutions), USA Tenure: September 2023 – Till date
 Responsibilities:
 Design, develop and test HTML5, CSS3, Bootstrap, JavaScript, jQuery, and React.JS that meets accessibility and web browser standards for website.
-Designed CSS templates for use in all pages on the website working with CSS Background, positioning, text, border, margin, padding, and table.
+Designed CSS templates for use in all pages on the website working with CSS Background, positioning, Text, border, margin, padding, and table.
 Used React-Router to turn application into Single Page Application
 Good Experience in React JS for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts
 Added Dynamic Functionality by creating and dispatching Action Creators that deployed Actions.
@@ -3429,7 +3429,7 @@ TRIPTI KHANDELWAL
 Jr. Frontend developer/ UI developer
 I am a dedicated and dynamic professional with expertise in ReactJS, Vue.js, and static HTML projects. Skilled in advanced CSS techniques, JavaScript, and efficient state management, I excel in creating engaging, responsive web experiences. With hands-on experience in UI design and development, I bring technical and creative proficiency to every project.
 March 2024- Currently
-Since March 2024, I’ve focused on mastering JavaScript and React through daily challenges on Codewars and HackerRank, improving my problem-solving skills. I've built projects like a Hulu clone app, using advanced React concepts and Context API for state management. Additionally, I've expanded my expertise in Figma and Tailwind CSS, HTML email template, enhancing my design and development abilities through various case studies and projects. In my freelancing journey, I offer services in frontend development, specializing in JavaScript, React, and UI/UX design using Figma and Tailwind CSS. I am confident that my dedication to continuous learning and my hands-on experience with real- world projects make me a valuable asset for any freelance project. Han River Technology Jr. Frontend Developer March 2023 - Feb 2024 Kolkata Technologies Used: ReactJS, Vue.js, HTML, CSS
+Since March 2024, I’ve focused on mastering JavaScript and React through daily challenges on Codewars and HackerRank, improving my problem-solving skills. I've built projects like a Hulu clone app, using advanced React concepts and Context API for state management. Additionally, I've expanded my expertise in Figma and Tailwind CSS, HTML Email template, enhancing my design and development abilities through various case studies and projects. In my freelancing journey, I offer services in frontend development, specializing in JavaScript, React, and UI/UX design using Figma and Tailwind CSS. I am confident that my dedication to continuous learning and my hands-on experience with real- world projects make me a valuable asset for any freelance project. Han River Technology Jr. Frontend Developer March 2023 - Feb 2024 Kolkata Technologies Used: ReactJS, Vue.js, HTML, CSS
 Project Management: Managed complex web designs utilizing advanced CSS techniques (Grid, Flexbox, positioning, and responsive pseudo-elements) to create engaging web experiences.
 Frontend Development:
 Developed and maintained dynamic web applications using React and Vue.js. Implemented efficient routing management, dynamic accordions, and various JavaScript functions.
@@ -4253,7 +4253,7 @@ Frontend developer that has recently spent a lot of time working in a venture st
 ● beginner: Next.js, mantine, Flask, SQL, atomic css (tailwind) Experience
 2022-2024
 KPMG Studio - Senior Associate
-● Prototype building: in collaboration with other internal teams stood up next.js application leveraging Azure openai’s models
+● Prototype building: in collaboration with other internal teams stood up next.js application leveraging Azure openai’s resume_classifier
 worked with devops team to implement architecture layer in azure using PaaS
 utilized React and Mantine to implement flexible design system that could be iterated on
 ● DottoDot: frontend developer using Angular2+(8+), Material Ui, to build features as part of delivery lifecycle with members of both backend and frontend team.
@@ -4712,10 +4712,10 @@ Responsibilities:
 •Maintained states in the stores and dispatched the actions using redux.
 •Working with ECMA Script 6 features. For build of JSX and ES2015 (ES6) used Babel, Webpack.
 •Implemented the Drag and Drop functionality using React-Draggable
-•Used React-Auto complete for creating Google map’s location search on the webpage Added Excel-Builder to download the Tabular data in Excel format using react.
+•Used React-Auto complete for creating Google map’s Location search on the webpage Added Excel-Builder to download the Tabular data in Excel format using react.
 •Knowledge of utilizing cloud technologies including Amazon Web Services (AWS), Microsoft Azure Blob and Pivotal Cloud Foundry (PCF)
 •Configured, monitored and automated Amazon Web Services as well as involved in deploying the content cloud platform on Amazon Web Services (AWS) using EC2 and S3.
-•Experience in using MongoDB data models document, key-value & wide column, or graph model
+•Experience in using MongoDB data resume_classifier document, key-value & wide column, or graph model
 •Created and used Reducers that received said Actions to modify the Store State Tree.
 •Optimized animation logic with optimistic functions to increase performance in rendering
 •Have worked on AWS for fetch the pictures files from AWS to UI
@@ -4753,7 +4753,7 @@ Responsibilities:
 •Developed the UI using SWT to add/remove tags
 •Developed call back functions to parse and handle JSON data returned from the server.
 •Designed user friendly navigation for displaying various sections of data using jQuery
-Environment: HTML, CSS, SASS, JavaScript, jQuery, Bootstrap, XML, MV Framework, AngularJS, Apache Tomcat, Notepad, Sublime text, IntelliJ, MySQL, Microsoft Azure, Tortoise SVN.
+Environment: HTML, CSS, SASS, JavaScript, jQuery, Bootstrap, XML, MV Framework, AngularJS, Apache Tomcat, Notepad, Sublime Text, IntelliJ, MySQL, Microsoft Azure, Tortoise SVN.
 "
 frontend,"Contact
 +971*********
@@ -4784,18 +4784,18 @@ Japesh Singhal
 UI, Javascript, React, BlockChain, ReactNative, Vue, code quality, Pyhton, Build FrameWork, team building, leadership Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates Summary
 Hello Everyone
 My major experience is in React but I've worked on various other platforms like React-Native, BlockChain, Android, IOS, PHP, nodeJS, etc.
-If you'd like to know more about me, you can contact me on my email (undersigned) anytime.
+If you'd like to know more about me, you can contact me on my Email (undersigned) anytime.
 *************@*****.***
 Experience
 FlyFin AI
 Lead frontend engineer
 January 2023 - Present (1 year 5 months)
-Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates Led diverse business and tech initiatives, including React Native upgrades, Design System setup, and Storybook integration. Mentored junior team members, fostering their coding skills and growth. Developed an end-to-end Financial Tracker tool for expense analysis and tax estimation. Introduced data visualization features and Chatting box with OpenAI APIs for efficient query resolution. Overhauled signup and onboarding flows, implemented Push notifications, communication notifications, Live Activities and addressed email issues. Optimized complex flows, Redux state management, and API integrations, streamlining task management processes for quicker releases. Fox Corporation
+Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates Led diverse business and tech initiatives, including React Native upgrades, Design System setup, and Storybook integration. Mentored junior team members, fostering their coding skills and growth. Developed an end-to-end Financial Tracker tool for expense analysis and tax estimation. Introduced data visualization features and Chatting box with OpenAI APIs for efficient query resolution. Overhauled signup and onboarding flows, implemented Push notifications, communication notifications, Live Activities and addressed Email issues. Optimized complex flows, Redux state management, and API integrations, streamlining task management processes for quicker releases. Fox Corporation
 Senior Software Development Engineer, Web
 December 2021 - December 2022 (1 year 1 month)
 Remote
 Developed a blockchain-enabled OTT platform utilizing Eluvio's maskverse technology. Integrated Contentful for efficient metadata and SEO management, alongside video list organization. Implemented 100ms to ensure seamless video conferencing capabilities. Established a wallet aggregator with wagmi and wallet connect for cross-platform accessibility. Engineered Page 1 of 3
-an NFT video generation script using transparent video layers and Hashlip script. Addressed accessibility, SEO, analytics, and integration issues for Fox Nation. Enhanced UI/UX for logged-out users to showcase free content and expand audience reach. Created tech.fox.com using Docusaurus and Retool on GitHub. Standardized project setup for the BCL component library, supporting various technologies such as TypeScript, Tailwind, and Storybook. Demonstrated proof of concept for login and transactions using Metamask or Ledger in Eluvio fabric content. Developed reusable components including text areas, checkbox groups, auto-suggest, accordions, and carousels. Rippling
+an NFT video generation script using transparent video layers and Hashlip script. Addressed accessibility, SEO, analytics, and integration issues for Fox Nation. Enhanced UI/UX for logged-out users to showcase free content and expand audience reach. Created tech.fox.com using Docusaurus and Retool on GitHub. Standardized project setup for the BCL component library, supporting various technologies such as TypeScript, Tailwind, and Storybook. Demonstrated proof of concept for login and transactions using Metamask or Ledger in Eluvio fabric content. Developed reusable components including Text areas, checkbox groups, auto-suggest, accordions, and carousels. Rippling
 Front End developer
 July 2019 - November 2021 (2 years 5 months)
 Bengaluru, Karnataka, India
@@ -5166,7 +5166,7 @@ ready to earn more knowledge
 with my work.
 PERSONAL
 INFORMATION
-Father’s name: Vinod kr vishwakarma
+Father’s Name: Vinod kr vishwakarma
 s/o Ram Kewal vishwakarma
 Date of Birth: 15 Dec 1985
 Nationality: Indian
@@ -5434,7 +5434,7 @@ Oct 2016 - July 2020
 •Used Zod for typescript utilizatiopn
 •Turned UI/UX designs into web pages with modern frameworks like Next.js and Remix. That helped me extract a success ratio of 60% in design.
 •Modular UI Components that can be used directly in applications engineered with either Bootstrap, Flexbox, Grid, TailwindCSS, or Material-UI (MUI); thus, it massively reduces the time required for further engineering by up to 15%.
-•Constructed various solution-driven views and dashboards by engineering different chart types including D3.js, Pie Charts, Bar Charts, ReCharts, and Scatter Plots in Power BI, and implemented Cohere in engineering predictive models for customer behavior.
+•Constructed various solution-driven views and dashboards by engineering different chart types including D3.js, Pie Charts, Bar Charts, ReCharts, and Scatter Plots in Power BI, and implemented Cohere in engineering predictive resume_classifier for customer behavior.
 •Implemented Redux Saga's with actions and reducers to implement async API calls.
 •Used Middleware, Redux-Saga in application to retrieve data from the Backend and to also perform RESTful services.
 •Leveraged WebSocket and WebRTC technologies to integrate real-time chat applications which reduced the message delivery delay by 30%, enabling customers to carry out video interactions with a smooth audio experience.
@@ -5704,7 +5704,7 @@ Technologies: HTML,CSS,BOOTSTRAP
 Project Details:
 Project: Portfolio
 Project Link: https://nishasahare.github.io/portfolio/
-Project Brief: User can be able to do following View the best layout for each page based on the size of their device’s screen. For all interactive elements on the site, see hover states. On the homepage, click the “About Me” call-to-action and scroll down to the next session. When submit the contact form, you ‘II get an error message if: If the Name, Email Address, or Message fields are Blank, the message “This field is required” should appear. “Please use a valid email address” should appear if the email address is not formatted correctly.
+Project Brief: User can be able to do following View the best layout for each page based on the size of their device’s screen. For all interactive elements on the site, see hover states. On the homepage, click the “About Me” call-to-action and scroll down to the next session. When submit the contact form, you ‘II get an error message if: If the Name, Email Address, or Message fields are Blank, the message “This field is required” should appear. “Please use a valid Email address” should appear if the Email address is not formatted correctly.
 Role Played: Frontend Developer
 Technologies: HTML, CSS, JavaScript.
 Achievements:
@@ -6109,7 +6109,7 @@ Link Github: https://github.com/Quynh-Linh-IT/SocialNetwork Demo: https://www.yo
 © fullstack.edu.vn
 RECRUIT WEBSITE
 (10/2023 - 12/2023)
-Descriptions The job search website was built to allow users to display related jobs, search for related jobs according to a number of criteria such as: salary, by name, address, occupation, by profile. individual; Users can view details of suitable jobs and then apply for that job. Employers can build jobs and manage jobs that users apply for
+Descriptions The job search website was built to allow users to display related jobs, search for related jobs according to a number of criteria such as: Salary, by Name, address, occupation, by profile. individual; Users can view details of suitable jobs and then apply for that job. Employers can build jobs and manage jobs that users apply for
 Number of members 3
 Position Team Lead
 Responsibilities Frontend Developer Programming
@@ -6773,7 +6773,7 @@ Contributed to a real-time system for tracking parcels and managing route by uti
 Achieved system reliability and improved quality of web applications with comprehensive test suits and strategies by utilizing testing frameworks like Jest and Enzyme, maximizing software stability and user experience by 30%.
 Maintained projects involving Nginx, EC2 instances, database servers, and Digital Ocean droplets by applying extensive debugging techniques and workflow resulting in 20% faster and more reliable software releases. Tehtwin Innovation Lab 2018-2019
 Internship Myanmar
-Conducted user experience research, developed immersive AR applications with React Native, allowing users to explore virtual house models and a 100% increase in user satisfaction.
+Conducted user experience research, developed immersive AR applications with React Native, allowing users to explore virtual house resume_classifier and a 100% increase in user satisfaction.
 Collaborated with senior engineers on data virtualization in IoT projects, improving valuable skills in Python, problem-solving and troubleshooting skills resulting in field ready experiences. EDUCATION
 Mandalay Technological University Myanmar
 BE : Mechatronic Engineering - Unfinished
@@ -6811,7 +6811,7 @@ Refactored existing components and achieve additional levels of abstraction to i
 Web Developer Ellovi
 January 2017 - February 2019
 Developed the marketing and e-commerce site using HTML/CSS/JS
-Designed and developed HTML email templates
+Designed and developed HTML Email templates
 Education
 Golden State Technology Institute - Web Development - 2016
 "
@@ -6833,7 +6833,7 @@ Courses
 WORK EXPERIENCE
 Info Web Solution Plus
 2022–2023
-IWSP: System dedicated to digital marketing, it has tools for SEO positioning, email marketing, social media management and custom web development.
+IWSP: System dedicated to digital marketing, it has tools for SEO positioning, Email marketing, social media management and custom web development.
 Language: C#, JavaScript, TypeScript and SQL Server Framework: Angular 13 and Asp .net
 Role: Frontend Developer, Backend Developer
 American Residential Warranty
@@ -7556,7 +7556,7 @@ frontend,"MINGI KHECHIEV FRONTEND WEB DEVELOPER
 11214
 +1-347-***-****
 *************@*****.*** PROFESSIONAL SUMMARY
-Hello, my name is Mingiian, and I'm a dedicated frontend developer with a passion for writing high-quality code. I excel at independent problem-solving, task prioritization, and tool selection based on project goals and objectives. With keen attention to detail, I consistently meet deadlines and deliver exceptional results. I have a quick learning curve and thrive on mastering new technologies. Software development allows me to combine my love for continuous personal growth, logical thinking, structured problem-solving, effective communication, and, most importantly, unleashing creativity. My ultimate motivation is knowing that I'm creating valuable solutions for people.
+Hello, my Name is Mingiian, and I'm a dedicated frontend developer with a passion for writing high-quality code. I excel at independent problem-solving, task prioritization, and tool selection based on project goals and objectives. With keen attention to detail, I consistently meet deadlines and deliver exceptional results. I have a quick learning curve and thrive on mastering new technologies. Software development allows me to combine my love for continuous personal growth, logical thinking, structured problem-solving, effective communication, and, most importantly, unleashing creativity. My ultimate motivation is knowing that I'm creating valuable solutions for people.
 Proficient in JavaScript, React, UI/UX principles. CORE COMPETENCIES
 Knowledge of HTML, CSS, responsive UI frameworks
 (Bootstrap, Material-UI).
@@ -7628,7 +7628,7 @@ Senior Frontend and Smart Contract Developer, JHC Security LTD
 •Built the NFT Migration landing pages and Staking pages with React and Redux- saga
 •Used css framework – SCSS
 •Implemented the web3 integration by using web3.js, ethers.js, and Alchemy API
-•Scrapped the token info (token nomics id, market capital price, etc) with coingeko, tryroll, and Moralis API by using token event scheduler. 08/2019 – 02/2021
+•Scrapped the token info (token nomics Id, market capital price, etc) with coingeko, tryroll, and Moralis API by using token event scheduler. 08/2019 – 02/2021
 Marina Boulevard,
 Singapore
 Senior Web3 Frontend Developer, Capgemini Singapore Pte. Ltd.
@@ -7646,7 +7646,7 @@ Senior Frontend Developer, Terato Tech
 •Monitoring performance gaps and identifying errors in user experience before they appear.
 •Integrated the payment system with Stripe.
 •Worked with google map APIs and Doordash APIs.
-•Integrated with Twilio and Sendgrid email services
+•Integrated with Twilio and Sendgrid Email services
 •Worked in CI/CD environment (Jira pipelined with slack, Jenkins – automatic testing system,Dock deployment).
 Alan Guerrero 1 / 2
 •Optimized and improved the code quality by owning the rewriting of the application from an MVC view- based approach to a SPA, rewriting all class-based components to functional components with hooks, implemented the Context API for global storage and authored over 330 individual tests across 110 test suites to react 80% code coverage.
@@ -8034,7 +8034,7 @@ Participating the Sprint Planning and User Story Grooming sessions and suggestin
 Re-designing/ developing the main website to improve user experience and add new functionality.
 Involved in testing for cross browser functionalities so as to confirm the application consistency across various browsers.
 Used AGILE development techniques in all the development process and exposed to tools for tracking bugs, and Rally to track the agile development.
-Worked in designing the CSS templates for use in all pages on the website working with CSS Background, positioning, text, border, margin, padding, and table.
+Worked in designing the CSS templates for use in all pages on the website working with CSS Background, positioning, Text, border, margin, padding, and table.
 AMEX, Salt Lake, UT Sep 2020 - Dec 2021
 Role: Software Developer
 Responsibilities:
@@ -8087,7 +8087,7 @@ Responsible to manipulate HTML5, CSS3 in JQuery as well as making the page’s d
 Implement UI page loading test by running test script on WebPageTest
 Worked extensively on Angular, Typescript SPA domains.
 Used GitLab for code repository and version control.
-Developed a single page, mobile-first, cross-device/cross-browser web application for real-time location sharing utilizing Angular, JavaScript API.
+Developed a single page, mobile-first, cross-device/cross-browser web application for real-time Location sharing utilizing Angular, JavaScript API.
 Developed html views with HTML5, CSS3, bootstrap and Angular.
 Developed custom directives and Services in Angular.
 Using Angular 2 created Responsive Web Design (RWD) and did data manipulations to display data in company standard format in UI.
@@ -8187,7 +8187,7 @@ As a Front-end Developer at Plebbit, I contributed to the development of a decen
 Soar Digital
 Jan 2021 - Feb 2023 (2 years 2 months)
 As a Front-end Developer at Soar Digital, I have contributed to the development of several projects, including TheNewsPaperStand and Kita. TheNewsPaperStand is a dynamic Nigerian company that provides digital replicas of Nigerian newspapers and magazines, in electronic format using technology, and a storefront (kiosk) like the presentation of the newspaper titles on its Apps. For this project, I utilized React, git, javascript, redux, css, and other packages to build a user web app, admin web, and Abideen Sadiq Ayinde - page 1
-mobile version, which enabled users to subscribe to newspaper publications, apply as a vendor, apply for name changes, missing items, and more.
+mobile version, which enabled users to subscribe to newspaper publications, apply as a vendor, apply for Name changes, missing items, and more.
 I have also worked on Kita, a site used for the collection of data and logistics for oil and gas industries around the world. My responsibilities for this project included reviewing application requirements and interface designs, developing and implementing a highly responsive user interface, and troubleshooting interface software and debugging application codes to ensure smooth functioning of the site. I also ensured that the UI/UX design met usability guidelines and worked on basic front-end performance improvements.
 Throughout my work on both projects, I have consistently demonstrated expertise in React, CSS, Git, JavaScript, and UX design. My efforts have contributed to the success of both TheNewsPaperStand and Kita, resulting in user-friendly and efficient platforms that meet the needs of their respective industries.
 Links to the projects:
@@ -8234,7 +8234,7 @@ and relational databases, such as cPanel and
 MySQL, for website administration and backup.
 Experience in linking, creating, and modifying
 DNS records, as well as configuring SSL
-certificates and email marketing tools.
+certificates and Email marketing tools.
 Effective collaboration and communication with
 other teams, including marketing, design, and
 performance.
@@ -8459,7 +8459,7 @@ Male
 ******************@*****.***
 Quy Nhon - Binh Dinh
 https://www.facebook.com/profile.p
-hp?id=
+hp?Id=
 100************
 SKILLS
 HTML
@@ -8557,8 +8557,8 @@ Company Name: V Soft Technologies
 Environment: E-Publishing
 Roles and Responsibilities:
 Copying the e-books, PDFs, journals in the OCR tool.
-Converting the raw data in text format.
-Checking and editing the quality of text with the original source.
+Converting the raw data in Text format.
+Checking and editing the quality of Text with the original source.
 Ensure the accuracy of data before quality control. EDUCATIONAL QUALIFICATION
 M.C.A FIRST CLASS with 80% from PRIST UNIVERSITY, Thanjavur in the year of 2015.
 B.C.A FIRST CLASS with 78% from BHARATHIDASAN UNIVERSITY, ADAIKALA MATHA COLLEGE, VALLAM Thanjavur in the year of 2013.
@@ -8597,7 +8597,7 @@ Seek and Find Vocabulary
 Live GitHub
 A proof-of-concept language learning tool for beginner Language Learners or children. Keeps track of user times in a global scoreboard. It uses React with Typescript on the frontend and Firebase on the backend. Ecommerce Frontend
 Live GitHub
-A simple, intuitive UI for a restaurant's online retail services. Structured as a Single- page Web App, this UI loads quickly and effectively. The menu can be filtered by desired category and uses components to quickly render the desired items. Cart count and total are kept in global state using React Context allowing users to update cart counts from both the menu page and the shopping cart display. OpenWeatherMap API UI
+A simple, intuitive UI for a restaurant's online retail services. Structured as a Single- page Web App, this UI loads quickly and effectively. The menu can be filtered by desired Category and uses components to quickly render the desired items. Cart count and total are kept in global state using React Context allowing users to update cart counts from both the menu page and the shopping cart display. OpenWeatherMap API UI
 Live GitHub
 This lightweight app consumes the OpenWeatherMap API. Icons are render based on the weather conditions. Temperature can be toggled between Imperial and Metric units on the fly. Current weather, hourly, and daily forecasts are available. It was made with vanilla JavaScript.
 Skills
@@ -8867,7 +8867,7 @@ Front End Angular Developer :
 Six Month Internship Complete:
 I created custom websites by using HTML, CSS, and JavaScript skills.
 Improved website navigation with clear and intuitive UX mapping.
-Optimized HTML email Templates to improve click through and conversion rates.
+Optimized HTML Email Templates to improve click through and conversion rates.
 Enhanced front-end performance through image optimization and clear coding practices, accelerating load time.
 Maintaining Trellos for Task Management of Entire Team. Involvement in Daily Status meets with all TLs and teams.
 EDUCATION QUALIFICATION:
@@ -9082,9 +9082,9 @@ An admin can remove or change the status of ordered items. Also they can add or 
 Tools: Firebase, React, Node Js, Express Js
 Github Client, Github Server, Live Site
 Adhan Times Website
-Adhan times of all cities around the world can be found. Search method implemented for searching Adhan time of desired city. To keep hassle free searching auto location is implemented which will give the user results according to their location.
+Adhan times of all cities around the world can be found. Search method implemented for searching Adhan time of desired city. To keep hassle free searching auto Location is implemented which will give the user results according to their Location.
 Also the website gives the user current prayer time and the time difference between two contagious prayer waqt’s which will update in real time.
-From today next 7 days Adhan times forecast is shown according to city or user location.
+From today next 7 days Adhan times forecast is shown according to city or user Location.
 Tools: ES6, Dom manipulation, JavaScript, Pre build API Github, Live Site
 Al-Quran Website
 Al Quran Website with translations and recitations of all surah’s. API used to fetch data from the server. With only first time data fetching, fast data load method is achieved which works without latency. Also custom search is implemented for searching surah’s.
@@ -9235,7 +9235,7 @@ INTERNSHIP: Training Trains (mentor host)., [1/09/2020- 31/10/2020]
 (Gained knowledge of overview concepts of 2911 router and 2906 switch)
 Projects Experience
 INDIAMART
-Two Months of experience in Online category
+Two Months of experience in Online Category
 associate - work from home
 SBI LIFE
 Four months of Development Manager Trainee
@@ -9276,7 +9276,7 @@ An Example of integrity
 Willing to Delegate
 Respectfull to Others
 PACKAGES:
-MicrosoftWord,MicrosoftExcel,windows XP Operating System, Fast and accurate keyboard skills Internet and email proficient.
+MicrosoftWord,MicrosoftExcel,windows XP Operating System, Fast and accurate keyboard skills Internet and Email proficient.
 EXTRA CURRICULAR ACTIVITIES:
 • I captained the Yellow House Football and cricket team in school.
 PERSONAL DETAILS:
@@ -9386,9 +9386,9 @@ Software Engineer 2
 DELL TECHNOLOGIES
 January 2021 - December 2021
 Bangalore, India
-Responsible for developing email templates using HTML, CSS, XSLT and XML.
-Responsible for developing and maintaining a web application called Customer Communication Designer. This application is used to develop email templates.
-Responsibility for developing a Translator application where users can send labels ( which contain content of an email template in JSON format) to a translation team. This application shows requested translations which are in a queue, which are completed and which are moved to production.
+Responsible for developing Email templates using HTML, CSS, XSLT and XML.
+Responsible for developing and maintaining a web application called Customer Communication Designer. This application is used to develop Email templates.
+Responsibility for developing a Translator application where users can send labels ( which contain content of an Email template in JSON format) to a translation team. This application shows requested translations which are in a queue, which are completed and which are moved to production.
 Web Developer
 INDEGENE
 August 2020 - January 2021
@@ -9399,7 +9399,7 @@ Software Consultant
 JUNIPER NETWOKS
 July 2017 - March 2020
 Bangalore, India
-Responsible for design and development of DocEng2 web application. This application converts XML documents to desired outputs like HTML, PDF, Word documents. More than 2500 content writers at Juniper Networks use this application. This application includes the Home page, Queue page, Request page. Technologies used for this application are JavaScript, jQuery, HTML, CSS, SCSS, Ajax. XSLT development for XML documents. This XSLT will help DocEng2 to convert XML to HTML or PDF or WORD. Responsible for rST (restructured text) documents using Spinx tool. Tool's feature development using python to get the desired output. This tool converts markdown content to HTML or Web pages.
+Responsible for design and development of DocEng2 web application. This application converts XML documents to desired outputs like HTML, PDF, Word documents. More than 2500 content writers at Juniper Networks use this application. This application includes the Home page, Queue page, Request page. Technologies used for this application are JavaScript, jQuery, HTML, CSS, SCSS, Ajax. XSLT development for XML documents. This XSLT will help DocEng2 to convert XML to HTML or PDF or WORD. Responsible for rST (restructured Text) documents using Spinx tool. Tool's feature development using python to get the desired output. This tool converts markdown content to HTML or Web pages.
 Development of a web application called Discovery. This application has details of employees. Technologies used are React JS, Redux, Ajax. Responsible for supporting and feature development of DITA tools. I also developed a web application to convert all content writers' XML documents to DITA files. XSLT was used to convert XML files to DITA. Freelancing
 PYTHON DEVELOPER
 June 2020 - June 2020
@@ -9492,7 +9492,7 @@ frontend,"RESUME
 SAHIL DEKATE
 Mobile:
 +91-983*******
-Email-id: *************@*****.*** Date of Birth: 08/06/1999
+Email-Id: *************@*****.*** Date of Birth: 08/06/1999
 +91-744*******
 (Rajaswa Nagar, Ganeshpur, Bhandara-441904)
 OBJECTIVE:
@@ -9639,7 +9639,7 @@ Email: ************@*****.***
 EDUCATION
 MSc Computer Science, Queen Mary, University of London, London 2021 - Present Modules include: Machine Learning, Data AnalyEcs, Semi-structured Data and Advanced Data Modelling, Security and AuthenEcaEon.
 • Developing ML algorithms for the upcoming project from scratch.
-• Applied various machine learning techniques by deploying Python to build dynamic pricing models and maximise proﬁts.
+• Applied various machine learning techniques by deploying Python to build dynamic pricing resume_classifier and maximise proﬁts.
 B.E (Electronics & InstrumentaNon Engineering), Ramaiah InsNtute Of Technology, Bangalore (2:1) 2015 - 2019 Modules include: Engineering MathemaEcs, Digital System Design, Embedded Controllers, PLC and SCADA, Control Systems Lab, C++ OOPs
 Higher Secondary School, Visakhapatnam 2013 - 2015 A Levels: MathemaEcs, Physics, Chemistry.
 SOFTWARE EXPERIENCE
@@ -10287,7 +10287,7 @@ Other Contracts/W2 Positions
 TextIQ, Inc (Senior Front-End Developer) August 2019 - November 2019
 I built an Excel Review Product for TextIQ with React, Redux, and React-Material-UI. I implemented pixel-perfect UI using Material UI components and integrated Restful API with redux-saga. Rolfson Oil, LLC (Senior React/React Native Developer) December 2018 - August 2019
 I built Ticketing Web/Mobile apps with React.js/Redux, React Native CLI and ASP.NET. for Web app, I built the admin dashboard with React.js, Redux, Redux-Saga, Google Maps API, HighChart.js, HTML5, CSS3, SCSS, and Styled-Components.
-for Ticketing Mobile apps, I built the apps for iOS and Android with React Native, integrated several React Native plugins such as React-Native-Print, React-Native-Camera, React-Native-Image-Picker, etc, used redux-thunk for integrating restful APIs, and worked on implementing animations and customizing react components such as date-time-picker modal, search input, search picker, text input, etc. LiquidSky Software, Inc. (Senior Front-end developer) September 2018 – June 2019
+for Ticketing Mobile apps, I built the apps for iOS and Android with React Native, integrated several React Native plugins such as React-Native-Print, React-Native-Camera, React-Native-Image-Picker, etc, used redux-thunk for integrating restful APIs, and worked on implementing animations and customizing react components such as date-time-picker modal, search input, search picker, Text input, etc. LiquidSky Software, Inc. (Senior Front-end developer) September 2018 – June 2019
 I built a VerizonGaming app with React/Redux, HTML5/CSS3, Styled-Components, Redux-Thunk, Chrome GamePad API, etc.
 Afterward, I was a senior front-end developer for Walmart's new game streaming app and web front-end using similar technology.
 Robert Irwin Jewelers (Magento Developer/eCommerce) January 2017 – March 2017
@@ -11138,7 +11138,7 @@ Reliable Software Resources Inc. Northville, MI
 Role: Front end developer August 2019 – March 2021
 Responsibilities:
 •Designed and developed using HTML5, CSS3, Bootstrap, JavaScript and ReactJS to meets accessibility and web browser standards for website.
-•Designed CSS templates for use in all pages on the website working with CSS Background, Positioning, text, border, margin, padding.
+•Designed CSS templates for use in all pages on the website working with CSS Background, Positioning, Text, border, margin, padding.
 •Developed User Interface by using ReactJS for single-page Application development.
 •Used React Router to turn application into single-page Application.
 •Implemented ReactJS code to handle cross browser compatibility issues.
@@ -11178,7 +11178,7 @@ Technologies used: HTML, CSS, JavaScript, ReactJS, Redux, Redux-saga, Bootstrap,
 •Implemented redux saga middleware to listen to user actions and for API call
 #3 Movie-information
 Technologies Used: HTML, CSS, JavaScript, ReactJS, Redux, Redux-saga, Bootstrap
-•Implemented with search bar where user search for a movie by title.
+•Implemented with search bar where user search for a movie by Title.
 •Implemented application using React and Redux.
 •Designed this application to get movie information from an external API.
 •Built a component that gets response data we got from the API.
@@ -11260,7 +11260,7 @@ Developed Responsive and ADA compliant web micro apps.
 Strategically identify and solve complex technical challenges with Research and development methodology.
 Developed POC design solutions to demonstrate stakeholders and get approval for project.
 Developed micro apps using Angular custom element and web-component library.
-Developed wizard flow of the application. Different applications have different step-name. Loading this stepnames as a stepper.
+Developed wizard flow of the application. Different applications have different step-Name. Loading this stepnames as a stepper.
 Developed Single page applications using custom routing.
 Consumed micro service, Rest API and SOAP API’s for developing micro apps and Account Opening Platform.
 Developed Rapid Prototype as a POC for customer to visualize the basic functionalities of Application.
@@ -11268,7 +11268,7 @@ Developed Responsive and ADA compliant web micro apps.
 Strategically identify and solve complex technical challenges with Research and development methodology.
 Developed POC design solutions to demonstrate stakeholders and get approval for project.
 Developed micro apps using Angular custom element and web-component library.
-Developed wizard flow of the application. Different applications have different step-name. Loading this stepnames as a stepper.
+Developed wizard flow of the application. Different applications have different step-Name. Loading this stepnames as a stepper.
 Using version one for bug tracking and user story tracking.
 Using GIT and jenkin jobs for version control.
 Created A/B tests using Google Content Experiments to optimize user experience.
@@ -11303,7 +11303,7 @@ Worked with the team of architects and back-end Developers to gather requirement
 Gathered and analyzed the requirements and converted them into User Requirement Specifications and Functional Requirement Specifications for the designers and developers to understand them as per their perspective.
 Environment: JAVA, HTML5, CSS3, JQuery, JavaScript, AJAX, Angular.js, Responsive Design, Bootstrap, Dom, XML, Firebug, AnthillPro, Git, Oracle, Windows.
 Dealer Track, New York, NY Jun’14 –Dec ’14 Role: Software Engineer
-Description: Dealertrack is the leading provider of digital solutions to the automotive retail industry. Our integrated approach to products and services supports the largest lender/dealer network in North America. For dealers, this includes the most advanced dealer management system (DMS), leading-edge sales and F&I solutions, and complete registration and title solutions. For lenders, this includes digital solutions and services for driving consumer engagement, streamlining originations and contracting, and optimizing titling operations and management.
+Description: Dealertrack is the leading provider of digital solutions to the automotive retail industry. Our integrated approach to products and services supports the largest lender/dealer network in North America. For dealers, this includes the most advanced dealer management system (DMS), leading-edge sales and F&I solutions, and complete registration and Title solutions. For lenders, this includes digital solutions and services for driving consumer engagement, streamlining originations and contracting, and optimizing titling operations and management.
 Responsibilities:
 Involved in development of User Interface using HTML/HTML5, CSS/CSS3, JavaScript, and jQuery, AJAX, JSON and AngularJS.
 Extensive experience using Bootstrap for layout.
@@ -11385,7 +11385,7 @@ Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi, India August 2013
 PROJECTS
 Home Automation Using IoT and Python
 First Year Master’s Project on Arduino using NodeMCU
-Incorporating NodeMCU Hardware, 5V Relay Module and programming on Arduino to achieve the desired effect of remotely controlling home appliances from an isolated location using Blynk App. Scan Port Shield
+Incorporating NodeMCU Hardware, 5V Relay Module and programming on Arduino to achieve the desired effect of remotely controlling home appliances from an isolated Location using Blynk App. Scan Port Shield
 Developed a software that scans and recognizes all the open and vulnerable ports of the computer susceptible to attacks from outside environment
 Used Java to develop this project, and the application created threads which attempted to connect to the supplied IP address using a range of provided port numbers
 In this approach the effects of connection timeouts are minimized and the application can process a range of ports. Secure Intrusion Detection System for MANETs
@@ -12060,7 +12060,7 @@ involved in using React JS components, Forms, Events, Keys, Router, Animations a
 Built dynamically generated dropdown lists using Ajax, ES6 and ReactJS.
 Research implements and documenting UX and UI patterns and best practices.
 Using route-based code splitting with React Loadable.
-Used React-Autocomplete for creating google maps location search on the webpage.
+Used React-Autocomplete for creating google maps Location search on the webpage.
 Design and develop web part of application using REDUX and REACT frameworks.
 Responsible for React UI and architecture and building components library, including Tree, Slide-View, and Table Grid
 Work son React JS Virtual Dom and React views, rendering using components which contains additional components called custom HTML tags.
@@ -12097,7 +12097,7 @@ involved in using React JS components, Forms, Events, Keys, Router, Animations a
 Built dynamically generated dropdown lists using Ajax, ES6 and ReactJS.
 Research implements and documenting UX and UI patterns and best practices.
 Using route-based code splitting with React Loadable.
-Used React-Autocomplete for creating google maps location search on the webpage.
+Used React-Autocomplete for creating google maps Location search on the webpage.
 Design and develop web part of application using REDUX and REACT frameworks.
 Responsible for React UI and architecture and building components library, including Tree, Slide-View, and Table Grid
 Work son React JS Virtual Dom and React views, rendering using components which contains additional components called custom HTML tags.
@@ -12135,13 +12135,13 @@ Involved in developing interactive web applications using a dynamic scripting la
 Design Authentication form to check whether the user is an authorized person to use the system.
 Interact with Client to gather requirement. Analyze Requirement and develop functionality accordingly
 Conceived and designed database tables in MYSQL.
-Used React-Autocomplete for creating google maps location search on the webpage.
+Used React-Autocomplete for creating google maps Location search on the webpage.
 Created the help desk for user's queries to meet the bulk queries submitted by the users.
 Used CSS and Bootstrap to develop Rich UI Components such as Accordions and Modal Windows using pure HTML 5 And CSS3. Modified the source code according to the requirement.
 Worked on Cross-Browser compatibility and fixed the bugs for several browsers
 Developed presentation layer using HTML5, JavaScript, CSS3, AJAX etc.
 Responsible for creating admin automated tools which makes easy add, update, delete of content
-Worked on CSS Background, CSS positioning, CSS text, CSS border, CSS margin, CSS padding, CSS table, CSS floats, cross browser compatibility and CSS behaviors in CSS
+Worked on CSS Background, CSS positioning, CSS Text, CSS border, CSS margin, CSS padding, CSS table, CSS floats, cross browser compatibility and CSS behaviors in CSS
 Environment: ReactJS, Python, MYSQL, Bootstrap, JavaScript, jQuery, Aptana, AJAX, MVC, Pentaho, Perforce, HTML 5, CSS 3, MS Excel, Linux, MS Word, Adobe Photoshop, Microsoft Visio, WSDL, XML, Dojo, Markdown, Moo Tools, Agile.
 Client: Indi Technology, India Jan 2012 – Oct 2015
 Role: UI / Web Developer
@@ -12454,8 +12454,8 @@ Music player
 • Networking
 • One web server which will host all the websites for the company.
 • One DNS server(same as web server).
-• One mailing server which will provide the email service for the company(mail.netcamp.in).
-• POP3 support so that user can download the email.
+• One mailing server which will provide the Email service for the company(mail.netcamp.in).
+• POP3 support so that user can download the Email.
 • File server(mail server)also have DHCP server(IP range - 192.168.1.150 to 192.168.1.190 gateway - 192.168.1.1 and DNS - 192.168.43.1).
 • Implemented samba so that it can be accessed from a windows machine.
 • Common data folder permissions - department people can read and write(r-w-x) common driver folder permissions - department people can read only(r---x). ONGOING PROJECT
@@ -12732,7 +12732,7 @@ CBSE 2013 87.4
 School
 Work Experience
 • Angular 8 developer for Bosch
-Development and took ownership of responsive interactive mobile app for “Connected Water” a state of the art application to track consumption of water in households Implemented and developed D3 graphs used in Real Time Monitoring for Phantom application. Unit testing implementation in the UI using Karma, Jasmine. Using google API, created a world map view with the help of mark-cluster libraries in the Dashboard that gives a Store location based on the user-role login for Phantom application. Implementation of Color- palate to improve the d3 pie component customizable and responsive charts Using SVG and CSS animation implemented and improved the user-interface in Connected Water responsive mobile application.
+Development and took ownership of responsive interactive mobile app for “Connected Water” a state of the art application to track consumption of water in households Implemented and developed D3 graphs used in Real Time Monitoring for Phantom application. Unit testing implementation in the UI using Karma, Jasmine. Using google API, created a world map view with the help of mark-cluster libraries in the Dashboard that gives a Store Location based on the user-role login for Phantom application. Implementation of Color- palate to improve the d3 pie component customizable and responsive charts Using SVG and CSS animation implemented and improved the user-interface in Connected Water responsive mobile application.
 Worked on Node.js basic application, and implemented unit testing using Mocha-Chai. Automation of manual tasks using Python for CEAT – iTyres application Proof of concept for retrieval and transmission of IOT data on Bosch Cloud Presentation of AI/ML and Blockchain ideas in Technical workshop Skills
 • Programming Languages: C, Java, Javascript, Typescript, Python
 • Database Technology: MySQL, DynamoDB
@@ -12865,7 +12865,7 @@ Worked in using ReactJS components, Forms, Events, Keys, Router, Animations, and
 Responsible for ReactJS and architecture. Building components library, including Tree, Slide-View, and Table Grid.
 Implemented stable React components and stand-alone functions to be added to any future pages.
 Used React JS for templating for faster compilation and developing reusable components.
-Used React-Autocomplete for creating Google maps location search on the webpage.
+Used React-Autocomplete for creating Google maps Location search on the webpage.
 Configured Web pack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build target.
 Utilized React for its efficient data flow architecture to create a lightweight and render efficient web app that searched projects via the GitHub API through keywords.
 Implemented React container and presentational components (as Stateless and Functional components when applicable).
@@ -12876,7 +12876,7 @@ Involved in complete SDLC – Requirement Analysis, Development, System and Inte
 Environment: HTML5, CSS3, Bootstrap, SASS, LESS, Java Script, React JS, Redux, Flex, Web Strom, JSP, HP Quality Center, Jasmine, GitHub, and Jenkins.
 Client: Innovative Retail Concepts Limited, Pune, India May 2014- April 2015
 Frontend Developer
-Innovative Retail Concepts (BigBasket) operates an Online Grocery Delivery Platform under the brand name BigBasket.com. The company ties up with local suppliers and serves many major cities in India. I worked in the checkout api development, the front end for the wholesale modules and the retails store.
+Innovative Retail Concepts (BigBasket) operates an Online Grocery Delivery Platform under the brand Name BigBasket.com. The company ties up with local suppliers and serves many major cities in India. I worked in the checkout api development, the front end for the wholesale modules and the retails store.
 Responsibilities:
 Communicate with the client to understand the requirement of the website, gained experience in project planning, involved in writing the Project Design Document and Project Plan Document.
 Created and optimized graphic prototype websites and applications interfaces using HTML and CSS.
@@ -13053,7 +13053,7 @@ Excellent experience in developing web pages contents with Web Content Accessibi
 Strong Experience in using CSS2, CSS3 and dealing with CSS Animations, Backgrounds, Layouts, Positioning, Text, Border, Padding and CSS Box Model.
 Experience in using CSS Preprocessors like SASS, LESS.
 Experience in using tools like TSLint and JSLint to maintain coding standards.
-Experienced in various IDEs like IntelliJ,Eclipse, Sublime text, Notepad++, Webstrom, Microsoft Visual studio, Dreamweaver, Adobe Photoshop.
+Experienced in various IDEs like IntelliJ,Eclipse, Sublime Text, Notepad++, Webstrom, Microsoft Visual studio, Dreamweaver, Adobe Photoshop.
 Experience in developing web applications supporting different browsers like IE, Mozilla FireFox, Netscape Navigator, Safari and Google Chrome.
 Experience with Browser testing, knowledge of cross-browser/cross-platform compatibility.
 Very good experience in Document Object Model (DOM).
@@ -13078,7 +13078,7 @@ HTML/HTML5, CSS2/CSS3, DHTML, XML, XHTML, XSLT, AJAX, JQuery, JSON, Bootstrap, G
 JavaScript Libraries
 Java script, type script, Ext JS, Node.js, Angular.js, Angular 2, Angular 4, Angular 5
 IDE's and Tools
-Eclipse IDE, IntelliJ, NetBeans, Webstrom, Microsoft Visual studio, Sublime text, Bugzilla, GitHub, Maven
+Eclipse IDE, IntelliJ, NetBeans, Webstrom, Microsoft Visual studio, Sublime Text, Bugzilla, GitHub, Maven
 Debugging Tools
 Firebug, Developer Tools
 Database
@@ -13331,7 +13331,7 @@ SERVLET
 WEB TECHNOLOGY
 HTML
 ●Good knowledge on HTML tags.
-●Knowledge on text,image,and email links.
+●Knowledge on Text,image,and Email links.
 ●Understanding on frames.
 CSS
 ● Knowledge on inline,internal,external style sheets.
@@ -13508,7 +13508,7 @@ Has Good knowledge to work on Virtual Machines, IBM RAD Tools / Spring Tools.
 Experienced in Web tools like Visual studio code, Dreamweaver, Brackets, Notepad++ & etc.,
 Experienced in responsive CSS Frameworks like Bootstrap, Foundation, IBM RWDA, PrimeFaces and MDL.
 Experienced in designing tools like Photoshop, Fireworks and Flash.
-Experienced in vector graphic tools like Illustrator and CorelDraw.
+Experienced in Vector graphic tools like Illustrator and CorelDraw.
 Add-on experience in VFX tools like Eyeon Fusion, Combustion and After Effects.
 Worked for projects in Ecommerce and Retail domain.
 Self-motivated and enjoy working in a technically challenging environment.
@@ -13623,7 +13623,7 @@ o Khazana Group: http://www.khazanagroup.in
 o Minus4: http://www.minus4.in
 o Salz: http://www.salzrestobar.com
 o Westin: http://www.westin.ac.in
-o What’s in a name: https://www.whatsinaname.in
+o What’s in a Name: https://www.whatsinaname.in
 o SSK Infoways: http://www.sskinfoways.com
 o Sristek
 o Subone
@@ -13886,7 +13886,7 @@ Responsibilities:
 (Desktop, tablet & smart phone)
 • Utilized HTML5, CSS3, JavaScript, and JQuery to solve problems like auto completion and
 client side validation
-• Built CSS and JavaScript system for controlling text display issues cross-platform and cross
+• Built CSS and JavaScript system for controlling Text display issues cross-platform and cross
 browser
 • Used JQuery to make the HTML, CSS interact with JavaScript functions to add dynamism to the
 web page
@@ -13968,7 +13968,7 @@ middle-tier technologies and standards, as well as content management system.
 • Experience with W3C (WCAG 2.0, Sec 508) guidelines
 • Develop a user friendly navigation for various sections of data using JQuery Accordion and Tabs
 • Attended college career fairs to promote careers in Web development
-• Created a standard email template to be used by all Emails Campaign.
+• Created a standard Email template to be used by all Emails Campaign.
 • Design and update user Integration with various APIs
 Environment: HTML5, jQuery, CSS, JS, Ajax, XHTML, XML, PHP5.2.11
 "

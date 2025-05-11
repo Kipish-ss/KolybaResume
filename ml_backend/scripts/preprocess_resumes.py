@@ -19,10 +19,10 @@ def clean_and_filter(text: str, min_length: int = 300) -> str | None:
     try:
         lang = detect(text)
     except LangDetectException:
-        return None
+        lang = ""
 
     if lang != "en":
-        return None
+        return
 
     return clean_text(text, min_length=min_length)
 

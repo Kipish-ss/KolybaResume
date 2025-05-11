@@ -35,7 +35,7 @@ export class AuthEffects {
                         localStorage.setItem(accessTokenLocalStorage, token);
 
                         if (!userCredential.user.emailVerified) {
-                            return authActions.loadCurrentFailure({ error: new Error('email-not-verified') });
+                            return authActions.loadCurrentFailure({ error: new Error('Email-not-verified') });
                         }
 
                         return authActions.loadCurrentUser();
@@ -183,8 +183,8 @@ export class AuthEffects {
         this.actions$.pipe(
             ofType(authActions.loadCurrentFailure),
             tap(({ error }) => {
-                if (error?.message === 'email-not-verified') {
-                    this.notificationService.showErrorMessage('Your email is not verified!');
+                if (error?.message === 'Email-not-verified') {
+                    this.notificationService.showErrorMessage('Your Email is not verified!');
                 } else {
                     this.notificationService.showErrorMessage("You've entered wrong password! Please try again or reset your password.");
                 }
@@ -196,7 +196,7 @@ export class AuthEffects {
     public readonly signUpSuccess$ = createEffect(() =>
         this.actions$.pipe(
             ofType(authActions.createUserSuccess),
-            tap(() => this.notificationService.showInfoMessage('Verification email has been sent'))
+            tap(() => this.notificationService.showInfoMessage('Verification Email has been sent'))
         ),
         { dispatch: false }
     );
