@@ -22,6 +22,7 @@ public class MachineLearningApiService(IConfiguration configuration, HttpClient 
 
     public async Task<VacancyScoreResponse[]> NotifyVacanciesUpdated(long[] vacancies)
     {
+        httpClient.Timeout = TimeSpan.FromMinutes(15);
         var request = new
         {
             vacancy_ids = vacancies
@@ -33,7 +34,7 @@ public class MachineLearningApiService(IConfiguration configuration, HttpClient 
 
     public async Task<VacancyScoreResponse[]> GetVacancyScores(long resumeId)
     {
-        var response = await httpClient.PostAsync($"{_apiUrl}/vacancies/score/{resumeId}", null);
+        var response = await httpClient.GetAsync($"{_apiUrl}/vacancies/score/{resumeId}");
         
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }

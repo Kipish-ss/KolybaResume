@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Net.Http.Json;
-using System.Text;
 using AutoMapper;
+using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
 using KolybaResume.BLL.Services.Utility;
@@ -18,37 +18,50 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
     public async Task Aggregate()
     {
         var isFirstRun = !_context.Vacancies.Any();
-        var companyLinks = await _context.Companies.Select(c => c.Url).ToListAsync();
+        var companyLinks = await _context.Companies.Select(c => c.Url).Take(2000).ToListAsync();
         var addedVacancies = new List<Vacancy>();
         var allVacanciesIds = new List<int>();
 
-        foreach (var link in companyLinks)
+        try
         {
-            var vacancies = await GetVacancies($"{link}vacancies/export/", isFirstRun, allVacanciesIds);
-            await _context.Vacancies.AddRangeAsync(vacancies);
-            await _context.SaveChangesAsync();
-            addedVacancies.AddRange(vacancies);
+            foreach (var link in companyLinks)
+            {
+                var vacancies = await GetVacancies($"{link}vacancies/export/", isFirstRun, allVacanciesIds);
+                await _context.Vacancies.AddRangeAsync(vacancies);
+                await _context.SaveChangesAsync();
+                addedVacancies.AddRange(vacancies);
+            }
         }
-
-        await _context.Vacancies
-            .Where(v => v.Source == VacancySource.Dou && !allVacanciesIds.Contains(DouVacancyIdExtractor.GetId(v.Url)))
-            .ExecuteDeleteAsync();
-        
-        var scores = await apiService.NotifyVacanciesUpdated(addedVacancies.Select(v => v.Id).ToArray());
-
-        foreach (var userScore in scores.GroupBy(s => s.UserId))
+        finally
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == userScore.Key);
+            var vacanciesToDelete = (await _context.Vacancies.ToListAsync())
+                .Where(v => v.Source == VacancySource.Dou &&
+                            !allVacanciesIds.Contains(DouVacancyIdExtractor.GetId(v.Url)));
 
-            var relevantVacancies = userScore
-                .Where(us => us.Score > 50)
-                .Select(us => addedVacancies.First(v => v.Id == us.VacancyId));
-            
-            await emailService.SendAsync(
-                user.Email,
-                user.Name,
-                "New relevant vacancies",
-                string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
+            _context.Vacancies.RemoveRange(vacanciesToDelete);
+            await _context.SaveChangesAsync();
+
+            var scores = new List<VacancyScoreResponse>();
+
+            foreach (var batch in addedVacancies.Chunk(96))
+            {
+                scores.AddRange(await apiService.NotifyVacanciesUpdated(batch.Select(v => v.Id).ToArray()));
+            }
+
+            foreach (var userScore in scores.GroupBy(s => s.UserId))
+            {
+                var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == userScore.Key);
+
+                var relevantVacancies = userScore
+                    .Where(us => us.Score > 50)
+                    .Select(us => addedVacancies.First(v => v.Id == us.VacancyId));
+
+                await emailService.SendAsync(
+                    user.Email,
+                    user.Name,
+                    "New relevant vacancies",
+                    string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
+            }
         }
     }
 

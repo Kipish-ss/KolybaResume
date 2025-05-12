@@ -20,7 +20,7 @@ public class VacancyService(
     {
         if (vacancyUrl.Contains("jobs.dou.ua"))
         {
-            var vacancy = await _context.Vacancies.FirstOrDefaultAsync(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
+            var vacancy = (await _context.Vacancies.ToListAsync()).FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
 
             if (vacancy != null)
             {
@@ -48,7 +48,7 @@ public class VacancyService(
         
         var scores = await apiService.GetVacancyScores(resumeId);
         
-        var vacancies = await _context.Vacancies.Where(v => scores.Any(score => score.VacancyId == v.Id)).ToListAsync();
+        var vacancies = (await _context.Vacancies.ToListAsync()).Where(v => scores.Any(score => score.VacancyId == v.Id));
         var dtos = _mapper.Map<VacancyDto[]>(vacancies);
         
         foreach (var dto in dtos)
@@ -56,7 +56,7 @@ public class VacancyService(
             dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
         }
         
-        return dtos;
+        return dtos.OrderByDescending(d => d.Score).ToArray();
     }
 
     public async Task<ResumeAdaptationResponse> AdaptResume(string vacancyText)
