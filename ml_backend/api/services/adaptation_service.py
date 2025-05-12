@@ -33,7 +33,7 @@ def get_keywords_score(db: Session, resume_id: int, vacancy_text: str, top_n=20)
     vacancy_text = translate(vacancy_text)
     vacancy_cleaned_text = clean_text(vacancy_text)
     vacancy_keywords = set(extract_keywords(vacancy_cleaned_text, top_n=top_n))
-    missing_keywords = list(resume_keywords - vacancy_keywords)
+    missing_keywords = list(vacancy_keywords - resume_keywords)
     score = keyword_similarity(resume_keywords, vacancy_keywords)
 
     return AdaptationResponse(score=score, missing_keywords=missing_keywords)
