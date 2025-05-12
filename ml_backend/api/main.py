@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import logging
-from ml_backend.api.routers import vacancies, resume
+from ml_backend.api.routers import vacancies, resume, adapataion
 from ml_backend.api.services.model_service import load_models
 
 logging.basicConfig(
@@ -41,4 +41,4 @@ app.add_middleware(
 
 app.include_router(resume.router, tags=["Resume"])
 app.include_router(vacancies.router, tags=["Vacancies"])
-# app.include_router(adaptation.router, tags=["Adaptation"])
+app.include_router(adapataion.router, tags=["Adaptation"])

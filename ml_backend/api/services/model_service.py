@@ -25,8 +25,8 @@ def load_models() -> None:
     _embedding_model = SentenceTransformer('all-mpnet-base-v2', device=device)
     logger.info("Sentence transformer model loaded")
 
-    _tokenizer = AutoTokenizer.from_pretrained("ml_backend/fine_tuned_bert")
-    _classification_model = AutoModelForSequenceClassification.from_pretrained("ml_backend/fine_tuned_bert")
+    _tokenizer = AutoTokenizer.from_pretrained("Kipish/resume_classifier")
+    _classification_model = AutoModelForSequenceClassification.from_pretrained("Kipish/resume_classifier")
     _classification_model.eval()
 
     if device == 'cuda':

@@ -94,7 +94,7 @@ class AdaptationRequest(BaseModel):
 
 class AdaptationResponse(BaseModel):
     score: int
-    missing_keywords: str | None
+    missing_keywords: list[str] | None
 
 
 class VectorInput(BaseModel):
