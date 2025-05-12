@@ -2,6 +2,8 @@
 using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
+using KolybaResume.BLL.Services.Scrappers;
+using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.DTO.Vacancy;
 using KolybaResume.DAL.Context;
 using Microsoft.EntityFrameworkCore;
@@ -12,38 +14,49 @@ public class VacancyService(
     KolybaResumeContext context,
     IMapper mapper,
     IMachineLearningApiService apiService,
-    IUserService userService,
-    IVacancyScraperFactory scraperFactory) : BaseService(context, mapper), IVacancyService
+    IUserService userService) : BaseService(context, mapper), IVacancyService
 {
     public async Task<VacancyTextDto> ParseVacancy(string vacancyUrl)
     {
-        var description = await scraperFactory.GetScraper(vacancyUrl).Scrape(vacancyUrl);
-
-        return new VacancyTextDto()
+        if (vacancyUrl.Contains("jobs.dou.ua"))
         {
-            Text = description
-        };
+            var vacancy = (await _context.Vacancies.ToListAsync()).FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
+
+            if (vacancy != null)
+            {
+                return new VacancyTextDto()
+                {
+                    Text = vacancy.Text,
+                };
+            }
+        }
+
+        if (vacancyUrl.Contains("www.postjobfree.com/job"))
+        {
+            return new VacancyTextDto()
+            {
+                Text = await (new PostJobFreeVacancyScrapper()).Scrape(vacancyUrl)
+            };
+        }
+
+        throw new ArgumentException("Invalid URL");
     }
 
     public async Task<VacancyDto[]> Get()
     {
-        //TODO: Uncomment after api is ready
-        // var resumeId = await userService.GetResumeId();
-        //
-        // var scores = await apiService.GetVacancyScores(resumeId);
-        //
-        // var vacancies = await _context.Vacancies.Where(v => scores.Any(score => score.VacancyId == v.Id)).ToListAsync();
-        // var dtos = _mapper.Map<VacancyDto[]>(vacancies);
-        //
-        // foreach (var dto in dtos)
-        // {
-        //     dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
-        // }
-
-        var vacancies = await _context.Vacancies.Take(50).ToListAsync();
+        var resumeId = await userService.GetResumeId();
+        
+        var scores = await apiService.GetVacancyScores(resumeId);
+        
+        var vacancies = (await _context.Vacancies.ToListAsync()).Where(v => scores.Any(score => score.VacancyId == v.Id));
         var dtos = _mapper.Map<VacancyDto[]>(vacancies);
         
-        return dtos;
+        foreach (var dto in dtos)
+        {
+            dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
+        }
+        
+        return dtos.OrderByDescending(d => d.Score).ToArray();
     }
 
     public async Task<ResumeAdaptationResponse> AdaptResume(string vacancyText)

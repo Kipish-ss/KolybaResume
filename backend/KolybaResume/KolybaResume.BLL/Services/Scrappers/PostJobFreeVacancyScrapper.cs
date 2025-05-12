@@ -5,7 +5,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace KolybaResume.BLL.Services.Scrappers;
 
-public class PostJobFreeVacancyScrapper : IVacancyScraper
+public class PostJobFreeVacancyScrapper
 {
     public async Task<string> Scrape(string url)
     {

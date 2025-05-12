@@ -9,21 +9,32 @@ public class MachineLearningApiService(IConfiguration configuration, HttpClient 
 {
     private readonly string _apiUrl = configuration["MachineLearningBackendApi"]!;
 
-    public async Task NotifyResumeCreated(long resumeId)
+    public async Task<bool> NotifyResumeCreated(long resumeId)
     {
-        await httpClient.PostAsync($"{_apiUrl}/resumes/{resumeId}", null);
+        var request = new
+        {
+            resume_id = resumeId
+        };
+        var response = await httpClient.PutAsJsonAsync($"{_apiUrl}/resume", request);
+        
+        return response.IsSuccessStatusCode;
     }
 
     public async Task<VacancyScoreResponse[]> NotifyVacanciesUpdated(long[] vacancies)
     {
-        var response = await httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies", vacancies);
+        httpClient.Timeout = TimeSpan.FromMinutes(15);
+        var request = new
+        {
+            vacancy_ids = vacancies
+        };
+        var response = await httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies", request);
         
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }
 
     public async Task<VacancyScoreResponse[]> GetVacancyScores(long resumeId)
     {
-        var response = await httpClient.PostAsync($"{_apiUrl}/vacancies/score/{resumeId}", null);
+        var response = await httpClient.GetAsync($"{_apiUrl}/vacancies/score/{resumeId}");
         
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }

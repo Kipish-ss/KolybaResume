@@ -1,8 +1,11 @@
 ﻿using System.Net;
 using System.Net.Http.Json;
 using AutoMapper;
+using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
+using KolybaResume.BLL.Services.Utility;
+using KolybaResume.Common.Enums;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
 using KolybaResume.DTO;
@@ -10,28 +13,59 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KolybaResume.BLL.Services;
 
-public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper, HttpClient httpClient, IMachineLearningApiService apiService) : BaseService(context, mapper), IDouVacancyAggregatorService
+public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper, IEmailService emailService, IMachineLearningApiService apiService) : BaseService(context, mapper), IDouVacancyAggregatorService
 {
     public async Task Aggregate()
     {
         var isFirstRun = !_context.Vacancies.Any();
-        var companyLinks = await _context.Companies.Select(c => c.Url).ToListAsync();
-        var addedVacanciesIds = new List<long>();
+        var companyLinks = await _context.Companies.Select(c => c.Url).Take(2000).ToListAsync();
+        var addedVacancies = new List<Vacancy>();
+        var allVacanciesIds = new List<int>();
 
-        foreach (var link in companyLinks)
+        try
         {
-            var vacancies = await GetVacancies($"{link}vacancies/export/", isFirstRun);
-            await _context.Vacancies.AddRangeAsync(vacancies);
-            await _context.SaveChangesAsync();
-            addedVacanciesIds.AddRange(vacancies.Select(v => v.Id));
+            foreach (var link in companyLinks)
+            {
+                var vacancies = await GetVacancies($"{link}vacancies/export/", isFirstRun, allVacanciesIds);
+                await _context.Vacancies.AddRangeAsync(vacancies);
+                await _context.SaveChangesAsync();
+                addedVacancies.AddRange(vacancies);
+            }
         }
-        
-        
-        //TODO: Uncomment when api is ready
-        //await apiService.NotifyVacanciesUpdated(addedVacanciesIds.ToArray());
+        finally
+        {
+            var vacanciesToDelete = (await _context.Vacancies.ToListAsync())
+                .Where(v => v.Source == VacancySource.Dou &&
+                            !allVacanciesIds.Contains(DouVacancyIdExtractor.GetId(v.Url)));
+
+            _context.Vacancies.RemoveRange(vacanciesToDelete);
+            await _context.SaveChangesAsync();
+
+            var scores = new List<VacancyScoreResponse>();
+
+            foreach (var batch in addedVacancies.Chunk(96))
+            {
+                scores.AddRange(await apiService.NotifyVacanciesUpdated(batch.Select(v => v.Id).ToArray()));
+            }
+
+            foreach (var userScore in scores.GroupBy(s => s.UserId))
+            {
+                var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == userScore.Key);
+
+                var relevantVacancies = userScore
+                    .Where(us => us.Score > 50)
+                    .Select(us => addedVacancies.First(v => v.Id == us.VacancyId));
+
+                await emailService.SendAsync(
+                    user.Email,
+                    user.Name,
+                    "New relevant vacancies",
+                    string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
+            }
+        }
     }
 
-    private async Task<Vacancy[]> GetVacancies(string url, bool isFirstRun)
+    private async Task<Vacancy[]> GetVacancies(string url, bool isFirstRun, List<int> allVacanciesIds)
     {
         var handler = new HttpClientHandler
         {
@@ -57,6 +91,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
         response.EnsureSuccessStatusCode();
 
         var vacancies = await response.Content.ReadFromJsonAsync<DouVacancyModel[]>();
+        allVacanciesIds.AddRange(vacancies.Select(v => DouVacancyIdExtractor.GetId(v.Link)));
         return _mapper.Map<Vacancy[]>(vacancies.Where(v => isFirstRun || v.Date > DateTime.Today.AddDays(-1)));
     }
 }

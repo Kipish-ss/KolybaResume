@@ -21,9 +21,8 @@ public class ExceptionMiddleware(RequestDelegate next, ILogger<ExceptionMiddlewa
 
         context.Response.StatusCode = exception switch
         {
-            ArgumentNullException => 400,
             KeyNotFoundException => 404,
-            _ => 500
+            _ => 400
         };
 
         return context.Response.WriteAsync(exception.Message);
