@@ -2,6 +2,8 @@
 using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
+using KolybaResume.BLL.Services.Scrappers;
+using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.DTO.Vacancy;
 using KolybaResume.DAL.Context;
 using Microsoft.EntityFrameworkCore;
@@ -12,17 +14,32 @@ public class VacancyService(
     KolybaResumeContext context,
     IMapper mapper,
     IMachineLearningApiService apiService,
-    IUserService userService,
-    IVacancyScraperFactory scraperFactory) : BaseService(context, mapper), IVacancyService
+    IUserService userService) : BaseService(context, mapper), IVacancyService
 {
     public async Task<VacancyTextDto> ParseVacancy(string vacancyUrl)
     {
-        var description = await scraperFactory.GetScraper(vacancyUrl).Scrape(vacancyUrl);
-
-        return new VacancyTextDto()
+        if (vacancyUrl.Contains("jobs.dou.ua"))
         {
-            Text = description
-        };
+            var vacancy = await _context.Vacancies.FirstOrDefaultAsync(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
+
+            if (vacancy != null)
+            {
+                return new VacancyTextDto()
+                {
+                    Text = vacancy.Text,
+                };
+            }
+        }
+
+        if (vacancyUrl.Contains("www.postjobfree.com/job"))
+        {
+            return new VacancyTextDto()
+            {
+                Text = await (new PostJobFreeVacancyScrapper()).Scrape(vacancyUrl)
+            };
+        }
+
+        throw new ArgumentException("Invalid URL");
     }
 
     public async Task<VacancyDto[]> Get()

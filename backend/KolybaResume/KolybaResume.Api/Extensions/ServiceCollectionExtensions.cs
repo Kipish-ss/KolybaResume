@@ -41,7 +41,7 @@ public static class ServiceCollectionExtensions
         services.AddScoped<IVacancyService, VacancyService>();
         services.AddScoped<ICompanyService, CompanyService>();
         services.AddScoped<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
-        services.AddScoped<IVacancyScraperFactory, VacancyScraperFactory>();
+        services.AddScoped<IEmailService, EmailService>();
 
         services.AddHostedService<ScrapperJob>();
     }
@@ -83,11 +83,11 @@ public static class ServiceCollectionExtensions
             q.AddTrigger(opts => opts
                 .ForJob(jobKey)
                 .WithIdentity("dou-trigger")
-                //.WithSimpleSchedule(opt => opt.WithIntervalInHours(24).RepeatForever())
-                .WithCronSchedule("0 0 9 * * ?", cronOpts => {
-                    cronOpts.InTimeZone(TimeZoneInfo.Local);
-                    cronOpts.WithMisfireHandlingInstructionFireAndProceed();
-                })
+                .WithSimpleSchedule(opt => opt.WithIntervalInHours(24).RepeatForever())
+                // .WithCronSchedule("0 0 9 * * ?", cronOpts => {
+                //     cronOpts.InTimeZone(TimeZoneInfo.Local);
+                //     cronOpts.WithMisfireHandlingInstructionFireAndProceed();
+                // })
             );
         });
 
