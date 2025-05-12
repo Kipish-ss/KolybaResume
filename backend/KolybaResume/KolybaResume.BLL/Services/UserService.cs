@@ -68,9 +68,16 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
         
         await _context.Resumes.AddAsync(resume);
         await _context.SaveChangesAsync();
+
+        if (await apiService.NotifyResumeCreated(resume.Id))
+        {
+            return;
+        }
         
-        //TODO: Uncomment when endpoint is added
-        //await apiService.NotifyResumeCreated(resume.Id);
+        _context.Resumes.Remove(resume);
+        await _context.SaveChangesAsync();
+        
+        throw new Exception("Could not add resume");
     }
 
     public async Task<long> GetResumeId()

@@ -27,21 +27,17 @@ public class VacancyService(
 
     public async Task<VacancyDto[]> Get()
     {
-        //TODO: Uncomment after api is ready
-        // var resumeId = await userService.GetResumeId();
-        //
-        // var scores = await apiService.GetVacancyScores(resumeId);
-        //
-        // var vacancies = await _context.Vacancies.Where(v => scores.Any(score => score.VacancyId == v.Id)).ToListAsync();
-        // var dtos = _mapper.Map<VacancyDto[]>(vacancies);
-        //
-        // foreach (var dto in dtos)
-        // {
-        //     dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
-        // }
-
-        var vacancies = await _context.Vacancies.Take(50).ToListAsync();
+        var resumeId = await userService.GetResumeId();
+        
+        var scores = await apiService.GetVacancyScores(resumeId);
+        
+        var vacancies = await _context.Vacancies.Where(v => scores.Any(score => score.VacancyId == v.Id)).ToListAsync();
         var dtos = _mapper.Map<VacancyDto[]>(vacancies);
+        
+        foreach (var dto in dtos)
+        {
+            dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
+        }
         
         return dtos;
     }
