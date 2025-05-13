@@ -1,27 +1,32 @@
-from ml_backend.api.services.model_service import get_embedding_model, get_keybert_model
+from ml_backend.api.services.model_service import get_embedding_model, get_keybert_model, get_vacancies_stopwords
 from sqlalchemy.orm import Session
 from ml_backend.api.db.models import Resume
 from ml_backend.api.models.schemas import AdaptationResponse
 from ml_backend.api.services.cleaning_service import clean_text, translate
+from nltk.corpus import stopwords
 
 
 def is_repeated_word(phrase: str) -> bool:
     words = phrase.lower().split()
-    return len(words) > 1 and any(word == words[0] for word in words[1:])
+    return len(words) > 1 and all(word == words[0] for word in words)
 
 
 def extract_keywords(text: str, top_n) -> list[str]:
     model = get_keybert_model()
+    custom_vacancy_stopwords = get_vacancies_stopwords()
+    nltk_words = set(stopwords.words("english"))
+    combined_stopwords = nltk_words.union(custom_vacancy_stopwords)
     keywords = model.extract_keywords(
         text,
         keyphrase_ngram_range=(1, 2),
-        stop_words='english',
+        stop_words=list(combined_stopwords),
         use_mmr=True,
         diversity=0.7,
-        top_n=top_n * 2
+        top_n=top_n
     )
 
-    filtered_keywords = [keyword.lower() for keyword, _ in keywords if not is_repeated_word(keyword)][:top_n]
+    filtered_keywords = [keyword.lower() for keyword, score in keywords if
+                         not is_repeated_word(keyword) and score > 0.2][:top_n]
     return filtered_keywords
 
 

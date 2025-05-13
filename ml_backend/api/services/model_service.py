@@ -13,10 +13,11 @@ _tokenizer = None
 _classification_model = None
 _label_encoder = None
 _keybert_model = None
+_vacancies_stopwords = None
 
 
 def load_models() -> None:
-    global _embedding_model, _tokenizer, _classification_model, _label_encoder, _keybert_model
+    global _embedding_model, _tokenizer, _classification_model, _label_encoder, _keybert_model, _vacancies_stopwords
     logger.info("Loading all ML models...")
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -38,6 +39,11 @@ def load_models() -> None:
     _keybert_model = KeyBERT(model=_embedding_model)
     logger.info("KeyBERT model initialized with existing SentenceTransformer")
 
+    with open('ml_backend/vacancies_stopwords.txt') as f:
+        _vacancies_stopwords = set(f.read().splitlines())
+
+    logger.info("Vacancies stopwords loaded")
+
     logger.info("All models loaded successfully")
 
 
@@ -55,8 +61,15 @@ def get_classification_models() -> tuple[AutoTokenizer, AutoModelForSequenceClas
     return _tokenizer, _classification_model, _label_encoder
 
 
-def get_keybert_model() -> SentenceTransformer:
+def get_keybert_model() -> KeyBERT:
     global _keybert_model
     if _keybert_model is None:
         raise RuntimeError("Keybert model not loaded. Call load_models() first.")
     return _keybert_model
+
+
+def get_vacancies_stopwords() -> set[str]:
+    global _vacancies_stopwords
+    if _vacancies_stopwords is None:
+        raise RuntimeError("Vacancies stopwords not loaded. Call load_models() first.")
+    return _vacancies_stopwords
