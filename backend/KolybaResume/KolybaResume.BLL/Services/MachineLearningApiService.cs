@@ -5,9 +5,17 @@ using Microsoft.Extensions.Configuration;
 
 namespace KolybaResume.BLL.Services;
 
-public class MachineLearningApiService(IConfiguration configuration, HttpClient httpClient) : IMachineLearningApiService
+public class MachineLearningApiService : IMachineLearningApiService
 {
-    private readonly string _apiUrl = configuration["MachineLearningBackendApi"]!;
+    private readonly HttpClient _httpClient;
+    private readonly string _apiUrl;
+
+    public MachineLearningApiService(IConfiguration configuration, HttpClient httpClient)
+    {
+        httpClient.Timeout = TimeSpan.FromMinutes(15);
+        _httpClient = httpClient;
+        _apiUrl = configuration["MachineLearningBackendApi"]!;
+    }
 
     public async Task<bool> NotifyResumeCreated(long resumeId)
     {
@@ -15,34 +23,33 @@ public class MachineLearningApiService(IConfiguration configuration, HttpClient 
         {
             resume_id = resumeId
         };
-        var response = await httpClient.PutAsJsonAsync($"{_apiUrl}/resume", request);
-        
+        var response = await _httpClient.PutAsJsonAsync($"{_apiUrl}/resume", request);
+
         return response.IsSuccessStatusCode;
     }
 
     public async Task<VacancyScoreResponse[]> NotifyVacanciesUpdated(long[] vacancies)
     {
-        httpClient.Timeout = TimeSpan.FromMinutes(15);
         var request = new
         {
             vacancy_ids = vacancies
         };
-        var response = await httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies", request);
-        
+        var response = await _httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies", request);
+
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }
 
     public async Task<VacancyScoreResponse[]> GetVacancyScores(long resumeId)
     {
-        var response = await httpClient.GetAsync($"{_apiUrl}/vacancies/score/{resumeId}");
-        
+        var response = await _httpClient.GetAsync($"{_apiUrl}/vacancies/score/{resumeId}");
+
         return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
     }
 
     public async Task<ResumeAdaptationResponse> GetResumeAdaptation(ResumeAdaptationRequest resumeAdaptationRequest)
     {
-        var response = await httpClient.PostAsJsonAsync($"{_apiUrl}/adaptation", resumeAdaptationRequest);
-        
+        var response = await _httpClient.PostAsJsonAsync($"{_apiUrl}/adaptation", resumeAdaptationRequest);
+
         return await response.Content.ReadFromJsonAsync<ResumeAdaptationResponse>();
     }
 }

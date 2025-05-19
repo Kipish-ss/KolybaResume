@@ -42,6 +42,13 @@ export class VacanciesEffects {
         tap(() => this.spinnerService.hide())
     ));
 
+    public readonly loadRecommendationsById$ = createEffect(() => this.actions$.pipe(
+        ofType(vacanciesActions.loadRecommendationsById),
+        tap(() => this.spinnerService.show()),
+        switchMap(({ vacancyId }) => this.vacanciesApiService.getRecommendationsById(vacancyId)),
+        tap(() => this.spinnerService.hide())
+    ));
+
     public readonly loadRecommendationsSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadRecommendationsSuccess),
         tap(() => this.matDialog.open(ResumeAdaptationComponent))

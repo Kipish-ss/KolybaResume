@@ -29,4 +29,8 @@ export class VacanciesStoreService {
     public loadRecommendations(jobDescription: string): void {
         this.store.dispatch(vacanciesActions.loadRecommendations({ jobDescription }));
     }
+
+    public loadRecommendationsById(vacancyId: number): void {
+        this.store.dispatch(vacanciesActions.loadRecommendationsById({ vacancyId }));
+    }
 }

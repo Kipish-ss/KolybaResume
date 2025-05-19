@@ -30,8 +30,15 @@ export class VacanciesApiService {
         );
     }
 
-    public getRecommendations(jobDescription: string): Observable<Action> {
-        return this.httpService.postRequest<ResumeRecommendations>(`${this.routePrefix}/recommendations`, { jobDescription }).pipe(
+    public getRecommendations(description: string): Observable<Action> {
+        return this.httpService.postRequest<ResumeRecommendations>(`${this.routePrefix}/recommendations`, { description }).pipe(
+            map((recommendations) => vacanciesActions.loadRecommendationsSuccess({ recommendations })),
+            catchError(() => of(vacanciesActions.loadRecommendationsFailure({ error: new Error() }))),
+        );
+    }
+
+    public getRecommendationsById(vacancyId: number): Observable<Action> {
+        return this.httpService.postRequest<ResumeRecommendations>(`${this.routePrefix}/recommendations/${vacancyId}`, null).pipe(
             map((recommendations) => vacanciesActions.loadRecommendationsSuccess({ recommendations })),
             catchError(() => of(vacanciesActions.loadRecommendationsFailure({ error: new Error() }))),
         );

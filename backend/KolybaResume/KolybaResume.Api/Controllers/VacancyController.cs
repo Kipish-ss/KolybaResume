@@ -20,9 +20,16 @@ public class VacancyController(IVacancyService vacancyService) : ControllerBase
     }
 
     [HttpPost("recommendations")]
-    public async Task<ActionResult<ResumeAdaptationResponse>> GetRecommendations([FromBody] string vacancy)
+    public async Task<ActionResult<ResumeAdaptationResponse>> GetRecommendations([FromBody] AdaptationRequestDto vacancy)
     {
-        var recommendations = await vacancyService.AdaptResume(vacancy);
+        var recommendations = await vacancyService.AdaptResume(vacancy.Description);
+        return Ok(recommendations);
+    }
+    
+    [HttpPost("recommendations/{vacancyId}")]
+    public async Task<ActionResult<ResumeAdaptationResponse>> GetRecommendations(long vacancyId)
+    {
+        var recommendations = await vacancyService.AdaptResume(vacancyId);
         return Ok(recommendations);
     }
 
