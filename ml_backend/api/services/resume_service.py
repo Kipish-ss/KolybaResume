@@ -31,8 +31,7 @@ def classify_resume(resume_text: str) -> int:
     return predicted_class_idx
 
 
-def store_resume_vector(db: Session, resume_id: int) -> None:
-    resume = db.get(Resume, resume_id)
+def store_resume_vector(db: Session, resume: Resume) -> None:
     resume_text = resume.Text
     resume_text = translate(resume_text)
     resume_text = clean_text(resume_text)
@@ -46,4 +45,4 @@ def store_resume_vector(db: Session, resume_id: int) -> None:
     resume.Category = category
 
     db.commit()
-    logger.info(f"Successfully processed resume {resume_id}")
+    logger.info(f"Successfully processed resume {resume}")
