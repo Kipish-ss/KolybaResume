@@ -1,37 +1,49 @@
-<button class="sign-out-btn" (click)="onSignOut()">Sign Out</button>
+<div class="header">
+    <button class="go-back-btn" (click)="goBack()">Go Back</button>
+    <button class="sign-out-btn" (click)="onSignOut()">Sign Out</button>
+</div>
 
-<mat-toolbar class="filters">
-    <mat-form-field appearance="fill">
-        <mat-label>Search Title</mat-label>
-        <input matInput [formControl]="filterControl" placeholder="Filter by title">
-    </mat-form-field>
+<div class="filters-wrapper">
+    <mat-toolbar class="filters">
+        <mat-form-field appearance="fill">
+            <mat-label>Search Title</mat-label>
+            <input matInput [formControl]="filterControl" placeholder="Filter by title">
+        </mat-form-field>
 
-    <mat-form-field appearance="fill">
-        <mat-label>Type</mat-label>
-        <mat-select [formControl]="remoteTypeControl">
-            <mat-option value="">All</mat-option>
-            <mat-option value="remote">Remote</mat-option>
-            <mat-option value="office">Office</mat-option>
-            <mat-option value="hybrid">Hybrid</mat-option>
-        </mat-select>
-    </mat-form-field>
-
-    <mat-form-field appearance="fill">
-        <mat-label>Sort By</mat-label>
-        <mat-select [formControl]="sortControl">
-            <mat-option value="relevanceScore">Relevance</mat-option>
-            <mat-option value="salary">Salary</mat-option>
-        </mat-select>
-    </mat-form-field>
-</mat-toolbar>
+        <mat-form-field appearance="fill">
+            <mat-label>Location</mat-label>
+            <mat-select [formControl]="locationControl">
+                <mat-option *ngFor="let location of locations$ | async" [value]="location">
+                    {{ location }}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+    </mat-toolbar>
+</div>
 
 <div class="results-container">
     <mat-card *ngFor="let result of filteredResults$ | async" class="result-card">
-        <mat-card-title><a [href]="result.url" [target]="'blank'">{{ result.title }}</a></mat-card-title>
-        <mat-card-content>
-            <p>Salary: {{ result.salary }}</p>
-            <p>Location: {{ result.location }}</p>
-            <p>Relevance: {{ result.score }}</p>
+        <mat-card-title class="card-title">
+            <a [href]="result.url" target="_blank" [innerHTML]="result.title | safeHtml">
+            </a>
+        </mat-card-title>
+
+        <mat-card-content class="card-content">
+            <div class="info">
+                <p>
+                    Salary:
+                    <span [innerHTML]="(result.salary && result.salary.trim()) ? (result.salary | safeHtml) : '---'">
+                    </span>
+                </p>
+                <p>Location: {{ result.location }}</p>
+                <p>Relevance: {{ result.score }}</p>
+            </div>
         </mat-card-content>
+
+        <mat-card-actions class="card-actions">
+            <button mat-flat-button (click)="adaptResume(result.id)">
+                Adapt Resume
+            </button>
+        </mat-card-actions>
     </mat-card>
 </div>

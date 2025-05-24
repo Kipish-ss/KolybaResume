@@ -1,6 +1,6 @@
 import * as authActions from '../actions/auth.actions';
 
-import { BehaviorSubject, Observable, catchError, from, map, of, tap } from 'rxjs';
+import { BehaviorSubject, Observable, catchError, from, map, of, take, tap } from 'rxjs';
 
 import { Action } from '@ngrx/store';
 import { HttpInternalService } from '@core/services/http-internal.service';
@@ -20,6 +20,7 @@ export class UserApiService {
 
     public getCurrentUser(): Observable<Action> {
         return this.httpService.getRequest<User>(this.routePrefix).pipe(
+            take(1),
             map((user) => authActions.loadCurrentUserSuccess({ user })),
             catchError(() => of(authActions.loadCurrentFailure({ error: new Error() }))),
         );
@@ -27,6 +28,7 @@ export class UserApiService {
 
     public createUser(newUser: NewUser): Observable<Action> {
         return this.httpService.postRequest<User>(this.routePrefix, newUser).pipe(
+            take(1),
             map((user) => authActions.createUserSuccess({ user })),
             catchError(() => of(authActions.createUserFailure({ error: new Error() }))),
         );
@@ -37,6 +39,7 @@ export class UserApiService {
         form.append('file', file, file.name);
 
         return this.httpService.postRequest<void>(`${this.routePrefix}/resume`, form).pipe(
+            take(1),
             map(() => authActions.uploadResumeSuccess()),
             catchError(() => of(authActions.uploadResumeFailure({ error: new Error() }))),
         );
@@ -46,6 +49,7 @@ export class UserApiService {
         const emailEncoded = encodeURIComponent(email);
 
         return this.httpService.getRequest<boolean>(`${this.routePrefix}/check-email?email=${emailEncoded}`).pipe(
+            take(1),
             tap({
                 error: () =>
                     this.notificationService.showErrorMessage('Something went wrong. Failed to verify Email exists.'),

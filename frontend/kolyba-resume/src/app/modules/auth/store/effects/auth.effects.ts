@@ -40,9 +40,12 @@ export class AuthEffects {
 
                         return authActions.loadCurrentUser();
                     }),
+                    catchError(() => {
+                        this.spinnerService.hide()
+                        return of(authActions.loadCurrentFailure({ error: new Error('invalid-password') }))
+                    })
                 ),
             ),
-            tap(() => this.spinnerService.hide())
         )
     );
 
@@ -145,7 +148,8 @@ export class AuthEffects {
     public readonly uplaodResumeSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(authActions.uploadResumeSuccess),
         switchMap(() => this.authStoreService.user$),
-        tap((user) => localStorage.setItem(userLocalStorage, JSON.stringify({ ...user, hasResume: true })))
+        tap((user) => localStorage.setItem(userLocalStorage, JSON.stringify({ ...user, hasResume: true }))),
+        tap(() => this.notificationService.showSuccessMessage('Resume uploaded successfully'))
     ),
         { dispatch: false }
     )

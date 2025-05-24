@@ -1,7 +1,7 @@
 <ng-container *ngIf="recommendation$ | async as rec">
     <mat-card class="adapt-card">
       <mat-card-header>
-        <mat-card-title>Score: {{ rec.score }} / 100</mat-card-title>
+        <mat-card-title>Keywords Score: {{ rec.score }} / 100</mat-card-title>
       </mat-card-header>
       <mat-card-content>
         <h3>Here are some of keywords which will improve your resume if relevant:</h3>

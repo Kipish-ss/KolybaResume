@@ -20,7 +20,8 @@ public class VacancyService(
     {
         if (vacancyUrl.Contains("jobs.dou.ua"))
         {
-            var vacancy = (await _context.Vacancies.ToListAsync()).FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
+            var vacancies = (await _context.Vacancies.ToListAsync());
+                var vacancy = vacancies.FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
 
             if (vacancy != null)
             {
@@ -59,14 +60,26 @@ public class VacancyService(
         return dtos.OrderByDescending(d => d.Score).ToArray();
     }
 
-    public async Task<ResumeAdaptationResponse> AdaptResume(string vacancyText)
+    public async Task<AdaptationResponseDto> AdaptResume(string vacancyText)
     {
         var resumeId = await userService.GetResumeId();
 
-        return await apiService.GetResumeAdaptation(new ResumeAdaptationRequest
+        return _mapper.Map<AdaptationResponseDto>(await apiService.GetResumeAdaptation(new ResumeAdaptationRequest
         {
-            ResumesId = resumeId,
+            ResumeId = resumeId,
             VacancyText = vacancyText
-        });
+        }));
+    }
+    
+    public async Task<AdaptationResponseDto> AdaptResume(long vacancyId)
+    {
+        var vacancyText = (await _context.Vacancies.FirstOrDefaultAsync(v => v.Id == vacancyId))?.Text;
+        
+        if (vacancyText == null)
+        {
+            throw new ArgumentException("Vacancy not found");
+        }
+        
+        return await AdaptResume(vacancyText);
     }
 }

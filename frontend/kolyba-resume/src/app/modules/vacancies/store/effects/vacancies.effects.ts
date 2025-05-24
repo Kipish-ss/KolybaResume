@@ -42,6 +42,13 @@ export class VacanciesEffects {
         tap(() => this.spinnerService.hide())
     ));
 
+    public readonly loadRecommendationsById$ = createEffect(() => this.actions$.pipe(
+        ofType(vacanciesActions.loadRecommendationsById),
+        tap(() => this.spinnerService.show()),
+        switchMap(({ vacancyId }) => this.vacanciesApiService.getRecommendationsById(vacancyId)),
+        tap(() => this.spinnerService.hide())
+    ));
+
     public readonly loadRecommendationsSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadRecommendationsSuccess),
         tap(() => this.matDialog.open(ResumeAdaptationComponent))
@@ -58,7 +65,9 @@ export class VacanciesEffects {
 
     public readonly loadVacancies$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadVacancies),
-        switchMap(() => this.vacanciesApiService.get())
+        tap(() => this.spinnerService.show()),
+        switchMap(() => this.vacanciesApiService.get()),
+        tap(() => this.spinnerService.hide())
     ));
 
 

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using KolybaResume.BLL.Models;
 using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.DTO.Vacancy;
 using KolybaResume.Common.Enums;
@@ -19,5 +20,7 @@ public class VacancyProfile : Profile
             .ForMember(v => v.CategoryText, opt => opt.MapFrom(m => m.Category))
             .ForMember(v => v.Category, opt => opt.MapFrom(m => VacancyCategoryMapper.FromString(m.Category)))
             .ForMember(v => v.Url, opt => opt.MapFrom(m => m.Link));
+
+        CreateMap<ResumeAdaptationResponse, AdaptationResponseDto>();
     }
 }

@@ -4,6 +4,7 @@ import { MaterialModule } from '../material-module/material.module';
 import { NgModule } from '@angular/core';
 import { ResumeAdaptationComponent } from './components/resume-adaptation/resume-adaptation.component';
 import { ResumeRoutingModule } from './resume-routing.module';
+import { SafeHtmlPipe } from '@core/pipes/safe-html.pipe';
 import { SearchResultsComponent } from './components/search-results/search-results.component';
 import { UploadResumeComponent } from './components/upload-resume/upload-resume.component';
 import { VacanciesEffects } from './store/effects/vacancies.effects';
@@ -28,6 +29,7 @@ import { vacanciesReducer } from './store/reducers/vacancies.reducer';
         CommonModule,
         ResumeRoutingModule,
         MaterialModule,
+        SafeHtmlPipe
     ]
 })
 export class ResumeModule { }

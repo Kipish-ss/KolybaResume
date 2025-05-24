@@ -7,5 +7,6 @@ public interface IVacancyService
 {
     Task<VacancyTextDto> ParseVacancy(string vacancyUrl);
     Task<VacancyDto[]> Get();
-    Task<ResumeAdaptationResponse> AdaptResume(string vacancyText);
+    Task<AdaptationResponseDto> AdaptResume(string vacancyText);
+    Task<AdaptationResponseDto> AdaptResume(long vacancyId);
 }

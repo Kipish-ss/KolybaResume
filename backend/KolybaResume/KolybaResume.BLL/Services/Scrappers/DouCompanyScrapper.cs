@@ -27,7 +27,7 @@ public static class DouCompanyScrapper
                 
                 var count = driver.FindElements(By.CssSelector("a.cn-a")).Count;
 
-                if (count > 2500)
+                if (count > 1500)
                 {
                     break;
                 }

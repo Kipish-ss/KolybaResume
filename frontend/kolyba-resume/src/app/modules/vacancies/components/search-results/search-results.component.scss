@@ -1,23 +1,90 @@
 :host {
-    display: block;
-    padding: 16px;
-  
-    .filters {
-      flex-wrap: wrap;
-      gap: 16px;
+  display: block;
+  padding: 16px;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+
+    .go-back-btn,
+    .sign-out-btn {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
     }
-  
-    .results-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 16px;
-      margin-top: 16px;
+  }
+
+  .filters-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+
+  mat-toolbar.filters {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: auto;
+    padding: 0;
+  }
+
+  mat-toolbar.filters mat-form-field {
+    flex: 1 1 150px;
+    min-width: 150px;
+    max-width: 280px;
+    width: auto !important;
+  }
+
+  mat-toolbar.filters ::ng-deep .mat-form-field-infix {
+    width: auto !important;
+  }
+
+  .results-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+
+  .result-card {
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.2s;
+
+    &:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
-  
-    .result-card {
-      transition: box-shadow 0.2s;
-      &:hover {
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    .card-title {
+      text-align: center;
+    }
+
+    .card-content {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+
+      .info {
+        text-align: center;
+
+        p {
+          margin: 4px 0;
+        }
+      }
+    }
+
+    .card-actions {
+      margin-top: auto;
+      display: flex;
+      justify-content: center;
+      padding: 16px;
+
+      button {
+        width: 100%;
+        max-width: 200px;
       }
     }
   }
+}

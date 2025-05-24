@@ -18,7 +18,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
     public async Task Aggregate()
     {
         var isFirstRun = !_context.Vacancies.Any();
-        var companyLinks = await _context.Companies.Select(c => c.Url).Take(2000).ToListAsync();
+        var companyLinks = await _context.Companies.Select(c => c.Url).Take(1500).ToListAsync();
         var addedVacancies = new List<Vacancy>();
         var allVacanciesIds = new List<int>();
 
@@ -37,7 +37,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
             var vacanciesToDelete = (await _context.Vacancies.ToListAsync())
                 .Where(v => v.Source == VacancySource.Dou &&
                             !allVacanciesIds.Contains(DouVacancyIdExtractor.GetId(v.Url)));
-
+            
             _context.Vacancies.RemoveRange(vacanciesToDelete);
             await _context.SaveChangesAsync();
 
@@ -53,14 +53,17 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
                 var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == userScore.Key);
 
                 var relevantVacancies = userScore
-                    .Where(us => us.Score > 50)
-                    .Select(us => addedVacancies.First(v => v.Id == us.VacancyId));
+                    .Where(us => us.Score > 60)
+                    .Select(us => addedVacancies.First(v => v.Id == us.VacancyId)).ToArray();
 
-                await emailService.SendAsync(
-                    user.Email,
-                    user.Name,
-                    "New relevant vacancies",
-                    string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
+                if (relevantVacancies.Any())
+                {
+                    await emailService.SendAsync(
+                        user.Email,
+                        user.Name,
+                        "New relevant vacancies",
+                        string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
+                }
             }
         }
     }
