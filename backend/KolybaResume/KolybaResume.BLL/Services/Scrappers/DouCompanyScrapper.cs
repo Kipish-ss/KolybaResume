@@ -9,14 +9,8 @@ public static class DouCompanyScrapper
 {
     public static string[] Scrape()
     {
-        var profileDir = Path.Combine(Path.GetTempPath(), Guid.NewGuid().ToString());
-        Directory.CreateDirectory(profileDir);
-
         var options = new ChromeOptions();
         options.AddArgument("--headless");
-        options.AddArgument("--no-sandbox");
-        options.AddArgument("--disable-dev-shm-usage");
-        options.AddArgument($"--user-data-dir={profileDir}");
         using var driver = new ChromeDriver(options);
 
         driver.Navigate().GoToUrl("https://jobs.dou.ua/companies/");
