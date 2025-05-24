@@ -7,7 +7,7 @@ class UserBase(BaseModel):
     email: str
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class User(UserBase):
@@ -21,7 +21,7 @@ class ResumeBase(BaseModel):
     category: int | None
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class ResumeCreate(ResumeBase):
@@ -45,7 +45,7 @@ class VacancyBase(BaseModel):
     category: int | None
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class VacancyCreate(VacancyBase):
@@ -65,7 +65,7 @@ class Company(BaseModel):
     id: int | None
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 class ResumeRequest(BaseModel):

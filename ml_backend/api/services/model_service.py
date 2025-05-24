@@ -18,7 +18,6 @@ _vacancies_stopwords = None
 
 def load_models() -> None:
     global _embedding_model, _tokenizer, _classification_model, _label_encoder, _keybert_model, _vacancies_stopwords
-    logger.info("Loading all ML models...")
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     logger.info(f"Using device: {device}")
@@ -43,8 +42,6 @@ def load_models() -> None:
         _vacancies_stopwords = set(f.read().splitlines())
 
     logger.info("Vacancies stopwords loaded")
-
-    logger.info("All models loaded successfully")
 
 
 def get_embedding_model() -> SentenceTransformer:

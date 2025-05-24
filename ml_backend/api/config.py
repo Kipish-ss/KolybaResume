@@ -6,14 +6,7 @@ load_dotenv()
 
 
 class Settings(BaseSettings):
-    DATABASE_URL: str = os.getenv(
-        "DATABASE_URL",
-        "postgresql://postgres:postgres@localhost:5432/kolybaresumedb"
-    )
-
-    API_PREFIX: str = "/api"
-
-    MODEL_PATH: str = os.getenv("MODEL_PATH", "ml_backend/resume_classifier/fine_tuned_bert")
+    DATABASE_URL: str = os.getenv("DATABASE_URL")
 
     class Config:
         env_file = ".env"
