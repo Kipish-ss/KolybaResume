@@ -29,7 +29,8 @@ builder.Services.AddRouting(options => options.LowercaseUrls = true);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.WebHost.UseUrls("http://*:5050");
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5050";  
+builder.WebHost.UseUrls($"http://*:{port}");
 
 var app = builder.Build();
 

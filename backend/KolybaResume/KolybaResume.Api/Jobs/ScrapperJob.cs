@@ -9,9 +9,8 @@ public class ScrapperJob(IServiceProvider services) : IHostedService
     {
         using var scope = services.CreateScope();
         var companyService = scope.ServiceProvider.GetRequiredService<ICompanyService>();
-        var configuration = scope.ServiceProvider.GetRequiredService<IConfiguration>();
 
-        if (!configuration.GetValue<bool>("ScrapeEnabled"))
+        if (await companyService.HasCompanies())
         {
             return;
         }
