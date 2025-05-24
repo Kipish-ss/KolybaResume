@@ -21,15 +21,11 @@ def load_models() -> None:
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     logger.info(f"Using device: {device}")
 
-    _embedding_model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
+    _embedding_model = SentenceTransformer('all-mpnet-base-v2', device=device)
     logger.info("Sentence transformer model loaded")
 
-    torch.backends.quantized.engine = 'qnnpack'
     _tokenizer = AutoTokenizer.from_pretrained("Kipish/resume_classifier")
     _classification_model = AutoModelForSequenceClassification.from_pretrained("Kipish/resume_classifier")
-    _classification_model = torch.quantization.quantize_dynamic(
-        _classification_model, {torch.nn.Linear}, dtype=torch.qint8
-    )
     _classification_model.eval()
 
     if device == 'cuda':
@@ -53,9 +49,9 @@ def get_embedding_model() -> SentenceTransformer:
 
 
 def get_classification_models() -> tuple[BertTokenizer, BertForSequenceClassification, LabelEncoder]:
-    global _tokenizer, _classification_model
+    global _tokenizer, _classification_model, _label_encoder
     if _tokenizer is None or _classification_model is None:
-        raise RuntimeError("Classification models not loaded. Call load_models() first.")
+        raise RuntimeError("Classification model not loaded. Call load_models() first.")
     return _tokenizer, _classification_model, _label_encoder
 
 
