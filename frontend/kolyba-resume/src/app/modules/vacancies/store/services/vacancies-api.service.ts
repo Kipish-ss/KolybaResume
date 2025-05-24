@@ -1,6 +1,6 @@
 import * as vacanciesActions from '../actions/vacancies.actions';
 
-import { Observable, catchError, map, of } from 'rxjs';
+import { Observable, catchError, map, of, take } from 'rxjs';
 
 import { Action } from '@ngrx/store';
 import { HttpInternalService } from '@core/services/http-internal.service';
@@ -18,6 +18,7 @@ export class VacanciesApiService {
 
     public get(): Observable<Action> {
         return this.httpService.getRequest<Vacancy[]>(this.routePrefix).pipe(
+            take(1),
             map((vacancies) => vacanciesActions.loadVacanciesSuccess({ vacancies })),
             catchError(() => of(vacanciesActions.loadVacanciesFailure({ error: new Error() }))),
         );
@@ -25,6 +26,7 @@ export class VacanciesApiService {
 
     public getDescription(link: string): Observable<Action> {
         return this.httpService.postRequest<{ text: string}>(`${this.routePrefix}/description`, { link }).pipe(
+            take(1),
             map((description) => vacanciesActions.loadJobDescriptionSuccess({ description: description.text })),
             catchError((error) => of(vacanciesActions.loadJobDescriptionFailure({ error: new Error() }))),
         );
@@ -32,6 +34,7 @@ export class VacanciesApiService {
 
     public getRecommendations(description: string): Observable<Action> {
         return this.httpService.postRequest<ResumeRecommendations>(`${this.routePrefix}/recommendations`, { description }).pipe(
+            take(1),
             map((recommendations) => vacanciesActions.loadRecommendationsSuccess({ recommendations })),
             catchError(() => of(vacanciesActions.loadRecommendationsFailure({ error: new Error() }))),
         );
@@ -39,6 +42,7 @@ export class VacanciesApiService {
 
     public getRecommendationsById(vacancyId: number): Observable<Action> {
         return this.httpService.postRequest<ResumeRecommendations>(`${this.routePrefix}/recommendations/${vacancyId}`, null).pipe(
+            take(1),
             map((recommendations) => vacanciesActions.loadRecommendationsSuccess({ recommendations })),
             catchError(() => of(vacanciesActions.loadRecommendationsFailure({ error: new Error() }))),
         );

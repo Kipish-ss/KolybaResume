@@ -65,7 +65,9 @@ export class VacanciesEffects {
 
     public readonly loadVacancies$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadVacancies),
-        switchMap(() => this.vacanciesApiService.get())
+        tap(() => this.spinnerService.show()),
+        switchMap(() => this.vacanciesApiService.get()),
+        tap(() => this.spinnerService.hide())
     ));
 
 

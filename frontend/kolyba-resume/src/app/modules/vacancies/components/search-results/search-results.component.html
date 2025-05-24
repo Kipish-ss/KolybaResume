@@ -24,19 +24,26 @@
 <div class="results-container">
     <mat-card *ngFor="let result of filteredResults$ | async" class="result-card">
         <mat-card-title class="card-title">
-            <a [href]="result.url" target="_blank">{{ result.title }}</a>
+            <a [href]="result.url" target="_blank" [innerHTML]="result.title | safeHtml">
+            </a>
         </mat-card-title>
 
         <mat-card-content class="card-content">
             <div class="info">
-                <p>Salary: {{ result.salary == '' ? '---' : result.salary }}</p>
+                <p>
+                    Salary:
+                    <span [innerHTML]="(result.salary && result.salary.trim()) ? (result.salary | safeHtml) : '---'">
+                    </span>
+                </p>
                 <p>Location: {{ result.location }}</p>
                 <p>Relevance: {{ result.score }}</p>
             </div>
         </mat-card-content>
 
         <mat-card-actions class="card-actions">
-            <button mat-flat-button (click)="adaptResume(result.id)">Adapt Resume</button>
+            <button mat-flat-button (click)="adaptResume(result.id)">
+                Adapt Resume
+            </button>
         </mat-card-actions>
     </mat-card>
 </div>
