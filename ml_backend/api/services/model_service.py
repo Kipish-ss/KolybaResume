@@ -1,5 +1,5 @@
 from keybert import KeyBERT
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import BertTokenizer, BertForSequenceClassification, AutoTokenizer, AutoModelForSequenceClassification
 from sentence_transformers import SentenceTransformer
 from sklearn.preprocessing import LabelEncoder
 import torch
@@ -51,7 +51,7 @@ def get_embedding_model() -> SentenceTransformer:
     return _embedding_model
 
 
-def get_classification_models() -> tuple[AutoTokenizer, AutoModelForSequenceClassification, LabelEncoder]:
+def get_classification_models() -> tuple[BertTokenizer, BertForSequenceClassification, LabelEncoder]:
     global _tokenizer, _classification_model, _label_encoder
     if _tokenizer is None or _classification_model is None or _label_encoder is None:
         raise RuntimeError("Classification models not loaded. Call load_models() first.")

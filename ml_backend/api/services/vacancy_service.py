@@ -13,9 +13,6 @@ logger = logging.getLogger(__name__)
 
 
 def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int = 32) -> list[VacancyScoreResponse]:
-    if not vacancy_ids:
-        return []
-
     stmt = select(Vacancy).where(Vacancy.Id.in_(vacancy_ids))
     all_vacancies = db.execute(stmt).scalars().all()
     if not all_vacancies:
@@ -95,10 +92,8 @@ def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int =
     return results
 
 
-def get_matches_for_resume(db: Session, resume_id: int) -> list[ResumeVacancyMatch]:
-    resume = db.get(Resume, resume_id)
-
-    if not resume or not resume.Vector or resume.Category is None:
+def get_matches_for_resume(db: Session, resume: Resume) -> list[ResumeVacancyMatch]:
+    if not resume.Vector or not resume.Category:
         return []
 
     stmt = select(Vacancy).where(
@@ -130,7 +125,6 @@ def get_matches_for_resume(db: Session, resume_id: int) -> list[ResumeVacancyMat
                 score=score
             )
         )
-
     results.sort(key=lambda x: x.score, reverse=True)
 
     return results[:200]

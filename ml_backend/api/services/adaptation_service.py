@@ -1,5 +1,4 @@
 from ml_backend.api.services.model_service import get_embedding_model, get_keybert_model, get_vacancies_stopwords
-from sqlalchemy.orm import Session
 from ml_backend.api.db.models import Resume
 from ml_backend.api.models.schemas import AdaptationResponse
 from ml_backend.api.services.cleaning_service import clean_text, translate
@@ -30,10 +29,7 @@ def extract_keywords(text: str, top_n) -> list[str]:
     return filtered_keywords
 
 
-def get_keywords_score(db: Session, resume_id: int, vacancy_text: str, top_n=20) -> AdaptationResponse:
-    resume = db.get(Resume, resume_id)
-    if not resume:
-        return []
+def get_keywords_score(resume: Resume, vacancy_text: str, top_n=20) -> AdaptationResponse:
     resume_keywords = set(extract_keywords(resume.CleanedText, top_n=top_n))
     vacancy_text = translate(vacancy_text)
     vacancy_cleaned_text = clean_text(vacancy_text)
