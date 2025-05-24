@@ -6,7 +6,7 @@ import { environment } from 'src/environment/environment';
 
 @Injectable({ providedIn: 'root' })
 export class HttpInternalService {
-    private baseUrl: string = environment.coreUrl;
+    private baseUrl: string = environment.backendUrl;
 
     private headers = new HttpHeaders();
 

@@ -1,6 +1,6 @@
-export const environment = {
-    production: false,
-    backendUrl: 'http://localhost:5050',
+﻿export const environment = {
+    production: true,
+    backendUrl: 'https://kolybaresumebackend.onrender.com',
     firebase: {
         apiKey: "AIzaSyC6V8j9e3W8DI8u4Qnxf9AMF7VvwXX7zpo",
         authDomain: "kolybaresume-ce1b3.firebaseapp.com",
