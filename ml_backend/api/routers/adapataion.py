@@ -21,6 +21,6 @@ async def get_recommendations(request: AdaptationRequest, db: Session = Depends(
             detail=f"Vacancy text cannot be empty"
         )
 
-    result = get_keywords_score(resume, request.vacancy_text)
+    result = get_keywords_score(resume, request.vacancy_text, request.clean)
 
     return result

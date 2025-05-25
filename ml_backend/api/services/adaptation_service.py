@@ -29,11 +29,13 @@ def extract_keywords(text: str, top_n) -> list[str]:
     return filtered_keywords
 
 
-def get_keywords_score(resume: Resume, vacancy_text: str, top_n=20) -> AdaptationResponse:
+def get_keywords_score(resume: Resume, vacancy_text: str, clean: bool, top_n=20) -> AdaptationResponse:
     resume_keywords = set(extract_keywords(resume.CleanedText, top_n=top_n))
-    vacancy_text = translate(vacancy_text)
-    vacancy_cleaned_text = clean_text(vacancy_text)
-    vacancy_keywords = set(extract_keywords(vacancy_cleaned_text, top_n=top_n))
+    if clean:
+        vacancy_text = translate(vacancy_text)
+        vacancy_text = clean_text(vacancy_text)
+    
+    vacancy_keywords = set(extract_keywords(vacancy_text, top_n=top_n))
     missing_keywords = list(vacancy_keywords - resume_keywords)
     score = keyword_similarity(resume_keywords, vacancy_keywords)
 

@@ -90,6 +90,7 @@ class ResumeVacancyMatch(BaseModel):
 class AdaptationRequest(BaseModel):
     resume_id: int
     vacancy_text: str
+    clean: bool = True
 
 
 class AdaptationResponse(BaseModel):
