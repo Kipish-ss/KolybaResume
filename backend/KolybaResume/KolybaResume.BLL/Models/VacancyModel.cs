@@ -1,6 +1,8 @@
-﻿namespace KolybaResume.DTO;
+﻿using KolybaResume.Common.Enums;
 
-public class DouVacancyModel
+namespace KolybaResume.BLL.Models;
+
+public class VacancyModel
 {
     public string Title { get; set; }
     public string Link { get; set; }
@@ -9,4 +11,5 @@ public class DouVacancyModel
     public string? Category { get; set; }
     public DateTime Date { get; set; }
     public string Description { get; set; }
+    public VacancySource Source { get; set; }
 }

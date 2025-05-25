@@ -5,7 +5,7 @@ using Google.Apis.Auth.OAuth2;
 using KolybaResume.BLL.MappingProfiles;
 using KolybaResume.BLL.Services;
 using KolybaResume.BLL.Services.Abstract;
-using KolybaResume.BLL.Services.Scrappers;
+using KolybaResume.BLL.Services.Aggregators;
 using KolybaResume.DAL.Context;
 using KolybaResume.Jobs;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -40,7 +40,8 @@ public static class ServiceCollectionExtensions
         services.AddScoped<IMachineLearningApiService, MachineLearningApiService>();
         services.AddScoped<IVacancyService, VacancyService>();
         services.AddScoped<ICompanyService, CompanyService>();
-        services.AddScoped<IDouVacancyAggregatorService, DouVacancyAggregatorService>();
+        services.AddScoped<IAggregator, DouVacancyAggregatorService>();
+        services.AddScoped<IAggregator, PostJobVacancyAggregatorService>();
         services.AddScoped<IEmailService, EmailService>();
 
         services.AddHostedService<ScrapperJob>();
@@ -76,7 +77,7 @@ public static class ServiceCollectionExtensions
         {
             var jobKey = new JobKey("DouJob");
 
-            q.AddJob<DouVacancyJob>(opts => opts
+            q.AddJob<AggregatorJob>(opts => opts
                 .WithIdentity(jobKey)
                 .StoreDurably());
 

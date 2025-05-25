@@ -8,16 +8,15 @@ using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.Enums;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
-using KolybaResume.DTO;
 using Microsoft.EntityFrameworkCore;
 
-namespace KolybaResume.BLL.Services;
+namespace KolybaResume.BLL.Services.Aggregators;
 
-public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper, IEmailService emailService, IMachineLearningApiService apiService) : BaseService(context, mapper), IDouVacancyAggregatorService
+public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper mapper) : BaseService(context, mapper), IAggregator
 {
-    public async Task Aggregate()
+    public async Task<List<Vacancy>> Aggregate()
     {
-        var isFirstRun = !_context.Vacancies.Any();
+        var isFirstRun = !_context.Vacancies.Any(v => v.Source == VacancySource.Dou);
         var companyLinks = await _context.Companies.Select(c => c.Url).Take(1500).ToListAsync();
         var addedVacancies = new List<Vacancy>();
         var allVacanciesIds = new List<int>();
@@ -40,32 +39,9 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
             
             _context.Vacancies.RemoveRange(vacanciesToDelete);
             await _context.SaveChangesAsync();
-
-            var scores = new List<VacancyScoreResponse>();
-
-            foreach (var batch in addedVacancies.Chunk(96))
-            {
-                scores.AddRange(await apiService.NotifyVacanciesUpdated(batch.Select(v => v.Id).ToArray()));
-            }
-
-            foreach (var userScore in scores.GroupBy(s => s.UserId))
-            {
-                var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == userScore.Key);
-
-                var relevantVacancies = userScore
-                    .Where(us => us.Score > 60)
-                    .Select(us => addedVacancies.First(v => v.Id == us.VacancyId)).ToArray();
-
-                if (relevantVacancies.Any())
-                {
-                    await emailService.SendAsync(
-                        user.Email,
-                        user.Name,
-                        "New relevant vacancies",
-                        string.Join(Environment.NewLine, relevantVacancies.Select(v => $"{v.Title}: {v.Url}")));
-                }
-            }
         }
+        
+        return addedVacancies;
     }
 
     private async Task<Vacancy[]> GetVacancies(string url, bool isFirstRun, List<int> allVacanciesIds)
@@ -93,7 +69,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
         var response = await client.SendAsync(request);
         response.EnsureSuccessStatusCode();
 
-        var vacancies = await response.Content.ReadFromJsonAsync<DouVacancyModel[]>();
+        var vacancies = await response.Content.ReadFromJsonAsync<VacancyModel[]>();
         allVacanciesIds.AddRange(vacancies.Select(v => DouVacancyIdExtractor.GetId(v.Link)));
         return _mapper.Map<Vacancy[]>(vacancies.Where(v => isFirstRun || v.Date > DateTime.Today.AddDays(-1)));
     }

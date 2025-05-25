@@ -60,7 +60,16 @@ public static class VacancyCategoryMapper
         ["Rust"]          = JobCategory.Web,
         ["Salesforce"]    = JobCategory.Web,
         ["ERP/CRM"]       = JobCategory.Web,
-        ["Front End"]     = JobCategory.Web
+        ["Front End"]     = JobCategory.Web,
+        
+        ["\"mobile developer\""]   = JobCategory.Mobile,
+        ["\"customer support\""]   = JobCategory.CustomerSupport,
+        ["\"project manager\""]    = JobCategory.Manager,
+        ["devops"]                 = JobCategory.Devops,
+        ["\"data analyst\""]       = JobCategory.Data,
+        ["qa"]                     = JobCategory.QA,
+        ["\"sales manager\""]      = JobCategory.Manager,
+        ["\"ux designer\""]        = JobCategory.UX,
     };
 
     public static JobCategory FromString(string? category)

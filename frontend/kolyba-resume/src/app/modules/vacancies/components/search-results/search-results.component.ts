@@ -17,7 +17,7 @@ export class SearchResultsComponent {
     public readonly results$ = this.vacanciesStoreService.searchResults$;
 
     public readonly filterControl = new FormControl('');
-    public readonly locationControl = new FormControl('');
+    public readonly locationControl = new FormControl('All');
 
     public filteredResults$?: Observable<Vacancy[]>;
     public locations$?: Observable<string[]>;

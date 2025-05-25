@@ -2,5 +2,6 @@
 
 public enum VacancySource
 {
-    Dou
+    Dou,
+    PostJob
 }

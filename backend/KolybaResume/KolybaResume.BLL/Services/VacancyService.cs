@@ -5,6 +5,7 @@ using KolybaResume.BLL.Services.Base;
 using KolybaResume.BLL.Services.Scrappers;
 using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.DTO.Vacancy;
+using KolybaResume.Common.Enums;
 using KolybaResume.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -20,14 +21,14 @@ public class VacancyService(
     {
         if (vacancyUrl.Contains("jobs.dou.ua"))
         {
-            var vacancies = (await _context.Vacancies.ToListAsync());
-                var vacancy = vacancies.FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
+            var vacancies = await _context.Vacancies.Where(v => v.Source == VacancySource.Dou).ToListAsync();
+            var vacancy = vacancies.FirstOrDefault(v => DouVacancyIdExtractor.Compare(v.Url, vacancyUrl));
 
             if (vacancy != null)
             {
                 return new VacancyTextDto()
                 {
-                    Text = vacancy.Text,
+                    Text = vacancy.CleanedText,
                 };
             }
         }
@@ -46,17 +47,18 @@ public class VacancyService(
     public async Task<VacancyDto[]> Get()
     {
         var resumeId = await userService.GetResumeId();
-        
+
         var scores = await apiService.GetVacancyScores(resumeId);
-        
-        var vacancies = (await _context.Vacancies.ToListAsync()).Where(v => scores.Any(score => score.VacancyId == v.Id));
+
+        var vacancies =
+            (await _context.Vacancies.ToListAsync()).Where(v => scores.Any(score => score.VacancyId == v.Id));
         var dtos = _mapper.Map<VacancyDto[]>(vacancies);
-        
+
         foreach (var dto in dtos)
         {
             dto.Score = scores.First(score => score.VacancyId == dto.Id).Score;
         }
-        
+
         return dtos.OrderByDescending(d => d.Score).ToArray();
     }
 
@@ -70,16 +72,16 @@ public class VacancyService(
             VacancyText = vacancyText
         }));
     }
-    
+
     public async Task<AdaptationResponseDto> AdaptResume(long vacancyId)
     {
-        var vacancyText = (await _context.Vacancies.FirstOrDefaultAsync(v => v.Id == vacancyId))?.Text;
-        
+        var vacancyText = (await _context.Vacancies.FirstOrDefaultAsync(v => v.Id == vacancyId))?.CleanedText;
+
         if (vacancyText == null)
         {
             throw new ArgumentException("Vacancy not found");
         }
-        
+
         return await AdaptResume(vacancyText);
     }
 }
