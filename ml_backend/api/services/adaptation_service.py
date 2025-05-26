@@ -54,7 +54,7 @@ def extract_skills_from_chunk(chunk_text: str, pipe: Pipeline) -> set[str]:
         start = result['start']
         end = result['end']
 
-        if entity.startswith('B-SKILL') and result['score'] > 0.5:
+        if entity.startswith('B-SKILL') and result['score'] > 0.6:
             if current_skill_words:
                 skill = ''.join(current_skill_words).replace('##', '').strip()
                 if skill and len(skill) > 1:

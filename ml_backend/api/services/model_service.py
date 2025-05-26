@@ -39,15 +39,13 @@ def load_models() -> None:
     logger.info("KeyBERT model initialized with existing SentenceTransformer")
 
     _skills_tokenizer = AutoTokenizer.from_pretrained('ihk/skillner')
-    _skills_extraction_pipe = pipeline("token-classification", model='ihk/skillner')
+    _skills_extraction_pipe = pipeline("token-classification", model='ihk/skillner', device=device)
+    logger.info("Skills extraction model loaded")
 
     if device == 'cuda':
         _classification_model.to(device)
         _embedding_model.to(device)
-        _skills_extraction_pipe.model.to(device)
         logger.info("All models moved to GPU")
-
-    logger.info("Skills extraction model loaded")
 
 
 def get_embedding_model() -> SentenceTransformer:
