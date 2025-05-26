@@ -1,3 +1,4 @@
+import * as authActions from "@auth//store/actions/auth.actions";
 import * as vacanciesActions from "../actions/vacancies.actions";
 
 import { createReducer, on } from "@ngrx/store";
@@ -21,5 +22,9 @@ export const vacanciesReducer = createReducer(
     on(vacanciesActions.openVacancyInputPopup, (state) => ({
         ...state,
         jobDescription: null
+    })),
+    on(authActions.uploadResumeSuccess, (state) => ({
+        ...state,
+        searchResults: []
     }))
 );

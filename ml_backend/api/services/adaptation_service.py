@@ -139,8 +139,7 @@ def extract_keywords_chunked(text: str, max_tokens: int = 400, overlap_tokens: i
     total_tokens = len(tokens)
 
     if total_tokens <= max_tokens:
-        keywords = extract_keywords(text)
-        return [kw[0] for kw in keywords]
+        return extract_keywords(text)
 
     all_keywords = set()
     start = 0
@@ -160,8 +159,8 @@ def extract_keywords_chunked(text: str, max_tokens: int = 400, overlap_tokens: i
     return all_keywords
 
 
-def get_keywords_score(resume: Resume, vacancy_text: str, clean: bool, top_n=20) -> AdaptationResponse:
-    resume_keywords = set(extract_keywords(resume.CleanedText, top_n=top_n))
+def get_keywords_score(resume: Resume, vacancy_text: str, clean: bool) -> AdaptationResponse:
+    resume_keywords = extract_keywords_chunked(resume.CleanedText)
     if clean:
         vacancy_text = translate(vacancy_text)
         vacancy_text = clean_text(vacancy_text)
