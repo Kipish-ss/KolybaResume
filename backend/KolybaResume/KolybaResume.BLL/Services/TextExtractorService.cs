@@ -24,10 +24,8 @@ public class TextExtractorService
     
     public static string ReadDocx(Stream docxStream)
     {
-        using (var doc = WordprocessingDocument.Open(docxStream, false))
-        {
-            return doc.MainDocumentPart!.Document.Body!.InnerText;
-        }
+        using var doc = WordprocessingDocument.Open(docxStream, false);
+        return doc.MainDocumentPart!.Document.Body!.InnerText;
     }
 
     public static string ReadDoc(Stream docStream)

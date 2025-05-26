@@ -1,6 +1,4 @@
-﻿using KolybaResume.Common.Enums;
-
-namespace KolybaResume.Common.DTO.Vacancy;
+﻿namespace KolybaResume.Common.DTO.Vacancy;
 
 public class VacancyDto
 {
@@ -8,7 +6,7 @@ public class VacancyDto
     public string Title { get; set; } = string.Empty;
     public string Text { get; set; } = string.Empty;
     public string Url { get; set; } = string.Empty;
-    public string Salary { get; set; }
+    public string Salary { get; set; } = string.Empty;
     public string? Location { get; set; }
     public int Score { get; set; }
 }

@@ -10,8 +10,8 @@ using Newtonsoft.Json.Linq;
 public class EmailService(IConfiguration configuration) : IEmailService
 {
     private readonly MailjetClient _client = new(configuration["MailjetApiKey"], configuration["MailjetSecretKey"]);
-    private readonly string _fromEmail = "kolybaresume@gmail.com";
-    private readonly string _fromName = "Kolyba Resume";
+    private const string FromEmail = "kolybaresume@gmail.com";
+    private const string FromName = "Kolyba Resume";
 
     public async Task SendAsync(string toEmail, string toName, string subject, string text)
     {
@@ -19,8 +19,8 @@ public class EmailService(IConfiguration configuration) : IEmailService
             {
                 Resource = Send.Resource
             }
-            .Property(Send.FromEmail, _fromEmail)
-            .Property(Send.FromName, _fromName)
+            .Property(Send.FromEmail, FromEmail)
+            .Property(Send.FromName, FromName)
             .Property(Send.Subject, subject)
             .Property(Send.TextPart, text)
             .Property(Send.Recipients, new JArray

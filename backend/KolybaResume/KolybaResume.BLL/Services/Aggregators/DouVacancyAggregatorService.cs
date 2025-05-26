@@ -70,7 +70,7 @@ public class DouVacancyAggregatorService(KolybaResumeContext context, IMapper ma
         response.EnsureSuccessStatusCode();
 
         var vacancies = await response.Content.ReadFromJsonAsync<VacancyModel[]>();
-        allVacanciesIds.AddRange(vacancies.Select(v => DouVacancyIdExtractor.GetId(v.Link)));
-        return _mapper.Map<Vacancy[]>(vacancies.Where(v => isFirstRun || v.Date > DateTime.Today.AddDays(-1)));
+        allVacanciesIds.AddRange(vacancies?.Select(v => DouVacancyIdExtractor.GetId(v.Link)) ?? []);
+        return _mapper.Map<Vacancy[]>(vacancies?.Where(v => isFirstRun || v.Date > DateTime.Today.AddDays(-1)));
     }
 }

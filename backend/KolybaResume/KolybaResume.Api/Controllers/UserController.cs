@@ -1,6 +1,6 @@
 ﻿using KolybaResume.BLL.Services;
 using KolybaResume.BLL.Services.Abstract;
-using KolybaResume.Common.DTO;
+using KolybaResume.Common.DTO.User;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -36,7 +36,7 @@ public class UserController(IUserService userService) : ControllerBase
     [Consumes("multipart/form-data")]
     public async Task<IActionResult> ExtractText([FromForm] IFormFile file)
     {
-        if (file == null || file.Length == 0)
+        if (file.Length == 0)
         {
             return BadRequest("No file uploaded.");
         }

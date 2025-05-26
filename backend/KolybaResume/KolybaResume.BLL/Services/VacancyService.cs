@@ -26,7 +26,7 @@ public class VacancyService(
 
             if (vacancy != null)
             {
-                return new VacancyTextDto()
+                return new VacancyTextDto
                 {
                     Text = vacancy.CleanedText,
                 };
@@ -35,9 +35,9 @@ public class VacancyService(
 
         if (vacancyUrl.Contains("www.postjobfree.com/job"))
         {
-            return new VacancyTextDto()
+            return new VacancyTextDto
             {
-                Text = await (new PostJobFreeVacancyScrapper()).Scrape(vacancyUrl)
+                Text = await new PostJobFreeVacancyScrapper().Scrape(vacancyUrl)
             };
         }
 
@@ -62,14 +62,15 @@ public class VacancyService(
         return dtos.OrderByDescending(d => d.Score).ToArray();
     }
 
-    public async Task<AdaptationResponseDto> AdaptResume(string vacancyText)
+    public async Task<AdaptationResponseDto> AdaptResume(string vacancyText, bool shouldClean = true)
     {
         var resumeId = await userService.GetResumeId();
 
         return _mapper.Map<AdaptationResponseDto>(await apiService.GetResumeAdaptation(new ResumeAdaptationRequest
         {
             ResumeId = resumeId,
-            VacancyText = vacancyText
+            VacancyText = vacancyText,
+            Clean = shouldClean
         }));
     }
 
@@ -82,6 +83,6 @@ public class VacancyService(
             throw new ArgumentException("Vacancy not found");
         }
 
-        return await AdaptResume(vacancyText);
+        return await AdaptResume(vacancyText, false);
     }
 }

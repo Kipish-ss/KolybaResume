@@ -23,7 +23,7 @@ public static class PostJobFreeVacanciesScraper
         {
             var firstPageUrl = $"{BaseUrl}?q={Uri.EscapeDataString(query)}&r=100&p=1";
             driver.Navigate().GoToUrl(firstPageUrl);
-            wait.Until(drv => drv.FindElements(By.CssSelector(".pager")).Any());
+            wait.Until(drv => drv.FindElements(By.CssSelector(".pager")).Count != 0);
 
             var pagerLinksCount = driver
                 .FindElements(By.CssSelector(".pager"))
@@ -46,8 +46,8 @@ public static class PostJobFreeVacanciesScraper
 
                 var jobLinks = driver
                     .FindElements(By.CssSelector("h3 > a"))
-                    .Select(elem => elem.GetAttribute("href"))
-                    .Where(link => link.Contains("postjobfree.com/job"))
+                    .Select(elem => elem.GetAttribute("href")!)
+                    .Where(link => !string.IsNullOrEmpty(link) && link.Contains("postjobfree.com/job"))
                     .ToList();
 
                 if (jobLinks.Count == 0)
@@ -81,7 +81,7 @@ public static class PostJobFreeVacanciesScraper
 
                         vacanciesList.Add(vacancy);
                     }
-                    catch (Exception e)
+                    catch (Exception)
                     {
                         Console.WriteLine($"Unable to get vacancy, link: {link}");
                     }
