@@ -1,5 +1,4 @@
 ﻿using KolybaResume.BLL.Models;
-using KolybaResume.BLL.Services;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.Common.DTO.Vacancy;
 using Microsoft.AspNetCore.Authorization;
@@ -26,7 +25,7 @@ public class VacancyController(IVacancyService vacancyService) : ControllerBase
         return Ok(recommendations);
     }
     
-    [HttpPost("recommendations/{vacancyId}")]
+    [HttpPost("recommendations/{vacancyId:long}")]
     public async Task<ActionResult<ResumeAdaptationResponse>> GetRecommendations(long vacancyId)
     {
         var recommendations = await vacancyService.AdaptResume(vacancyId);

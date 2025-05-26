@@ -1,4 +1,4 @@
-﻿using KolybaResume.Common.DTO;
+﻿using KolybaResume.Common.DTO.User;
 
 namespace KolybaResume.BLL.Services.Abstract;
 

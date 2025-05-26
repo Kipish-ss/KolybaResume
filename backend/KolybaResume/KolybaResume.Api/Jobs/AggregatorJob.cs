@@ -33,7 +33,7 @@ public class AggregatorJob(IEnumerable<IAggregator> aggregators, KolybaResumeCon
                 .Where(us => us.Score > 60)
                 .Select(us => addedVacancies.First(v => v.Id == us.VacancyId)).ToArray();
 
-            if (relevantVacancies.Any())
+            if (relevantVacancies.Length != 0 && user != null)
             {
                 await emailService.SendAsync(
                     user.Email,

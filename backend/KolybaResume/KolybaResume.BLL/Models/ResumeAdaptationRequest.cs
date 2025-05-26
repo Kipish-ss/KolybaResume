@@ -8,4 +8,5 @@ public class ResumeAdaptationRequest
     public long ResumeId { get; set; }
     [JsonPropertyName("vacancy_text")]
     public string VacancyText { get; set; } = string.Empty;
+    public bool Clean  { get; set; } = true;
 }

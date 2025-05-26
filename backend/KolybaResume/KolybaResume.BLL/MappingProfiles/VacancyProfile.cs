@@ -4,7 +4,6 @@ using KolybaResume.BLL.Services.Utility;
 using KolybaResume.Common.DTO.Vacancy;
 using KolybaResume.Common.Enums;
 using KolybaResume.DAL.Entities;
-using Microsoft.IdentityModel.Tokens;
 
 namespace KolybaResume.BLL.MappingProfiles;
 

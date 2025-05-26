@@ -8,7 +8,7 @@ public class Vacancy
     public string Title { get; set; } = string.Empty;
     public string Text { get; set; } = string.Empty;
     public string Url { get; set; } = string.Empty;
-    public string Salary { get; set; }
+    public string Salary { get; set; } = string.Empty;
     public string? Location { get; set; }
     public string CategoryText { get; set; } = string.Empty;
     public string CleanedText { get; set; } = string.Empty;

@@ -3,7 +3,7 @@ using FirebaseAdmin.Auth;
 using KolybaResume.BLL.Extensions;
 using KolybaResume.BLL.Services.Abstract;
 using KolybaResume.BLL.Services.Base;
-using KolybaResume.Common.DTO;
+using KolybaResume.Common.DTO.User;
 using KolybaResume.DAL.Context;
 using KolybaResume.DAL.Entities;
 using Microsoft.AspNetCore.Http;
@@ -83,7 +83,7 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
     public async Task<long> GetResumeId()
     {
         var user = await GetCurrentInternal();
-        return user.Resume.Id;
+        return user.Resume?.Id ?? 0;
     }
 
     private async Task AddClaims(string? uid, long? id)
@@ -109,8 +109,8 @@ public class UserService(KolybaResumeContext context, IMapper mapper, FirebaseAu
     }
 
     private async Task<User> GetCurrentInternal()
-        => (await _context.Users.Include(u => u.Resume).FirstOrDefaultAsync(u => u.Uid == GetCurrentId())
-            ?? throw new KeyNotFoundException("User doesn't exist"))!;
+        => await _context.Users.Include(u => u.Resume).FirstOrDefaultAsync(u => u.Uid == GetCurrentId())
+            ?? throw new KeyNotFoundException("User doesn't exist");
     
     
     private string? GetCurrentId()

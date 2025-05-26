@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using KolybaResume.Common.DTO;
+using KolybaResume.Common.DTO.User;
 using KolybaResume.DAL.Entities;
 
 namespace KolybaResume.BLL.MappingProfiles;

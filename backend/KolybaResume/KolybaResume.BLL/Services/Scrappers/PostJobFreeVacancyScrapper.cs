@@ -1,5 +1,4 @@
-﻿using KolybaResume.BLL.Services.Abstract;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 

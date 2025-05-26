@@ -1,4 +1,4 @@
-﻿namespace KolybaResume.Common.DTO;
+﻿namespace KolybaResume.Common.DTO.User;
 
 public class UserDto
 {

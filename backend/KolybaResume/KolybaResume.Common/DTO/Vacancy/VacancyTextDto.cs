@@ -2,5 +2,5 @@
 
 public class VacancyTextDto
 {
-    public string Text { get; set; }
+    public string Text { get; set; } = string.Empty;
 }

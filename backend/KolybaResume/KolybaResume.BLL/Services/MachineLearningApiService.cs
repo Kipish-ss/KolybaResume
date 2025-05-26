@@ -36,20 +36,20 @@ public class MachineLearningApiService : IMachineLearningApiService
         };
         var response = await _httpClient.PostAsJsonAsync($"{_apiUrl}/vacancies", request);
 
-        return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
+        return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>() ?? throw new ArgumentException();
     }
 
     public async Task<VacancyScoreResponse[]> GetVacancyScores(long resumeId)
     {
         var response = await _httpClient.GetAsync($"{_apiUrl}/vacancies/score/{resumeId}");
 
-        return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>();
+        return await response.Content.ReadFromJsonAsync<VacancyScoreResponse[]>() ?? throw new ArgumentException();
     }
 
     public async Task<ResumeAdaptationResponse> GetResumeAdaptation(ResumeAdaptationRequest resumeAdaptationRequest)
     {
         var response = await _httpClient.PostAsJsonAsync($"{_apiUrl}/adaptation", resumeAdaptationRequest);
 
-        return await response.Content.ReadFromJsonAsync<ResumeAdaptationResponse>();
+        return await response.Content.ReadFromJsonAsync<ResumeAdaptationResponse>() ?? throw new ArgumentException();
     }
 }
