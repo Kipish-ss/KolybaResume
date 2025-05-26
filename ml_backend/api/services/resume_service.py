@@ -1,7 +1,7 @@
 from sqlalchemy.orm import Session
 from ml_backend.api.db.models import Resume
 from ml_backend.api.services.cleaning_service import clean_text, translate
-from ml_backend.api.services.model_service import get_embedding_model, get_classification_models
+from ml_backend.api.services.model_service import get_embedding_model, get_classification_model
 import torch
 import logging
 
@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 
 def classify_resume(resume_text: str) -> int:
-    tokenizer, model, _ = get_classification_models()
+    tokenizer, model = get_classification_model()
 
     inputs = tokenizer(
         resume_text,
