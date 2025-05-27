@@ -5,9 +5,7 @@ import { filter, switchMap, tap } from 'rxjs';
 
 import { Injectable } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
-import { NotificationService } from '@core/services/notification.service';
 import { ResumeAdaptationComponent } from '@vacancies//components/resume-adaptation/resume-adaptation.component';
-import { Router } from '@angular/router';
 import { SpinnerService } from '@core/services/spinner.service';
 import { VacanciesApiService } from '../services/vacancies-api.service';
 import { VacancyInputPopupComponent } from '@vacancies//components/vacancy-input-popup/vacancy-input-popup.component';
@@ -27,10 +25,7 @@ export class VacanciesEffects {
         filter(result => result != null),
         tap(() => this.spinnerService.show()),
         switchMap(description => this.vacanciesApiService.getRecommendations(description)),
-        tap(() => {
-            this.spinnerService.hide();
-            this.matDialog.open(ResumeAdaptationComponent);
-        })
+        tap(() => this.spinnerService.hide())
     ));
 
     public readonly loadRecommendations$ = createEffect(() => this.actions$.pipe(
@@ -49,7 +44,7 @@ export class VacanciesEffects {
 
     public readonly loadRecommendationsSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadRecommendationsSuccess),
-        tap(() => this.matDialog.open(ResumeAdaptationComponent))
+        tap(() =>  this.matDialog.open(ResumeAdaptationComponent))
     ),
         { dispatch: false }
     );
