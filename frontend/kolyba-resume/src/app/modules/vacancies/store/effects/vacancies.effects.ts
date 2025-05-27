@@ -17,9 +17,7 @@ export class VacanciesEffects {
     constructor(
         private readonly actions$: Actions,
         private readonly vacanciesApiService: VacanciesApiService,
-        private readonly notificationService: NotificationService,
         private readonly spinnerService: SpinnerService,
-        private readonly router: Router,
         private readonly matDialog: MatDialog
     ) { }
 
@@ -69,15 +67,4 @@ export class VacanciesEffects {
         switchMap(() => this.vacanciesApiService.get()),
         tap(() => this.spinnerService.hide())
     ));
-
-
-
-    //TODO: add notifications
-    // public readonly resetPasswordSuccess$ = createEffect(() =>
-    //     this.actions$.pipe(
-    //         ofType(authActions.resetPasswordSuccess),
-    //         tap(() => this.notificationService.showSuccessMessage(`Link for resetting password was sent`))
-    //     ),
-    //     { dispatch: false }
-    // );
 }
