@@ -142,7 +142,9 @@ export class AuthEffects {
 
     public readonly uplaodResume$ = createEffect(() => this.actions$.pipe(
         ofType(authActions.uploadResume),
-        switchMap(({ resume }) => this.userApiService.uploadResume(resume))
+        tap(() => this.spinnerService.show()),
+        switchMap(({ resume }) => this.userApiService.uploadResume(resume)),
+        tap(() => this.spinnerService.hide()),
     ));
 
     public readonly uplaodResumeSuccess$ = createEffect(() => this.actions$.pipe(

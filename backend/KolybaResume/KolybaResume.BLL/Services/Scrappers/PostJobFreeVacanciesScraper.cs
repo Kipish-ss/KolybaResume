@@ -29,9 +29,9 @@ public static class PostJobFreeVacanciesScraper
                 .FindElements(By.CssSelector(".pager"))
                 .Where(a =>
                 {
-                    var txt = a.Text.Trim();
-                    return !string.Equals(txt, "Previous", StringComparison.OrdinalIgnoreCase)
-                           && !string.Equals(txt, "Next", StringComparison.OrdinalIgnoreCase);
+                    var paginationText = a.Text.Trim();
+                    return !string.Equals(paginationText, "Previous", StringComparison.OrdinalIgnoreCase)
+                           && !string.Equals(paginationText, "Next", StringComparison.OrdinalIgnoreCase);
                 })
                 .Count();
 
