@@ -23,6 +23,7 @@ class Resume(Base):
     CleanedText = Column(TextType, nullable=True)
     Vector = Column(LargeBinary, nullable=True)
     Category = Column(Integer, nullable=True)
+    Keywords = Column(TextType, nullable=True)
 
 
 class Vacancy(Base):

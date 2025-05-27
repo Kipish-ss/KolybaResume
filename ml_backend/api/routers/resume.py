@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from ml_backend.api.models.schemas import ResumeRequest
 from ml_backend.api.db.base import get_db
-from ml_backend.api.services.resume_service import store_resume_vector
+from ml_backend.api.services.resume_service import preprocess_resume_text
 from ml_backend.api.db.models import Resume
 
 router = APIRouter()
@@ -16,5 +16,5 @@ async def process_resume(request: ResumeRequest, db: Session = Depends(get_db)):
             status_code=status.HTTP_404_NOT_FOUND,
             detail=f"Resume with id {request.resume_id} not found"
         )
-    store_resume_vector(db, resume)
+    preprocess_resume_text(db, resume)
     return {"status": "success", "message": "Resume vector updated successfully"}
