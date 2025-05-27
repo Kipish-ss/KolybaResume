@@ -17,11 +17,9 @@ public class PostJobFreeVacancyScrapper
             await driver.Navigate().GoToUrlAsync(url);
 
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
-            var descDiv = wait.Until(d =>
-                d.FindElement(By.CssSelector("div[itemprop='description']"))
-            );
+            var description = wait.Until(d => d.FindElement(By.CssSelector(".normalText")));
 
-            return descDiv.Text.Trim();
+            return description.Text.Trim();
         }
         finally
         {
