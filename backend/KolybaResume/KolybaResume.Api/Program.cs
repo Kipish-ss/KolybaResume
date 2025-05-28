@@ -17,7 +17,7 @@ builder.Services.AddContext(builder.Configuration);
 builder.Services.ConfigureJwt(builder.Configuration);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddAutoMapper();
-builder.Services.AddFirebaseAdmin(builder.Configuration);
+builder.Services.AddFirebaseAdmin();
 builder.Services.AddQuartz();
 builder.Services.AddSwaggerGen();
 

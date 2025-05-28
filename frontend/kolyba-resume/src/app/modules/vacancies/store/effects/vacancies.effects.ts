@@ -5,6 +5,7 @@ import { filter, switchMap, tap } from 'rxjs';
 
 import { Injectable } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
+import { NotificationService } from '@core/services/notification.service';
 import { ResumeAdaptationComponent } from '@vacancies//components/resume-adaptation/resume-adaptation.component';
 import { SpinnerService } from '@core/services/spinner.service';
 import { VacanciesApiService } from '../services/vacancies-api.service';
@@ -16,6 +17,7 @@ export class VacanciesEffects {
         private readonly actions$: Actions,
         private readonly vacanciesApiService: VacanciesApiService,
         private readonly spinnerService: SpinnerService,
+        private readonly notificationService: NotificationService,
         private readonly matDialog: MatDialog
     ) { }
 
@@ -44,7 +46,7 @@ export class VacanciesEffects {
 
     public readonly loadRecommendationsSuccess$ = createEffect(() => this.actions$.pipe(
         ofType(vacanciesActions.loadRecommendationsSuccess),
-        tap(() =>  this.matDialog.open(ResumeAdaptationComponent))
+        tap(() => this.matDialog.open(ResumeAdaptationComponent))
     ),
         { dispatch: false }
     );
@@ -62,4 +64,11 @@ export class VacanciesEffects {
         switchMap(() => this.vacanciesApiService.get()),
         tap(() => this.spinnerService.hide())
     ));
+
+    public readonly loadJobDescriptionFailed$ = createEffect(() => this.actions$.pipe(
+        ofType(vacanciesActions.loadJobDescriptionFailure),
+        tap(() => this.notificationService.showErrorMessage('Parsing vacancy text failed. Please enter a different link or paste text directly')),
+    ),
+        { dispatch: false }
+    );
 }

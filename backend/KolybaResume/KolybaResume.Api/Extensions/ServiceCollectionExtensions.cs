@@ -98,7 +98,7 @@ public static class ServiceCollectionExtensions
         });
     }
     
-    public static void AddFirebaseAdmin(this IServiceCollection services, IConfiguration configuration)
+    public static void AddFirebaseAdmin(this IServiceCollection services)
     {
         var credential = GoogleCredential.FromJson(Environment.GetEnvironmentVariable("FIREBASE_CONFIG_JSON"));
         FirebaseApp.Create(new AppOptions

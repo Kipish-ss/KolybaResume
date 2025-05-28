@@ -46,6 +46,7 @@ export class AuthEffects {
                     })
                 ),
             ),
+            tap(() => this.spinnerService.hide())
         )
     );
 
