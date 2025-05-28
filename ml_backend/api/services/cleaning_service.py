@@ -44,7 +44,7 @@ def clean_text(text: str) -> str | None:
     return text
 
 
-def translate(text: str, max_len=4500, max_retries=3) -> str:
+def translate(text: str, max_len: int = 4500, max_retries: int = 3) -> str:
     try:
         lang = detect(text)
     except LangDetectException:
