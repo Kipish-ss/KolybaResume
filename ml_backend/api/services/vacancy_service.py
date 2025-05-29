@@ -12,7 +12,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-def store_vacancy_vectors(db: Session, vacancy_ids: list[int], batch_size: int = 32) -> list[VacancyScoreResponse]:
+def process_vacancies(db: Session, vacancy_ids: list[int], batch_size: int = 32) -> list[VacancyScoreResponse]:
     stmt = select(Vacancy).where(Vacancy.Id.in_(vacancy_ids))
     all_vacancies = db.execute(stmt).scalars().all()
     if not all_vacancies:
