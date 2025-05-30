@@ -3,18 +3,17 @@ using DocumentFormat.OpenXml.Packaging;
 using NPOI.HWPF;
 using NPOI.HWPF.Extractor;
 using UglyToad.PdfPig;
-using UglyToad.PdfPig.Content;
 
 namespace KolybaResume.BLL.Services;
 
-public class TextExtractorService
+public static class TextExtractorService
 {
-    public static string ReadPdf(Stream pdfStream)
+    public static string ReadPdf(Stream stream)
     {
         var sb = new StringBuilder();
-        using (var document = PdfDocument.Open(pdfStream))
+        using (var document = PdfDocument.Open(stream))
         {
-            foreach (Page page in document.GetPages())
+            foreach (var page in document.GetPages())
             {
                 sb.AppendLine(page.Text);
             }
@@ -22,16 +21,16 @@ public class TextExtractorService
         return sb.ToString();
     }
     
-    public static string ReadDocx(Stream docxStream)
+    public static string ReadDocx(Stream stream)
     {
-        using var doc = WordprocessingDocument.Open(docxStream, false);
-        return doc.MainDocumentPart!.Document.Body!.InnerText;
+        using var document = WordprocessingDocument.Open(stream, false);
+        return document.MainDocumentPart!.Document.Body!.InnerText;
     }
 
-    public static string ReadDoc(Stream docStream)
+    public static string ReadDoc(Stream stream)
     {
-        var doc = new HWPFDocument(docStream);
-        var extractor = new WordExtractor(doc);
+        var document = new HWPFDocument(stream);
+        var extractor = new WordExtractor(document);
         return extractor.Text;
     }
 }
