@@ -33,7 +33,7 @@ public class VacancyController(IVacancyService vacancyService) : ControllerBase
     }
 
     [HttpPost("description")]
-    public async Task<ActionResult<string>> GetDescription([FromBody] VacancyDescriptionDto vacancy)
+    public async Task<ActionResult<VacancyTextDto>> GetDescription([FromBody] VacancyDescriptionDto vacancy)
     {
         try
         {

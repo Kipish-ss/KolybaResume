@@ -34,7 +34,7 @@ public class UserController(IUserService userService) : ControllerBase
 
     [HttpPost("resume")]
     [Consumes("multipart/form-data")]
-    public async Task<IActionResult> ExtractText([FromForm] IFormFile file)
+    public async Task<IActionResult> SaveResume([FromForm] IFormFile file)
     {
         if (file.Length == 0)
         {
